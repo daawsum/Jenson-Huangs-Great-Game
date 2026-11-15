@@ -14,5 +14,7 @@ python 03d_focus.py
 python 04b_mapstyle.py
 python 04c_loadscreens.py
 python 04d_title.py
+python 04e_pictures.py
+python 04f_flags.py
 python 05_package.py | tail -1
 python 04_validate.py | sed -n '/tokens not seen/p;/PROBLEMS/,$p'

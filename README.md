@@ -19,6 +19,8 @@ uncivilized or empty and open to colonisation.
   the take-capital war goal from DoD Heartbreaker; tiered national focuses unlocked by technology.
 - Technologies, inventions and units from RobloxDoD 1.8; decisions tied to technologies.
 - Regional formables limited to their own cliques, and mutually exclusive national choices.
+- A flag of its own for every clique, with variants and country names for each form of government;
+  period pictures on every decision and event.
 - State-size war goals in the style of DoD Heartbreaker, national focuses from IGoR,
   a World Bank on the Falklands, and migration to South East Asia in the style of Vae Victis.
 
@@ -27,3 +29,6 @@ uncivilized or empty and open to colonisation.
 This mod reuses work from other Victoria 2 mods: RobloxDoD 1.8 (technologies, inventions, units),
 DoD Heartbreaker MP (state-size war goals), IGoR (national focuses, World Bank), Vae Victis
 (migration rules), GFM and Belle Cartographie (map look). Those parts belong to their authors.
+
+Decision and event pictures are public-domain images from Wikimedia Commons; each source is listed in
+`Warlord Era/picture_credits.txt`. Clique flags are drawn by the build scripts.

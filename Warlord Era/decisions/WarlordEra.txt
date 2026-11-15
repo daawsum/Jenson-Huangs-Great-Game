@@ -1,5 +1,6 @@
 political_decisions = {
 	charter_DFS = {
+		picture = we_d_dominion_2
 		potential = {
 			has_country_flag = chinese_warlord
 			is_vassal = no
@@ -84,6 +85,7 @@ political_decisions = {
 	}
 
 	settle_DFS = {
+		picture = we_d_settle_2
 		potential = {
 			has_country_flag = chinese_warlord
 			DFS = { vassal_of = THIS }
@@ -131,6 +133,7 @@ political_decisions = {
 	}
 
 	charter_DJS = {
+		picture = we_d_dominion_2
 		potential = {
 			has_country_flag = chinese_warlord
 			is_vassal = no
@@ -299,6 +302,7 @@ political_decisions = {
 	}
 
 	settle_DJS = {
+		picture = we_d_settle_2
 		potential = {
 			has_country_flag = chinese_warlord
 			DJS = { vassal_of = THIS }
@@ -388,6 +392,7 @@ political_decisions = {
 	}
 
 	charter_DBZ = {
+		picture = we_d_dominion_2
 		potential = {
 			has_country_flag = chinese_warlord
 			is_vassal = no
@@ -484,6 +489,7 @@ political_decisions = {
 	}
 
 	settle_DBZ = {
+		picture = we_d_settle_2
 		potential = {
 			has_country_flag = chinese_warlord
 			DBZ = { vassal_of = THIS }
@@ -537,6 +543,7 @@ political_decisions = {
 	}
 
 	charter_DMX = {
+		picture = we_d_dominion_2
 		potential = {
 			has_country_flag = chinese_warlord
 			is_vassal = no
@@ -657,6 +664,7 @@ political_decisions = {
 	}
 
 	settle_DMX = {
+		picture = we_d_settle_2
 		potential = {
 			has_country_flag = chinese_warlord
 			DMX = { vassal_of = THIS }
@@ -722,6 +730,7 @@ political_decisions = {
 	}
 
 	charter_DJL = {
+		picture = we_d_dominion_2
 		potential = {
 			has_country_flag = chinese_warlord
 			is_vassal = no
@@ -790,6 +799,7 @@ political_decisions = {
 	}
 
 	settle_DJL = {
+		picture = we_d_settle_2
 		potential = {
 			has_country_flag = chinese_warlord
 			DJL = { vassal_of = THIS }
@@ -829,6 +839,7 @@ political_decisions = {
 	}
 
 	charter_DAD = {
+		picture = we_d_dominion_2
 		potential = {
 			has_country_flag = chinese_warlord
 			is_vassal = no
@@ -953,6 +964,7 @@ political_decisions = {
 	}
 
 	settle_DAD = {
+		picture = we_d_settle_2
 		potential = {
 			has_country_flag = chinese_warlord
 			DAD = { vassal_of = THIS }
@@ -1020,6 +1032,7 @@ political_decisions = {
 	}
 
 	charter_DBX = {
+		picture = we_d_dominion_2
 		potential = {
 			has_country_flag = chinese_warlord
 			is_vassal = no
@@ -1116,6 +1129,7 @@ political_decisions = {
 	}
 
 	settle_DBX = {
+		picture = we_d_settle_2
 		potential = {
 			has_country_flag = chinese_warlord
 			DBX = { vassal_of = THIS }
@@ -1169,6 +1183,7 @@ political_decisions = {
 	}
 
 	charter_DYH = {
+		picture = we_d_dominion_2
 		potential = {
 			has_country_flag = chinese_warlord
 			is_vassal = no
@@ -1277,6 +1292,7 @@ political_decisions = {
 	}
 
 	settle_DYH = {
+		picture = we_d_settle_2
 		potential = {
 			has_country_flag = chinese_warlord
 			DYH = { vassal_of = THIS }
@@ -1336,6 +1352,7 @@ political_decisions = {
 	}
 
 	charter_DNZ = {
+		picture = we_d_dominion_2
 		potential = {
 			has_country_flag = chinese_warlord
 			is_vassal = no
@@ -1416,6 +1433,7 @@ political_decisions = {
 	}
 
 	settle_DNZ = {
+		picture = we_d_settle_2
 		potential = {
 			has_country_flag = chinese_warlord
 			DNZ = { vassal_of = THIS }
@@ -1461,6 +1479,7 @@ political_decisions = {
 	}
 
 	charter_DXL = {
+		picture = we_d_dominion_2
 		potential = {
 			has_country_flag = chinese_warlord
 			is_vassal = no
@@ -1545,6 +1564,7 @@ political_decisions = {
 	}
 
 	settle_DXL = {
+		picture = we_d_settle_2
 		potential = {
 			has_country_flag = chinese_warlord
 			DXL = { vassal_of = THIS }
@@ -1592,6 +1612,7 @@ political_decisions = {
 	}
 
 	charter_DXF = {
+		picture = we_d_dominion_2
 		potential = {
 			has_country_flag = chinese_warlord
 			is_vassal = no
@@ -1728,6 +1749,7 @@ political_decisions = {
 	}
 
 	settle_DXF = {
+		picture = we_d_settle_2
 		potential = {
 			has_country_flag = chinese_warlord
 			DXF = { vassal_of = THIS }
@@ -1801,6 +1823,7 @@ political_decisions = {
 	}
 
 	charter_DZF = {
+		picture = we_d_dominion_2
 		potential = {
 			has_country_flag = chinese_warlord
 			is_vassal = no
@@ -1905,6 +1928,7 @@ political_decisions = {
 	}
 
 	settle_DZF = {
+		picture = we_d_settle_2
 		potential = {
 			has_country_flag = chinese_warlord
 			DZF = { vassal_of = THIS }
@@ -1962,6 +1986,7 @@ political_decisions = {
 	}
 
 	charter_DDF = {
+		picture = we_d_dominion_2
 		potential = {
 			has_country_flag = chinese_warlord
 			is_vassal = no
@@ -2062,6 +2087,7 @@ political_decisions = {
 	}
 
 	settle_DDF = {
+		picture = we_d_settle_2
 		potential = {
 			has_country_flag = chinese_warlord
 			DDF = { vassal_of = THIS }
@@ -2117,6 +2143,7 @@ political_decisions = {
 	}
 
 	charter_DNF = {
+		picture = we_d_dominion_2
 		potential = {
 			has_country_flag = chinese_warlord
 			is_vassal = no
@@ -2249,6 +2276,7 @@ political_decisions = {
 	}
 
 	settle_DNF = {
+		picture = we_d_settle_2
 		potential = {
 			has_country_flag = chinese_warlord
 			DNF = { vassal_of = THIS }
@@ -2320,6 +2348,7 @@ political_decisions = {
 	}
 
 	charter_DBH = {
+		picture = we_d_dominion_2
 		potential = {
 			has_country_flag = chinese_warlord
 			is_vassal = no
@@ -2444,6 +2473,7 @@ political_decisions = {
 	}
 
 	settle_DBH = {
+		picture = we_d_settle_2
 		potential = {
 			has_country_flag = chinese_warlord
 			DBH = { vassal_of = THIS }
@@ -2511,6 +2541,7 @@ political_decisions = {
 	}
 
 	charter_DXY = {
+		picture = we_d_dominion_2
 		potential = {
 			has_country_flag = chinese_warlord
 			is_vassal = no
@@ -2571,6 +2602,7 @@ political_decisions = {
 	}
 
 	settle_DXY = {
+		picture = we_d_settle_2
 		potential = {
 			has_country_flag = chinese_warlord
 			DXY = { vassal_of = THIS }
@@ -2606,6 +2638,7 @@ political_decisions = {
 	}
 
 	charter_DNY = {
+		picture = we_d_dominion_2
 		potential = {
 			has_country_flag = chinese_warlord
 			is_vassal = no
@@ -2753,6 +2786,7 @@ political_decisions = {
 	}
 
 	settle_DNY = {
+		picture = we_d_settle_2
 		potential = {
 			has_country_flag = chinese_warlord
 			DNY = { vassal_of = THIS }
@@ -2832,6 +2866,7 @@ political_decisions = {
 	}
 
 	form_china = {
+		picture = we_d_china_3
 		potential = {
 			OR = {
 				tag = ZHL
@@ -2890,6 +2925,7 @@ political_decisions = {
 	}
 
 	form_beiyang = {
+		picture = we_d_regional_2
 		potential = {
 			OR = {
 				tag = ZHL
@@ -2923,6 +2959,7 @@ political_decisions = {
 	}
 
 	form_liangguang = {
+		picture = we_d_regional_2
 		potential = {
 			OR = {
 				tag = GDG
@@ -2951,6 +2988,7 @@ political_decisions = {
 	}
 
 	form_shu = {
+		picture = we_d_regional_2
 		potential = {
 			OR = {
 				tag = SZC
@@ -2978,6 +3016,7 @@ political_decisions = {
 	}
 
 	form_wu = {
+		picture = we_d_regional_2
 		potential = {
 			OR = {
 				tag = JSU
@@ -3007,6 +3046,7 @@ political_decisions = {
 	}
 
 	form_chu = {
+		picture = we_d_regional_2
 		potential = {
 			OR = {
 				tag = HBE
@@ -3037,6 +3077,7 @@ political_decisions = {
 	}
 
 	form_dian = {
+		picture = we_d_regional_2
 		potential = {
 			OR = {
 				tag = YNN
@@ -3064,6 +3105,7 @@ political_decisions = {
 	}
 
 	form_northwest = {
+		picture = we_d_regional_2
 		potential = {
 			OR = {
 				tag = GMJ
@@ -3095,6 +3137,7 @@ political_decisions = {
 	}
 
 	form_manchuria = {
+		picture = we_d_regional_2
 		potential = {
 			OR = {
 				tag = FTN
@@ -3124,6 +3167,7 @@ political_decisions = {
 	}
 
 	form_mongol_empire = {
+		picture = we_d_claim_2
 		potential = {
 			tag = MGL
 			NOT = { exists = KHG }
@@ -3150,6 +3194,7 @@ political_decisions = {
 	}
 
 	form_khalsa_raj = {
+		picture = we_d_claim_2
 		potential = {
 			tag = PAN
 			NOT = { exists = KLS }
@@ -3178,6 +3223,7 @@ political_decisions = {
 	}
 
 	form_persian_empire = {
+		picture = we_d_claim_2
 		potential = {
 			tag = PER
 			NOT = { exists = PSE }
@@ -3206,6 +3252,7 @@ political_decisions = {
 	}
 
 	form_india = {
+		picture = we_d_claim_2
 		potential = {
 			OR = {
 				tag = HYD
@@ -3248,6 +3295,7 @@ political_decisions = {
 	}
 
 	form_commonwealth = {
+		picture = we_d_claim_2
 		potential = {
 			OR = {
 				tag = POL
@@ -3274,6 +3322,7 @@ political_decisions = {
 	}
 
 	form_baltic = {
+		picture = we_d_claim_2
 		potential = {
 			OR = {
 				tag = EST
@@ -3298,6 +3347,7 @@ political_decisions = {
 	}
 
 	form_czechoslovakia = {
+		picture = we_d_claim_2
 		potential = {
 			OR = {
 				tag = BOH
@@ -3322,6 +3372,7 @@ political_decisions = {
 	}
 
 	found_whampoa = {
+		picture = we_d_army_1
 		potential = {
 			has_country_flag = chinese_warlord
 			owns = 1493
@@ -3343,6 +3394,7 @@ political_decisions = {
 	}
 
 	expand_hanyang_arsenal = {
+		picture = we_d_develop_3
 		potential = {
 			has_country_flag = chinese_warlord
 			owns = 1516
@@ -3363,6 +3415,7 @@ political_decisions = {
 	}
 
 	raise_beiyang_fleet = {
+		picture = we_d_outlook_2
 		potential = {
 			has_country_flag = chinese_warlord
 			owns = 1617
@@ -3385,6 +3438,7 @@ political_decisions = {
 	}
 
 	build_jiangnan_shipyard = {
+		picture = we_d_outlook_2
 		potential = {
 			has_country_flag = chinese_warlord
 			owns = 1538
@@ -3405,6 +3459,7 @@ political_decisions = {
 	}
 
 	found_peking_university = {
+		picture = we_d_china_3
 		potential = {
 			has_country_flag = chinese_warlord
 			owns = 1612
@@ -3427,6 +3482,7 @@ political_decisions = {
 	}
 
 	build_longhai_railway = {
+		picture = we_d_develop_3
 		potential = {
 			has_country_flag = chinese_warlord
 			owns = 1542
@@ -3451,6 +3507,7 @@ political_decisions = {
 	}
 
 	launch_northern_expedition = {
+		picture = we_d_road_war_1
 		potential = {
 			has_country_flag = chinese_warlord
 			OR = {
@@ -3483,6 +3540,7 @@ political_decisions = {
 	}
 
 	revive_treasure_fleet = {
+		picture = we_d_dominion_1
 		potential = {
 			has_country_flag = chinese_warlord
 			OR = {
@@ -3512,6 +3570,7 @@ political_decisions = {
 	}
 
 	collect_remittances = {
+		picture = we_d_dominion_2
 		potential = {
 			civilized = yes
 			num_of_vassals = 1
@@ -3533,6 +3592,7 @@ political_decisions = {
 	}
 
 	start_new_life_movement = {
+		picture = we_d_develop_1
 		potential = {
 			has_country_flag = chinese_warlord
 			NOT = { has_country_flag = did_start_new_life_movement }
@@ -3553,6 +3613,7 @@ political_decisions = {
 	}
 
 	open_silver_mint = {
+		picture = we_d_claim_2
 		potential = {
 			has_country_flag = chinese_warlord
 			NOT = { has_country_flag = did_open_silver_mint }
@@ -3572,6 +3633,7 @@ political_decisions = {
 	}
 
 	pacify_tibet = {
+		picture = we_d_claim_2
 		potential = {
 			has_country_flag = chinese_warlord
 			exists = TIB
@@ -3595,6 +3657,7 @@ political_decisions = {
 	}
 
 	reclaim_outer_mongolia = {
+		picture = we_d_claim_2
 		potential = {
 			has_country_flag = chinese_warlord
 			exists = MGL
@@ -3618,6 +3681,7 @@ political_decisions = {
 	}
 
 	claim_korea = {
+		picture = we_d_claim_2
 		potential = {
 			has_country_flag = chinese_warlord
 			exists = KOR
@@ -3640,6 +3704,7 @@ political_decisions = {
 	}
 
 	claim_annam = {
+		picture = we_d_claim_2
 		potential = {
 			has_country_flag = chinese_warlord
 			exists = DAI
@@ -3662,6 +3727,7 @@ political_decisions = {
 	}
 
 	expand_fauj_i_khas = {
+		picture = we_d_claim_2
 		potential = {
 			OR = { tag = PAN tag = KLS }
 			NOT = { has_country_flag = did_expand_fauj_i_khas }
@@ -3680,6 +3746,7 @@ political_decisions = {
 	}
 
 	hire_european_generals = {
+		picture = we_d_claim_2
 		potential = {
 			OR = { tag = PAN tag = KLS }
 			NOT = { has_country_flag = did_hire_european_generals }
@@ -3698,6 +3765,7 @@ political_decisions = {
 	}
 
 	seize_the_khyber = {
+		picture = we_d_claim_2
 		potential = {
 			OR = { tag = PAN tag = KLS }
 			exists = AFG
@@ -3720,6 +3788,7 @@ political_decisions = {
 	}
 
 	claim_hindustan = {
+		picture = we_d_claim_2
 		potential = {
 			OR = { tag = PAN tag = KLS }
 			exists = MUG
@@ -3741,6 +3810,7 @@ political_decisions = {
 	}
 
 	conquer_sindh = {
+		picture = we_d_claim_2
 		potential = {
 			OR = { tag = PAN tag = KLS }
 			exists = SIN
@@ -3761,6 +3831,7 @@ political_decisions = {
 	}
 
 	dogra_expedition = {
+		picture = we_d_claim_2
 		potential = {
 			OR = { tag = PAN tag = KLS }
 			exists = TIB
@@ -3782,6 +3853,7 @@ political_decisions = {
 	}
 
 	proclaim_nizam_e_jadid = {
+		picture = we_d_claim_2
 		potential = {
 			OR = { tag = PER tag = PSE }
 			NOT = { has_country_flag = did_proclaim_nizam_e_jadid }
@@ -3800,6 +3872,7 @@ political_decisions = {
 	}
 
 	found_dar_ul_funun = {
+		picture = we_d_claim_2
 		potential = {
 			OR = { tag = PER tag = PSE }
 			NOT = { has_country_flag = did_found_dar_ul_funun }
@@ -3819,6 +3892,7 @@ political_decisions = {
 	}
 
 	reclaim_herat = {
+		picture = we_d_claim_2
 		potential = {
 			OR = { tag = PER tag = PSE }
 			exists = AFG
@@ -3840,6 +3914,7 @@ political_decisions = {
 	}
 
 	claim_mesopotamia = {
+		picture = we_d_claim_2
 		potential = {
 			OR = { tag = PER tag = PSE }
 			exists = IRQ
@@ -3860,6 +3935,7 @@ political_decisions = {
 	}
 
 	claim_the_caucasus = {
+		picture = we_d_claim_2
 		potential = {
 			OR = { tag = PER tag = PSE }
 			NOT = { has_country_flag = did_claim_the_caucasus }
@@ -3882,6 +3958,7 @@ political_decisions = {
 	}
 
 	subdue_the_khanates = {
+		picture = we_d_claim_2
 		potential = {
 			OR = { tag = PER tag = PSE }
 			NOT = { has_country_flag = did_subdue_the_khanates }
@@ -3903,6 +3980,7 @@ political_decisions = {
 	}
 
 	mongol_felt_tents = {
+		picture = we_d_claim_2
 		potential = {
 			OR = { tag = MGL tag = KHG }
 			NOT = { has_country_flag = did_mongol_felt_tents }
@@ -3926,6 +4004,7 @@ political_decisions = {
 	}
 
 	mongol_scourge_of_the_north = {
+		picture = we_d_claim_2
 		potential = {
 			OR = { tag = MGL tag = KHG }
 			NOT = { has_country_flag = did_mongol_scourge_of_the_north }
@@ -3945,6 +4024,7 @@ political_decisions = {
 	}
 
 	call_the_kurultai = {
+		picture = we_d_claim_2
 		potential = {
 			OR = { tag = MGL tag = KHG }
 			NOT = { has_country_flag = did_call_the_kurultai }
@@ -3963,6 +4043,7 @@ political_decisions = {
 	}
 
 	revive_the_tumens = {
+		picture = we_d_claim_2
 		potential = {
 			OR = { tag = MGL tag = KHG }
 			NOT = { has_country_flag = did_revive_the_tumens }
@@ -3980,6 +4061,7 @@ political_decisions = {
 	}
 
 	claim_inner_mongolia = {
+		picture = we_d_claim_2
 		potential = {
 			OR = { tag = MGL tag = KHG }
 			NOT = { has_country_flag = did_claim_inner_mongolia }
@@ -4001,6 +4083,7 @@ political_decisions = {
 	}
 
 	ride_on_beijing = {
+		picture = we_d_claim_2
 		potential = {
 			OR = { tag = MGL tag = KHG }
 			exists = ZHL
@@ -4022,6 +4105,7 @@ political_decisions = {
 	}
 
 	claim_dzungaria = {
+		picture = we_d_claim_2
 		potential = {
 			OR = { tag = MGL tag = KHG }
 			exists = XIN
@@ -4042,6 +4126,7 @@ political_decisions = {
 	}
 
 	claim_buryatia = {
+		picture = we_d_claim_2
 		potential = {
 			OR = { tag = MGL tag = KHG }
 			NOT = { has_country_flag = did_claim_buryatia }
@@ -4061,6 +4146,7 @@ political_decisions = {
 	}
 
 	hire_chinese_advisors = {
+		picture = we_d_ambition_1
 		potential = {
 			civilized = no
 			NOT = { has_country_flag = chinese_warlord }
@@ -4082,6 +4168,7 @@ political_decisions = {
 	}
 
 	sonno_joi_dec = {
+		picture = we_d_claim_2
 		potential = {
 			tag = JAP
 			NOT = { has_country_flag = did_sonno_joi_dec }
@@ -4100,6 +4187,7 @@ political_decisions = {
 	}
 
 	open_nanyang_ports = {
+		picture = we_d_dominion_2
 		potential = {
 			has_country_flag = old_world_colony
 			NOT = { has_global_flag = new_world_opened }
@@ -4119,6 +4207,7 @@ political_decisions = {
 	}
 
 	grant_provincial_constitution = {
+		picture = we_d_accord_1
 		potential = {
 			has_country_flag = chinese_warlord
 			NOT = { has_country_flag = did_grant_provincial_constitution }
@@ -4139,6 +4228,7 @@ political_decisions = {
 	}
 
 	opium_monopoly_dec = {
+		picture = we_d_opium_1
 		potential = {
 			has_country_flag = chinese_warlord
 			NOT = { has_country_flag = chose_opium }
@@ -4185,6 +4275,7 @@ political_decisions = {
 	}
 
 	opium_suppression_dec = {
+		picture = we_d_opium_burn_1
 		potential = {
 			has_country_flag = chinese_warlord
 			NOT = { has_country_flag = chose_opium }
@@ -4232,6 +4323,7 @@ political_decisions = {
 	}
 
 	reform_salt_gabelle = {
+		picture = we_d_revenue_1
 		potential = {
 			has_country_flag = chinese_warlord
 			NOT = { has_country_flag = chose_revenue }
@@ -4279,6 +4371,7 @@ political_decisions = {
 	}
 
 	raise_likin = {
+		picture = we_d_revenue_1
 		potential = {
 			has_country_flag = chinese_warlord
 			NOT = { has_country_flag = chose_revenue }
@@ -4323,6 +4416,7 @@ political_decisions = {
 	}
 
 	recruit_bandits = {
+		picture = we_d_bandits_2
 		potential = {
 			has_country_flag = chinese_warlord
 			NOT = { has_country_flag = chose_bandits }
@@ -4362,6 +4456,7 @@ political_decisions = {
 	}
 
 	suppress_bandits = {
+		picture = we_d_bandits_2
 		potential = {
 			has_country_flag = chinese_warlord
 			NOT = { has_country_flag = chose_bandits }
@@ -4403,6 +4498,7 @@ political_decisions = {
 	}
 
 	arm_village_militia = {
+		picture = we_d_protection_2
 		potential = {
 			has_country_flag = chinese_warlord
 			NOT = { has_country_flag = chose_bandits }
@@ -4441,6 +4537,7 @@ political_decisions = {
 	}
 
 	introduce_conscription = {
+		picture = we_d_army_2
 		potential = {
 			has_country_flag = chinese_warlord
 			NOT = { has_country_flag = chose_army_model }
@@ -4487,6 +4584,7 @@ political_decisions = {
 	}
 
 	raise_model_army = {
+		picture = we_d_army_1
 		potential = {
 			has_country_flag = chinese_warlord
 			NOT = { has_country_flag = chose_army_model }
@@ -4534,6 +4632,7 @@ political_decisions = {
 	}
 
 	road_state_arsenals = {
+		picture = we_d_develop_3
 		potential = {
 			has_country_flag = chinese_warlord
 			NOT = { has_country_flag = chose_economy }
@@ -4574,6 +4673,7 @@ political_decisions = {
 	}
 
 	road_merchant_enterprise = {
+		picture = we_d_economy_1
 		potential = {
 			has_country_flag = chinese_warlord
 			NOT = { has_country_flag = chose_economy }
@@ -4613,6 +4713,7 @@ political_decisions = {
 	}
 
 	road_agrarian_order = {
+		picture = we_d_claim_2
 		potential = {
 			has_country_flag = chinese_warlord
 			NOT = { has_country_flag = chose_economy }
@@ -4653,6 +4754,7 @@ political_decisions = {
 	}
 
 	hire_foreign_advisors = {
+		picture = we_d_learning_1
 		potential = {
 			has_country_flag = chinese_warlord
 			NOT = { has_country_flag = chose_learning }
@@ -4698,6 +4800,7 @@ political_decisions = {
 	}
 
 	found_national_academy = {
+		picture = we_d_china_3
 		potential = {
 			has_country_flag = chinese_warlord
 			NOT = { has_country_flag = chose_learning }
@@ -4744,6 +4847,7 @@ political_decisions = {
 	}
 
 	maritime_policy = {
+		picture = we_d_outlook_2
 		potential = {
 			has_country_flag = chinese_warlord
 			NOT = { has_country_flag = chose_outlook }
@@ -4789,6 +4893,7 @@ political_decisions = {
 	}
 
 	continental_policy = {
+		picture = we_d_road_war_1
 		potential = {
 			has_country_flag = chinese_warlord
 			NOT = { has_country_flag = chose_outlook }
@@ -4834,6 +4939,7 @@ political_decisions = {
 	}
 
 	claim_the_mandate = {
+		picture = we_d_legitimacy_1
 		potential = {
 			has_country_flag = chinese_warlord
 			NOT = { has_country_flag = chose_legitimacy }
@@ -4881,6 +4987,7 @@ political_decisions = {
 	}
 
 	proclaim_provisional_republic = {
+		picture = we_d_accord_1
 		potential = {
 			has_country_flag = chinese_warlord
 			NOT = { has_country_flag = chose_legitimacy }
@@ -4931,6 +5038,7 @@ political_decisions = {
 	}
 
 	land_to_the_tiller = {
+		picture = we_d_claim_2
 		potential = {
 			has_country_flag = chinese_warlord
 			NOT = { has_country_flag = chose_land }
@@ -4976,6 +5084,7 @@ political_decisions = {
 	}
 
 	uphold_the_landlords = {
+		picture = we_d_claim_2
 		potential = {
 			has_country_flag = chinese_warlord
 			NOT = { has_country_flag = chose_land }
@@ -5022,6 +5131,7 @@ political_decisions = {
 	}
 
 	build_party_state = {
+		picture = we_d_accord_1
 		potential = {
 			has_country_flag = chinese_warlord
 			NOT = { has_country_flag = chose_mass }
@@ -5068,6 +5178,7 @@ political_decisions = {
 	}
 
 	convene_parliament = {
+		picture = we_d_accord_1
 		potential = {
 			has_country_flag = chinese_warlord
 			NOT = { has_country_flag = chose_mass }
@@ -5113,6 +5224,7 @@ political_decisions = {
 	}
 
 	taiwan_claims = {
+		picture = we_d_claim_1
 		potential = {
 			tag = TWN
 			NOT = { has_country_flag = did_taiwan_claims }
@@ -5133,6 +5245,7 @@ political_decisions = {
 	}
 
 	taiwan_great_game = {
+		picture = we_d_claim_1
 		potential = {
 			tag = TWN
 			NOT = { has_country_flag = chose_taiwan_road }
@@ -5193,6 +5306,7 @@ political_decisions = {
 	}
 
 	taiwan_maritime_hegemon = {
+		picture = we_d_claim_1
 		potential = {
 			tag = TWN
 			NOT = { has_country_flag = chose_taiwan_road }
@@ -5252,6 +5366,7 @@ political_decisions = {
 	}
 
 	taiwan_restore_the_ming = {
+		picture = we_d_claim_1
 		potential = {
 			tag = TWN
 			has_country_flag = did_taiwan_great_game
@@ -5290,6 +5405,7 @@ political_decisions = {
 	}
 
 	taiwan_southern_ocean = {
+		picture = we_d_claim_1
 		potential = {
 			tag = TWN
 			has_country_flag = did_taiwan_maritime_hegemon
@@ -5345,6 +5461,7 @@ political_decisions = {
 	}
 
 	form_suvarnabhumi = {
+		picture = we_d_claim_2
 		potential = {
 			OR = {
 				tag = SIA
@@ -5376,6 +5493,7 @@ political_decisions = {
 	}
 
 	japan_continental_victory = {
+		picture = we_d_claim_2
 		potential = {
 			tag = JAP
 			civilized = no
@@ -5437,6 +5555,7 @@ political_decisions = {
 	}
 
 	japan_accept_koreans = {
+		picture = we_d_claim_2
 		potential = {
 			tag = JAP
 			NOT = { has_country_flag = did_japan_accept_koreans }
@@ -5456,6 +5575,7 @@ political_decisions = {
 	}
 
 	ZHL_road_a = {
+		picture = we_d_road_war_1
 		potential = {
 			tag = ZHL
 			NOT = { has_country_flag = chose_road_ZHL }
@@ -5536,6 +5656,7 @@ political_decisions = {
 	}
 
 	ZHL_road_b = {
+		picture = we_d_road_war_1
 		potential = {
 			tag = ZHL
 			NOT = { has_country_flag = chose_road_ZHL }
@@ -5616,6 +5737,7 @@ political_decisions = {
 	}
 
 	FTN_road_a = {
+		picture = we_d_road_war_1
 		potential = {
 			tag = FTN
 			NOT = { has_country_flag = chose_road_FTN }
@@ -5684,6 +5806,7 @@ political_decisions = {
 	}
 
 	FTN_road_b = {
+		picture = we_d_road_war_1
 		potential = {
 			tag = FTN
 			NOT = { has_country_flag = chose_road_FTN }
@@ -5849,6 +5972,7 @@ political_decisions = {
 	}
 
 	AHC_road_a = {
+		picture = we_d_road_war_1
 		potential = {
 			tag = AHC
 			NOT = { has_country_flag = chose_road_AHC }
@@ -5925,6 +6049,7 @@ political_decisions = {
 	}
 
 	AHC_road_b = {
+		picture = we_d_road_war_1
 		potential = {
 			tag = AHC
 			NOT = { has_country_flag = chose_road_AHC }
@@ -6005,6 +6130,7 @@ political_decisions = {
 	}
 
 	SXI_road_a = {
+		picture = we_d_develop_1
 		potential = {
 			tag = SXI
 			NOT = { has_country_flag = chose_road_SXI }
@@ -6050,6 +6176,7 @@ political_decisions = {
 	}
 
 	SXI_road_b = {
+		picture = we_d_road_war_1
 		potential = {
 			tag = SXI
 			NOT = { has_country_flag = chose_road_SXI }
@@ -6118,6 +6245,7 @@ political_decisions = {
 	}
 
 	GMJ_road_a = {
+		picture = we_d_road_war_1
 		potential = {
 			tag = GMJ
 			NOT = { has_country_flag = chose_road_GMJ }
@@ -6190,6 +6318,7 @@ political_decisions = {
 	}
 
 	GMJ_road_b = {
+		picture = we_d_road_war_1
 		potential = {
 			tag = GMJ
 			NOT = { has_country_flag = chose_road_GMJ }
@@ -6259,6 +6388,7 @@ political_decisions = {
 	}
 
 	SDG_road_a = {
+		picture = we_d_road_war_1
 		potential = {
 			tag = SDG
 			NOT = { has_country_flag = chose_road_SDG }
@@ -6344,6 +6474,7 @@ political_decisions = {
 	}
 
 	SDG_road_b = {
+		picture = we_d_road_war_1
 		potential = {
 			tag = SDG
 			NOT = { has_country_flag = chose_road_SDG }
@@ -6420,6 +6551,7 @@ political_decisions = {
 	}
 
 	HNA_road_a = {
+		picture = we_d_road_war_1
 		potential = {
 			tag = HNA
 			NOT = { has_country_flag = chose_road_HNA }
@@ -6506,6 +6638,7 @@ political_decisions = {
 	}
 
 	HNA_road_b = {
+		picture = we_d_road_war_1
 		potential = {
 			tag = HNA
 			NOT = { has_country_flag = chose_road_HNA }
@@ -6589,6 +6722,7 @@ political_decisions = {
 	}
 
 	JSU_road_a = {
+		picture = we_d_road_war_1
 		potential = {
 			tag = JSU
 			NOT = { has_country_flag = chose_road_JSU }
@@ -6692,6 +6826,7 @@ political_decisions = {
 	}
 
 	JSU_road_b = {
+		picture = we_d_road_war_1
 		potential = {
 			tag = JSU
 			NOT = { has_country_flag = chose_road_JSU }
@@ -6768,6 +6903,7 @@ political_decisions = {
 	}
 
 	ZHJ_road_a = {
+		picture = we_d_road_war_1
 		potential = {
 			tag = ZHJ
 			NOT = { has_country_flag = chose_road_ZHJ }
@@ -6851,6 +6987,7 @@ political_decisions = {
 	}
 
 	ZHJ_road_b = {
+		picture = we_d_road_war_1
 		potential = {
 			tag = ZHJ
 			NOT = { has_country_flag = chose_road_ZHJ }
@@ -6926,6 +7063,7 @@ political_decisions = {
 	}
 
 	FUJ_road_a = {
+		picture = we_d_road_war_1
 		potential = {
 			tag = FUJ
 			NOT = { has_country_flag = chose_road_FUJ }
@@ -6998,6 +7136,7 @@ political_decisions = {
 	}
 
 	FUJ_road_b = {
+		picture = we_d_road_war_1
 		potential = {
 			tag = FUJ
 			NOT = { has_country_flag = chose_road_FUJ }
@@ -7065,6 +7204,7 @@ political_decisions = {
 	}
 
 	GDG_road_a = {
+		picture = we_d_road_war_1
 		potential = {
 			tag = GDG
 			NOT = { has_country_flag = chose_road_GDG }
@@ -7158,6 +7298,7 @@ political_decisions = {
 	}
 
 	GDG_road_b = {
+		picture = we_d_road_war_1
 		potential = {
 			tag = GDG
 			NOT = { has_country_flag = chose_road_GDG }
@@ -7257,6 +7398,7 @@ political_decisions = {
 	}
 
 	GXI_road_a = {
+		picture = we_d_road_war_1
 		potential = {
 			tag = GXI
 			NOT = { has_country_flag = chose_road_GXI }
@@ -7347,6 +7489,7 @@ political_decisions = {
 	}
 
 	GXI_road_b = {
+		picture = we_d_road_war_1
 		potential = {
 			tag = GXI
 			NOT = { has_country_flag = chose_road_GXI }
@@ -7427,6 +7570,7 @@ political_decisions = {
 	}
 
 	HNC_road_a = {
+		picture = we_d_develop_1
 		potential = {
 			tag = HNC
 			NOT = { has_country_flag = chose_road_HNC }
@@ -7473,6 +7617,7 @@ political_decisions = {
 	}
 
 	HNC_road_b = {
+		picture = we_d_road_war_1
 		potential = {
 			tag = HNC
 			NOT = { has_country_flag = chose_road_HNC }
@@ -7556,6 +7701,7 @@ political_decisions = {
 	}
 
 	HBE_road_a = {
+		picture = we_d_road_war_1
 		potential = {
 			tag = HBE
 			NOT = { has_country_flag = chose_road_HBE }
@@ -7644,6 +7790,7 @@ political_decisions = {
 	}
 
 	HBE_road_b = {
+		picture = we_d_road_war_1
 		potential = {
 			tag = HBE
 			NOT = { has_country_flag = chose_road_HBE }
@@ -7711,6 +7858,7 @@ political_decisions = {
 	}
 
 	SZC_road_a = {
+		picture = we_d_road_war_1
 		potential = {
 			tag = SZC
 			NOT = { has_country_flag = chose_road_SZC }
@@ -7771,6 +7919,7 @@ political_decisions = {
 	}
 
 	SZC_road_b = {
+		picture = we_d_road_war_1
 		potential = {
 			tag = SZC
 			NOT = { has_country_flag = chose_road_SZC }
@@ -7848,6 +7997,7 @@ political_decisions = {
 	}
 
 	YNN_road_a = {
+		picture = we_d_road_war_1
 		potential = {
 			tag = YNN
 			NOT = { has_country_flag = chose_road_YNN }
@@ -7936,6 +8086,7 @@ political_decisions = {
 	}
 
 	YNN_road_b = {
+		picture = we_d_road_war_1
 		potential = {
 			tag = YNN
 			NOT = { has_country_flag = chose_road_YNN }
@@ -8009,6 +8160,7 @@ political_decisions = {
 	}
 
 	GZH_road_a = {
+		picture = we_d_road_war_1
 		potential = {
 			tag = GZH
 			NOT = { has_country_flag = chose_road_GZH }
@@ -8069,6 +8221,7 @@ political_decisions = {
 	}
 
 	GZH_road_b = {
+		picture = we_d_road_war_1
 		potential = {
 			tag = GZH
 			NOT = { has_country_flag = chose_road_GZH }
@@ -8149,6 +8302,7 @@ political_decisions = {
 	}
 
 	XBI_road_a = {
+		picture = we_d_road_war_1
 		potential = {
 			tag = XBI
 			NOT = { has_country_flag = chose_road_XBI }
@@ -8216,6 +8370,7 @@ political_decisions = {
 	}
 
 	XBI_road_b = {
+		picture = we_d_road_war_1
 		potential = {
 			tag = XBI
 			NOT = { has_country_flag = chose_road_XBI }
@@ -8275,6 +8430,7 @@ political_decisions = {
 	}
 
 	XIN_road_a = {
+		picture = we_d_road_war_1
 		potential = {
 			tag = XIN
 			NOT = { has_country_flag = did_XIN_road_a }
@@ -8325,6 +8481,7 @@ political_decisions = {
 	}
 
 	XIN_road_b = {
+		picture = we_d_road_war_1
 		potential = {
 			tag = XIN
 			NOT = { has_country_flag = did_XIN_road_b }
@@ -8368,6 +8525,7 @@ political_decisions = {
 	}
 
 	JXI_road_a = {
+		picture = we_d_road_war_1
 		potential = {
 			tag = JXI
 			NOT = { has_country_flag = chose_road_JXI }
@@ -8439,6 +8597,7 @@ political_decisions = {
 	}
 
 	JXI_road_b = {
+		picture = we_d_road_war_1
 		potential = {
 			tag = JXI
 			NOT = { has_country_flag = chose_road_JXI }
@@ -8516,6 +8675,7 @@ political_decisions = {
 	}
 
 	ZHL_identity = {
+		picture = we_d_identity_1
 		potential = {
 			tag = ZHL
 			NOT = { has_country_flag = did_ZHL_identity }
@@ -8535,6 +8695,7 @@ political_decisions = {
 	}
 
 	ZHL_develop = {
+		picture = we_d_develop_3
 		potential = {
 			tag = ZHL
 			NOT = { has_country_flag = did_ZHL_develop }
@@ -8556,6 +8717,7 @@ political_decisions = {
 	}
 
 	ZHL_ambition = {
+		picture = we_d_ambition_2
 		potential = {
 			tag = ZHL
 			NOT = { has_country_flag = did_ZHL_detente }
@@ -8578,6 +8740,7 @@ political_decisions = {
 	}
 
 	ZHL_claim = {
+		picture = we_d_claim_2
 		potential = {
 			tag = ZHL
 			exists = RHE
@@ -8601,6 +8764,7 @@ political_decisions = {
 	}
 
 	ZHL_accord = {
+		picture = we_d_legitimacy_2
 		potential = {
 			tag = ZHL
 			exists = SDG
@@ -8625,6 +8789,7 @@ political_decisions = {
 	}
 
 	ZHL_denounce = {
+		picture = we_d_denounce_3
 		potential = {
 			tag = ZHL
 			exists = FTN
@@ -8648,6 +8813,7 @@ political_decisions = {
 	}
 
 	ZHL_detente = {
+		picture = we_d_legitimacy_2
 		potential = {
 			tag = ZHL
 			exists = FTN
@@ -8673,6 +8839,7 @@ political_decisions = {
 	}
 
 	FTN_identity = {
+		picture = we_d_identity_1
 		potential = {
 			tag = FTN
 			NOT = { has_country_flag = did_FTN_identity }
@@ -8692,6 +8859,7 @@ political_decisions = {
 	}
 
 	FTN_develop = {
+		picture = we_d_develop_3
 		potential = {
 			tag = FTN
 			NOT = { has_country_flag = did_FTN_develop }
@@ -8713,6 +8881,7 @@ political_decisions = {
 	}
 
 	FTN_ambition = {
+		picture = we_d_ambition_2
 		potential = {
 			tag = FTN
 			NOT = { has_country_flag = did_FTN_detente }
@@ -8735,6 +8904,7 @@ political_decisions = {
 	}
 
 	FTN_claim = {
+		picture = we_d_claim_2
 		potential = {
 			tag = FTN
 			exists = JLN
@@ -8758,6 +8928,7 @@ political_decisions = {
 	}
 
 	FTN_accord = {
+		picture = we_d_legitimacy_2
 		potential = {
 			tag = FTN
 			exists = AHC
@@ -8782,6 +8953,7 @@ political_decisions = {
 	}
 
 	FTN_denounce = {
+		picture = we_d_denounce_3
 		potential = {
 			tag = FTN
 			exists = ZHL
@@ -8805,6 +8977,7 @@ political_decisions = {
 	}
 
 	FTN_detente = {
+		picture = we_d_legitimacy_2
 		potential = {
 			tag = FTN
 			exists = ZHL
@@ -8830,6 +9003,7 @@ political_decisions = {
 	}
 
 	AHC_identity = {
+		picture = we_d_identity_1
 		potential = {
 			tag = AHC
 			NOT = { has_country_flag = did_AHC_identity }
@@ -8849,6 +9023,7 @@ political_decisions = {
 	}
 
 	AHC_develop = {
+		picture = we_d_develop_3
 		potential = {
 			tag = AHC
 			NOT = { has_country_flag = did_AHC_develop }
@@ -8870,6 +9045,7 @@ political_decisions = {
 	}
 
 	AHC_ambition = {
+		picture = we_d_ambition_2
 		potential = {
 			tag = AHC
 			NOT = { has_country_flag = did_AHC_detente }
@@ -8892,6 +9068,7 @@ political_decisions = {
 	}
 
 	AHC_claim = {
+		picture = we_d_claim_2
 		potential = {
 			tag = AHC
 			exists = XZC
@@ -8915,6 +9092,7 @@ political_decisions = {
 	}
 
 	AHC_accord = {
+		picture = we_d_legitimacy_2
 		potential = {
 			tag = AHC
 			exists = FTN
@@ -8939,6 +9117,7 @@ political_decisions = {
 	}
 
 	AHC_denounce = {
+		picture = we_d_denounce_3
 		potential = {
 			tag = AHC
 			exists = JSU
@@ -8962,6 +9141,7 @@ political_decisions = {
 	}
 
 	AHC_detente = {
+		picture = we_d_legitimacy_2
 		potential = {
 			tag = AHC
 			exists = JSU
@@ -8987,6 +9167,7 @@ political_decisions = {
 	}
 
 	JSU_identity = {
+		picture = we_d_identity_1
 		potential = {
 			tag = JSU
 			NOT = { has_country_flag = did_JSU_identity }
@@ -9006,6 +9187,7 @@ political_decisions = {
 	}
 
 	JSU_develop = {
+		picture = we_d_develop_3
 		potential = {
 			tag = JSU
 			NOT = { has_country_flag = did_JSU_develop }
@@ -9027,6 +9209,7 @@ political_decisions = {
 	}
 
 	JSU_ambition = {
+		picture = we_d_ambition_2
 		potential = {
 			tag = JSU
 			NOT = { has_country_flag = did_JSU_detente }
@@ -9049,6 +9232,7 @@ political_decisions = {
 	}
 
 	JSU_claim = {
+		picture = we_d_claim_2
 		potential = {
 			tag = JSU
 			exists = SHG
@@ -9072,6 +9256,7 @@ political_decisions = {
 	}
 
 	JSU_accord = {
+		picture = we_d_legitimacy_2
 		potential = {
 			tag = JSU
 			exists = ZHJ
@@ -9096,6 +9281,7 @@ political_decisions = {
 	}
 
 	JSU_denounce = {
+		picture = we_d_denounce_3
 		potential = {
 			tag = JSU
 			exists = AHC
@@ -9119,6 +9305,7 @@ political_decisions = {
 	}
 
 	JSU_detente = {
+		picture = we_d_legitimacy_2
 		potential = {
 			tag = JSU
 			exists = AHC
@@ -9144,6 +9331,7 @@ political_decisions = {
 	}
 
 	SXI_identity = {
+		picture = we_d_identity_1
 		potential = {
 			tag = SXI
 			NOT = { has_country_flag = did_SXI_identity }
@@ -9163,6 +9351,7 @@ political_decisions = {
 	}
 
 	SXI_develop = {
+		picture = we_d_develop_3
 		potential = {
 			tag = SXI
 			NOT = { has_country_flag = did_SXI_develop }
@@ -9184,6 +9373,7 @@ political_decisions = {
 	}
 
 	SXI_ambition = {
+		picture = we_d_ambition_2
 		potential = {
 			tag = SXI
 			NOT = { has_country_flag = did_SXI_detente }
@@ -9206,6 +9396,7 @@ political_decisions = {
 	}
 
 	SXI_claim = {
+		picture = we_d_claim_2
 		potential = {
 			tag = SXI
 			exists = SYN
@@ -9229,6 +9420,7 @@ political_decisions = {
 	}
 
 	SXI_accord = {
+		picture = we_d_legitimacy_2
 		potential = {
 			tag = SXI
 			exists = HNA
@@ -9253,6 +9445,7 @@ political_decisions = {
 	}
 
 	SXI_denounce = {
+		picture = we_d_denounce_3
 		potential = {
 			tag = SXI
 			exists = GMJ
@@ -9276,6 +9469,7 @@ political_decisions = {
 	}
 
 	SXI_detente = {
+		picture = we_d_legitimacy_2
 		potential = {
 			tag = SXI
 			exists = GMJ
@@ -9301,6 +9495,7 @@ political_decisions = {
 	}
 
 	GMJ_identity = {
+		picture = we_d_identity_1
 		potential = {
 			tag = GMJ
 			NOT = { has_country_flag = did_GMJ_identity }
@@ -9320,6 +9515,7 @@ political_decisions = {
 	}
 
 	GMJ_develop = {
+		picture = we_d_develop_3
 		potential = {
 			tag = GMJ
 			NOT = { has_country_flag = did_GMJ_develop }
@@ -9341,6 +9537,7 @@ political_decisions = {
 	}
 
 	GMJ_ambition = {
+		picture = we_d_ambition_2
 		potential = {
 			tag = GMJ
 			NOT = { has_country_flag = did_GMJ_detente }
@@ -9363,6 +9560,7 @@ political_decisions = {
 	}
 
 	GMJ_claim = {
+		picture = we_d_claim_2
 		potential = {
 			tag = GMJ
 			exists = NXA
@@ -9386,6 +9584,7 @@ political_decisions = {
 	}
 
 	GMJ_accord = {
+		picture = we_d_legitimacy_2
 		potential = {
 			tag = GMJ
 			exists = XBI
@@ -9410,6 +9609,7 @@ political_decisions = {
 	}
 
 	GMJ_denounce = {
+		picture = we_d_denounce_3
 		potential = {
 			tag = GMJ
 			exists = SXI
@@ -9433,6 +9633,7 @@ political_decisions = {
 	}
 
 	GMJ_detente = {
+		picture = we_d_legitimacy_2
 		potential = {
 			tag = GMJ
 			exists = SXI
@@ -9458,6 +9659,7 @@ political_decisions = {
 	}
 
 	SDG_identity = {
+		picture = we_d_identity_1
 		potential = {
 			tag = SDG
 			NOT = { has_country_flag = did_SDG_identity }
@@ -9477,6 +9679,7 @@ political_decisions = {
 	}
 
 	SDG_develop = {
+		picture = we_d_develop_3
 		potential = {
 			tag = SDG
 			NOT = { has_country_flag = did_SDG_develop }
@@ -9498,6 +9701,7 @@ political_decisions = {
 	}
 
 	SDG_ambition = {
+		picture = we_d_ambition_2
 		potential = {
 			tag = SDG
 			NOT = { has_country_flag = did_SDG_detente }
@@ -9520,6 +9724,7 @@ political_decisions = {
 	}
 
 	SDG_claim = {
+		picture = we_d_claim_2
 		potential = {
 			tag = SDG
 			exists = KOR
@@ -9543,6 +9748,7 @@ political_decisions = {
 	}
 
 	SDG_accord = {
+		picture = we_d_legitimacy_2
 		potential = {
 			tag = SDG
 			exists = ZHL
@@ -9567,6 +9773,7 @@ political_decisions = {
 	}
 
 	SDG_denounce = {
+		picture = we_d_denounce_3
 		potential = {
 			tag = SDG
 			exists = HNA
@@ -9590,6 +9797,7 @@ political_decisions = {
 	}
 
 	SDG_detente = {
+		picture = we_d_legitimacy_2
 		potential = {
 			tag = SDG
 			exists = HNA
@@ -9615,6 +9823,7 @@ political_decisions = {
 	}
 
 	HNA_identity = {
+		picture = we_d_identity_1
 		potential = {
 			tag = HNA
 			NOT = { has_country_flag = did_HNA_identity }
@@ -9634,6 +9843,7 @@ political_decisions = {
 	}
 
 	HNA_develop = {
+		picture = we_d_develop_3
 		potential = {
 			tag = HNA
 			NOT = { has_country_flag = did_HNA_develop }
@@ -9655,6 +9865,7 @@ political_decisions = {
 	}
 
 	HNA_ambition = {
+		picture = we_d_ambition_2
 		potential = {
 			tag = HNA
 			NOT = { has_country_flag = did_HNA_detente }
@@ -9677,6 +9888,7 @@ political_decisions = {
 	}
 
 	HNA_claim = {
+		picture = we_d_claim_2
 		potential = {
 			tag = HNA
 			exists = XZC
@@ -9700,6 +9912,7 @@ political_decisions = {
 	}
 
 	HNA_accord = {
+		picture = we_d_legitimacy_2
 		potential = {
 			tag = HNA
 			exists = SXI
@@ -9724,6 +9937,7 @@ political_decisions = {
 	}
 
 	HNA_denounce = {
+		picture = we_d_denounce_3
 		potential = {
 			tag = HNA
 			exists = SDG
@@ -9747,6 +9961,7 @@ political_decisions = {
 	}
 
 	HNA_detente = {
+		picture = we_d_legitimacy_2
 		potential = {
 			tag = HNA
 			exists = SDG
@@ -9772,6 +9987,7 @@ political_decisions = {
 	}
 
 	ZHJ_identity = {
+		picture = we_d_identity_1
 		potential = {
 			tag = ZHJ
 			NOT = { has_country_flag = did_ZHJ_identity }
@@ -9791,6 +10007,7 @@ political_decisions = {
 	}
 
 	ZHJ_develop = {
+		picture = we_d_develop_3
 		potential = {
 			tag = ZHJ
 			NOT = { has_country_flag = did_ZHJ_develop }
@@ -9812,6 +10029,7 @@ political_decisions = {
 	}
 
 	ZHJ_ambition = {
+		picture = we_d_ambition_2
 		potential = {
 			tag = ZHJ
 			NOT = { has_country_flag = did_ZHJ_detente }
@@ -9834,6 +10052,7 @@ political_decisions = {
 	}
 
 	ZHJ_claim = {
+		picture = we_d_claim_2
 		potential = {
 			tag = ZHJ
 			exists = TWN
@@ -9857,6 +10076,7 @@ political_decisions = {
 	}
 
 	ZHJ_accord = {
+		picture = we_d_legitimacy_2
 		potential = {
 			tag = ZHJ
 			exists = JSU
@@ -9881,6 +10101,7 @@ political_decisions = {
 	}
 
 	ZHJ_denounce = {
+		picture = we_d_denounce_3
 		potential = {
 			tag = ZHJ
 			exists = FUJ
@@ -9904,6 +10125,7 @@ political_decisions = {
 	}
 
 	ZHJ_detente = {
+		picture = we_d_legitimacy_2
 		potential = {
 			tag = ZHJ
 			exists = FUJ
@@ -9929,6 +10151,7 @@ political_decisions = {
 	}
 
 	FUJ_identity = {
+		picture = we_d_identity_1
 		potential = {
 			tag = FUJ
 			NOT = { has_country_flag = did_FUJ_identity }
@@ -9948,6 +10171,7 @@ political_decisions = {
 	}
 
 	FUJ_develop = {
+		picture = we_d_develop_3
 		potential = {
 			tag = FUJ
 			NOT = { has_country_flag = did_FUJ_develop }
@@ -9969,6 +10193,7 @@ political_decisions = {
 	}
 
 	FUJ_ambition = {
+		picture = we_d_ambition_2
 		potential = {
 			tag = FUJ
 			NOT = { has_country_flag = did_FUJ_detente }
@@ -9991,6 +10216,7 @@ political_decisions = {
 	}
 
 	FUJ_claim = {
+		picture = we_d_claim_2
 		potential = {
 			tag = FUJ
 			exists = TWN
@@ -10014,6 +10240,7 @@ political_decisions = {
 	}
 
 	FUJ_accord = {
+		picture = we_d_legitimacy_2
 		potential = {
 			tag = FUJ
 			exists = GDG
@@ -10038,6 +10265,7 @@ political_decisions = {
 	}
 
 	FUJ_denounce = {
+		picture = we_d_denounce_3
 		potential = {
 			tag = FUJ
 			exists = ZHJ
@@ -10061,6 +10289,7 @@ political_decisions = {
 	}
 
 	FUJ_detente = {
+		picture = we_d_legitimacy_2
 		potential = {
 			tag = FUJ
 			exists = ZHJ
@@ -10086,6 +10315,7 @@ political_decisions = {
 	}
 
 	GDG_identity = {
+		picture = we_d_identity_1
 		potential = {
 			tag = GDG
 			NOT = { has_country_flag = did_GDG_identity }
@@ -10105,6 +10335,7 @@ political_decisions = {
 	}
 
 	GDG_develop = {
+		picture = we_d_develop_3
 		potential = {
 			tag = GDG
 			NOT = { has_country_flag = did_GDG_develop }
@@ -10126,6 +10357,7 @@ political_decisions = {
 	}
 
 	GDG_ambition = {
+		picture = we_d_ambition_2
 		potential = {
 			tag = GDG
 			NOT = { has_country_flag = did_GDG_detente }
@@ -10148,6 +10380,7 @@ political_decisions = {
 	}
 
 	GDG_claim = {
+		picture = we_d_claim_2
 		potential = {
 			tag = GDG
 			exists = HNI
@@ -10171,6 +10404,7 @@ political_decisions = {
 	}
 
 	GDG_accord = {
+		picture = we_d_legitimacy_2
 		potential = {
 			tag = GDG
 			exists = FUJ
@@ -10195,6 +10429,7 @@ political_decisions = {
 	}
 
 	GDG_denounce = {
+		picture = we_d_denounce_3
 		potential = {
 			tag = GDG
 			exists = GXI
@@ -10218,6 +10453,7 @@ political_decisions = {
 	}
 
 	GDG_detente = {
+		picture = we_d_legitimacy_2
 		potential = {
 			tag = GDG
 			exists = GXI
@@ -10243,6 +10479,7 @@ political_decisions = {
 	}
 
 	GXI_identity = {
+		picture = we_d_identity_1
 		potential = {
 			tag = GXI
 			NOT = { has_country_flag = did_GXI_identity }
@@ -10262,6 +10499,7 @@ political_decisions = {
 	}
 
 	GXI_develop = {
+		picture = we_d_develop_3
 		potential = {
 			tag = GXI
 			NOT = { has_country_flag = did_GXI_develop }
@@ -10283,6 +10521,7 @@ political_decisions = {
 	}
 
 	GXI_ambition = {
+		picture = we_d_ambition_2
 		potential = {
 			tag = GXI
 			NOT = { has_country_flag = did_GXI_detente }
@@ -10305,6 +10544,7 @@ political_decisions = {
 	}
 
 	GXI_claim = {
+		picture = we_d_claim_2
 		potential = {
 			tag = GXI
 			exists = DAI
@@ -10328,6 +10568,7 @@ political_decisions = {
 	}
 
 	GXI_accord = {
+		picture = we_d_legitimacy_2
 		potential = {
 			tag = GXI
 			exists = HNC
@@ -10352,6 +10593,7 @@ political_decisions = {
 	}
 
 	GXI_denounce = {
+		picture = we_d_denounce_3
 		potential = {
 			tag = GXI
 			exists = GDG
@@ -10375,6 +10617,7 @@ political_decisions = {
 	}
 
 	GXI_detente = {
+		picture = we_d_legitimacy_2
 		potential = {
 			tag = GXI
 			exists = GDG
@@ -10400,6 +10643,7 @@ political_decisions = {
 	}
 
 	HNC_identity = {
+		picture = we_d_identity_1
 		potential = {
 			tag = HNC
 			NOT = { has_country_flag = did_HNC_identity }
@@ -10419,6 +10663,7 @@ political_decisions = {
 	}
 
 	HNC_develop = {
+		picture = we_d_develop_3
 		potential = {
 			tag = HNC
 			NOT = { has_country_flag = did_HNC_develop }
@@ -10440,6 +10685,7 @@ political_decisions = {
 	}
 
 	HNC_ambition = {
+		picture = we_d_ambition_2
 		potential = {
 			tag = HNC
 			NOT = { has_country_flag = did_HNC_detente }
@@ -10462,6 +10708,7 @@ political_decisions = {
 	}
 
 	HNC_claim = {
+		picture = we_d_claim_2
 		potential = {
 			tag = HNC
 			exists = CQG
@@ -10485,6 +10732,7 @@ political_decisions = {
 	}
 
 	HNC_accord = {
+		picture = we_d_legitimacy_2
 		potential = {
 			tag = HNC
 			exists = GXI
@@ -10509,6 +10757,7 @@ political_decisions = {
 	}
 
 	HNC_denounce = {
+		picture = we_d_denounce_3
 		potential = {
 			tag = HNC
 			exists = GZH
@@ -10532,6 +10781,7 @@ political_decisions = {
 	}
 
 	HNC_detente = {
+		picture = we_d_legitimacy_2
 		potential = {
 			tag = HNC
 			exists = GZH
@@ -10557,6 +10807,7 @@ political_decisions = {
 	}
 
 	GZH_identity = {
+		picture = we_d_identity_1
 		potential = {
 			tag = GZH
 			NOT = { has_country_flag = did_GZH_identity }
@@ -10576,6 +10827,7 @@ political_decisions = {
 	}
 
 	GZH_develop = {
+		picture = we_d_develop_3
 		potential = {
 			tag = GZH
 			NOT = { has_country_flag = did_GZH_develop }
@@ -10597,6 +10849,7 @@ political_decisions = {
 	}
 
 	GZH_ambition = {
+		picture = we_d_ambition_2
 		potential = {
 			tag = GZH
 			NOT = { has_country_flag = did_GZH_detente }
@@ -10619,6 +10872,7 @@ political_decisions = {
 	}
 
 	GZH_claim = {
+		picture = we_d_claim_2
 		potential = {
 			tag = GZH
 			exists = CQG
@@ -10642,6 +10896,7 @@ political_decisions = {
 	}
 
 	GZH_accord = {
+		picture = we_d_legitimacy_2
 		potential = {
 			tag = GZH
 			exists = YNN
@@ -10666,6 +10921,7 @@ political_decisions = {
 	}
 
 	GZH_denounce = {
+		picture = we_d_denounce_3
 		potential = {
 			tag = GZH
 			exists = HNC
@@ -10689,6 +10945,7 @@ political_decisions = {
 	}
 
 	GZH_detente = {
+		picture = we_d_legitimacy_2
 		potential = {
 			tag = GZH
 			exists = HNC
@@ -10714,6 +10971,7 @@ political_decisions = {
 	}
 
 	HBE_identity = {
+		picture = we_d_identity_1
 		potential = {
 			tag = HBE
 			NOT = { has_country_flag = did_HBE_identity }
@@ -10733,6 +10991,7 @@ political_decisions = {
 	}
 
 	HBE_develop = {
+		picture = we_d_develop_3
 		potential = {
 			tag = HBE
 			NOT = { has_country_flag = did_HBE_develop }
@@ -10754,6 +11013,7 @@ political_decisions = {
 	}
 
 	HBE_ambition = {
+		picture = we_d_ambition_2
 		potential = {
 			tag = HBE
 			NOT = { has_country_flag = did_HBE_detente }
@@ -10776,6 +11036,7 @@ political_decisions = {
 	}
 
 	HBE_claim = {
+		picture = we_d_claim_2
 		potential = {
 			tag = HBE
 			exists = CQG
@@ -10799,6 +11060,7 @@ political_decisions = {
 	}
 
 	HBE_accord = {
+		picture = we_d_legitimacy_2
 		potential = {
 			tag = HBE
 			exists = SZC
@@ -10823,6 +11085,7 @@ political_decisions = {
 	}
 
 	HBE_denounce = {
+		picture = we_d_denounce_3
 		potential = {
 			tag = HBE
 			exists = JXI
@@ -10846,6 +11109,7 @@ political_decisions = {
 	}
 
 	HBE_detente = {
+		picture = we_d_legitimacy_2
 		potential = {
 			tag = HBE
 			exists = JXI
@@ -10871,6 +11135,7 @@ political_decisions = {
 	}
 
 	JXI_identity = {
+		picture = we_d_identity_1
 		potential = {
 			tag = JXI
 			NOT = { has_country_flag = did_JXI_identity }
@@ -10890,6 +11155,7 @@ political_decisions = {
 	}
 
 	JXI_develop = {
+		picture = we_d_develop_3
 		potential = {
 			tag = JXI
 			NOT = { has_country_flag = did_JXI_develop }
@@ -10911,6 +11177,7 @@ political_decisions = {
 	}
 
 	JXI_ambition = {
+		picture = we_d_ambition_2
 		potential = {
 			tag = JXI
 			NOT = { has_country_flag = did_JXI_detente }
@@ -10933,6 +11200,7 @@ political_decisions = {
 	}
 
 	JXI_claim = {
+		picture = we_d_claim_2
 		potential = {
 			tag = JXI
 			exists = SHG
@@ -10956,6 +11224,7 @@ political_decisions = {
 	}
 
 	JXI_accord = {
+		picture = we_d_legitimacy_2
 		potential = {
 			tag = JXI
 			exists = XIN
@@ -10980,6 +11249,7 @@ political_decisions = {
 	}
 
 	JXI_denounce = {
+		picture = we_d_denounce_3
 		potential = {
 			tag = JXI
 			exists = HBE
@@ -11003,6 +11273,7 @@ political_decisions = {
 	}
 
 	JXI_detente = {
+		picture = we_d_legitimacy_2
 		potential = {
 			tag = JXI
 			exists = HBE
@@ -11028,6 +11299,7 @@ political_decisions = {
 	}
 
 	SZC_identity = {
+		picture = we_d_identity_1
 		potential = {
 			tag = SZC
 			NOT = { has_country_flag = did_SZC_identity }
@@ -11047,6 +11319,7 @@ political_decisions = {
 	}
 
 	SZC_develop = {
+		picture = we_d_develop_3
 		potential = {
 			tag = SZC
 			NOT = { has_country_flag = did_SZC_develop }
@@ -11068,6 +11341,7 @@ political_decisions = {
 	}
 
 	SZC_ambition = {
+		picture = we_d_ambition_2
 		potential = {
 			tag = SZC
 			NOT = { has_country_flag = did_SZC_detente }
@@ -11090,6 +11364,7 @@ political_decisions = {
 	}
 
 	SZC_claim = {
+		picture = we_d_claim_2
 		potential = {
 			tag = SZC
 			exists = XKG
@@ -11113,6 +11388,7 @@ political_decisions = {
 	}
 
 	SZC_accord = {
+		picture = we_d_legitimacy_2
 		potential = {
 			tag = SZC
 			exists = HBE
@@ -11137,6 +11413,7 @@ political_decisions = {
 	}
 
 	SZC_denounce = {
+		picture = we_d_denounce_3
 		potential = {
 			tag = SZC
 			exists = YNN
@@ -11160,6 +11437,7 @@ political_decisions = {
 	}
 
 	SZC_detente = {
+		picture = we_d_legitimacy_2
 		potential = {
 			tag = SZC
 			exists = YNN
@@ -11185,6 +11463,7 @@ political_decisions = {
 	}
 
 	YNN_identity = {
+		picture = we_d_identity_1
 		potential = {
 			tag = YNN
 			NOT = { has_country_flag = did_YNN_identity }
@@ -11204,6 +11483,7 @@ political_decisions = {
 	}
 
 	YNN_develop = {
+		picture = we_d_develop_3
 		potential = {
 			tag = YNN
 			NOT = { has_country_flag = did_YNN_develop }
@@ -11225,6 +11505,7 @@ political_decisions = {
 	}
 
 	YNN_ambition = {
+		picture = we_d_ambition_2
 		potential = {
 			tag = YNN
 			NOT = { has_country_flag = did_YNN_detente }
@@ -11247,6 +11528,7 @@ political_decisions = {
 	}
 
 	YNN_claim = {
+		picture = we_d_claim_2
 		potential = {
 			tag = YNN
 			exists = BUR
@@ -11270,6 +11552,7 @@ political_decisions = {
 	}
 
 	YNN_accord = {
+		picture = we_d_legitimacy_2
 		potential = {
 			tag = YNN
 			exists = GZH
@@ -11294,6 +11577,7 @@ political_decisions = {
 	}
 
 	YNN_denounce = {
+		picture = we_d_denounce_3
 		potential = {
 			tag = YNN
 			exists = SZC
@@ -11317,6 +11601,7 @@ political_decisions = {
 	}
 
 	YNN_detente = {
+		picture = we_d_legitimacy_2
 		potential = {
 			tag = YNN
 			exists = SZC
@@ -11342,6 +11627,7 @@ political_decisions = {
 	}
 
 	XBI_identity = {
+		picture = we_d_identity_1
 		potential = {
 			tag = XBI
 			NOT = { has_country_flag = did_XBI_identity }
@@ -11361,6 +11647,7 @@ political_decisions = {
 	}
 
 	XBI_develop = {
+		picture = we_d_develop_3
 		potential = {
 			tag = XBI
 			NOT = { has_country_flag = did_XBI_develop }
@@ -11382,6 +11669,7 @@ political_decisions = {
 	}
 
 	XBI_ambition = {
+		picture = we_d_ambition_2
 		potential = {
 			tag = XBI
 			NOT = { has_country_flag = did_XBI_detente }
@@ -11404,6 +11692,7 @@ political_decisions = {
 	}
 
 	XBI_claim = {
+		picture = we_d_claim_2
 		potential = {
 			tag = XBI
 			exists = QHI
@@ -11427,6 +11716,7 @@ political_decisions = {
 	}
 
 	XBI_accord = {
+		picture = we_d_legitimacy_2
 		potential = {
 			tag = XBI
 			exists = GMJ
@@ -11451,6 +11741,7 @@ political_decisions = {
 	}
 
 	XBI_denounce = {
+		picture = we_d_denounce_3
 		potential = {
 			tag = XBI
 			exists = XIN
@@ -11474,6 +11765,7 @@ political_decisions = {
 	}
 
 	XBI_detente = {
+		picture = we_d_legitimacy_2
 		potential = {
 			tag = XBI
 			exists = XIN
@@ -11499,6 +11791,7 @@ political_decisions = {
 	}
 
 	XIN_identity = {
+		picture = we_d_identity_1
 		potential = {
 			tag = XIN
 			NOT = { has_country_flag = did_XIN_identity }
@@ -11518,6 +11811,7 @@ political_decisions = {
 	}
 
 	XIN_develop = {
+		picture = we_d_develop_3
 		potential = {
 			tag = XIN
 			NOT = { has_country_flag = did_XIN_develop }
@@ -11539,6 +11833,7 @@ political_decisions = {
 	}
 
 	XIN_ambition = {
+		picture = we_d_ambition_2
 		potential = {
 			tag = XIN
 			NOT = { has_country_flag = did_XIN_detente }
@@ -11561,6 +11856,7 @@ political_decisions = {
 	}
 
 	XIN_claim = {
+		picture = we_d_claim_2
 		potential = {
 			tag = XIN
 			exists = KSG
@@ -11584,6 +11880,7 @@ political_decisions = {
 	}
 
 	XIN_accord = {
+		picture = we_d_legitimacy_2
 		potential = {
 			tag = XIN
 			exists = JXI
@@ -11608,6 +11905,7 @@ political_decisions = {
 	}
 
 	XIN_denounce = {
+		picture = we_d_denounce_3
 		potential = {
 			tag = XIN
 			exists = XBI
@@ -11631,6 +11929,7 @@ political_decisions = {
 	}
 
 	XIN_detente = {
+		picture = we_d_legitimacy_2
 		potential = {
 			tag = XIN
 			exists = XBI
@@ -11656,6 +11955,7 @@ political_decisions = {
 	}
 
 	FTN_treaty_JLN = {
+		picture = we_d_legitimacy_2
 		potential = {
 			tag = FTN
 			exists = JLN
@@ -11681,6 +11981,7 @@ political_decisions = {
 	}
 
 	JLN_protection = {
+		picture = we_d_protection_1
 		potential = {
 			tag = JLN
 			exists = FTN
@@ -11703,6 +12004,7 @@ political_decisions = {
 	}
 
 	FTN_treaty_HLJ = {
+		picture = we_d_legitimacy_2
 		potential = {
 			tag = FTN
 			exists = HLJ
@@ -11728,6 +12030,7 @@ political_decisions = {
 	}
 
 	HLJ_protection = {
+		picture = we_d_protection_1
 		potential = {
 			tag = HLJ
 			exists = FTN
@@ -11750,6 +12053,7 @@ political_decisions = {
 	}
 
 	ZHL_treaty_RHE = {
+		picture = we_d_legitimacy_2
 		potential = {
 			tag = ZHL
 			exists = RHE
@@ -11775,6 +12079,7 @@ political_decisions = {
 	}
 
 	RHE_protection = {
+		picture = we_d_protection_1
 		potential = {
 			tag = RHE
 			exists = ZHL
@@ -11797,6 +12102,7 @@ political_decisions = {
 	}
 
 	ZHL_treaty_CHH = {
+		picture = we_d_legitimacy_2
 		potential = {
 			tag = ZHL
 			exists = CHH
@@ -11822,6 +12128,7 @@ political_decisions = {
 	}
 
 	CHH_protection = {
+		picture = we_d_protection_1
 		potential = {
 			tag = CHH
 			exists = ZHL
@@ -11844,6 +12151,7 @@ political_decisions = {
 	}
 
 	SXI_treaty_SYN = {
+		picture = we_d_legitimacy_2
 		potential = {
 			tag = SXI
 			exists = SYN
@@ -11869,6 +12177,7 @@ political_decisions = {
 	}
 
 	SYN_protection = {
+		picture = we_d_protection_1
 		potential = {
 			tag = SYN
 			exists = SXI
@@ -11891,6 +12200,7 @@ political_decisions = {
 	}
 
 	XBI_treaty_NXA = {
+		picture = we_d_legitimacy_2
 		potential = {
 			tag = XBI
 			exists = NXA
@@ -11916,6 +12226,7 @@ political_decisions = {
 	}
 
 	NXA_protection = {
+		picture = we_d_protection_1
 		potential = {
 			tag = NXA
 			exists = XBI
@@ -11938,6 +12249,7 @@ political_decisions = {
 	}
 
 	XBI_treaty_QHI = {
+		picture = we_d_legitimacy_2
 		potential = {
 			tag = XBI
 			exists = QHI
@@ -11963,6 +12275,7 @@ political_decisions = {
 	}
 
 	QHI_protection = {
+		picture = we_d_protection_1
 		potential = {
 			tag = QHI
 			exists = XBI
@@ -11985,6 +12298,7 @@ political_decisions = {
 	}
 
 	SZC_treaty_XKG = {
+		picture = we_d_legitimacy_2
 		potential = {
 			tag = SZC
 			exists = XKG
@@ -12010,6 +12324,7 @@ political_decisions = {
 	}
 
 	XKG_protection = {
+		picture = we_d_protection_1
 		potential = {
 			tag = XKG
 			exists = SZC
@@ -12032,6 +12347,7 @@ political_decisions = {
 	}
 
 	SZC_treaty_CQG = {
+		picture = we_d_legitimacy_2
 		potential = {
 			tag = SZC
 			exists = CQG
@@ -12057,6 +12373,7 @@ political_decisions = {
 	}
 
 	CQG_protection = {
+		picture = we_d_protection_1
 		potential = {
 			tag = CQG
 			exists = SZC
@@ -12079,6 +12396,7 @@ political_decisions = {
 	}
 
 	GDG_treaty_HNI = {
+		picture = we_d_legitimacy_2
 		potential = {
 			tag = GDG
 			exists = HNI
@@ -12104,6 +12422,7 @@ political_decisions = {
 	}
 
 	HNI_protection = {
+		picture = we_d_protection_1
 		potential = {
 			tag = HNI
 			exists = GDG
@@ -12126,6 +12445,7 @@ political_decisions = {
 	}
 
 	FUJ_treaty_TWN = {
+		picture = we_d_legitimacy_2
 		potential = {
 			tag = FUJ
 			exists = TWN
@@ -12151,6 +12471,7 @@ political_decisions = {
 	}
 
 	TWN_protection = {
+		picture = we_d_protection_1
 		potential = {
 			tag = TWN
 			exists = FUJ
@@ -12173,6 +12494,7 @@ political_decisions = {
 	}
 
 	JSU_treaty_SHG = {
+		picture = we_d_legitimacy_2
 		potential = {
 			tag = JSU
 			exists = SHG
@@ -12198,6 +12520,7 @@ political_decisions = {
 	}
 
 	SHG_protection = {
+		picture = we_d_protection_1
 		potential = {
 			tag = SHG
 			exists = JSU
@@ -12220,6 +12543,7 @@ political_decisions = {
 	}
 
 	AHC_treaty_XZC = {
+		picture = we_d_legitimacy_2
 		potential = {
 			tag = AHC
 			exists = XZC
@@ -12245,6 +12569,7 @@ political_decisions = {
 	}
 
 	XZC_protection = {
+		picture = we_d_protection_1
 		potential = {
 			tag = XZC
 			exists = AHC
@@ -12267,6 +12592,7 @@ political_decisions = {
 	}
 
 	XIN_treaty_KSG = {
+		picture = we_d_legitimacy_2
 		potential = {
 			tag = XIN
 			exists = KSG
@@ -12292,6 +12618,7 @@ political_decisions = {
 	}
 
 	KSG_protection = {
+		picture = we_d_protection_1
 		potential = {
 			tag = KSG
 			exists = XIN
@@ -12314,6 +12641,7 @@ political_decisions = {
 	}
 
 	XIN_treaty_TIB = {
+		picture = we_d_legitimacy_2
 		potential = {
 			tag = XIN
 			exists = TIB
@@ -12339,6 +12667,7 @@ political_decisions = {
 	}
 
 	TIB_protection = {
+		picture = we_d_protection_1
 		potential = {
 			tag = TIB
 			exists = XIN

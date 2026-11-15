@@ -10,3 +10,4 @@ Warlord Era.zip
 # old backups of the generator scripts
 *.bak_*
 tools/dds_info.py
+tools/assets/pictures/sheet_*.png

@@ -117,7 +117,7 @@ def mod(key, name, desc, icon=5, **kw):
 
 mod("khalsa_army", "The Khalsa Army", "The Fauj-i-Khas, drilled by veterans of Napoleon, is the finest army in Asia. It is a small professional force, not a levy.",
     land_organisation=0.15, org_regain=0.125, land_attack_modifier=0.0625, land_defense_modifier=0.0625,
-    land_unit_start_experience=12.5, mobilisation_size=-0.1, supply_consumption=-0.05, leadership=0.5)
+    land_unit_start_experience=12.5, mobilisation_size=-0.1, supply_consumption=-0.05, leadership=4)
 mod("mongol_horde", "The Great Horde", "Every man a rider, every rider a soldier.",
     land_organisation=0.5, org_regain=0.75, land_unit_start_experience=50, mobilisation_size=0.15, supply_consumption=-0.5,
     leadership=2, max_attrition=-2, research_points_modifier=0.25, mobilisation_economy_impact=-0.5)

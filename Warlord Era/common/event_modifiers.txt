@@ -769,7 +769,7 @@ khalsa_army = {
 	land_unit_start_experience = 12.5
 	mobilisation_size = -0.1
 	supply_consumption = -0.05
-	leadership = 0.5
+	leadership = 4
 	icon = 5
 }
 
