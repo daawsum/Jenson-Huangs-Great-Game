@@ -46,8 +46,8 @@ WHAT IS DIFFERENT
     states named after their chief cities. Micro-states were absorbed by their neighbours.
   - The Americas, Oceania, sub-Saharan Africa, Siberia, the steppe and the outer
     East Indies are empty and colonizable from day one.
-  - Any clique can always declare "Warlord Claim" (take a state; the cost depends on the
-    state's size flag).
+  - Wars between cliques need a justified war goal; taking a state costs war score by the
+    state's size flag (Tiny to Huge).
   - Emigrants go to South East Asia until the first overseas dominion is chartered.
   - Decisions: "Charter the Dominion of ..." turns your colonies in a region into a
     puppet; "Hand New Lands to ..." passes later conquests to it.

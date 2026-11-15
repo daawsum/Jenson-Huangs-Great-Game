@@ -32,7 +32,6 @@ FAMILIES = {
     "place_in_the_sun": [0.001, 0.002, 0.003, 0.004, 0.005],
     "demand_concession_casus_belli": [0.002, 0.004, 0.006, 0.008, 0.010],
     "unification_casus_belli": [0.002, 0.004, 0.008, 0.012, 0.016],
-    "warlord_take_state": [0.002, 0.004, 0.006, 0.009, 0.012],          # this mod's own war goal
 }
 ERAS = [(880201, None, 1860, [200000, 900000, 1500000, 2100000]),       # Heartbreaker's years, twice its thresholds
         (880202, 1860, 1900, [300000, 1300000, 2100000, 3000000]),
@@ -83,7 +82,7 @@ assert n == 1
 write("common/defines.lua", dl)
 
 # ---------------------------------------------------------------- war goals
-cb = read("common/cb_types.txt")
+cb = rd("common", "cb_types.txt").replace("\r\n", "\n")      # always start from vanilla's file
 
 
 def block_span(text, name):
@@ -175,8 +174,8 @@ for fam in HB_FAMILIES:
     orig = re.sub(r"(?m)^\s*always\s*=\s*yes\s*\n", "", orig)
     orig = set_field(orig, "constructing_cb", "no")
     cb = cb[:sp[0]] + variants + orig + cb[sp[1]:]
-# this mod's own goal between cliques and vanilla's unification goal, sized the same way: marker in allowed_states only
-for fam in ("warlord_take_state", "unification_casus_belli"):
+# vanilla's unification goal, sized the same way: marker in allowed_states only
+for fam in ("unification_casus_belli",):
     sp = block_span(cb, fam)
     base = cb[sp[0]:sp[1]]
     variants = ""
@@ -206,7 +205,7 @@ for name in ("humiliate", "rude_boy"):      # prestige-only goals were costed fo
 po = re.search(r"peace_order\s*=\s*\{", cb)
 cb = cb[:po.end()] + "\n" + "\n".join(order) + cb[po.end():]
 cb = re.sub(r"(?m)^warlord_take_state\s*\n", "", cb)
-for fam in HB_FAMILIES + ["warlord_take_state", "unification_casus_belli"]:
+for fam in HB_FAMILIES + ["unification_casus_belli"]:
     for tag, key, name in SIZES:
         sp = block_span(cb, "%s_%s" % (fam, key))
         bare = re.sub(r"#.*", "", cb[sp[0]:sp[1]])
@@ -273,9 +272,9 @@ for i, (tag, key, name) in enumerate(SIZES):
     text = ("\xa7G%s State Flag\\n\xa7WThis province is in a state that meets the following criteria:\\n"
             "\xa7Y1836 - 1860 \xa7W%s\\n\xa7Y1860 - 1900 \xa7W%s\\n\xa7Y1900+ \xa7W%s\\n\\n"
             "\xa7RWarscore Costs\\n\xa7WTaking this state costs:\\n"
-            "\xa7YWarlord Claim: \xa7W%d%% Warscore\\n\xa7YAcquire Core: \xa7W%d%% Warscore\\n\xa7YAcquire State: \xa7W%d%% Warscore\\n"
+            "\xa7YAcquire Core: \xa7W%d%% Warscore\\n\xa7YAcquire State: \xa7W%d%% Warscore\\n"
             "\xa7YDemand Concession: \xa7W%d%% Warscore\\n\xa7YPlace in the Sun: \xa7W%d%% Warscore") % (
-        name, rng(ERAS[0][3]), rng(ERAS[1][3]), rng(ERAS[2][3]), cost("warlord_take_state", i), cost("acquire_core_state", i),
+        name, rng(ERAS[0][3]), rng(ERAS[1][3]), rng(ERAS[2][3]), cost("acquire_core_state", i),
         cost("acquire_state", i), cost("demand_concession_casus_belli", i), cost("place_in_the_sun", i))
     loc += [(tag, text), (tag + "_ADJ", "%s State" % name), (tag + "_flag", "State Size Marker")]
     for fam in FAMILIES:

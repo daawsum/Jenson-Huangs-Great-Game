@@ -1,7 +1,3 @@
-warlord_take_state;Warlord Claim;;;;;;;;;;;;;x
-warlord_take_state_desc;Seize a state from a rival warlord.;;;;;;;;;;;;;x
-warlord_take_state_setup;Take $STATE$ from $RECIPIENT$;;;;;;;;;;;;;x
-warlord_take_state_short;Warlord Claim;;;;;;;;;;;;;x
 khalsa_army;The Khalsa Army;;;;;;;;;;;;;x
 desc_khalsa_army;The Fauj-i-Khas, drilled by veterans of Napoleon, is the finest army in Asia. It is a small professional force, not a levy.;;;;;;;;;;;;;x
 mongol_horde;The Great Horde;;;;;;;;;;;;;x
@@ -1140,7 +1136,7 @@ EVTNAME880104;The World Bank Cannot Be Sphered;;;;;;;;;;;;;x
 EVTDESC880104;Removes any great power's influence over the World Bank.;;;;;;;;;;;;;x
 EVTNAME880105;The World Bank Cannot Be Attacked;;;;;;;;;;;;;x
 EVTDESC880105;Any war against the World Bank ends at once, and the attacker gains infamy.;;;;;;;;;;;;;x
-TIN;佈Tiny State Flag\n劬This province is in a state that meets the following criteria:\n即1836 - 1860 劬Less than 200k POPs\n即1860 - 1900 劬Less than 300k POPs\n即1900+ 劬Less than 400k POPs\n\n刪Warscore Costs\n劬Taking this state costs:\n即Warlord Claim: 劬8% Warscore\n即Acquire Core: 劬4% Warscore\n即Acquire State: 劬12% Warscore\n即Demand Concession: 劬8% Warscore\n即Place in the Sun: 劬4% Warscore;;;;;;;;;;;;;x
+TIN;佈Tiny State Flag\n劬This province is in a state that meets the following criteria:\n即1836 - 1860 劬Less than 200k POPs\n即1860 - 1900 劬Less than 300k POPs\n即1900+ 劬Less than 400k POPs\n\n刪Warscore Costs\n劬Taking this state costs:\n即Acquire Core: 劬4% Warscore\n即Acquire State: 劬12% Warscore\n即Demand Concession: 劬8% Warscore\n即Place in the Sun: 劬4% Warscore;;;;;;;;;;;;;x
 TIN_ADJ;Tiny State;;;;;;;;;;;;;x
 TIN_flag;State Size Marker;;;;;;;;;;;;;x
 acquire_core_state_tiny;Acquire Tiny Core;;;;;;;;;;;;;x
@@ -1163,11 +1159,7 @@ unification_casus_belli_tiny;Chinese Reunification Tiny;;;;;;;;;;;;;x
 unification_casus_belli_tiny_short;Acquire Tiny $STATE$;;;;;;;;;;;;;x
 unification_casus_belli_tiny_desc;Aquire a Tiny Chinese 即state劬;;;;;;;;;;;;;x
 unification_casus_belli_tiny_setup;Acquire a Tiny $STATE$ from $RECIPIENT$;;;;;;;;;;;;;x
-warlord_take_state_tiny;Warlord Claim (Tiny State);;;;;;;;;;;;;x
-warlord_take_state_tiny_short;Warlord Claim (Tiny);;;;;;;;;;;;;x
-warlord_take_state_tiny_desc;Seize a 即tiny state劬 from a rival warlord.;;;;;;;;;;;;;x
-warlord_take_state_tiny_setup;Take $STATE$ from $RECIPIENT$;;;;;;;;;;;;;x
-SMA;佈Small State Flag\n劬This province is in a state that meets the following criteria:\n即1836 - 1860 劬200k to 900k POPs\n即1860 - 1900 劬300k to 1.3M POPs\n即1900+ 劬400k to 1.6M POPs\n\n刪Warscore Costs\n劬Taking this state costs:\n即Warlord Claim: 劬16% Warscore\n即Acquire Core: 劬12% Warscore\n即Acquire State: 劬24% Warscore\n即Demand Concession: 劬16% Warscore\n即Place in the Sun: 劬8% Warscore;;;;;;;;;;;;;x
+SMA;佈Small State Flag\n劬This province is in a state that meets the following criteria:\n即1836 - 1860 劬200k to 900k POPs\n即1860 - 1900 劬300k to 1.3M POPs\n即1900+ 劬400k to 1.6M POPs\n\n刪Warscore Costs\n劬Taking this state costs:\n即Acquire Core: 劬12% Warscore\n即Acquire State: 劬24% Warscore\n即Demand Concession: 劬16% Warscore\n即Place in the Sun: 劬8% Warscore;;;;;;;;;;;;;x
 SMA_ADJ;Small State;;;;;;;;;;;;;x
 SMA_flag;State Size Marker;;;;;;;;;;;;;x
 acquire_core_state_small;Acquire Small Core;;;;;;;;;;;;;x
@@ -1190,11 +1182,7 @@ unification_casus_belli_small;Chinese Reunification Small;;;;;;;;;;;;;x
 unification_casus_belli_small_short;Acquire Small $STATE$;;;;;;;;;;;;;x
 unification_casus_belli_small_desc;Aquire a Small Chinese 即state劬;;;;;;;;;;;;;x
 unification_casus_belli_small_setup;Acquire a Small $STATE$ from $RECIPIENT$;;;;;;;;;;;;;x
-warlord_take_state_small;Warlord Claim (Small State);;;;;;;;;;;;;x
-warlord_take_state_small_short;Warlord Claim (Small);;;;;;;;;;;;;x
-warlord_take_state_small_desc;Seize a 即small state劬 from a rival warlord.;;;;;;;;;;;;;x
-warlord_take_state_small_setup;Take $STATE$ from $RECIPIENT$;;;;;;;;;;;;;x
-MED;佈Medium State Flag\n劬This province is in a state that meets the following criteria:\n即1836 - 1860 劬900k to 1.5M POPs\n即1860 - 1900 劬1.3M to 2.1M POPs\n即1900+ 劬1.6M to 2.8M POPs\n\n刪Warscore Costs\n劬Taking this state costs:\n即Warlord Claim: 劬24% Warscore\n即Acquire Core: 劬16% Warscore\n即Acquire State: 劬32% Warscore\n即Demand Concession: 劬24% Warscore\n即Place in the Sun: 劬12% Warscore;;;;;;;;;;;;;x
+MED;佈Medium State Flag\n劬This province is in a state that meets the following criteria:\n即1836 - 1860 劬900k to 1.5M POPs\n即1860 - 1900 劬1.3M to 2.1M POPs\n即1900+ 劬1.6M to 2.8M POPs\n\n刪Warscore Costs\n劬Taking this state costs:\n即Acquire Core: 劬16% Warscore\n即Acquire State: 劬32% Warscore\n即Demand Concession: 劬24% Warscore\n即Place in the Sun: 劬12% Warscore;;;;;;;;;;;;;x
 MED_ADJ;Medium State;;;;;;;;;;;;;x
 MED_flag;State Size Marker;;;;;;;;;;;;;x
 acquire_core_state_medium;Acquire Medium Core;;;;;;;;;;;;;x
@@ -1217,11 +1205,7 @@ unification_casus_belli_medium;Chinese Reunification Medium;;;;;;;;;;;;;x
 unification_casus_belli_medium_short;Acquire Medium $STATE$;;;;;;;;;;;;;x
 unification_casus_belli_medium_desc;Aquire a Medium Chinese 即state劬;;;;;;;;;;;;;x
 unification_casus_belli_medium_setup;Acquire a Medium $STATE$ from $RECIPIENT$;;;;;;;;;;;;;x
-warlord_take_state_medium;Warlord Claim (Medium State);;;;;;;;;;;;;x
-warlord_take_state_medium_short;Warlord Claim (Medium);;;;;;;;;;;;;x
-warlord_take_state_medium_desc;Seize a 即medium state劬 from a rival warlord.;;;;;;;;;;;;;x
-warlord_take_state_medium_setup;Take $STATE$ from $RECIPIENT$;;;;;;;;;;;;;x
-LRG;佈Large State Flag\n劬This province is in a state that meets the following criteria:\n即1836 - 1860 劬1.5M to 2.1M POPs\n即1860 - 1900 劬2.1M to 3M POPs\n即1900+ 劬2.8M to 4M POPs\n\n刪Warscore Costs\n劬Taking this state costs:\n即Warlord Claim: 劬36% Warscore\n即Acquire Core: 劬24% Warscore\n即Acquire State: 劬48% Warscore\n即Demand Concession: 劬32% Warscore\n即Place in the Sun: 劬16% Warscore;;;;;;;;;;;;;x
+LRG;佈Large State Flag\n劬This province is in a state that meets the following criteria:\n即1836 - 1860 劬1.5M to 2.1M POPs\n即1860 - 1900 劬2.1M to 3M POPs\n即1900+ 劬2.8M to 4M POPs\n\n刪Warscore Costs\n劬Taking this state costs:\n即Acquire Core: 劬24% Warscore\n即Acquire State: 劬48% Warscore\n即Demand Concession: 劬32% Warscore\n即Place in the Sun: 劬16% Warscore;;;;;;;;;;;;;x
 LRG_ADJ;Large State;;;;;;;;;;;;;x
 LRG_flag;State Size Marker;;;;;;;;;;;;;x
 acquire_core_state_large;Acquire Large Core;;;;;;;;;;;;;x
@@ -1244,11 +1228,7 @@ unification_casus_belli_large;Chinese Reunification Large;;;;;;;;;;;;;x
 unification_casus_belli_large_short;Acquire Large $STATE$;;;;;;;;;;;;;x
 unification_casus_belli_large_desc;Aquire a Large Chinese 即state劬;;;;;;;;;;;;;x
 unification_casus_belli_large_setup;Acquire a Large $STATE$ from $RECIPIENT$;;;;;;;;;;;;;x
-warlord_take_state_large;Warlord Claim (Large State);;;;;;;;;;;;;x
-warlord_take_state_large_short;Warlord Claim (Large);;;;;;;;;;;;;x
-warlord_take_state_large_desc;Seize a 即large state劬 from a rival warlord.;;;;;;;;;;;;;x
-warlord_take_state_large_setup;Take $STATE$ from $RECIPIENT$;;;;;;;;;;;;;x
-HUG;佈Huge State Flag\n劬This province is in a state that meets the following criteria:\n即1836 - 1860 劬Greater than 2.1M POPs\n即1860 - 1900 劬Greater than 3M POPs\n即1900+ 劬Greater than 4M POPs\n\n刪Warscore Costs\n劬Taking this state costs:\n即Warlord Claim: 劬48% Warscore\n即Acquire Core: 劬32% Warscore\n即Acquire State: 劬64% Warscore\n即Demand Concession: 劬40% Warscore\n即Place in the Sun: 劬20% Warscore;;;;;;;;;;;;;x
+HUG;佈Huge State Flag\n劬This province is in a state that meets the following criteria:\n即1836 - 1860 劬Greater than 2.1M POPs\n即1860 - 1900 劬Greater than 3M POPs\n即1900+ 劬Greater than 4M POPs\n\n刪Warscore Costs\n劬Taking this state costs:\n即Acquire Core: 劬32% Warscore\n即Acquire State: 劬64% Warscore\n即Demand Concession: 劬40% Warscore\n即Place in the Sun: 劬20% Warscore;;;;;;;;;;;;;x
 HUG_ADJ;Huge State;;;;;;;;;;;;;x
 HUG_flag;State Size Marker;;;;;;;;;;;;;x
 acquire_core_state_huge;Acquire Huge Core;;;;;;;;;;;;;x
@@ -1271,10 +1251,6 @@ unification_casus_belli_huge;Chinese Reunification Huge;;;;;;;;;;;;;x
 unification_casus_belli_huge_short;Acquire Huge $STATE$;;;;;;;;;;;;;x
 unification_casus_belli_huge_desc;Aquire a Huge Chinese 即state劬;;;;;;;;;;;;;x
 unification_casus_belli_huge_setup;Acquire a Huge $STATE$ from $RECIPIENT$;;;;;;;;;;;;;x
-warlord_take_state_huge;Warlord Claim (Huge State);;;;;;;;;;;;;x
-warlord_take_state_huge_short;Warlord Claim (Huge);;;;;;;;;;;;;x
-warlord_take_state_huge_desc;Seize a 即huge state劬 from a rival warlord.;;;;;;;;;;;;;x
-warlord_take_state_huge_setup;Take $STATE$ from $RECIPIENT$;;;;;;;;;;;;;x
 EVTNAME880201;State Sizes Reassessed;;;;;;;;;;;;;x
 EVTOPTA880201;Noted.;;;;;;;;;;;;;x
 EVTDESC880201;Every state in the world has been re-measured and given its Tiny, Small, Medium, Large or Huge marker.;;;;;;;;;;;;;x

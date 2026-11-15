@@ -186,6 +186,12 @@ for p in ALLP:
     elif owner[p] in OTTO_TAGS or (owner[p] == "OMA" and cont.get(p) == "asia") or (cont.get(p) == "europe" and PFOLDER.get(p) == "balkan"):
         owner[p] = "TUR"
         _n[0] += 1
+# Deir ez-Zor, on the Persian border, counts as Africa in vanilla's continent file, so the rule that
+# empties the great powers' African holdings had left it unowned in the middle of the empire.
+_stray = [p for p in (901,) if vprov[p]["owner"] == "TUR" and owner.get(p) is None]      # Deir ez-Zor only; Cyrenaica stays empty
+for p in _stray:
+    owner[p] = "TUR"
+print("ottoman provinces that had been left empty:", [(p, PNAME[p]) for p in _stray])
 print("provinces merged into the Ottoman Empire: %d | Iraq to Persia: %d" % tuple(_n))
 
 # The two island traders start with footholds overseas.

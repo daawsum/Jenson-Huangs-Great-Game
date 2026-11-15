@@ -45,50 +45,6 @@ for f in glob.glob(os.path.join(V, "poptypes", "*.txt")):
     wr("poptypes/" + os.path.basename(f), t)
 print("pop types patched:", n)
 
-# ------------------------------------------------------------------ war goals between warlords
-cb = rd("common", "cb_types.txt")
-cb = cb.replace("acquire_core_state \nannex_core_country", "acquire_core_state \nannex_core_country\nwarlord_take_state", 1)
-assert "warlord_take_state" in cb
-COMMON = """	is_triggered_only = yes
-	months = 12
-	badboy_factor = %s
-	prestige_factor = 3
-	peace_cost_factor = 0.8
-	penalty_factor = 1
-	always = yes
-	break_truce_prestige_factor = 5
-	break_truce_infamy_factor = 2
-	break_truce_militancy_factor = 2
-	truce_months = 0
-	good_relation_prestige_factor = 1
-	good_relation_infamy_factor = 1
-	good_relation_militancy_factor = 1
-"""
-cb += """
-# ---------------------------------------------------------------- Warlord Era
-# Any Chinese warlord may always press a claim on another warlord.
-warlord_take_state = {
-	sprite_index = 5
-""" + COMMON % "0.4" + """	can_use = {
-		has_country_flag = chinese_warlord
-		THIS = { has_country_flag = chinese_warlord }
-		NOT = { is_our_vassal = THIS }
-		number_of_states = 3
-	}
-	allowed_states = {
-		not = { any_owned_province = { is_capital = yes } }
-	}
-	po_demand_state = yes
-	war_name = WAR_TAKE_NAME
-}
-
-"""
-wr("common/cb_types.txt", cb)
-loc("warlord_take_state", "Warlord Claim")
-loc("warlord_take_state_desc", "Seize a state from a rival warlord.")
-loc("warlord_take_state_setup", "Take $STATE$ from $RECIPIENT$")
-loc("warlord_take_state_short", "Warlord Claim")
-
 # ------------------------------------------------------------------ modifiers
 MODS = collections.OrderedDict()
 
