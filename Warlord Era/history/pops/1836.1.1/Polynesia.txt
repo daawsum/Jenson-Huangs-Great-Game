@@ -2,13 +2,13 @@
 	aristocrats = {
 		culture = polynesian
 		religion = placeholder
-		size = 450
+		size = 436
 	}
 
 	bureaucrats = {
 		culture = polynesian
 		religion = placeholder
-		size = 75
+		size = 72
 	}
 
 	officers = {
@@ -20,25 +20,25 @@
 	clergymen = {
 		culture = polynesian
 		religion = placeholder
-		size = 275
+		size = 266
 	}
 
 	artisans = {
 		culture = polynesian
 		religion = placeholder
-		size = 1250
+		size = 1211
 	}
 
 	soldiers = {
 		culture = polynesian
 		religion = placeholder
-		size = 1100
+		size = 1066
 	}
 
 	farmers = {
 		culture = polynesian
 		religion = placeholder
-		size = 22025
+		size = 21347
 	}
 }
 

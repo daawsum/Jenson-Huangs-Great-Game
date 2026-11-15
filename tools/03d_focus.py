@@ -61,23 +61,43 @@ for k in names + groups:
 missing = [k for k in names + groups if not loc.get(k)]
 print("focus names copied:", len(lines), "| without a name in IGoR or vanilla:", missing[:8])
 
-# tier unlocks: IGoR's event, with a date instead of its inventions
-YEARS = {2: 1845, 3: 1855, 4: 1865, 5: 1880, 6: 1895}
-ev = "\n# ------------------------------------------------------------------ national focus tiers (after IGoR puir)\n"
-for tier, year in YEARS.items():
-    ev += ('country_event = {\n\tid = %d\n\ttitle = "EVTNAME8803%d"\n\tdesc = "EVTDESC880300"\n\tpicture = "Upperhouse"\n'
-           '\ttrigger = {\n\t\tcivilized = yes\n\t\tyear = %d\n\t\tNOT = { has_country_flag = tier_%d }\n\t}\n'
-           '\tmean_time_to_happen = {\n\t\tdays = 1\n\t}\n\toption = {\n\t\tname = "EVTOPTA880300"\n\t\tset_country_flag = tier_%d\n\t}\n}\n\n'
-           % (880300 + tier, tier, year, tier, tier))
-    lines.append("EVTNAME8803%d;National Focus Tier %d;;;;;;;;;;;;;x" % (tier, tier))
-lines.append("EVTDESC880300;Our administration has matured. A stronger tier of national focuses is now available.;;;;;;;;;;;;;x")
-lines.append("EVTOPTA880300;Put it to use.;;;;;;;;;;;;;x")
-p = os.path.join(OUT, "events", "WarlordEra.txt")
-t = open(p, encoding=ENC).read()
-if "880302" not in t:
-    open(p, "w", encoding=ENC, newline="\r\n").write(t + ev)
-p = os.path.join(OUT, "localisation", "00_warlord_era_gameplay.csv")
-t = open(p, encoding=ENC).read()
-if "EVTDESC880300" not in t:
-    open(p, "w", encoding=ENC, newline="\r\n").write(t + "\n".join(lines) + "\n")
-print("national focus tiers unlock in:", YEARS)
+# tier unlocks, exactly as RobloxDoD 1.8 and DoD Heartbreaker do it (their files are identical):
+#   technology (associationism, experimental_psychology, psychological_intelligence, psychoanalysis,
+#   behaviorism) -> invention pop_shift_invention_2..6 (inventions/pop_shift_psychology_inventions.txt,
+#   copied by 03a_tech.py) -> event 370032..370036 "Thank you, Reno!" sets country flag tier_2..6
+#   -> common/national_focus.txt lists a focus only with that flag.
+RB = os.path.join(V, "mod", "RobloxDOD 1.8")
+flags = open(os.path.join(RB, "events", "national_focus_flags.txt"), encoding=ENC, errors="replace").read().replace("\r\n", "\n")
+wr("events/national_focus_flags.txt", flags)
+inv = ""
+for f in glob.glob(os.path.join(OUT, "inventions", "*.txt")):
+    inv += re.sub(r"#.*", "", open(f, encoding=ENC, errors="replace").read())
+techs = set()
+for f in glob.glob(os.path.join(OUT, "technologies", "*.txt")):
+    techs |= {k for k, b, s_, e_ in blocks(re.sub(r"#.*", "", open(f, encoding=ENC, errors="replace").read()))}
+chain = {}
+for iv, fl in re.findall(r"invention\s*=\s*(\w+)\s*NOT\s*=\s*\{\s*has_country_flag\s*=\s*(\w+)", re.sub(r"#.*", "", flags)):
+    m = re.search(r"(?m)^%s\s*=\s*\{\s*limit\s*=\s*\{\s*(\w+)\s*=\s*1" % iv, inv)
+    assert m, "invention %s is not in this mod" % iv
+    assert m.group(1) in techs, m.group(1)
+    assert "set_country_flag = %s" % fl in flags and "has_country_flag = %s" % fl in clean, fl
+    chain[fl] = "%s -> %s" % (m.group(1), iv)
+assert sorted(chain) == ["tier_%d" % i for i in range(2, 7)], chain
+mine = ""
+for f in glob.glob(os.path.join(OUT, "events", "*.txt")):
+    if os.path.basename(f) != "national_focus_flags.txt":
+        mine += open(f, encoding=ENC, errors="replace").read()
+for i in re.findall(r"\bid\s*=\s*(\d+)", flags):
+    assert not re.search(r"\bid\s*=\s*%s\b" % i, mine), i
+assert os.path.exists(os.path.join(V, "gfx", "pictures", "events", "troy.tga"))
+rl = {}
+for f in sorted(glob.glob(os.path.join(RB, "localisation", "*.csv"))):
+    for l in open(f, encoding=ENC, errors="replace").read().splitlines():
+        q = l.split(";")
+        if len(q) > 1 and q[0] and q[0] not in rl:
+            rl[q[0]] = q[1]
+for k in re.findall(r'(?:title|desc)\s*=\s*"(\w+)"', flags):
+    assert rl.get(k), k
+    lines.append("%s;%s;;;;;;;;;;;;;x" % (k, rl[k].replace(";", ",")))
+wr("localisation/00_warlord_era_focus.csv", "\n".join(lines) + "\n")
+print("national focus tiers unlock by:", chain)

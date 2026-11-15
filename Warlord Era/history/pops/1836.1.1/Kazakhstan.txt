@@ -214,25 +214,25 @@
 
 1184 = {
 	clergymen = {
-		culture = russian
+		culture = kazak
 		religion = placeholder
 		size = 25
 	}
 
 	artisans = {
-		culture = russian
+		culture = kazak
 		religion = placeholder
 		size = 25
 	}
 
 	soldiers = {
-		culture = russian
+		culture = kazak
 		religion = placeholder
 		size = 25
 	}
 
 	farmers = {
-		culture = russian
+		culture = kazak
 		religion = placeholder
 		size = 405
 	}

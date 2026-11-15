@@ -762,14 +762,14 @@ liberian_research_boost = {
 
 ##### WARLORD ERA #####
 khalsa_army = {
-	land_organisation = 0.6
-	org_regain = 0.5
-	land_attack_modifier = 0.25
-	land_defense_modifier = 0.25
-	land_unit_start_experience = 50
-	mobilisation_size = -0.02
-	supply_consumption = -0.2
-	leadership = 2
+	land_organisation = 0.15
+	org_regain = 0.125
+	land_attack_modifier = 0.0625
+	land_defense_modifier = 0.0625
+	land_unit_start_experience = 12.5
+	mobilisation_size = -0.1
+	supply_consumption = -0.05
+	leadership = 0.5
 	icon = 5
 }
 
@@ -1083,6 +1083,50 @@ constitutional_parliament = {
 clique_truce = {
 	diplomatic_points_modifier = 0.25
 	war_exhaustion = -0.01
+	icon = 5
+}
+
+persianate_revival = {
+	global_assimilation_rate = 1.0
+	education_efficiency_modifier = 0.15
+	icon = 5
+}
+
+khalsa_raj_order = {
+	global_assimilation_rate = 0.5
+	education_efficiency_modifier = 0.15
+	icon = 5
+}
+
+taiwanese_maritime_heritage = {
+	leadership = 2
+	research_points_modifier = 0.25
+	naval_organisation = 0.1
+	icon = 5
+}
+
+maritime_hegemon = {
+	education_efficiency_modifier = 0.15
+	supply_range = 0.33
+	icon = 5
+}
+
+golden_peninsula = {
+	global_immigrant_attract = 0.75
+	icon = 5
+}
+
+continental_lessons = {
+	naval_organisation = 0.1
+	research_points_modifier = 0.25
+	icon = 5
+}
+
+taiwanese_dream = {
+	global_immigrant_attract = 1.0
+	administrative_efficiency_modifier = 0.5
+	RGO_throughput = 0.25
+	factory_throughput = 0.25
 	icon = 5
 }
 
@@ -1580,6 +1624,318 @@ protected_clique = {
 	land_defense_modifier = 0.1
 	core_pop_militancy_modifier = -0.01
 	icon = 5
+}
+
+ZHL_road_a = {
+	land_organisation = 0.08
+	cb_generation_speed_modifier = 0.25
+	icon = 5
+}
+
+ZHL_road_b = {
+	prestige = 0.02
+	diplomatic_points_modifier = 0.25
+	org_regain = 0.1
+	icon = 5
+}
+
+FTN_road_a = {
+	land_organisation = 0.1
+	mobilisation_size = 0.02
+	icon = 5
+}
+
+FTN_road_b = {
+	global_immigrant_attract = 0.5
+	farm_rgo_eff = 0.1
+	mine_rgo_eff = 0.1
+	icon = 5
+}
+
+AHC_road_a = {
+	land_organisation = 0.08
+	tax_efficiency = 0.05
+	icon = 5
+}
+
+AHC_road_b = {
+	org_regain = 0.15
+	loan_interest = -0.25
+	cb_generation_speed_modifier = 0.25
+	icon = 5
+}
+
+SXI_road_a = {
+	factory_throughput = 0.2
+	education_efficiency_modifier = 0.2
+	land_defense_modifier = 0.2
+	tax_efficiency = 0.1
+	research_points_modifier = 0.1
+	mobilisation_size = -0.01
+	icon = 5
+}
+
+SXI_road_b = {
+	land_organisation = 0.08
+	tax_efficiency = 0.03
+	icon = 5
+}
+
+GMJ_road_a = {
+	supply_consumption = -0.15
+	land_organisation = 0.08
+	max_attrition = -1
+	icon = 5
+}
+
+GMJ_road_b = {
+	land_unit_start_experience = 20
+	core_pop_militancy_modifier = -0.02
+	org_regain = 0.1
+	icon = 5
+}
+
+SDG_road_a = {
+	naval_organisation = 0.15
+	land_organisation = 0.05
+	prestige = 0.01
+	icon = 5
+}
+
+SDG_road_b = {
+	education_efficiency_modifier = 0.1
+	core_pop_militancy_modifier = -0.02
+	land_organisation = 0.05
+	icon = 5
+}
+
+HNA_road_a = {
+	land_organisation = 0.1
+	org_regain = 0.1
+	icon = 5
+}
+
+HNA_road_b = {
+	tax_efficiency = 0.08
+	supply_consumption = -0.1
+	icon = 5
+}
+
+JSU_road_a = {
+	tax_efficiency = 0.05
+	land_organisation = 0.05
+	diplomatic_points_modifier = 0.25
+	icon = 5
+}
+
+JSU_road_b = {
+	naval_organisation = 0.15
+	tax_efficiency = 0.08
+	factory_throughput = 0.05
+	icon = 5
+}
+
+ZHJ_road_a = {
+	naval_organisation = 0.2
+	research_points_modifier = 0.05
+	prestige = 0.01
+	icon = 5
+}
+
+ZHJ_road_b = {
+	tax_efficiency = 0.08
+	land_defense_modifier = 0.1
+	education_efficiency_modifier = 0.05
+	icon = 5
+}
+
+FUJ_road_a = {
+	naval_organisation = 0.15
+	global_immigrant_attract = 0.5
+	icon = 5
+}
+
+FUJ_road_b = {
+	tax_efficiency = 0.05
+	naval_organisation = 0.1
+	land_organisation = 0.05
+	icon = 5
+}
+
+GDG_road_a = {
+	land_organisation = 0.1
+	org_regain = 0.1
+	war_exhaustion = -0.01
+	cb_generation_speed_modifier = 0.5
+	icon = 5
+}
+
+GDG_road_b = {
+	naval_organisation = 0.1
+	tax_efficiency = 0.1
+	factory_throughput = 0.05
+	icon = 5
+}
+
+GXI_road_a = {
+	supply_consumption = -0.15
+	land_organisation = 0.08
+	max_attrition = -1
+	icon = 5
+}
+
+GXI_road_b = {
+	land_organisation = 0.12
+	land_unit_start_experience = 20
+	mobilisation_size = 0.02
+	icon = 5
+}
+
+HNC_road_a = {
+	land_defense_modifier = 0.25
+	mobilisation_size = 0.04
+	education_efficiency_modifier = 0.15
+	core_pop_militancy_modifier = -0.03
+	farm_rgo_eff = 0.1
+	research_points_modifier = 0.1
+	icon = 5
+}
+
+HNC_road_b = {
+	land_organisation = 0.1
+	land_unit_start_experience = 25
+	mobilisation_size = 0.02
+	icon = 5
+}
+
+HBE_road_a = {
+	tax_efficiency = 0.08
+	supply_consumption = -0.1
+	land_organisation = 0.05
+	icon = 5
+}
+
+HBE_road_b = {
+	naval_organisation = 0.1
+	land_organisation = 0.08
+	farm_rgo_eff = 0.05
+	icon = 5
+}
+
+SZC_road_a = {
+	max_attrition = -2
+	supply_consumption = -0.2
+	land_organisation = 0.05
+	icon = 5
+}
+
+SZC_road_b = {
+	land_organisation = 0.1
+	org_regain = 0.15
+	land_unit_start_experience = 15
+	icon = 5
+}
+
+YNN_road_a = {
+	max_attrition = -2
+	supply_consumption = -0.15
+	land_organisation = 0.08
+	icon = 5
+}
+
+YNN_road_b = {
+	land_organisation = 0.1
+	land_unit_start_experience = 20
+	prestige = 0.01
+	icon = 5
+}
+
+GZH_road_a = {
+	tax_efficiency = 0.12
+	supply_consumption = -0.1
+	land_organisation = 0.05
+	icon = 5
+}
+
+GZH_road_b = {
+	land_defense_modifier = 0.15
+	land_organisation = 0.08
+	max_attrition = -1
+	icon = 5
+}
+
+XBI_road_a = {
+	land_organisation = 0.1
+	org_regain = 0.15
+	supply_consumption = -0.15
+	icon = 5
+}
+
+XBI_road_b = {
+	max_attrition = -2
+	land_organisation = 0.08
+	mobilisation_size = 0.02
+	icon = 5
+}
+
+XIN_road_a = {
+	supply_consumption = -0.2
+	land_organisation = 0.08
+	diplomatic_points_modifier = 0.25
+	icon = 5
+}
+
+XIN_road_b = {
+	land_organisation = 0.1
+	org_regain = 0.1
+	max_attrition = -1
+	icon = 5
+}
+
+JXI_road_a = {
+	tax_efficiency = 0.08
+	naval_organisation = 0.1
+	factory_throughput = 0.05
+	icon = 5
+}
+
+JXI_road_b = {
+	land_organisation = 0.1
+	mobilisation_size = 0.03
+	core_pop_militancy_modifier = -0.01
+	icon = 5
+}
+
+##### from IGoRDoD 7.31 #####
+kinda_bad_badboy = {
+	loan_interest = 4
+	tariff_efficiency_modifier = -0.40
+	mobilisation_economy_impact = 2
+	diplomatic_points_modifier = -0.6
+	factory_owner_cost = 1
+	global_immigrant_attract = -4.0
+	org_regain = -0.3
+	land_organisation = -0.3
+	naval_organisation = -0.3
+	factory_throughput = -0.6
+	RGO_throughput = -0.6
+	prestige = -0.2
+	war_exhaustion = 2
+	research_points_modifier = -0.6
+	cb_generation_speed_modifier = -0.3
+	icon = 8
+}
+
+national_confusion = {
+	research_points_modifier = -0.01
+	global_pop_consciousness_modifier = 0.01
+	global_pop_militancy_modifier = 0.01
+	prestige = -0.01
+	icon = 2
+}
+
+youre_kicked_mate = {
+	icon = 19
 }
 
 world_bank_rp_nerf = {

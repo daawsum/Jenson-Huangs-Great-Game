@@ -449,17 +449,15 @@ country_event = {
 	desc = "EVTDESC880025"
 	picture = "Upperhouse"
 	trigger = {
-		has_country_flag = old_world_colony
-		has_global_flag = new_world_opened
+		tag = TWN
+		NOT = { has_country_modifier = taiwanese_maritime_heritage }
 	}
 	mean_time_to_happen = {
 		days = 1
 	}
 	option = {
 		name = "EVTOPTA880025"
-		clr_country_flag = new_world_nation
-		clr_country_flag = old_world_colony
-		remove_country_modifier = nanyang_haven
+		add_country_modifier = { name = taiwanese_maritime_heritage duration = -1 }
 	}
 }
 
@@ -469,16 +467,15 @@ country_event = {
 	desc = "EVTDESC880026"
 	picture = "Upperhouse"
 	trigger = {
-		has_country_flag = chinese_warlord
-		has_global_flag = new_world_opened
-		NOT = { has_country_flag = saw_new_world }
+		tag = TWN
+		NOT = { has_country_modifier = taiwanese_dream }
 	}
 	mean_time_to_happen = {
 		days = 1
 	}
 	option = {
 		name = "EVTOPTA880026"
-		set_country_flag = saw_new_world
+		add_country_modifier = { name = taiwanese_dream duration = -1 }
 	}
 }
 
@@ -487,18 +484,18 @@ country_event = {
 	title = "EVTNAME880027"
 	desc = "EVTDESC880027"
 	picture = "Upperhouse"
+	fire_only_once = yes
 	trigger = {
-		has_country_flag = major_warlord
-		year = 1836
-		NOT = { has_country_flag = saw_intro }
+		revolution_n_counterrevolution = 1
+		NOT = { has_global_flag = great_wars_enabled }
 	}
 	mean_time_to_happen = {
 		days = 1
 	}
 	option = {
 		name = "EVTOPTA880027"
-		set_country_flag = saw_intro
-		prestige = 1
+		great_wars_enabled = yes
+		set_global_flag = great_wars_enabled
 	}
 }
 
@@ -506,24 +503,19 @@ country_event = {
 	id = 880028
 	title = "EVTNAME880028"
 	desc = "EVTDESC880028"
-	picture = "Demonstration"
+	picture = "Upperhouse"
 	trigger = {
-		has_country_flag = chinese_warlord
-		war = no
-		average_militancy = 3
+		has_country_flag = old_world_colony
+		has_global_flag = new_world_opened
 	}
 	mean_time_to_happen = {
-		months = 240
+		days = 1
 	}
 	option = {
 		name = "EVTOPTA880028"
-		treasury = -3000
-		any_pop = { limit = { type = soldiers } militancy = -1 }
-	}
-	option = {
-		name = "EVTOPTB880028"
-		any_pop = { limit = { type = farmers } militancy = 1 }
-		prestige = 1
+		clr_country_flag = new_world_nation
+		clr_country_flag = old_world_colony
+		remove_country_modifier = nanyang_haven
 	}
 }
 
@@ -534,21 +526,15 @@ country_event = {
 	picture = "Upperhouse"
 	trigger = {
 		has_country_flag = chinese_warlord
-		war = yes
-		money = 20000
+		has_global_flag = new_world_opened
+		NOT = { has_country_flag = saw_new_world }
 	}
 	mean_time_to_happen = {
-		months = 180
+		days = 1
 	}
 	option = {
 		name = "EVTOPTA880029"
-		treasury = -15000
-		war_exhaustion = -5
-		prestige = 2
-	}
-	option = {
-		name = "EVTOPTB880029"
-		prestige = 1
+		set_country_flag = saw_new_world
 	}
 }
 
@@ -558,21 +544,17 @@ country_event = {
 	desc = "EVTDESC880030"
 	picture = "Upperhouse"
 	trigger = {
-		has_country_flag = chinese_warlord
-		war = yes
-		war_exhaustion = 10
+		has_country_flag = major_warlord
+		year = 1836
+		NOT = { has_country_flag = saw_intro }
 	}
 	mean_time_to_happen = {
-		months = 200
+		days = 1
 	}
 	option = {
 		name = "EVTOPTA880030"
-		treasury = -10000
-	}
-	option = {
-		name = "EVTOPTB880030"
-		war_exhaustion = 3
-		any_pop = { limit = { type = soldiers } militancy = 1 }
+		set_country_flag = saw_intro
+		prestige = 1
 	}
 }
 
@@ -583,20 +565,21 @@ country_event = {
 	picture = "Demonstration"
 	trigger = {
 		has_country_flag = chinese_warlord
-		NOT = { exists = CHI }
-		year = 1850
+		war = no
+		average_militancy = 3
 	}
 	mean_time_to_happen = {
-		months = 300
+		months = 240
 	}
 	option = {
 		name = "EVTOPTA880031"
-		any_pop = { consciousness = 1 }
-		prestige = 3
+		treasury = -3000
+		any_pop = { limit = { type = soldiers } militancy = -1 }
 	}
 	option = {
 		name = "EVTOPTB880031"
-		any_pop = { militancy = 1 }
+		any_pop = { limit = { type = farmers } militancy = 1 }
+		prestige = 1
 	}
 }
 
@@ -607,6 +590,79 @@ country_event = {
 	picture = "Upperhouse"
 	trigger = {
 		has_country_flag = chinese_warlord
+		war = yes
+		money = 20000
+	}
+	mean_time_to_happen = {
+		months = 180
+	}
+	option = {
+		name = "EVTOPTA880032"
+		treasury = -15000
+		war_exhaustion = -5
+		prestige = 2
+	}
+	option = {
+		name = "EVTOPTB880032"
+		prestige = 1
+	}
+}
+
+country_event = {
+	id = 880033
+	title = "EVTNAME880033"
+	desc = "EVTDESC880033"
+	picture = "Upperhouse"
+	trigger = {
+		has_country_flag = chinese_warlord
+		war = yes
+		war_exhaustion = 10
+	}
+	mean_time_to_happen = {
+		months = 200
+	}
+	option = {
+		name = "EVTOPTA880033"
+		treasury = -10000
+	}
+	option = {
+		name = "EVTOPTB880033"
+		war_exhaustion = 3
+		any_pop = { limit = { type = soldiers } militancy = 1 }
+	}
+}
+
+country_event = {
+	id = 880034
+	title = "EVTNAME880034"
+	desc = "EVTDESC880034"
+	picture = "Demonstration"
+	trigger = {
+		has_country_flag = chinese_warlord
+		NOT = { exists = CHI }
+		year = 1850
+	}
+	mean_time_to_happen = {
+		months = 300
+	}
+	option = {
+		name = "EVTOPTA880034"
+		any_pop = { consciousness = 1 }
+		prestige = 3
+	}
+	option = {
+		name = "EVTOPTB880034"
+		any_pop = { militancy = 1 }
+	}
+}
+
+country_event = {
+	id = 880035
+	title = "EVTNAME880035"
+	desc = "EVTDESC880035"
+	picture = "Upperhouse"
+	trigger = {
+		has_country_flag = chinese_warlord
 		NOT = { has_global_flag = new_world_opened }
 		year = 1837
 	}
@@ -614,11 +670,11 @@ country_event = {
 		months = 240
 	}
 	option = {
-		name = "EVTOPTA880032"
+		name = "EVTOPTA880035"
 		treasury = 4000
 	}
 	option = {
-		name = "EVTOPTB880032"
+		name = "EVTOPTB880035"
 		prestige = 1
 	}
 }
@@ -772,7 +828,7 @@ country_event = {
 			any_owned = {
 				limit = {
 					state_scope = {
-						NOT = { total_pops = 100000 }
+						NOT = { total_pops = 200000 }
 					}
 				}
 				add_core = TIN
@@ -789,8 +845,8 @@ country_event = {
 			any_owned = {
 				limit = {
 					state_scope = {
-						total_pops = 100000
-						NOT = { total_pops = 450000 }
+						total_pops = 200000
+						NOT = { total_pops = 900000 }
 					}
 				}
 				add_core = SMA
@@ -807,8 +863,8 @@ country_event = {
 			any_owned = {
 				limit = {
 					state_scope = {
-						total_pops = 450000
-						NOT = { total_pops = 750000 }
+						total_pops = 900000
+						NOT = { total_pops = 1500000 }
 					}
 				}
 				add_core = MED
@@ -825,8 +881,8 @@ country_event = {
 			any_owned = {
 				limit = {
 					state_scope = {
-						total_pops = 750000
-						NOT = { total_pops = 1050000 }
+						total_pops = 1500000
+						NOT = { total_pops = 2100000 }
 					}
 				}
 				add_core = LRG
@@ -843,7 +899,7 @@ country_event = {
 			any_owned = {
 				limit = {
 					state_scope = {
-						total_pops = 1050000
+						total_pops = 2100000
 					}
 				}
 				add_core = HUG
@@ -885,7 +941,7 @@ country_event = {
 			any_owned = {
 				limit = {
 					state_scope = {
-						NOT = { total_pops = 150000 }
+						NOT = { total_pops = 300000 }
 					}
 				}
 				add_core = TIN
@@ -902,8 +958,8 @@ country_event = {
 			any_owned = {
 				limit = {
 					state_scope = {
-						total_pops = 150000
-						NOT = { total_pops = 650000 }
+						total_pops = 300000
+						NOT = { total_pops = 1300000 }
 					}
 				}
 				add_core = SMA
@@ -920,8 +976,8 @@ country_event = {
 			any_owned = {
 				limit = {
 					state_scope = {
-						total_pops = 650000
-						NOT = { total_pops = 1050000 }
+						total_pops = 1300000
+						NOT = { total_pops = 2100000 }
 					}
 				}
 				add_core = MED
@@ -938,8 +994,8 @@ country_event = {
 			any_owned = {
 				limit = {
 					state_scope = {
-						total_pops = 1050000
-						NOT = { total_pops = 1500000 }
+						total_pops = 2100000
+						NOT = { total_pops = 3000000 }
 					}
 				}
 				add_core = LRG
@@ -956,7 +1012,7 @@ country_event = {
 			any_owned = {
 				limit = {
 					state_scope = {
-						total_pops = 1500000
+						total_pops = 3000000
 					}
 				}
 				add_core = HUG
@@ -997,7 +1053,7 @@ country_event = {
 			any_owned = {
 				limit = {
 					state_scope = {
-						NOT = { total_pops = 200000 }
+						NOT = { total_pops = 400000 }
 					}
 				}
 				add_core = TIN
@@ -1014,8 +1070,8 @@ country_event = {
 			any_owned = {
 				limit = {
 					state_scope = {
-						total_pops = 200000
-						NOT = { total_pops = 800000 }
+						total_pops = 400000
+						NOT = { total_pops = 1600000 }
 					}
 				}
 				add_core = SMA
@@ -1032,8 +1088,8 @@ country_event = {
 			any_owned = {
 				limit = {
 					state_scope = {
-						total_pops = 800000
-						NOT = { total_pops = 1400000 }
+						total_pops = 1600000
+						NOT = { total_pops = 2800000 }
 					}
 				}
 				add_core = MED
@@ -1050,8 +1106,8 @@ country_event = {
 			any_owned = {
 				limit = {
 					state_scope = {
-						total_pops = 1400000
-						NOT = { total_pops = 2000000 }
+						total_pops = 2800000
+						NOT = { total_pops = 4000000 }
 					}
 				}
 				add_core = LRG
@@ -1068,7 +1124,7 @@ country_event = {
 			any_owned = {
 				limit = {
 					state_scope = {
-						total_pops = 2000000
+						total_pops = 4000000
 					}
 				}
 				add_core = HUG
@@ -1078,103 +1134,6 @@ country_event = {
 				remove_core = LRG
 			}
 		}
-	}
-}
-
-
-# ------------------------------------------------------------------ national focus tiers (after IGoR puir)
-country_event = {
-	id = 880302
-	title = "EVTNAME88032"
-	desc = "EVTDESC880300"
-	picture = "Upperhouse"
-	trigger = {
-		civilized = yes
-		year = 1845
-		NOT = { has_country_flag = tier_2 }
-	}
-	mean_time_to_happen = {
-		days = 1
-	}
-	option = {
-		name = "EVTOPTA880300"
-		set_country_flag = tier_2
-	}
-}
-
-country_event = {
-	id = 880303
-	title = "EVTNAME88033"
-	desc = "EVTDESC880300"
-	picture = "Upperhouse"
-	trigger = {
-		civilized = yes
-		year = 1855
-		NOT = { has_country_flag = tier_3 }
-	}
-	mean_time_to_happen = {
-		days = 1
-	}
-	option = {
-		name = "EVTOPTA880300"
-		set_country_flag = tier_3
-	}
-}
-
-country_event = {
-	id = 880304
-	title = "EVTNAME88034"
-	desc = "EVTDESC880300"
-	picture = "Upperhouse"
-	trigger = {
-		civilized = yes
-		year = 1865
-		NOT = { has_country_flag = tier_4 }
-	}
-	mean_time_to_happen = {
-		days = 1
-	}
-	option = {
-		name = "EVTOPTA880300"
-		set_country_flag = tier_4
-	}
-}
-
-country_event = {
-	id = 880305
-	title = "EVTNAME88035"
-	desc = "EVTDESC880300"
-	picture = "Upperhouse"
-	trigger = {
-		civilized = yes
-		year = 1880
-		NOT = { has_country_flag = tier_5 }
-	}
-	mean_time_to_happen = {
-		days = 1
-	}
-	option = {
-		name = "EVTOPTA880300"
-		set_country_flag = tier_5
-	}
-}
-
-country_event = {
-	id = 880306
-	title = "EVTNAME88036"
-	desc = "EVTDESC880300"
-	picture = "Upperhouse"
-	trigger = {
-		civilized = yes
-		year = 1895
-		NOT = { has_country_flag = tier_6 }
-	}
-	mean_time_to_happen = {
-		days = 1
-	}
-	option = {
-		name = "EVTOPTA880300"
-		set_country_flag = tier_6
 	}
 }
 

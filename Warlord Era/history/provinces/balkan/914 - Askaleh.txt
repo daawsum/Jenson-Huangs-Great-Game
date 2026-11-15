@@ -1,6 +1,6 @@
-owner = XAE
-controller = XAE
-add_core = XAE
+owner = TUR
+controller = TUR
+add_core = TUR
 add_core = EGY
 trade_goods = iron
 life_rating = 35

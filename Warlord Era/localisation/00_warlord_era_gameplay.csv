@@ -102,6 +102,20 @@ constitutional_parliament;National Assembly;;;;;;;;;;;;;x
 desc_constitutional_parliament;A constitution that binds the generals.;;;;;;;;;;;;;x
 clique_truce;Truce with a Rival;;;;;;;;;;;;;x
 desc_clique_truce;The old feud is set aside.;;;;;;;;;;;;;x
+persianate_revival;Persianate Revival;;;;;;;;;;;;;x
+desc_persianate_revival;Persian is the language of school, court and bazaar across the empire.;;;;;;;;;;;;;x
+khalsa_raj_order;Order of the Khalsa Raj;;;;;;;;;;;;;x
+desc_khalsa_raj_order;One law and one school system from Kabul to Delhi.;;;;;;;;;;;;;x
+taiwanese_maritime_heritage;Taiwanese Maritime Heritage;;;;;;;;;;;;;x
+desc_taiwanese_maritime_heritage;Formosa has lived by the sea since Koxinga's fleets: its captains, its yards and its navigators are the best in the China seas.;;;;;;;;;;;;;x
+maritime_hegemon;Maritime Hegemon;;;;;;;;;;;;;x
+desc_maritime_hegemon;Formosa's schools turn out navigators and its squadrons keep the sea far from any friendly port.;;;;;;;;;;;;;x
+golden_peninsula;The Golden Peninsula;;;;;;;;;;;;;x
+desc_golden_peninsula;Suvarnabhumi, the Land of Gold: every ship that rounds the cape brings settlers.;;;;;;;;;;;;;x
+continental_lessons;The Realm United;;;;;;;;;;;;;x
+desc_continental_lessons;One government commands every shipyard and school in the islands.;;;;;;;;;;;;;x
+taiwanese_dream;The Taiwanese Dream;;;;;;;;;;;;;x
+desc_taiwanese_dream;A new land for anyone willing to cross the strait: free soil, honest officials, and mines and mills that never stop.;;;;;;;;;;;;;x
 trait_ZHL;Beiyang Army;;;;;;;;;;;;;x
 desc_trait_ZHL;The best-drilled divisions in the north.;;;;;;;;;;;;;x
 trait_FTN;Mukden Arsenal;;;;;;;;;;;;;x
@@ -355,9 +369,9 @@ form_manchuria_desc;With Mukden, Jilin, Qiqihar in our hands we can proclaim Man
 form_mongol_empire_title;Proclaim the Mongol Empire;;;;;;;;;;;;;x
 form_mongol_empire_desc;Urga, Beijing, Urumqi and Mukden bow to the Khan. Restore the empire of Chinggis.;;;;;;;;;;;;;x
 form_khalsa_raj_title;Proclaim the Khalsa Raj;;;;;;;;;;;;;x
-form_khalsa_raj_desc;From Kabul to Delhi the Khalsa rules. Proclaim the Raj.;;;;;;;;;;;;;x
+form_khalsa_raj_desc;From Kabul to Delhi the Khalsa rules. Proclaim the Raj: its schools and its courts will make one people of the north.;;;;;;;;;;;;;x
 form_persian_empire_title;Proclaim the Persian Empire;;;;;;;;;;;;;x
-form_persian_empire_desc;Tehran, Baghdad, Herat and Baku are ours again. The empire of Nader Shah is restored.;;;;;;;;;;;;;x
+form_persian_empire_desc;Baku, Kurdistan and Tashkent are ours. The empire of Nader Shah is restored, and Persian is again the tongue of every court from the Tigris to the Syr Darya.;;;;;;;;;;;;;x
 form_india_title;Proclaim India;;;;;;;;;;;;;x
 form_india_desc;With Delhi, Calcutta, Bombay, Madras in our hands we can proclaim India.;;;;;;;;;;;;;x
 form_commonwealth_title;Proclaim the Commonwealth;;;;;;;;;;;;;x
@@ -389,61 +403,61 @@ start_new_life_movement_desc;A campaign for discipline and public morals.;;;;;;;
 open_silver_mint_title;Open a Silver Dollar Mint;;;;;;;;;;;;;x
 open_silver_mint_desc;Strike one trusted coin for the whole clique.;;;;;;;;;;;;;x
 pacify_tibet_title;Assert Suzerainty over Tibet;;;;;;;;;;;;;x
-pacify_tibet_desc;Claim the roof of the world for the nation.;;;;;;;;;;;;;x
+pacify_tibet_desc;Claim the roof of the world for the nation. (+3 infamy);;;;;;;;;;;;;x
 reclaim_outer_mongolia_title;Reclaim Outer Mongolia;;;;;;;;;;;;;x
-reclaim_outer_mongolia_desc;The steppe was ours under the Qing and will be again.;;;;;;;;;;;;;x
+reclaim_outer_mongolia_desc;The steppe was ours under the Qing and will be again. (+3 infamy);;;;;;;;;;;;;x
 claim_korea_title;Claim the Korean Tributary;;;;;;;;;;;;;x
-claim_korea_desc;Korea paid tribute to Beijing, it shall pay it to us.;;;;;;;;;;;;;x
+claim_korea_desc;Korea paid tribute to Beijing, it shall pay it to us. (+1 infamy);;;;;;;;;;;;;x
 claim_annam_title;Claim the Annamese Tributary;;;;;;;;;;;;;x
-claim_annam_desc;The southern kingdom once sent tribute north.;;;;;;;;;;;;;x
+claim_annam_desc;The southern kingdom once sent tribute north. (+1 infamy);;;;;;;;;;;;;x
 expand_fauj_i_khas_title;Expand the Fauj-i-Khas;;;;;;;;;;;;;x
 expand_fauj_i_khas_desc;Raise new brigades on the French model.;;;;;;;;;;;;;x
 hire_european_generals_title;Hire European Generals;;;;;;;;;;;;;x
 hire_european_generals_desc;Veterans of Napoleon seek employment at Lahore.;;;;;;;;;;;;;x
 seize_the_khyber_title;Seize the Khyber;;;;;;;;;;;;;x
-seize_the_khyber_desc;The road to Kabul lies through Peshawar. Claim everything beyond it.;;;;;;;;;;;;;x
+seize_the_khyber_desc;The road to Kabul lies through Peshawar. Claim everything beyond it. (+3 infamy);;;;;;;;;;;;;x
 claim_hindustan_title;Claim Hindustan;;;;;;;;;;;;;x
-claim_hindustan_desc;The Khalsa shall rule from the Indus to the Ganges.;;;;;;;;;;;;;x
+claim_hindustan_desc;The Khalsa shall rule from the Indus to the Ganges. (+3 infamy);;;;;;;;;;;;;x
 conquer_sindh_title;March on Sindh;;;;;;;;;;;;;x
-conquer_sindh_desc;The Amirs of Sindh block our road to the sea.;;;;;;;;;;;;;x
+conquer_sindh_desc;The Amirs of Sindh block our road to the sea. (+3 infamy);;;;;;;;;;;;;x
 dogra_expedition_title;The Dogra Expedition;;;;;;;;;;;;;x
-dogra_expedition_desc;Send Zorawar Singh over the passes into Ladakh and Tibet.;;;;;;;;;;;;;x
+dogra_expedition_desc;Send Zorawar Singh over the passes into Ladakh and Tibet. (+1 infamy);;;;;;;;;;;;;x
 proclaim_nizam_e_jadid_title;Expand the Nizam-e Jadid;;;;;;;;;;;;;x
 proclaim_nizam_e_jadid_desc;Enlarge the new model army.;;;;;;;;;;;;;x
 found_dar_ul_funun_title;Found the Dar ul-Funun;;;;;;;;;;;;;x
 found_dar_ul_funun_desc;A polytechnic in Tehran to train officers, doctors and engineers.;;;;;;;;;;;;;x
 reclaim_herat_title;Reclaim Herat;;;;;;;;;;;;;x
-reclaim_herat_desc;Herat is the key to Khorasan and was always Persian.;;;;;;;;;;;;;x
+reclaim_herat_desc;Herat is the key to Khorasan and was always Persian. (+3 infamy);;;;;;;;;;;;;x
 claim_mesopotamia_title;Claim Mesopotamia;;;;;;;;;;;;;x
-claim_mesopotamia_desc;The shrine cities of Najaf and Karbala belong under the Shah's protection.;;;;;;;;;;;;;x
+claim_mesopotamia_desc;The shrine cities of Najaf and Karbala belong under the Shah's protection. (+3 infamy);;;;;;;;;;;;;x
 claim_the_caucasus_title;Reclaim the Caucasus;;;;;;;;;;;;;x
-claim_the_caucasus_desc;Undo the treaties of Gulistan and Turkmenchay.;;;;;;;;;;;;;x
+claim_the_caucasus_desc;Undo the treaties of Gulistan and Turkmenchay. (+2 infamy);;;;;;;;;;;;;x
 subdue_the_khanates_title;Subdue the Khanates;;;;;;;;;;;;;x
-subdue_the_khanates_desc;Khiva and Bukhara raid our borders for slaves. End it.;;;;;;;;;;;;;x
+subdue_the_khanates_desc;Khiva and Bukhara raid our borders for slaves. End it. (+2 infamy);;;;;;;;;;;;;x
+mongol_felt_tents_title;Khan of All Who Live in Felt Tents;;;;;;;;;;;;;x
+mongol_felt_tents_desc;Chinggis took that title when the steppe peoples swore to him. The Kazakhs, Kirghiz, Uzbeks, Turkmen, Tajiks and Uighurs are of the same world as we are: they ride in the horde as equals.;;;;;;;;;;;;;x
+mongol_scourge_of_the_north_title;Scourge of the North;;;;;;;;;;;;;x
+mongol_scourge_of_the_north_desc;The forest peoples of Siberia and the Manchu banners were our subjects and our kin by marriage before they were anyone else's. They ride with us again.;;;;;;;;;;;;;x
 call_the_kurultai_title;Call the Great Kurultai;;;;;;;;;;;;;x
 call_the_kurultai_desc;Summon every banner prince to Urga and have them swear to one Khan.;;;;;;;;;;;;;x
 revive_the_tumens_title;Revive the Tumens;;;;;;;;;;;;;x
 revive_the_tumens_desc;Restore the decimal levy of Chinggis.;;;;;;;;;;;;;x
 claim_inner_mongolia_title;Claim Inner Mongolia;;;;;;;;;;;;;x
-claim_inner_mongolia_desc;The banners south of the Gobi are our kin.;;;;;;;;;;;;;x
+claim_inner_mongolia_desc;The banners south of the Gobi are our kin. (+2 infamy);;;;;;;;;;;;;x
 ride_on_beijing_title;Ride on Beijing;;;;;;;;;;;;;x
-ride_on_beijing_desc;Kublai's capital waits behind its walls.;;;;;;;;;;;;;x
+ride_on_beijing_desc;Kublai's capital waits behind its walls. (+3 infamy);;;;;;;;;;;;;x
 claim_dzungaria_title;Claim Dzungaria;;;;;;;;;;;;;x
-claim_dzungaria_desc;The western Mongols' pastures were stolen by the Qing.;;;;;;;;;;;;;x
+claim_dzungaria_desc;The western Mongols' pastures were stolen by the Qing. (+3 infamy);;;;;;;;;;;;;x
 claim_buryatia_title;Gather the Buryats;;;;;;;;;;;;;x
-claim_buryatia_desc;The forest Mongols by Lake Baikal shall join the horde.;;;;;;;;;;;;;x
+claim_buryatia_desc;The forest Mongols by Lake Baikal shall join the horde. (+2 infamy);;;;;;;;;;;;;x
 hire_chinese_advisors_title;Hire Chinese Advisors;;;;;;;;;;;;;x
 hire_chinese_advisors_desc;Only the warlords possess modern arms and machines. Pay their experts to teach us.;;;;;;;;;;;;;x
 sonno_joi_dec_title;Sonno Joi;;;;;;;;;;;;;x
 sonno_joi_dec_desc;Rally the domains behind the Emperor against the Chinese fleets.;;;;;;;;;;;;;x
 open_nanyang_ports_title;Open the Ports to Chinese Settlers;;;;;;;;;;;;;x
 open_nanyang_ports_desc;Chinese traders, miners and farmers will enrich the kingdom.;;;;;;;;;;;;;x
-adopt_three_principles_title;Adopt the Three Principles;;;;;;;;;;;;;x
-adopt_three_principles_desc;Nationalism, democracy and the people's livelihood become the creed of the state. §RWe can then never choose: Restore the Confucian Order or Grant a Provincial Constitution.§!;;;;;;;;;;;;;x
-restore_confucian_order_title;Restore the Confucian Order;;;;;;;;;;;;;x
-restore_confucian_order_desc;Reopen the temples and the examinations. §RWe can then never choose: Adopt the Three Principles or Grant a Provincial Constitution.§!;;;;;;;;;;;;;x
 grant_provincial_constitution_title;Grant a Provincial Constitution;;;;;;;;;;;;;x
-grant_provincial_constitution_desc;Promise the gentry an assembly and self-rule: our province first, the nation later. §RWe can then never choose: Adopt the Three Principles or Restore the Confucian Order.§!;;;;;;;;;;;;;x
+grant_provincial_constitution_desc;Promise the gentry an assembly and self-rule: our province first, the nation later.;;;;;;;;;;;;;x
 opium_monopoly_dec_title;Establish an Opium Monopoly;;;;;;;;;;;;;x
 opium_monopoly_dec_desc;A suppression bureau that sells what it confiscates. The money is very good. §RWe can then never choose: Burn the Opium.§!;;;;;;;;;;;;;x
 opium_suppression_dec_title;Burn the Opium;;;;;;;;;;;;;x
@@ -488,6 +502,182 @@ build_party_state_title;Build the Party-State;;;;;;;;;;;;;x
 build_party_state_desc;One party, one leader, one army: organise the whole people. §RWe can then never choose: Convene a National Assembly.§!;;;;;;;;;;;;;x
 convene_parliament_title;Convene a National Assembly;;;;;;;;;;;;;x
 convene_parliament_desc;Elections, a cabinet and a constitution that binds the generals. §RWe can then never choose: Build the Party-State.§!;;;;;;;;;;;;;x
+taiwan_claims_title;The Two Islands and the River Mouth;;;;;;;;;;;;;x
+taiwan_claims_desc;Hainan is Formosa's sister island, and whoever holds Shanghai holds the trade of the Yangtze. Claim Hainan as our own and prepare to take Shanghai itself. (+3 infamy);;;;;;;;;;;;;x
+taiwan_great_game_title;The Great Game;;;;;;;;;;;;;x
+taiwan_great_game_desc;With Hainan and Shanghai in hand, Formosa is a mainland power. Claim Guangdong and take the Cantonese into the nation: the contest for China itself begins. §RWe can then never choose: The Maritime Hegemon.§! (+2 infamy);;;;;;;;;;;;;x
+taiwan_maritime_hegemon_title;The Maritime Hegemon;;;;;;;;;;;;;x
+taiwan_maritime_hegemon_desc;With Hainan and Shanghai in hand, Formosa commands the China seas. Turn south instead: claim Java, take the Javanese into the nation, and school a generation of navigators. §RWe can then never choose: The Great Game.§! (+2 infamy);;;;;;;;;;;;;x
+taiwan_restore_the_ming_title;Restore the Ming;;;;;;;;;;;;;x
+taiwan_restore_the_ming_desc;Guangdong is ours. Koxinga held Formosa in the name of the Ming, we shall finish what he began. The peoples of the southern coast and of the Yellow River are our own, and the state takes the old dynasty's name.;;;;;;;;;;;;;x
+taiwan_southern_ocean_title;Lords of the Southern Ocean;;;;;;;;;;;;;x
+taiwan_southern_ocean_desc;Batavia is ours and no fleet contests these seas. Our captains have planted the flag at Sydney cove and on the great island of Madagascar: move the seat of government to the new southern continent and proclaim the realm Koxinga dreamed of. (+2 infamy);;;;;;;;;;;;;x
+form_suvarnabhumi_title;Proclaim Suvarnabhumi;;;;;;;;;;;;;x
+form_suvarnabhumi_desc;Bangkok, Johor Bahru and Hanoi answer to one court. Siamese, Malays and Vietnamese shall be one realm, the Land of Gold of the old books, and the whole world's migrants are welcome in it.;;;;;;;;;;;;;x
+japan_continental_victory_title;The Realm United;;;;;;;;;;;;;x
+japan_continental_victory_desc;Every domain of the islands answers to one government at last. With the whole country's rice, silver and shipwrights behind it, Japan can learn everything the cliques know.;;;;;;;;;;;;;x
+japan_accept_koreans_title;One Realm across the Strait;;;;;;;;;;;;;x
+japan_accept_koreans_desc;The peninsula and the islands share scripts, sages and enemies. Declare the Koreans subjects equal before the Emperor.;;;;;;;;;;;;;x
+ZHL_road_a;Beyond the Shanhai Pass;;;;;;;;;;;;;x
+desc_ZHL_road_a;The Qing came through the pass to take Beijing. We go out through it: Manchuria to the Amur is declared ours.;;;;;;;;;;;;;x
+ZHL_road_b;The Tribute Restored;;;;;;;;;;;;;x
+desc_ZHL_road_b;Seoul and Urga once sent envoys to kneel in Beijing. They will again, or be garrisoned: Korea and Mongolia are claimed for the capital.;;;;;;;;;;;;;x
+ZHL_road_a_title;Beyond the Shanhai Pass;;;;;;;;;;;;;x
+ZHL_road_a_desc;The Qing came through the pass to take Beijing. We go out through it: Manchuria to the Amur is declared ours. §RWe can then never choose: The Tribute Restored.§! (+2 infamy);;;;;;;;;;;;;x
+ZHL_road_b_title;The Tribute Restored;;;;;;;;;;;;;x
+ZHL_road_b_desc;Seoul and Urga once sent envoys to kneel in Beijing. They will again, or be garrisoned: Korea and Mongolia are claimed for the capital. §RWe can then never choose: Beyond the Shanhai Pass.§! (+2 infamy);;;;;;;;;;;;;x
+FTN_road_a;Enter the Pass;;;;;;;;;;;;;x
+desc_FTN_road_a;Every master of Manchuria has ended by riding through the Shanhai Pass. Zhili and the capital are ours by right of the strongest army.;;;;;;;;;;;;;x
+FTN_road_b;The Great Northern Wilderness;;;;;;;;;;;;;x
+desc_FTN_road_b;Turn our backs on the quarrels of China. The forests from the Amur to the Arctic are empty, rich and unguarded, and Korea lies open beside them.;;;;;;;;;;;;;x
+FTN_road_a_title;Enter the Pass;;;;;;;;;;;;;x
+FTN_road_a_desc;Every master of Manchuria has ended by riding through the Shanhai Pass. Zhili and the capital are ours by right of the strongest army. §RWe can then never choose: The Great Northern Wilderness.§! (+2 infamy);;;;;;;;;;;;;x
+FTN_road_b_title;The Great Northern Wilderness;;;;;;;;;;;;;x
+FTN_road_b_desc;Turn our backs on the quarrels of China. The forests from the Amur to the Arctic are empty, rich and unguarded, and Korea lies open beside them. §RWe can then never choose: Enter the Pass.§! (+2 infamy);;;;;;;;;;;;;x
+AHC_road_a;The Huai Army Marches Again;;;;;;;;;;;;;x
+desc_AHC_road_a;Li Hongzhang's Huai Army took Jiangnan from the Taiping. It shall take it again: Nanjing, Suzhou and Shanghai are claimed.;;;;;;;;;;;;;x
+AHC_road_b;Regent of the North;;;;;;;;;;;;;x
+desc_AHC_road_b;Duan Qirui ruled Beijing through loans and bayonets. March on the plain: Henan, Xuzhou and Shandong first, the capital after.;;;;;;;;;;;;;x
+AHC_road_a_title;The Huai Army Marches Again;;;;;;;;;;;;;x
+AHC_road_a_desc;Li Hongzhang's Huai Army took Jiangnan from the Taiping. It shall take it again: Nanjing, Suzhou and Shanghai are claimed. §RWe can then never choose: Regent of the North.§! (+2 infamy);;;;;;;;;;;;;x
+AHC_road_b_title;Regent of the North;;;;;;;;;;;;;x
+AHC_road_b_desc;Duan Qirui ruled Beijing through loans and bayonets. March on the plain: Henan, Xuzhou and Shandong first, the capital after. §RWe can then never choose: The Huai Army Marches Again.§! (+2 infamy);;;;;;;;;;;;;x
+SXI_road_a;The Model Province;;;;;;;;;;;;;x
+desc_SXI_road_a;Let the others bleed each other white. Behind the passes we build arsenals, schools and a narrow-gauge railway no invader's trains can use.;;;;;;;;;;;;;x
+SXI_road_b;Out of the Passes;;;;;;;;;;;;;x
+desc_SXI_road_b;Shanxi merchants financed half of China, Shanxi soldiers can own it. Down onto the Wei valley and out over the Great Wall.;;;;;;;;;;;;;x
+SXI_road_a_title;The Model Province;;;;;;;;;;;;;x
+SXI_road_a_desc;Let the others bleed each other white. Behind the passes we build arsenals, schools and a narrow-gauge railway no invader's trains can use. §RWe can then never choose: Out of the Passes.§!;;;;;;;;;;;;;x
+SXI_road_b_title;Out of the Passes;;;;;;;;;;;;;x
+SXI_road_b_desc;Shanxi merchants financed half of China, Shanxi soldiers can own it. Down onto the Wei valley and out over the Great Wall. §RWe can then never choose: The Model Province.§! (+2 infamy);;;;;;;;;;;;;x
+GMJ_road_a;The Long March West;;;;;;;;;;;;;x
+desc_GMJ_road_a;The Northwest Army was made for empty country. Take the Hexi corridor, the oases and the Muslim marches as far as the Pamirs.;;;;;;;;;;;;;x
+GMJ_road_b;The Christian General's Crusade;;;;;;;;;;;;;x
+desc_GMJ_road_b;Feng Yuxiang baptised his regiments with a fire hose. Now he will cleanse the Central Plain of warlords: Shanxi and Henan are claimed for the people's army.;;;;;;;;;;;;;x
+GMJ_road_a_title;The Long March West;;;;;;;;;;;;;x
+GMJ_road_a_desc;The Northwest Army was made for empty country. Take the Hexi corridor, the oases and the Muslim marches as far as the Pamirs. §RWe can then never choose: The Christian General's Crusade.§! (+2 infamy);;;;;;;;;;;;;x
+GMJ_road_b_title;The Christian General's Crusade;;;;;;;;;;;;;x
+GMJ_road_b_desc;Feng Yuxiang baptised his regiments with a fire hose. Now he will cleanse the Central Plain of warlords: Shanxi and Henan are claimed for the people's army. §RWe can then never choose: The Long March West.§! (+2 infamy);;;;;;;;;;;;;x
+SDG_road_a;The Yellow Sea Realm;;;;;;;;;;;;;x
+desc_SDG_road_a;From Qingdao and Weihaiwei the sea is ours. Korea is one night's sail away, and beyond it the islands of Japan.;;;;;;;;;;;;;x
+SDG_road_b;Heirs of Qi and Lu;;;;;;;;;;;;;x
+desc_SDG_road_b;This is the soil of Confucius and Mencius, and their country ran wider than our borders. Take the old states of the plain back.;;;;;;;;;;;;;x
+SDG_road_a_title;The Yellow Sea Realm;;;;;;;;;;;;;x
+SDG_road_a_desc;From Qingdao and Weihaiwei the sea is ours. Korea is one night's sail away, and beyond it the islands of Japan. §RWe can then never choose: Heirs of Qi and Lu.§! (+2 infamy);;;;;;;;;;;;;x
+SDG_road_b_title;Heirs of Qi and Lu;;;;;;;;;;;;;x
+SDG_road_b_desc;This is the soil of Confucius and Mencius, and their country ran wider than our borders. Take the old states of the plain back. §RWe can then never choose: The Yellow Sea Realm.§! (+2 infamy);;;;;;;;;;;;;x
+HNA_road_a;Hunting the Deer on the Central Plain;;;;;;;;;;;;;x
+desc_HNA_road_a;Whoever takes the plain takes the realm, so it has been since the Zhou. Every army that borders us is hunting the same deer: strike first, at Shandong and Shanxi.;;;;;;;;;;;;;x
+HNA_road_b;South to the Han River;;;;;;;;;;;;;x
+desc_HNA_road_b;The plain feeds armies but cannot pay them. Hankou can: take the middle Yangtze and its customs houses.;;;;;;;;;;;;;x
+HNA_road_a_title;Hunting the Deer on the Central Plain;;;;;;;;;;;;;x
+HNA_road_a_desc;Whoever takes the plain takes the realm, so it has been since the Zhou. Every army that borders us is hunting the same deer: strike first, at Shandong and Shanxi. §RWe can then never choose: South to the Han River.§! (+2 infamy);;;;;;;;;;;;;x
+HNA_road_b_title;South to the Han River;;;;;;;;;;;;;x
+HNA_road_b_desc;The plain feeds armies but cannot pay them. Hankou can: take the middle Yangtze and its customs houses. §RWe can then never choose: Hunting the Deer on the Central Plain.§! (+2 infamy);;;;;;;;;;;;;x
+JSU_road_a;The League of Seven Provinces;;;;;;;;;;;;;x
+desc_JSU_road_a;Sun Chuanfang called himself commander of five provinces. Make it seven: Zhejiang, Fujian, Jiangxi and Anhui answer to Nanjing.;;;;;;;;;;;;;x
+JSU_road_b;The Treaty Port Empire;;;;;;;;;;;;;x
+desc_JSU_road_b;Nanjing's wealth is the river's mouth. Seize Shanghai, then do to others what the treaty powers did to us: the Philippines and the Malay ports are claimed.;;;;;;;;;;;;;x
+JSU_road_a_title;The League of Seven Provinces;;;;;;;;;;;;;x
+JSU_road_a_desc;Sun Chuanfang called himself commander of five provinces. Make it seven: Zhejiang, Fujian, Jiangxi and Anhui answer to Nanjing. §RWe can then never choose: The Treaty Port Empire.§! (+2 infamy);;;;;;;;;;;;;x
+JSU_road_b_title;The Treaty Port Empire;;;;;;;;;;;;;x
+JSU_road_b_desc;Nanjing's wealth is the river's mouth. Seize Shanghai, then do to others what the treaty powers did to us: the Philippines and the Malay ports are claimed. §RWe can then never choose: The League of Seven Provinces.§! (+2 infamy);;;;;;;;;;;;;x
+ZHJ_road_a;The Zhoushan Thalassocracy;;;;;;;;;;;;;x
+desc_ZHJ_road_a;Ningbo's captains traded to Nagasaki and Manila before any European did. Formosa, the Ryukyus' masters in Japan and the Philippines are claimed for the fleet.;;;;;;;;;;;;;x
+ZHJ_road_b;Heirs of Wuyue;;;;;;;;;;;;;x
+desc_ZHJ_road_b;The kingdom of Wuyue held the whole delta and the Fujian coast in peace while the north burned. Take its old borders by force.;;;;;;;;;;;;;x
+ZHJ_road_a_title;The Zhoushan Thalassocracy;;;;;;;;;;;;;x
+ZHJ_road_a_desc;Ningbo's captains traded to Nagasaki and Manila before any European did. Formosa, the Ryukyus' masters in Japan and the Philippines are claimed for the fleet. §RWe can then never choose: Heirs of Wuyue.§! (+2 infamy);;;;;;;;;;;;;x
+ZHJ_road_b_title;Heirs of Wuyue;;;;;;;;;;;;;x
+ZHJ_road_b_desc;The kingdom of Wuyue held the whole delta and the Fujian coast in peace while the north burned. Take its old borders by force. §RWe can then never choose: The Zhoushan Thalassocracy.§! (+2 infamy);;;;;;;;;;;;;x
+FUJ_road_a;The Lanfang Republic;;;;;;;;;;;;;x
+desc_FUJ_road_a;Hakka miners once ruled a republic of their own in Borneo. Fujian's sons are already in every port of the southern seas: follow them with a fleet and proclaim the republic again, from Brunei to Manila.;;;;;;;;;;;;;x
+FUJ_road_b;The Min-Yue Confederacy;;;;;;;;;;;;;x
+desc_FUJ_road_b;Before the Han came there was Minyue and Nanyue, one coast from the Min river to Hainan. Canton, Formosa and Hainan belong with us.;;;;;;;;;;;;;x
+FUJ_road_a_title;The Lanfang Republic;;;;;;;;;;;;;x
+FUJ_road_a_desc;Hakka miners once ruled a republic of their own in Borneo. Fujian's sons are already in every port of the southern seas: follow them with a fleet and proclaim the republic again, from Brunei to Manila. §RWe can then never choose: The Min-Yue Confederacy.§! (+2 infamy);;;;;;;;;;;;;x
+FUJ_road_b_title;The Min-Yue Confederacy;;;;;;;;;;;;;x
+FUJ_road_b_desc;Before the Han came there was Minyue and Nanyue, one coast from the Min river to Hainan. Canton, Formosa and Hainan belong with us. §RWe can then never choose: The Lanfang Republic.§! (+2 infamy);;;;;;;;;;;;;x
+GDG_road_a;The Northern Expedition;;;;;;;;;;;;;x
+desc_GDG_road_a;Swear the army at Whampoa and march: Hunan, Jiangxi and Hubei first, then the Yangtze. The revolution will not stay in one province.;;;;;;;;;;;;;x
+GDG_road_b;The Canton System Abroad;;;;;;;;;;;;;x
+desc_GDG_road_b;For a century every foreign ship was made to trade at Canton alone. Now Canton's merchants will hold the foreign ports: Hanoi, Singapore and Bangkok.;;;;;;;;;;;;;x
+GDG_road_a_title;The Northern Expedition;;;;;;;;;;;;;x
+GDG_road_a_desc;Swear the army at Whampoa and march: Hunan, Jiangxi and Hubei first, then the Yangtze. The revolution will not stay in one province. §RWe can then never choose: The Canton System Abroad.§! (+2 infamy);;;;;;;;;;;;;x
+GDG_road_b_title;The Canton System Abroad;;;;;;;;;;;;;x
+GDG_road_b_desc;For a century every foreign ship was made to trade at Canton alone. Now Canton's merchants will hold the foreign ports: Hanoi, Singapore and Bangkok. §RWe can then never choose: The Northern Expedition.§! (+2 infamy);;;;;;;;;;;;;x
+GXI_road_a;The Annam Protectorate;;;;;;;;;;;;;x
+desc_GXI_road_a;The Black Flags of Guangxi fought for Annam when the court would not. Go back over the border and stay: all Vietnam is claimed, and Siam beyond it.;;;;;;;;;;;;;x
+GXI_road_b;The New Guangxi Clique;;;;;;;;;;;;;x
+desc_GXI_road_b;Li Zongren and Bai Chongxi made a poor province the best-drilled in China. Its army deserves a richer country: Canton, Hunan and Guizhou.;;;;;;;;;;;;;x
+GXI_road_a_title;The Annam Protectorate;;;;;;;;;;;;;x
+GXI_road_a_desc;The Black Flags of Guangxi fought for Annam when the court would not. Go back over the border and stay: all Vietnam is claimed, and Siam beyond it. §RWe can then never choose: The New Guangxi Clique.§! (+2 infamy);;;;;;;;;;;;;x
+GXI_road_b_title;The New Guangxi Clique;;;;;;;;;;;;;x
+GXI_road_b_desc;Li Zongren and Bai Chongxi made a poor province the best-drilled in China. Its army deserves a richer country: Canton, Hunan and Guizhou. §RWe can then never choose: The Annam Protectorate.§! (+2 infamy);;;;;;;;;;;;;x
+HNC_road_a;Hunan for the Hunanese;;;;;;;;;;;;;x
+desc_HNC_road_a;A provincial constitution, a provincial army, and no northern or southern troops on our soil ever again. Let them come and try the passes.;;;;;;;;;;;;;x
+HNC_road_b;The Xiang Army Reborn;;;;;;;;;;;;;x
+desc_HNC_road_b;Zeng Guofan raised the Xiang Army from these villages and it conquered half of China. Raise it again: Hubei, Jiangxi and Guizhou.;;;;;;;;;;;;;x
+HNC_road_a_title;Hunan for the Hunanese;;;;;;;;;;;;;x
+HNC_road_a_desc;A provincial constitution, a provincial army, and no northern or southern troops on our soil ever again. Let them come and try the passes. §RWe can then never choose: The Xiang Army Reborn.§!;;;;;;;;;;;;;x
+HNC_road_b_title;The Xiang Army Reborn;;;;;;;;;;;;;x
+HNC_road_b_desc;Zeng Guofan raised the Xiang Army from these villages and it conquered half of China. Raise it again: Hubei, Jiangxi and Guizhou. §RWe can then never choose: Hunan for the Hunanese.§! (+2 infamy);;;;;;;;;;;;;x
+HBE_road_a;Thoroughfare of Nine Provinces;;;;;;;;;;;;;x
+desc_HBE_road_a;Every road and river in China crosses at Wuhan. Whoever sits here may reach in any direction: Henan, Hunan and Jiangxi are claimed.;;;;;;;;;;;;;x
+HBE_road_b;Up the Three Gorges;;;;;;;;;;;;;x
+desc_HBE_road_b;Liu Bei went up the river from Jingzhou and won a kingdom. Our gunboats can pass the gorges now: Chongqing and Sichuan are claimed.;;;;;;;;;;;;;x
+HBE_road_a_title;Thoroughfare of Nine Provinces;;;;;;;;;;;;;x
+HBE_road_a_desc;Every road and river in China crosses at Wuhan. Whoever sits here may reach in any direction: Henan, Hunan and Jiangxi are claimed. §RWe can then never choose: Up the Three Gorges.§! (+2 infamy);;;;;;;;;;;;;x
+HBE_road_b_title;Up the Three Gorges;;;;;;;;;;;;;x
+HBE_road_b_desc;Liu Bei went up the river from Jingzhou and won a kingdom. Our gunboats can pass the gorges now: Chongqing and Sichuan are claimed. §RWe can then never choose: Thoroughfare of Nine Provinces.§! (+2 infamy);;;;;;;;;;;;;x
+SZC_road_a;The Road to Lhasa;;;;;;;;;;;;;x
+desc_SZC_road_a;Zhao Erfeng marched from Chengdu to Lhasa with two thousand men. We have more. The marches, Kokonor and Tibet itself are claimed.;;;;;;;;;;;;;x
+SZC_road_b;Zhuge Liang's Northern Expeditions;;;;;;;;;;;;;x
+desc_SZC_road_b;Six times the Chancellor of Shu went out through the Qinling passes and six times he failed. The seventh expedition is ours: Hanzhong, the Wei valley and the north-west.;;;;;;;;;;;;;x
+SZC_road_a_title;The Road to Lhasa;;;;;;;;;;;;;x
+SZC_road_a_desc;Zhao Erfeng marched from Chengdu to Lhasa with two thousand men. We have more. The marches, Kokonor and Tibet itself are claimed. §RWe can then never choose: Zhuge Liang's Northern Expeditions.§! (+2 infamy);;;;;;;;;;;;;x
+SZC_road_b_title;Zhuge Liang's Northern Expeditions;;;;;;;;;;;;;x
+SZC_road_b_desc;Six times the Chancellor of Shu went out through the Qinling passes and six times he failed. The seventh expedition is ours: Hanzhong, the Wei valley and the north-west. §RWe can then never choose: The Road to Lhasa.§! (+2 infamy);;;;;;;;;;;;;x
+YNN_road_a;The Kingdom of Nanzhao;;;;;;;;;;;;;x
+desc_YNN_road_a;Nanzhao ruled from Dali to the Irrawaddy and sacked Chengdu. Its heirs go south again: Burma and Siam are claimed for a kingdom of the mountains.;;;;;;;;;;;;;x
+YNN_road_b;The National Protection War;;;;;;;;;;;;;x
+desc_YNN_road_b;When Yuan Shikai made himself emperor it was Yunnan that marched to stop him. March again, down into Sichuan, Guizhou and Guangxi.;;;;;;;;;;;;;x
+YNN_road_a_title;The Kingdom of Nanzhao;;;;;;;;;;;;;x
+YNN_road_a_desc;Nanzhao ruled from Dali to the Irrawaddy and sacked Chengdu. Its heirs go south again: Burma and Siam are claimed for a kingdom of the mountains. §RWe can then never choose: The National Protection War.§! (+2 infamy);;;;;;;;;;;;;x
+YNN_road_b_title;The National Protection War;;;;;;;;;;;;;x
+YNN_road_b_desc;When Yuan Shikai made himself emperor it was Yunnan that marched to stop him. March again, down into Sichuan, Guizhou and Guangxi. §RWe can then never choose: The Kingdom of Nanzhao.§! (+2 infamy);;;;;;;;;;;;;x
+GZH_road_a;The Opium Road to the Sea;;;;;;;;;;;;;x
+desc_GZH_road_a;Our one crop needs a port. Force a road through Guangxi to the gulf and hold every toll station on it.;;;;;;;;;;;;;x
+GZH_road_b;Yelang Thinks Itself Great;;;;;;;;;;;;;x
+desc_GZH_road_b;The king of Yelang asked the Han envoy whose realm was larger. Let no one laugh this time: Yunnan, Chongqing and western Hunan are claimed.;;;;;;;;;;;;;x
+GZH_road_a_title;The Opium Road to the Sea;;;;;;;;;;;;;x
+GZH_road_a_desc;Our one crop needs a port. Force a road through Guangxi to the gulf and hold every toll station on it. §RWe can then never choose: Yelang Thinks Itself Great.§! (+2 infamy);;;;;;;;;;;;;x
+GZH_road_b_title;Yelang Thinks Itself Great;;;;;;;;;;;;;x
+GZH_road_b_desc;The king of Yelang asked the Han envoy whose realm was larger. Let no one laugh this time: Yunnan, Chongqing and western Hunan are claimed. §RWe can then never choose: The Opium Road to the Sea.§! (+2 infamy);;;;;;;;;;;;;x
+XBI_road_a;Dunganistan;;;;;;;;;;;;;x
+desc_XBI_road_a;The Hui cavalry answers to no Han general. Ride west and carve a Muslim realm out of the oases: Xinjiang, Kashgaria and Kokand.;;;;;;;;;;;;;x
+XBI_road_b;Lords of the Roof of the World;;;;;;;;;;;;;x
+desc_XBI_road_b;Ma Bufang's riders broke the Tibetan tribes of Kokonor. Finish it: Qinghai, the marches and Lhasa.;;;;;;;;;;;;;x
+XBI_road_a_title;Dunganistan;;;;;;;;;;;;;x
+XBI_road_a_desc;The Hui cavalry answers to no Han general. Ride west and carve a Muslim realm out of the oases: Xinjiang, Kashgaria and Kokand. §RWe can then never choose: Lords of the Roof of the World.§! (+2 infamy);;;;;;;;;;;;;x
+XBI_road_b_title;Lords of the Roof of the World;;;;;;;;;;;;;x
+XBI_road_b_desc;Ma Bufang's riders broke the Tibetan tribes of Kokonor. Finish it: Qinghai, the marches and Lhasa. §RWe can then never choose: Dunganistan.§! (+2 infamy);;;;;;;;;;;;;x
+XIN_road_a;Protector-General of the Western Regions;;;;;;;;;;;;;x
+desc_XIN_road_a;The Han and the Tang kept a Protector-General beyond the Pamirs. Revive the office: Kashgaria, Kokand, Bukhara and Khiva.;;;;;;;;;;;;;x
+XIN_road_b;Back through the Jade Gate;;;;;;;;;;;;;x
+desc_XIN_road_b;Zuo Zongtang came out through the Jade Gate with coffins in his baggage train. We go back in the same way, for Lanzhou and Xian.;;;;;;;;;;;;;x
+XIN_road_a_title;Protector-General of the Western Regions;;;;;;;;;;;;;x
+XIN_road_a_desc;The Han and the Tang kept a Protector-General beyond the Pamirs. Revive the office: Kashgaria, Kokand, Bukhara and Khiva. (+2 infamy);;;;;;;;;;;;;x
+XIN_road_b_title;Back through the Jade Gate;;;;;;;;;;;;;x
+XIN_road_b_desc;Zuo Zongtang came out through the Jade Gate with coffins in his baggage train. We go back in the same way, for Lanzhou and Xian. (+2 infamy);;;;;;;;;;;;;x
+JXI_road_a;Down to the Sea;;;;;;;;;;;;;x
+desc_JXI_road_a;Jiangxi's porcelain and tea go to the world through other men's ports. Take them: Fujian and Zhejiang.;;;;;;;;;;;;;x
+JXI_road_b;The Nanchang Uprising;;;;;;;;;;;;;x
+desc_JXI_road_b;An army was born in Nanchang once and went on to take the country. Begin with the middle Yangtze: Wuhan and Changsha.;;;;;;;;;;;;;x
+JXI_road_a_title;Down to the Sea;;;;;;;;;;;;;x
+JXI_road_a_desc;Jiangxi's porcelain and tea go to the world through other men's ports. Take them: Fujian and Zhejiang. §RWe can then never choose: The Nanchang Uprising.§! (+2 infamy);;;;;;;;;;;;;x
+JXI_road_b_title;The Nanchang Uprising;;;;;;;;;;;;;x
+JXI_road_b_desc;An army was born in Nanchang once and went on to take the country. Begin with the middle Yangtze: Wuhan and Changsha. §RWe can then never choose: Down to the Sea.§! (+2 infamy);;;;;;;;;;;;;x
 ZHL_identity_title;Convene the Peking Parliament;;;;;;;;;;;;;x
 ZHL_identity_desc;Whoever holds the old capital speaks for China abroad. Only Zhili Clique can do this.;;;;;;;;;;;;;x
 ZHL_develop_title;Baoding Military Academy;;;;;;;;;;;;;x
@@ -495,11 +685,11 @@ ZHL_develop_desc;The school that trained a generation of northern officers.;;;;;
 ZHL_ambition_title;Break the Fengtian Menace;;;;;;;;;;;;;x
 ZHL_ambition_desc;Mukden has fallen. No army can now come through the Pass. Our rivalry with Fengtian Regency is settled.;;;;;;;;;;;;;x
 ZHL_claim_title;Assert Authority over Rehe League;;;;;;;;;;;;;x
-ZHL_claim_desc;Rehe League lies within our natural sphere. Others think the same of it, whoever moves first holds the claim.;;;;;;;;;;;;;x
+ZHL_claim_desc;Rehe League lies within our natural sphere. Others think the same of it, whoever moves first holds the claim. (+3 infamy);;;;;;;;;;;;;x
 ZHL_accord_title;Sign an Accord with Shandong Military Government;;;;;;;;;;;;;x
 ZHL_accord_desc;Shandong Military Government and we share enemies and little else, which is enough. With good relations the accord can be signed: an alliance, and joint customs and intelligence for both.;;;;;;;;;;;;;x
 ZHL_denounce_title;Denounce Fengtian Regency;;;;;;;;;;;;;x
-ZHL_denounce_desc;Publish the telegram: Fengtian Regency is a traitor to the nation. Our officers will fight them with a will, and the other cliques will take sides.;;;;;;;;;;;;;x
+ZHL_denounce_desc;Publish the telegram: Fengtian Regency is a traitor to the nation. Our officers will fight them with a will, and the other cliques will take sides. (+1 infamy);;;;;;;;;;;;;x
 ZHL_detente_title;Offer a Truce to Fengtian Regency;;;;;;;;;;;;;x
 ZHL_detente_desc;Send an envoy to Fengtian Regency: the feud serves neither of us while others grow. §RWe can then never denounce them, and we give up our ambition against them.§!;;;;;;;;;;;;;x
 FTN_identity_title;South Manchurian Railway Zone;;;;;;;;;;;;;x
@@ -509,11 +699,11 @@ FTN_develop_desc;Mortars, shells and an armoured train works.;;;;;;;;;;;;;x
 FTN_ambition_title;Enter the Pass;;;;;;;;;;;;;x
 FTN_ambition_desc;The Fengtian army rides into Beijing. Our rivalry with Zhili Clique is settled.;;;;;;;;;;;;;x
 FTN_claim_title;Assert Authority over Jilin Banner Lands;;;;;;;;;;;;;x
-FTN_claim_desc;Jilin Banner Lands lies within our natural sphere. Others think the same of it, whoever moves first holds the claim.;;;;;;;;;;;;;x
+FTN_claim_desc;Jilin Banner Lands lies within our natural sphere. Others think the same of it, whoever moves first holds the claim. (+3 infamy);;;;;;;;;;;;;x
 FTN_accord_title;Sign an Accord with Anhui Clique;;;;;;;;;;;;;x
 FTN_accord_desc;Anhui Clique and we share enemies and little else, which is enough. With good relations the accord can be signed: an alliance, and joint customs and intelligence for both.;;;;;;;;;;;;;x
 FTN_denounce_title;Denounce Zhili Clique;;;;;;;;;;;;;x
-FTN_denounce_desc;Publish the telegram: Zhili Clique is a traitor to the nation. Our officers will fight them with a will, and the other cliques will take sides.;;;;;;;;;;;;;x
+FTN_denounce_desc;Publish the telegram: Zhili Clique is a traitor to the nation. Our officers will fight them with a will, and the other cliques will take sides. (+1 infamy);;;;;;;;;;;;;x
 FTN_detente_title;Offer a Truce to Zhili Clique;;;;;;;;;;;;;x
 FTN_detente_desc;Send an envoy to Zhili Clique: the feud serves neither of us while others grow. §RWe can then never denounce them, and we give up our ambition against them.§!;;;;;;;;;;;;;x
 AHC_identity_title;Found the Anfu Club;;;;;;;;;;;;;x
@@ -523,11 +713,11 @@ AHC_develop_desc;Foreign money, foreign instructors, our officers.;;;;;;;;;;;;;x
 AHC_ambition_title;Seize the Southern Capital;;;;;;;;;;;;;x
 AHC_ambition_desc;Nanjing is ours and the lower Yangtze with it. Our rivalry with League of Five Provinces is settled.;;;;;;;;;;;;;x
 AHC_claim_title;Assert Authority over Xuzhou Pigtail Army;;;;;;;;;;;;;x
-AHC_claim_desc;Xuzhou Pigtail Army lies within our natural sphere. Others think the same of it, whoever moves first holds the claim.;;;;;;;;;;;;;x
+AHC_claim_desc;Xuzhou Pigtail Army lies within our natural sphere. Others think the same of it, whoever moves first holds the claim. (+3 infamy);;;;;;;;;;;;;x
 AHC_accord_title;Sign an Accord with Fengtian Regency;;;;;;;;;;;;;x
 AHC_accord_desc;Fengtian Regency and we share enemies and little else, which is enough. With good relations the accord can be signed: an alliance, and joint customs and intelligence for both.;;;;;;;;;;;;;x
 AHC_denounce_title;Denounce League of Five Provinces;;;;;;;;;;;;;x
-AHC_denounce_desc;Publish the telegram: League of Five Provinces is a traitor to the nation. Our officers will fight them with a will, and the other cliques will take sides.;;;;;;;;;;;;;x
+AHC_denounce_desc;Publish the telegram: League of Five Provinces is a traitor to the nation. Our officers will fight them with a will, and the other cliques will take sides. (+1 infamy);;;;;;;;;;;;;x
 AHC_detente_title;Offer a Truce to League of Five Provinces;;;;;;;;;;;;;x
 AHC_detente_desc;Send an envoy to League of Five Provinces: the feud serves neither of us while others grow. §RWe can then never denounce them, and we give up our ambition against them.§!;;;;;;;;;;;;;x
 JSU_identity_title;League of Five Provinces;;;;;;;;;;;;;x
@@ -537,11 +727,11 @@ JSU_develop_desc;Modern guns from the oldest arsenal on the Yangtze.;;;;;;;;;;;;
 JSU_ambition_title;Humble the Anhui Clique;;;;;;;;;;;;;x
 JSU_ambition_desc;Anqing has fallen and the river is ours to its head. Our rivalry with Anhui Clique is settled.;;;;;;;;;;;;;x
 JSU_claim_title;Assert Authority over Shanghai Free City;;;;;;;;;;;;;x
-JSU_claim_desc;Shanghai Free City lies within our natural sphere. Others think the same of it, whoever moves first holds the claim.;;;;;;;;;;;;;x
+JSU_claim_desc;Shanghai Free City lies within our natural sphere. Others think the same of it, whoever moves first holds the claim. (+3 infamy);;;;;;;;;;;;;x
 JSU_accord_title;Sign an Accord with Zhejiang Republic;;;;;;;;;;;;;x
 JSU_accord_desc;Zhejiang Republic and we share enemies and little else, which is enough. With good relations the accord can be signed: an alliance, and joint customs and intelligence for both.;;;;;;;;;;;;;x
 JSU_denounce_title;Denounce Anhui Clique;;;;;;;;;;;;;x
-JSU_denounce_desc;Publish the telegram: Anhui Clique is a traitor to the nation. Our officers will fight them with a will, and the other cliques will take sides.;;;;;;;;;;;;;x
+JSU_denounce_desc;Publish the telegram: Anhui Clique is a traitor to the nation. Our officers will fight them with a will, and the other cliques will take sides. (+1 infamy);;;;;;;;;;;;;x
 JSU_detente_title;Offer a Truce to Anhui Clique;;;;;;;;;;;;;x
 JSU_detente_desc;Send an envoy to Anhui Clique: the feud serves neither of us while others grow. §RWe can then never denounce them, and we give up our ambition against them.§!;;;;;;;;;;;;;x
 SXI_identity_title;Village Government System;;;;;;;;;;;;;x
@@ -551,11 +741,11 @@ SXI_develop_desc;Shanxi makes its own rifles, its own rails, its own gauge.;;;;;
 SXI_ambition_title;Take the Passes of Guanzhong;;;;;;;;;;;;;x
 SXI_ambition_desc;Xian is ours. The northwest opens. Our rivalry with Guominjun is settled.;;;;;;;;;;;;;x
 SXI_claim_title;Assert Authority over Suiyuan Command;;;;;;;;;;;;;x
-SXI_claim_desc;Suiyuan Command lies within our natural sphere. Others think the same of it, whoever moves first holds the claim.;;;;;;;;;;;;;x
+SXI_claim_desc;Suiyuan Command lies within our natural sphere. Others think the same of it, whoever moves first holds the claim. (+3 infamy);;;;;;;;;;;;;x
 SXI_accord_title;Sign an Accord with Henan Pacification Zone;;;;;;;;;;;;;x
 SXI_accord_desc;Henan Pacification Zone and we share enemies and little else, which is enough. With good relations the accord can be signed: an alliance, and joint customs and intelligence for both.;;;;;;;;;;;;;x
 SXI_denounce_title;Denounce Guominjun;;;;;;;;;;;;;x
-SXI_denounce_desc;Publish the telegram: Guominjun is a traitor to the nation. Our officers will fight them with a will, and the other cliques will take sides.;;;;;;;;;;;;;x
+SXI_denounce_desc;Publish the telegram: Guominjun is a traitor to the nation. Our officers will fight them with a will, and the other cliques will take sides. (+1 infamy);;;;;;;;;;;;;x
 SXI_detente_title;Offer a Truce to Guominjun;;;;;;;;;;;;;x
 SXI_detente_desc;Send an envoy to Guominjun: the feud serves neither of us while others grow. §RWe can then never denounce them, and we give up our ambition against them.§!;;;;;;;;;;;;;x
 GMJ_identity_title;Soldiers of the People;;;;;;;;;;;;;x
@@ -565,11 +755,11 @@ GMJ_develop_desc;Settle soldiers on the frontier land.;;;;;;;;;;;;;x
 GMJ_ambition_title;Break the Model Province;;;;;;;;;;;;;x
 GMJ_ambition_desc;Taiyuan's arsenals now arm our divisions. Our rivalry with Shanxi Model Province is settled.;;;;;;;;;;;;;x
 GMJ_claim_title;Assert Authority over Ningxia Command;;;;;;;;;;;;;x
-GMJ_claim_desc;Ningxia Command lies within our natural sphere. Others think the same of it, whoever moves first holds the claim.;;;;;;;;;;;;;x
+GMJ_claim_desc;Ningxia Command lies within our natural sphere. Others think the same of it, whoever moves first holds the claim. (+3 infamy);;;;;;;;;;;;;x
 GMJ_accord_title;Sign an Accord with Ma Clique;;;;;;;;;;;;;x
 GMJ_accord_desc;Ma Clique and we share enemies and little else, which is enough. With good relations the accord can be signed: an alliance, and joint customs and intelligence for both.;;;;;;;;;;;;;x
 GMJ_denounce_title;Denounce Shanxi Model Province;;;;;;;;;;;;;x
-GMJ_denounce_desc;Publish the telegram: Shanxi Model Province is a traitor to the nation. Our officers will fight them with a will, and the other cliques will take sides.;;;;;;;;;;;;;x
+GMJ_denounce_desc;Publish the telegram: Shanxi Model Province is a traitor to the nation. Our officers will fight them with a will, and the other cliques will take sides. (+1 infamy);;;;;;;;;;;;;x
 GMJ_detente_title;Offer a Truce to Shanxi Model Province;;;;;;;;;;;;;x
 GMJ_detente_desc;Send an envoy to Shanxi Model Province: the feud serves neither of us while others grow. §RWe can then never denounce them, and we give up our ambition against them.§!;;;;;;;;;;;;;x
 SDG_identity_title;Hire the White Russians;;;;;;;;;;;;;x
@@ -579,11 +769,11 @@ SDG_develop_desc;A deep-water port with German docks.;;;;;;;;;;;;;x
 SDG_ambition_title;Take the Central Plains;;;;;;;;;;;;;x
 SDG_ambition_desc;Kaifeng has fallen, the Yellow River is ours. Our rivalry with Henan Pacification Zone is settled.;;;;;;;;;;;;;x
 SDG_claim_title;Assert Authority over Korea;;;;;;;;;;;;;x
-SDG_claim_desc;Korea lies within our natural sphere. Others think the same of it, whoever moves first holds the claim.;;;;;;;;;;;;;x
+SDG_claim_desc;Korea lies within our natural sphere. Others think the same of it, whoever moves first holds the claim. (+3 infamy);;;;;;;;;;;;;x
 SDG_accord_title;Sign an Accord with Zhili Clique;;;;;;;;;;;;;x
 SDG_accord_desc;Zhili Clique and we share enemies and little else, which is enough. With good relations the accord can be signed: an alliance, and joint customs and intelligence for both.;;;;;;;;;;;;;x
 SDG_denounce_title;Denounce Henan Pacification Zone;;;;;;;;;;;;;x
-SDG_denounce_desc;Publish the telegram: Henan Pacification Zone is a traitor to the nation. Our officers will fight them with a will, and the other cliques will take sides.;;;;;;;;;;;;;x
+SDG_denounce_desc;Publish the telegram: Henan Pacification Zone is a traitor to the nation. Our officers will fight them with a will, and the other cliques will take sides. (+1 infamy);;;;;;;;;;;;;x
 SDG_detente_title;Offer a Truce to Henan Pacification Zone;;;;;;;;;;;;;x
 SDG_detente_desc;Send an envoy to Henan Pacification Zone: the feud serves neither of us while others grow. §RWe can then never denounce them, and we give up our ambition against them.§!;;;;;;;;;;;;;x
 HNA_identity_title;Enrol the Red Spears;;;;;;;;;;;;;x
@@ -593,11 +783,11 @@ HNA_develop_desc;Where the north-south and east-west lines cross.;;;;;;;;;;;;;x
 HNA_ambition_title;March to the Sea;;;;;;;;;;;;;x
 HNA_ambition_desc;Jinan is taken and Shandong's ports with it. Our rivalry with Shandong Military Government is settled.;;;;;;;;;;;;;x
 HNA_claim_title;Assert Authority over Xuzhou Pigtail Army;;;;;;;;;;;;;x
-HNA_claim_desc;Xuzhou Pigtail Army lies within our natural sphere. Others think the same of it, whoever moves first holds the claim.;;;;;;;;;;;;;x
+HNA_claim_desc;Xuzhou Pigtail Army lies within our natural sphere. Others think the same of it, whoever moves first holds the claim. (+3 infamy);;;;;;;;;;;;;x
 HNA_accord_title;Sign an Accord with Shanxi Model Province;;;;;;;;;;;;;x
 HNA_accord_desc;Shanxi Model Province and we share enemies and little else, which is enough. With good relations the accord can be signed: an alliance, and joint customs and intelligence for both.;;;;;;;;;;;;;x
 HNA_denounce_title;Denounce Shandong Military Government;;;;;;;;;;;;;x
-HNA_denounce_desc;Publish the telegram: Shandong Military Government is a traitor to the nation. Our officers will fight them with a will, and the other cliques will take sides.;;;;;;;;;;;;;x
+HNA_denounce_desc;Publish the telegram: Shandong Military Government is a traitor to the nation. Our officers will fight them with a will, and the other cliques will take sides. (+1 infamy);;;;;;;;;;;;;x
 HNA_detente_title;Offer a Truce to Shandong Military Government;;;;;;;;;;;;;x
 HNA_detente_desc;Send an envoy to Shandong Military Government: the feud serves neither of us while others grow. §RWe can then never denounce them, and we give up our ambition against them.§!;;;;;;;;;;;;;x
 ZHJ_identity_title;Ningbo Banking Guild;;;;;;;;;;;;;x
@@ -607,11 +797,11 @@ ZHJ_develop_desc;An island anchorage commanding the coast.;;;;;;;;;;;;;x
 ZHJ_ambition_title;Close the Fujian Coast;;;;;;;;;;;;;x
 ZHJ_ambition_desc;Fuzhou is ours. The whole southeast coast answers to Hangzhou. Our rivalry with Fujian People's Government is settled.;;;;;;;;;;;;;x
 ZHJ_claim_title;Assert Authority over Republic of Formosa;;;;;;;;;;;;;x
-ZHJ_claim_desc;Republic of Formosa lies within our natural sphere. Others think the same of it, whoever moves first holds the claim.;;;;;;;;;;;;;x
+ZHJ_claim_desc;Republic of Formosa lies within our natural sphere. Others think the same of it, whoever moves first holds the claim. (+3 infamy);;;;;;;;;;;;;x
 ZHJ_accord_title;Sign an Accord with League of Five Provinces;;;;;;;;;;;;;x
 ZHJ_accord_desc;League of Five Provinces and we share enemies and little else, which is enough. With good relations the accord can be signed: an alliance, and joint customs and intelligence for both.;;;;;;;;;;;;;x
 ZHJ_denounce_title;Denounce Fujian People's Government;;;;;;;;;;;;;x
-ZHJ_denounce_desc;Publish the telegram: Fujian People's Government is a traitor to the nation. Our officers will fight them with a will, and the other cliques will take sides.;;;;;;;;;;;;;x
+ZHJ_denounce_desc;Publish the telegram: Fujian People's Government is a traitor to the nation. Our officers will fight them with a will, and the other cliques will take sides. (+1 infamy);;;;;;;;;;;;;x
 ZHJ_detente_title;Offer a Truce to Fujian People's Government;;;;;;;;;;;;;x
 ZHJ_detente_desc;Send an envoy to Fujian People's Government: the feud serves neither of us while others grow. §RWe can then never denounce them, and we give up our ambition against them.§!;;;;;;;;;;;;;x
 FUJ_identity_title;Kinsmen in the Southern Seas;;;;;;;;;;;;;x
@@ -621,11 +811,11 @@ FUJ_develop_desc;The Foochow arsenal builds a modern squadron.;;;;;;;;;;;;;x
 FUJ_ambition_title;Take Hangzhou;;;;;;;;;;;;;x
 FUJ_ambition_desc;Zhejiang's silk and silver flow south. Our rivalry with Zhejiang Republic is settled.;;;;;;;;;;;;;x
 FUJ_claim_title;Assert Authority over Republic of Formosa;;;;;;;;;;;;;x
-FUJ_claim_desc;Republic of Formosa lies within our natural sphere. Others think the same of it, whoever moves first holds the claim.;;;;;;;;;;;;;x
+FUJ_claim_desc;Republic of Formosa lies within our natural sphere. Others think the same of it, whoever moves first holds the claim. (+3 infamy);;;;;;;;;;;;;x
 FUJ_accord_title;Sign an Accord with Canton Government;;;;;;;;;;;;;x
 FUJ_accord_desc;Canton Government and we share enemies and little else, which is enough. With good relations the accord can be signed: an alliance, and joint customs and intelligence for both.;;;;;;;;;;;;;x
 FUJ_denounce_title;Denounce Zhejiang Republic;;;;;;;;;;;;;x
-FUJ_denounce_desc;Publish the telegram: Zhejiang Republic is a traitor to the nation. Our officers will fight them with a will, and the other cliques will take sides.;;;;;;;;;;;;;x
+FUJ_denounce_desc;Publish the telegram: Zhejiang Republic is a traitor to the nation. Our officers will fight them with a will, and the other cliques will take sides. (+1 infamy);;;;;;;;;;;;;x
 FUJ_detente_title;Offer a Truce to Zhejiang Republic;;;;;;;;;;;;;x
 FUJ_detente_desc;Send an envoy to Zhejiang Republic: the feud serves neither of us while others grow. §RWe can then never denounce them, and we give up our ambition against them.§!;;;;;;;;;;;;;x
 GDG_identity_title;Revolutionary Party;;;;;;;;;;;;;x
@@ -635,11 +825,11 @@ GDG_develop_desc;The guilds pay for their own regiments.;;;;;;;;;;;;;x
 GDG_ambition_title;Unite the Two Guangs;;;;;;;;;;;;;x
 GDG_ambition_desc;Guilin is taken, Liangguang is one. Our rivalry with Guangxi Clique is settled.;;;;;;;;;;;;;x
 GDG_claim_title;Assert Authority over Hainan Garrison;;;;;;;;;;;;;x
-GDG_claim_desc;Hainan Garrison lies within our natural sphere. Others think the same of it, whoever moves first holds the claim.;;;;;;;;;;;;;x
+GDG_claim_desc;Hainan Garrison lies within our natural sphere. Others think the same of it, whoever moves first holds the claim. (+3 infamy);;;;;;;;;;;;;x
 GDG_accord_title;Sign an Accord with Fujian People's Government;;;;;;;;;;;;;x
 GDG_accord_desc;Fujian People's Government and we share enemies and little else, which is enough. With good relations the accord can be signed: an alliance, and joint customs and intelligence for both.;;;;;;;;;;;;;x
 GDG_denounce_title;Denounce Guangxi Clique;;;;;;;;;;;;;x
-GDG_denounce_desc;Publish the telegram: Guangxi Clique is a traitor to the nation. Our officers will fight them with a will, and the other cliques will take sides.;;;;;;;;;;;;;x
+GDG_denounce_desc;Publish the telegram: Guangxi Clique is a traitor to the nation. Our officers will fight them with a will, and the other cliques will take sides. (+1 infamy);;;;;;;;;;;;;x
 GDG_detente_title;Offer a Truce to Guangxi Clique;;;;;;;;;;;;;x
 GDG_detente_desc;Send an envoy to Guangxi Clique: the feud serves neither of us while others grow. §RWe can then never denounce them, and we give up our ambition against them.§!;;;;;;;;;;;;;x
 GXI_identity_title;Militia of Every Village;;;;;;;;;;;;;x
@@ -649,11 +839,11 @@ GXI_develop_desc;Workshops in the hills where no fleet can reach.;;;;;;;;;;;;;x
 GXI_ambition_title;Take Canton;;;;;;;;;;;;;x
 GXI_ambition_desc;The richest city of the south is ours. Our rivalry with Canton Government is settled.;;;;;;;;;;;;;x
 GXI_claim_title;Assert Authority over Dai Nam;;;;;;;;;;;;;x
-GXI_claim_desc;Dai Nam lies within our natural sphere. Others think the same of it, whoever moves first holds the claim.;;;;;;;;;;;;;x
+GXI_claim_desc;Dai Nam lies within our natural sphere. Others think the same of it, whoever moves first holds the claim. (+3 infamy);;;;;;;;;;;;;x
 GXI_accord_title;Sign an Accord with Hunan Federation;;;;;;;;;;;;;x
 GXI_accord_desc;Hunan Federation and we share enemies and little else, which is enough. With good relations the accord can be signed: an alliance, and joint customs and intelligence for both.;;;;;;;;;;;;;x
 GXI_denounce_title;Denounce Canton Government;;;;;;;;;;;;;x
-GXI_denounce_desc;Publish the telegram: Canton Government is a traitor to the nation. Our officers will fight them with a will, and the other cliques will take sides.;;;;;;;;;;;;;x
+GXI_denounce_desc;Publish the telegram: Canton Government is a traitor to the nation. Our officers will fight them with a will, and the other cliques will take sides. (+1 infamy);;;;;;;;;;;;;x
 GXI_detente_title;Offer a Truce to Canton Government;;;;;;;;;;;;;x
 GXI_detente_desc;Send an envoy to Canton Government: the feud serves neither of us while others grow. §RWe can then never denounce them, and we give up our ambition against them.§!;;;;;;;;;;;;;x
 HNC_identity_title;Hunan Provincial Constitution;;;;;;;;;;;;;x
@@ -663,11 +853,11 @@ HNC_develop_desc;Teachers, and trouble, for all of China.;;;;;;;;;;;;;x
 HNC_ambition_title;Subdue the Guizhou Hills;;;;;;;;;;;;;x
 HNC_ambition_desc;Guiyang is ours and the hill roads are open. Our rivalry with Guizhou Clique is settled.;;;;;;;;;;;;;x
 HNC_claim_title;Assert Authority over Chongqing Arsenal State;;;;;;;;;;;;;x
-HNC_claim_desc;Chongqing Arsenal State lies within our natural sphere. Others think the same of it, whoever moves first holds the claim.;;;;;;;;;;;;;x
+HNC_claim_desc;Chongqing Arsenal State lies within our natural sphere. Others think the same of it, whoever moves first holds the claim. (+3 infamy);;;;;;;;;;;;;x
 HNC_accord_title;Sign an Accord with Guangxi Clique;;;;;;;;;;;;;x
 HNC_accord_desc;Guangxi Clique and we share enemies and little else, which is enough. With good relations the accord can be signed: an alliance, and joint customs and intelligence for both.;;;;;;;;;;;;;x
 HNC_denounce_title;Denounce Guizhou Clique;;;;;;;;;;;;;x
-HNC_denounce_desc;Publish the telegram: Guizhou Clique is a traitor to the nation. Our officers will fight them with a will, and the other cliques will take sides.;;;;;;;;;;;;;x
+HNC_denounce_desc;Publish the telegram: Guizhou Clique is a traitor to the nation. Our officers will fight them with a will, and the other cliques will take sides. (+1 infamy);;;;;;;;;;;;;x
 HNC_detente_title;Offer a Truce to Guizhou Clique;;;;;;;;;;;;;x
 HNC_detente_desc;Send an envoy to Guizhou Clique: the feud serves neither of us while others grow. §RWe can then never denounce them, and we give up our ambition against them.§!;;;;;;;;;;;;;x
 GZH_identity_title;Opium Road Tolls;;;;;;;;;;;;;x
@@ -677,11 +867,11 @@ GZH_develop_desc;Stone, altitude and patience.;;;;;;;;;;;;;x
 GZH_ambition_title;Descend on Changsha;;;;;;;;;;;;;x
 GZH_ambition_desc;The hill men hold the rice plain. Our rivalry with Hunan Federation is settled.;;;;;;;;;;;;;x
 GZH_claim_title;Assert Authority over Chongqing Arsenal State;;;;;;;;;;;;;x
-GZH_claim_desc;Chongqing Arsenal State lies within our natural sphere. Others think the same of it, whoever moves first holds the claim.;;;;;;;;;;;;;x
+GZH_claim_desc;Chongqing Arsenal State lies within our natural sphere. Others think the same of it, whoever moves first holds the claim. (+3 infamy);;;;;;;;;;;;;x
 GZH_accord_title;Sign an Accord with Yunnan Protection Army;;;;;;;;;;;;;x
 GZH_accord_desc;Yunnan Protection Army and we share enemies and little else, which is enough. With good relations the accord can be signed: an alliance, and joint customs and intelligence for both.;;;;;;;;;;;;;x
 GZH_denounce_title;Denounce Hunan Federation;;;;;;;;;;;;;x
-GZH_denounce_desc;Publish the telegram: Hunan Federation is a traitor to the nation. Our officers will fight them with a will, and the other cliques will take sides.;;;;;;;;;;;;;x
+GZH_denounce_desc;Publish the telegram: Hunan Federation is a traitor to the nation. Our officers will fight them with a will, and the other cliques will take sides. (+1 infamy);;;;;;;;;;;;;x
 GZH_detente_title;Offer a Truce to Hunan Federation;;;;;;;;;;;;;x
 GZH_detente_desc;Send an envoy to Hunan Federation: the feud serves neither of us while others grow. §RWe can then never denounce them, and we give up our ambition against them.§!;;;;;;;;;;;;;x
 HBE_identity_title;Hanyeping Iron and Coal;;;;;;;;;;;;;x
@@ -691,11 +881,11 @@ HBE_develop_desc;Gunboats command a thousand miles of river.;;;;;;;;;;;;;x
 HBE_ambition_title;Take Nanchang;;;;;;;;;;;;;x
 HBE_ambition_desc;Jiangxi's porcelain and tungsten are ours. Our rivalry with Jiangxi Garrison Command is settled.;;;;;;;;;;;;;x
 HBE_claim_title;Assert Authority over Chongqing Arsenal State;;;;;;;;;;;;;x
-HBE_claim_desc;Chongqing Arsenal State lies within our natural sphere. Others think the same of it, whoever moves first holds the claim.;;;;;;;;;;;;;x
+HBE_claim_desc;Chongqing Arsenal State lies within our natural sphere. Others think the same of it, whoever moves first holds the claim. (+3 infamy);;;;;;;;;;;;;x
 HBE_accord_title;Sign an Accord with Sichuan Clique;;;;;;;;;;;;;x
 HBE_accord_desc;Sichuan Clique and we share enemies and little else, which is enough. With good relations the accord can be signed: an alliance, and joint customs and intelligence for both.;;;;;;;;;;;;;x
 HBE_denounce_title;Denounce Jiangxi Garrison Command;;;;;;;;;;;;;x
-HBE_denounce_desc;Publish the telegram: Jiangxi Garrison Command is a traitor to the nation. Our officers will fight them with a will, and the other cliques will take sides.;;;;;;;;;;;;;x
+HBE_denounce_desc;Publish the telegram: Jiangxi Garrison Command is a traitor to the nation. Our officers will fight them with a will, and the other cliques will take sides. (+1 infamy);;;;;;;;;;;;;x
 HBE_detente_title;Offer a Truce to Jiangxi Garrison Command;;;;;;;;;;;;;x
 HBE_detente_desc;Send an envoy to Jiangxi Garrison Command: the feud serves neither of us while others grow. §RWe can then never denounce them, and we give up our ambition against them.§!;;;;;;;;;;;;;x
 JXI_identity_title;Jingdezhen Kilns;;;;;;;;;;;;;x
@@ -705,11 +895,11 @@ JXI_develop_desc;Every arsenal in the world needs what our hills hold.;;;;;;;;;;
 JXI_ambition_title;Take the Three Towns;;;;;;;;;;;;;x
 JXI_ambition_desc;Wuhan is ours: iron, river and rail. Our rivalry with Hubei Military Government is settled.;;;;;;;;;;;;;x
 JXI_claim_title;Assert Authority over Shanghai Free City;;;;;;;;;;;;;x
-JXI_claim_desc;Shanghai Free City lies within our natural sphere. Others think the same of it, whoever moves first holds the claim.;;;;;;;;;;;;;x
+JXI_claim_desc;Shanghai Free City lies within our natural sphere. Others think the same of it, whoever moves first holds the claim. (+3 infamy);;;;;;;;;;;;;x
 JXI_accord_title;Sign an Accord with Xinjiang Governorate;;;;;;;;;;;;;x
 JXI_accord_desc;Xinjiang Governorate and we share enemies and little else, which is enough. With good relations the accord can be signed: an alliance, and joint customs and intelligence for both.;;;;;;;;;;;;;x
 JXI_denounce_title;Denounce Hubei Military Government;;;;;;;;;;;;;x
-JXI_denounce_desc;Publish the telegram: Hubei Military Government is a traitor to the nation. Our officers will fight them with a will, and the other cliques will take sides.;;;;;;;;;;;;;x
+JXI_denounce_desc;Publish the telegram: Hubei Military Government is a traitor to the nation. Our officers will fight them with a will, and the other cliques will take sides. (+1 infamy);;;;;;;;;;;;;x
 JXI_detente_title;Offer a Truce to Hubei Military Government;;;;;;;;;;;;;x
 JXI_detente_desc;Send an envoy to Hubei Military Government: the feud serves neither of us while others grow. §RWe can then never denounce them, and we give up our ambition against them.§!;;;;;;;;;;;;;x
 SZC_identity_title;Garrison Area System;;;;;;;;;;;;;x
@@ -719,11 +909,11 @@ SZC_develop_desc;Brine, gas and the oldest deep drilling on Earth.;;;;;;;;;;;;;x
 SZC_ambition_title;March on Kunming;;;;;;;;;;;;;x
 SZC_ambition_desc;Yunnan's tin and the Burma road are ours. Our rivalry with Yunnan Protection Army is settled.;;;;;;;;;;;;;x
 SZC_claim_title;Assert Authority over Xikang Marches;;;;;;;;;;;;;x
-SZC_claim_desc;Xikang Marches lies within our natural sphere. Others think the same of it, whoever moves first holds the claim.;;;;;;;;;;;;;x
+SZC_claim_desc;Xikang Marches lies within our natural sphere. Others think the same of it, whoever moves first holds the claim. (+3 infamy);;;;;;;;;;;;;x
 SZC_accord_title;Sign an Accord with Hubei Military Government;;;;;;;;;;;;;x
 SZC_accord_desc;Hubei Military Government and we share enemies and little else, which is enough. With good relations the accord can be signed: an alliance, and joint customs and intelligence for both.;;;;;;;;;;;;;x
 SZC_denounce_title;Denounce Yunnan Protection Army;;;;;;;;;;;;;x
-SZC_denounce_desc;Publish the telegram: Yunnan Protection Army is a traitor to the nation. Our officers will fight them with a will, and the other cliques will take sides.;;;;;;;;;;;;;x
+SZC_denounce_desc;Publish the telegram: Yunnan Protection Army is a traitor to the nation. Our officers will fight them with a will, and the other cliques will take sides. (+1 infamy);;;;;;;;;;;;;x
 SZC_detente_title;Offer a Truce to Yunnan Protection Army;;;;;;;;;;;;;x
 SZC_detente_desc;Send an envoy to Yunnan Protection Army: the feud serves neither of us while others grow. §RWe can then never denounce them, and we give up our ambition against them.§!;;;;;;;;;;;;;x
 YNN_identity_title;National Protection Army;;;;;;;;;;;;;x
@@ -733,11 +923,11 @@ YNN_develop_desc;The richest tin field in Asia, and a railway to the sea.;;;;;;;
 YNN_ambition_title;Descend into Sichuan;;;;;;;;;;;;;x
 YNN_ambition_desc;Chengdu is ours, and the granary of the west. Our rivalry with Sichuan Clique is settled.;;;;;;;;;;;;;x
 YNN_claim_title;Assert Authority over Burma;;;;;;;;;;;;;x
-YNN_claim_desc;Burma lies within our natural sphere. Others think the same of it, whoever moves first holds the claim.;;;;;;;;;;;;;x
+YNN_claim_desc;Burma lies within our natural sphere. Others think the same of it, whoever moves first holds the claim. (+3 infamy);;;;;;;;;;;;;x
 YNN_accord_title;Sign an Accord with Guizhou Clique;;;;;;;;;;;;;x
 YNN_accord_desc;Guizhou Clique and we share enemies and little else, which is enough. With good relations the accord can be signed: an alliance, and joint customs and intelligence for both.;;;;;;;;;;;;;x
 YNN_denounce_title;Denounce Sichuan Clique;;;;;;;;;;;;;x
-YNN_denounce_desc;Publish the telegram: Sichuan Clique is a traitor to the nation. Our officers will fight them with a will, and the other cliques will take sides.;;;;;;;;;;;;;x
+YNN_denounce_desc;Publish the telegram: Sichuan Clique is a traitor to the nation. Our officers will fight them with a will, and the other cliques will take sides. (+1 infamy);;;;;;;;;;;;;x
 YNN_detente_title;Offer a Truce to Sichuan Clique;;;;;;;;;;;;;x
 YNN_detente_desc;Send an envoy to Sichuan Clique: the feud serves neither of us while others grow. §RWe can then never denounce them, and we give up our ambition against them.§!;;;;;;;;;;;;;x
 XBI_identity_title;The Ma Family Compact;;;;;;;;;;;;;x
@@ -747,11 +937,11 @@ XBI_develop_desc;A fort at every oasis from Lanzhou to the Jade Gate.;;;;;;;;;;;
 XBI_ambition_title;Take Urumqi;;;;;;;;;;;;;x
 XBI_ambition_desc;The Silk Road is ours from end to end. Our rivalry with Xinjiang Governorate is settled.;;;;;;;;;;;;;x
 XBI_claim_title;Assert Authority over Kokonor Command;;;;;;;;;;;;;x
-XBI_claim_desc;Kokonor Command lies within our natural sphere. Others think the same of it, whoever moves first holds the claim.;;;;;;;;;;;;;x
+XBI_claim_desc;Kokonor Command lies within our natural sphere. Others think the same of it, whoever moves first holds the claim. (+3 infamy);;;;;;;;;;;;;x
 XBI_accord_title;Sign an Accord with Guominjun;;;;;;;;;;;;;x
 XBI_accord_desc;Guominjun and we share enemies and little else, which is enough. With good relations the accord can be signed: an alliance, and joint customs and intelligence for both.;;;;;;;;;;;;;x
 XBI_denounce_title;Denounce Xinjiang Governorate;;;;;;;;;;;;;x
-XBI_denounce_desc;Publish the telegram: Xinjiang Governorate is a traitor to the nation. Our officers will fight them with a will, and the other cliques will take sides.;;;;;;;;;;;;;x
+XBI_denounce_desc;Publish the telegram: Xinjiang Governorate is a traitor to the nation. Our officers will fight them with a will, and the other cliques will take sides. (+1 infamy);;;;;;;;;;;;;x
 XBI_detente_title;Offer a Truce to Xinjiang Governorate;;;;;;;;;;;;;x
 XBI_detente_desc;Send an envoy to Xinjiang Governorate: the feud serves neither of us while others grow. §RWe can then never denounce them, and we give up our ambition against them.§!;;;;;;;;;;;;;x
 XIN_identity_title;Closed Frontier;;;;;;;;;;;;;x
@@ -761,11 +951,11 @@ XIN_develop_desc;Water under the desert feeds a new province.;;;;;;;;;;;;;x
 XIN_ambition_title;Take Lanzhou;;;;;;;;;;;;;x
 XIN_ambition_desc;The Yellow River's upper course is ours. Our rivalry with Ma Clique is settled.;;;;;;;;;;;;;x
 XIN_claim_title;Assert Authority over Kashgaria;;;;;;;;;;;;;x
-XIN_claim_desc;Kashgaria lies within our natural sphere. Others think the same of it, whoever moves first holds the claim.;;;;;;;;;;;;;x
+XIN_claim_desc;Kashgaria lies within our natural sphere. Others think the same of it, whoever moves first holds the claim. (+3 infamy);;;;;;;;;;;;;x
 XIN_accord_title;Sign an Accord with Jiangxi Garrison Command;;;;;;;;;;;;;x
 XIN_accord_desc;Jiangxi Garrison Command and we share enemies and little else, which is enough. With good relations the accord can be signed: an alliance, and joint customs and intelligence for both.;;;;;;;;;;;;;x
 XIN_denounce_title;Denounce Ma Clique;;;;;;;;;;;;;x
-XIN_denounce_desc;Publish the telegram: Ma Clique is a traitor to the nation. Our officers will fight them with a will, and the other cliques will take sides.;;;;;;;;;;;;;x
+XIN_denounce_desc;Publish the telegram: Ma Clique is a traitor to the nation. Our officers will fight them with a will, and the other cliques will take sides. (+1 infamy);;;;;;;;;;;;;x
 XIN_detente_title;Offer a Truce to Ma Clique;;;;;;;;;;;;;x
 XIN_detente_desc;Send an envoy to Ma Clique: the feud serves neither of us while others grow. §RWe can then never denounce them, and we give up our ambition against them.§!;;;;;;;;;;;;;x
 FTN_treaty_JLN_title;Treaty of Union with Jilin Banner Lands;;;;;;;;;;;;;x
@@ -900,35 +1090,44 @@ EVTOPTA880023;So be it.;;;;;;;;;;;;;x
 EVTNAME880024;Jade Gate;;;;;;;;;;;;;x
 EVTDESC880024;Whoever holds the Gate holds the road to the west.;;;;;;;;;;;;;x
 EVTOPTA880024;So be it.;;;;;;;;;;;;;x
-EVTOPTA880025;We must compete fairly now.;;;;;;;;;;;;;x
-EVTNAME880025;The Sea Lanes Turn;;;;;;;;;;;;;x
-EVTDESC880025;Chinese dominions now exist beyond the oceans, and the junks that once carried settlers to our ports sail on to newer lands. The great migration to the southern seas is over.;;;;;;;;;;;;;x
-EVTOPTA880026;Then we must not be left behind.;;;;;;;;;;;;;x
-EVTNAME880026;A New World Opens;;;;;;;;;;;;;x
-EVTDESC880026;The first Chinese dominion has been chartered overseas. From now on emigrants will make for the new lands rather than the southern seas.;;;;;;;;;;;;;x
-EVTOPTA880027;The world is ours to take.;;;;;;;;;;;;;x
-EVTNAME880027;The Scramble for the World;;;;;;;;;;;;;x
-EVTDESC880027;China is divided between the cliques, but the cliques alone possess steamships, rifles and factories. Every shore on Earth lies open. Whoever takes the most will have the strength to reunify the country.;;;;;;;;;;;;;x
-EVTOPTA880028;Hunt them down.;;;;;;;;;;;;;x
-EVTOPTB880028;Enlist them.;;;;;;;;;;;;;x
-EVTNAME880028;Bandits in the Hills;;;;;;;;;;;;;x
-EVTDESC880028;Disbanded soldiers have turned bandit in the back country.;;;;;;;;;;;;;x
-EVTOPTA880029;Pay him.;;;;;;;;;;;;;x
-EVTOPTB880029;We do not buy traitors.;;;;;;;;;;;;;x
-EVTNAME880029;Defection of a Division;;;;;;;;;;;;;x
-EVTDESC880029;A rival's division commander offers to bring his men over for a price.;;;;;;;;;;;;;x
-EVTOPTA880030;Raise their pay.;;;;;;;;;;;;;x
-EVTOPTB880030;Shoot the waverers.;;;;;;;;;;;;;x
-EVTNAME880030;Silver Bullets;;;;;;;;;;;;;x
-EVTDESC880030;Our officers report that the enemy is bribing our garrison commanders.;;;;;;;;;;;;;x
-EVTOPTA880031;They speak for the nation.;;;;;;;;;;;;;x
-EVTOPTB880031;Clear the streets.;;;;;;;;;;;;;x
-EVTNAME880031;Students Demand Reunification;;;;;;;;;;;;;x
-EVTDESC880031;Students march in the capital demanding an end to the division of the country.;;;;;;;;;;;;;x
-EVTOPTA880032;Let them go, and tax their remittances.;;;;;;;;;;;;;x
-EVTOPTB880032;Our colonies need them more.;;;;;;;;;;;;;x
-EVTNAME880032;Settlers Sail for the South Seas;;;;;;;;;;;;;x
-EVTDESC880032;Poor farmers from the coast are leaving for the southern seas in their thousands.;;;;;;;;;;;;;x
+EVTNAME880025;Taiwanese Maritime Heritage;;;;;;;;;;;;;x
+EVTDESC880025;Formosa has lived by the sea since Koxinga's fleets. Our captains and navigators are the best in the China seas, and the great naval station at our capital can keep a fleet far larger than an island this size should.;;;;;;;;;;;;;x
+EVTOPTA880025;So be it.;;;;;;;;;;;;;x
+EVTNAME880026;The Taiwanese Dream;;;;;;;;;;;;;x
+EVTDESC880026;Formosa is rich in coal, iron and sulphur and short of hands. Its government promises land and work to anyone who crosses the strait.;;;;;;;;;;;;;x
+EVTOPTA880026;So be it.;;;;;;;;;;;;;x
+EVTOPTA880027;Then let us be ready.;;;;;;;;;;;;;x
+EVTNAME880027;The Age of Great Wars;;;;;;;;;;;;;x
+EVTDESC880027;The doctrines of revolution and counter-revolution have been set down, and with them the idea that a whole nation, not merely its army, goes to war. From this day the great powers of the world fight Great Wars.;;;;;;;;;;;;;x
+EVTOPTA880028;We must compete fairly now.;;;;;;;;;;;;;x
+EVTNAME880028;The Sea Lanes Turn;;;;;;;;;;;;;x
+EVTDESC880028;Chinese dominions now exist beyond the oceans, and the junks that once carried settlers to our ports sail on to newer lands. The great migration to the southern seas is over.;;;;;;;;;;;;;x
+EVTOPTA880029;Then we must not be left behind.;;;;;;;;;;;;;x
+EVTNAME880029;A New World Opens;;;;;;;;;;;;;x
+EVTDESC880029;The first Chinese dominion has been chartered overseas. From now on emigrants will make for the new lands rather than the southern seas.;;;;;;;;;;;;;x
+EVTOPTA880030;The world is ours to take.;;;;;;;;;;;;;x
+EVTNAME880030;The Scramble for the World;;;;;;;;;;;;;x
+EVTDESC880030;China is divided between the cliques, but the cliques alone possess steamships, rifles and factories. Every shore on Earth lies open. Whoever takes the most will have the strength to reunify the country.;;;;;;;;;;;;;x
+EVTOPTA880031;Hunt them down.;;;;;;;;;;;;;x
+EVTOPTB880031;Enlist them.;;;;;;;;;;;;;x
+EVTNAME880031;Bandits in the Hills;;;;;;;;;;;;;x
+EVTDESC880031;Disbanded soldiers have turned bandit in the back country.;;;;;;;;;;;;;x
+EVTOPTA880032;Pay him.;;;;;;;;;;;;;x
+EVTOPTB880032;We do not buy traitors.;;;;;;;;;;;;;x
+EVTNAME880032;Defection of a Division;;;;;;;;;;;;;x
+EVTDESC880032;A rival's division commander offers to bring his men over for a price.;;;;;;;;;;;;;x
+EVTOPTA880033;Raise their pay.;;;;;;;;;;;;;x
+EVTOPTB880033;Shoot the waverers.;;;;;;;;;;;;;x
+EVTNAME880033;Silver Bullets;;;;;;;;;;;;;x
+EVTDESC880033;Our officers report that the enemy is bribing our garrison commanders.;;;;;;;;;;;;;x
+EVTOPTA880034;They speak for the nation.;;;;;;;;;;;;;x
+EVTOPTB880034;Clear the streets.;;;;;;;;;;;;;x
+EVTNAME880034;Students Demand Reunification;;;;;;;;;;;;;x
+EVTDESC880034;Students march in the capital demanding an end to the division of the country.;;;;;;;;;;;;;x
+EVTOPTA880035;Let them go, and tax their remittances.;;;;;;;;;;;;;x
+EVTOPTB880035;Our colonies need them more.;;;;;;;;;;;;;x
+EVTNAME880035;Settlers Sail for the South Seas;;;;;;;;;;;;;x
+EVTDESC880035;Poor farmers from the coast are leaving for the southern seas in their thousands.;;;;;;;;;;;;;x
 bankers;Bankers;;;;;;;;;;;;;x
 world_bank;World Bank Charter;;;;;;;;;;;;;x
 world_bank_economics;World Bank Economics;;;;;;;;;;;;;x
@@ -945,7 +1144,7 @@ EVTNAME880104;The World Bank Cannot Be Sphered;;;;;;;;;;;;;x
 EVTDESC880104;Removes any great power's influence over the World Bank.;;;;;;;;;;;;;x
 EVTNAME880105;The World Bank Cannot Be Attacked;;;;;;;;;;;;;x
 EVTDESC880105;Any war against the World Bank ends at once, and the attacker gains infamy.;;;;;;;;;;;;;x
-TIN;§GTiny State Flag\n§WThis province is in a state that meets the following criteria:\n§Y1836 - 1860 §WLess than 100k POPs\n§Y1860 - 1900 §WLess than 150k POPs\n§Y1900+ §WLess than 200k POPs\n\n§RWarscore Costs\n§WTaking this state costs:\n§YWarlord Claim: §W8% Warscore\n§YAcquire Core: §W4% Warscore\n§YAcquire State: §W12% Warscore\n§YDemand Concession: §W8% Warscore\n§YPlace in the Sun: §W4% Warscore\n§YFree Peoples: §W12% Warscore;;;;;;;;;;;;;x
+TIN;§GTiny State Flag\n§WThis province is in a state that meets the following criteria:\n§Y1836 - 1860 §WLess than 200k POPs\n§Y1860 - 1900 §WLess than 300k POPs\n§Y1900+ §WLess than 400k POPs\n\n§RWarscore Costs\n§WTaking this state costs:\n§YWarlord Claim: §W8% Warscore\n§YAcquire Core: §W4% Warscore\n§YAcquire State: §W12% Warscore\n§YDemand Concession: §W8% Warscore\n§YPlace in the Sun: §W4% Warscore\n§YFree Peoples: §W12% Warscore;;;;;;;;;;;;;x
 TIN_ADJ;Tiny State;;;;;;;;;;;;;x
 TIN_flag;State Size Marker;;;;;;;;;;;;;x
 acquire_core_state_tiny;Acquire Tiny Core;;;;;;;;;;;;;x
@@ -976,7 +1175,7 @@ warlord_take_state_tiny;Warlord Claim (Tiny State);;;;;;;;;;;;;x
 warlord_take_state_tiny_short;Warlord Claim (Tiny);;;;;;;;;;;;;x
 warlord_take_state_tiny_desc;Seize a §Ytiny state§W from a rival warlord.;;;;;;;;;;;;;x
 warlord_take_state_tiny_setup;Take $STATE$ from $RECIPIENT$;;;;;;;;;;;;;x
-SMA;§GSmall State Flag\n§WThis province is in a state that meets the following criteria:\n§Y1836 - 1860 §W100k to 450k POPs\n§Y1860 - 1900 §W150k to 650k POPs\n§Y1900+ §W200k to 800k POPs\n\n§RWarscore Costs\n§WTaking this state costs:\n§YWarlord Claim: §W16% Warscore\n§YAcquire Core: §W12% Warscore\n§YAcquire State: §W24% Warscore\n§YDemand Concession: §W16% Warscore\n§YPlace in the Sun: §W8% Warscore\n§YFree Peoples: §W24% Warscore;;;;;;;;;;;;;x
+SMA;§GSmall State Flag\n§WThis province is in a state that meets the following criteria:\n§Y1836 - 1860 §W200k to 900k POPs\n§Y1860 - 1900 §W300k to 1.3M POPs\n§Y1900+ §W400k to 1.6M POPs\n\n§RWarscore Costs\n§WTaking this state costs:\n§YWarlord Claim: §W16% Warscore\n§YAcquire Core: §W12% Warscore\n§YAcquire State: §W24% Warscore\n§YDemand Concession: §W16% Warscore\n§YPlace in the Sun: §W8% Warscore\n§YFree Peoples: §W24% Warscore;;;;;;;;;;;;;x
 SMA_ADJ;Small State;;;;;;;;;;;;;x
 SMA_flag;State Size Marker;;;;;;;;;;;;;x
 acquire_core_state_small;Acquire Small Core;;;;;;;;;;;;;x
@@ -1007,7 +1206,7 @@ warlord_take_state_small;Warlord Claim (Small State);;;;;;;;;;;;;x
 warlord_take_state_small_short;Warlord Claim (Small);;;;;;;;;;;;;x
 warlord_take_state_small_desc;Seize a §Ysmall state§W from a rival warlord.;;;;;;;;;;;;;x
 warlord_take_state_small_setup;Take $STATE$ from $RECIPIENT$;;;;;;;;;;;;;x
-MED;§GMedium State Flag\n§WThis province is in a state that meets the following criteria:\n§Y1836 - 1860 §W450k to 750k POPs\n§Y1860 - 1900 §W650k to 1.05M POPs\n§Y1900+ §W800k to 1.4M POPs\n\n§RWarscore Costs\n§WTaking this state costs:\n§YWarlord Claim: §W24% Warscore\n§YAcquire Core: §W16% Warscore\n§YAcquire State: §W32% Warscore\n§YDemand Concession: §W24% Warscore\n§YPlace in the Sun: §W12% Warscore\n§YFree Peoples: §W32% Warscore;;;;;;;;;;;;;x
+MED;§GMedium State Flag\n§WThis province is in a state that meets the following criteria:\n§Y1836 - 1860 §W900k to 1.5M POPs\n§Y1860 - 1900 §W1.3M to 2.1M POPs\n§Y1900+ §W1.6M to 2.8M POPs\n\n§RWarscore Costs\n§WTaking this state costs:\n§YWarlord Claim: §W24% Warscore\n§YAcquire Core: §W16% Warscore\n§YAcquire State: §W32% Warscore\n§YDemand Concession: §W24% Warscore\n§YPlace in the Sun: §W12% Warscore\n§YFree Peoples: §W32% Warscore;;;;;;;;;;;;;x
 MED_ADJ;Medium State;;;;;;;;;;;;;x
 MED_flag;State Size Marker;;;;;;;;;;;;;x
 acquire_core_state_medium;Acquire Medium Core;;;;;;;;;;;;;x
@@ -1038,7 +1237,7 @@ warlord_take_state_medium;Warlord Claim (Medium State);;;;;;;;;;;;;x
 warlord_take_state_medium_short;Warlord Claim (Medium);;;;;;;;;;;;;x
 warlord_take_state_medium_desc;Seize a §Ymedium state§W from a rival warlord.;;;;;;;;;;;;;x
 warlord_take_state_medium_setup;Take $STATE$ from $RECIPIENT$;;;;;;;;;;;;;x
-LRG;§GLarge State Flag\n§WThis province is in a state that meets the following criteria:\n§Y1836 - 1860 §W750k to 1.05M POPs\n§Y1860 - 1900 §W1.05M to 1.5M POPs\n§Y1900+ §W1.4M to 2M POPs\n\n§RWarscore Costs\n§WTaking this state costs:\n§YWarlord Claim: §W36% Warscore\n§YAcquire Core: §W24% Warscore\n§YAcquire State: §W48% Warscore\n§YDemand Concession: §W32% Warscore\n§YPlace in the Sun: §W16% Warscore\n§YFree Peoples: §W48% Warscore;;;;;;;;;;;;;x
+LRG;§GLarge State Flag\n§WThis province is in a state that meets the following criteria:\n§Y1836 - 1860 §W1.5M to 2.1M POPs\n§Y1860 - 1900 §W2.1M to 3M POPs\n§Y1900+ §W2.8M to 4M POPs\n\n§RWarscore Costs\n§WTaking this state costs:\n§YWarlord Claim: §W36% Warscore\n§YAcquire Core: §W24% Warscore\n§YAcquire State: §W48% Warscore\n§YDemand Concession: §W32% Warscore\n§YPlace in the Sun: §W16% Warscore\n§YFree Peoples: §W48% Warscore;;;;;;;;;;;;;x
 LRG_ADJ;Large State;;;;;;;;;;;;;x
 LRG_flag;State Size Marker;;;;;;;;;;;;;x
 acquire_core_state_large;Acquire Large Core;;;;;;;;;;;;;x
@@ -1069,7 +1268,7 @@ warlord_take_state_large;Warlord Claim (Large State);;;;;;;;;;;;;x
 warlord_take_state_large_short;Warlord Claim (Large);;;;;;;;;;;;;x
 warlord_take_state_large_desc;Seize a §Ylarge state§W from a rival warlord.;;;;;;;;;;;;;x
 warlord_take_state_large_setup;Take $STATE$ from $RECIPIENT$;;;;;;;;;;;;;x
-HUG;§GHuge State Flag\n§WThis province is in a state that meets the following criteria:\n§Y1836 - 1860 §WGreater than 1.05M POPs\n§Y1860 - 1900 §WGreater than 1.5M POPs\n§Y1900+ §WGreater than 2M POPs\n\n§RWarscore Costs\n§WTaking this state costs:\n§YWarlord Claim: §W48% Warscore\n§YAcquire Core: §W32% Warscore\n§YAcquire State: §W64% Warscore\n§YDemand Concession: §W40% Warscore\n§YPlace in the Sun: §W20% Warscore\n§YFree Peoples: §W64% Warscore;;;;;;;;;;;;;x
+HUG;§GHuge State Flag\n§WThis province is in a state that meets the following criteria:\n§Y1836 - 1860 §WGreater than 2.1M POPs\n§Y1860 - 1900 §WGreater than 3M POPs\n§Y1900+ §WGreater than 4M POPs\n\n§RWarscore Costs\n§WTaking this state costs:\n§YWarlord Claim: §W48% Warscore\n§YAcquire Core: §W32% Warscore\n§YAcquire State: §W64% Warscore\n§YDemand Concession: §W40% Warscore\n§YPlace in the Sun: §W20% Warscore\n§YFree Peoples: §W64% Warscore;;;;;;;;;;;;;x
 HUG_ADJ;Huge State;;;;;;;;;;;;;x
 HUG_flag;State Size Marker;;;;;;;;;;;;;x
 acquire_core_state_huge;Acquire Huge Core;;;;;;;;;;;;;x
@@ -1105,82 +1304,3 @@ EVTOPTA880201;Noted.;;;;;;;;;;;;;x
 EVTDESC880201;Every state in the world has been re-measured and given its Tiny, Small, Medium, Large or Huge marker.;;;;;;;;;;;;;x
 sizing_cooldown;State Sizing Cooldown;;;;;;;;;;;;;x
 desc_sizing_cooldown;State sizes are measured once a year.;;;;;;;;;;;;;x
-promote_aristocrats;Encourage Landowners ;;;;;;;;;;;;;x
-promote_artisans;Encourage Artisans Tier 1;;;;;;;;;;;;;x
-promote_bureaucrats;Encourage Bureaucrats Tier 1;;;;;;;;;;;;;x
-promote_capitalists;Encourage Capitalists Tier 1;;;;;;;;;;;;;x
-promote_clergymen;Encourage Intellectuals;;;;;;;;;;;;;x
-promote_clerks;Encourage Clerks Tier 1;;;;;;;;;;;;;x
-promote_craftsmen;Encourage Craftsmen Tier 1;;;;;;;;;;;;;x
-promote_farmers;Encourage Farmers Tier 1;;;;;;;;;;;;;x
-promote_labourers;Encourage Labourers Tier 1;;;;;;;;;;;;;x
-promote_officers;Encourage Officers Tier 1;;;;;;;;;;;;;x
-promote_soldiers;Encourage Soldiers Tier 1;;;;;;;;;;;;;x
-promote_bureaucrats_2;Encourage Bureaucrats Tier 2;;;;;;;;;;;;;x
-promote_capitalists_2;Encourage Capitalists Tier 2;;;;;;;;;;;;;x
-promote_clergymen_2;Encourage Clergymen Tier 2;;;;;;;;;;;;;x
-promote_clerks_2;Encourage Clerks Tier 2;;;;;;;;;;;;;x
-promote_craftsmen_2;Encourage Craftsmen Tier 2;;;;;;;;;;;;;x
-promote_officers_2;Encourage Officers Tier 2;;;;;;;;;;;;;x
-promote_soldiers_2;Encourage Soldiers Tier 2;;;;;;;;;;;;;x
-internal_migration;Internal Migrant Priority;;;;;;;;;;;;;x
-assimilation_bonus;Bonus Assimilation Rate;;;;;;;;;;;;;x
-ship_focus;Ship Repair Speed;;;;;;;;;;;;;x
-militancy_and_reform_focus;Raise Reform Desire and Militancy;;;;;;;;;;;;;x
-promote_bureaucrats_3;Encourage Bureaucrats Tier 3;;;;;;;;;;;;;x
-promote_capitalists_3;Encourage Capitalists Tier 3;;;;;;;;;;;;;x
-promote_clergymen_3;Encourage Clergymen Tier 3;;;;;;;;;;;;;x
-promote_clerks_3;Encourage Clerks Tier 3;;;;;;;;;;;;;x
-promote_craftsmen_3;Encourage Craftsmen Tier 3;;;;;;;;;;;;;x
-promote_officers_3;Encourage Officers Tier 3;;;;;;;;;;;;;x
-promote_soldiers_3;Encourage Soldiers Tier 3;;;;;;;;;;;;;x
-factory_input_bonus;Reduce Factory Inputs;;;;;;;;;;;;;x
-factory_output_bonus;Increase Factory Outputs;;;;;;;;;;;;;x
-mining_bonus;Bonus Mining Efficiency;;;;;;;;;;;;;x
-farming_bonus;Bonus Farming Efficiency;;;;;;;;;;;;;x
-promote_bureaucrats_4;Encourage Bureaucrats Tier 4;;;;;;;;;;;;;x
-promote_capitalists_4;Encourage Capitalists Tier 4;;;;;;;;;;;;;x
-promote_clergymen_4;Encourage Clergymen Tier 4;;;;;;;;;;;;;x
-promote_clerks_4;Encourage Clerks Tier 4;;;;;;;;;;;;;x
-promote_craftsmen_4;Encourage Craftsmen Tier 4;;;;;;;;;;;;;x
-promote_officers_4;Encourage Officers Tier 4;;;;;;;;;;;;;x
-promote_soldiers_4;Encourage Soldiers Tier 4;;;;;;;;;;;;;x
-factory_input_output_bonus;Reduce Factory Inputs and Increase Factory Outputs;;;;;;;;;;;;;x
-craftsmen_assimilation_bonus;Promote Craftsmen and Boost Assimilation Rate;;;;;;;;;;;;;x
-soldier_assimilation_bonus;Promote Soldiers and Boost Assimilation Rate;;;;;;;;;;;;;x
-bureaucrat_migration_bonus;Promote Bureaucrats and Increase Internal Migrant Priority;;;;;;;;;;;;;x
-promote_bureaucrats_5;Encourage Bureaucrats Tier 5;;;;;;;;;;;;;x
-promote_capitalists_5;Encourage Capitalists Tier 5;;;;;;;;;;;;;x
-promote_clergymen_5;Encourage Clergymen Tier 5;;;;;;;;;;;;;x
-promote_clerks_5;Encourage Clerks Tier 5;;;;;;;;;;;;;x
-promote_craftsmen_5;Encourage Craftsmen Tier 5;;;;;;;;;;;;;x
-promote_officers_5;Encourage Officers Tier 5;;;;;;;;;;;;;x
-promote_soldiers_5;Encourage Soldiers Tier 5;;;;;;;;;;;;;x
-input_craftsmen;Promote Craftsmen and Reduce Factory Inputs;;;;;;;;;;;;;x
-output_craftsmen;Promote Craftsmen and Increase Factory Outputs;;;;;;;;;;;;;x
-input_clerks;Promote Clerks and Reduce Factory Inputs;;;;;;;;;;;;;x
-output_clerks;Promote Clerks and Increase Factory Outputs;;;;;;;;;;;;;x
-promote_bureaucrats_6;Encourage Bureaucrats Tier 6;;;;;;;;;;;;;x
-promote_capitalists_6;Encourage Capitalists Tier 6;;;;;;;;;;;;;x
-promote_clergymen_6;Encourage Clergymen Tier 6;;;;;;;;;;;;;x
-promote_clerks_6;Encourage Clerks Tier 6;;;;;;;;;;;;;x
-promote_craftsmen_6;Encourage Craftsmen Tier 6;;;;;;;;;;;;;x
-promote_officers_6;Encourage Officers Tier 6;;;;;;;;;;;;;x
-promote_soldiers_6;Encourage Soldiers Tier 6;;;;;;;;;;;;;x
-input_output_craftsmen;Promote Craftsmen and Reduce Factory Inputs as well as Increase Factory Outputs;;;;;;;;;;;;;x
-input_output_clerks;Promote Clerks and Reduce Factory Inputs as well as Increase Factory Outputs;;;;;;;;;;;;;x
-input_output_soldiers;Promote Soldiers and Reduce Factory Inputs as well as Increase Factory Outputs;;;;;;;;;;;;;x
-input_output_rgos;Reduce Factory Inputs, Increase Factory Outputs, and Increase Mining/Farming Efficiency;;;;;;;;;;;;;x
-tier_1_focus;Tier 1;;;;;;;;;;;;;x
-tier_2_focus;Tier 2;;;;;;;;;;;;;x
-tier_3_focus;Tier 3;;;;;;;;;;;;;x
-tier_4_focus;Tier 4;;;;;;;;;;;;;x
-tier_5_focus;Tier 5;;;;;;;;;;;;;x
-tier_6_focus;Tier 6;;;;;;;;;;;;;x
-EVTNAME88032;National Focus Tier 2;;;;;;;;;;;;;x
-EVTNAME88033;National Focus Tier 3;;;;;;;;;;;;;x
-EVTNAME88034;National Focus Tier 4;;;;;;;;;;;;;x
-EVTNAME88035;National Focus Tier 5;;;;;;;;;;;;;x
-EVTNAME88036;National Focus Tier 6;;;;;;;;;;;;;x
-EVTDESC880300;Our administration has matured. A stronger tier of national focuses is now available.;;;;;;;;;;;;;x
-EVTOPTA880300;Put it to use.;;;;;;;;;;;;;x

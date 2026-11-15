@@ -171,6 +171,36 @@ for p in HRE_PROVS:
 vcap["HRE"] = 619                      # Vienna
 print("holy roman empire provinces:", len(HRE_PROVS))
 
+# The Ottoman Empire holds the Balkans, the Caucasus, Anatolia, the Levant, Arabia and Egypt as one
+# country; Persia holds Iraq.
+OTTO_TAGS = {"GRE", "SER", "WAL", "MOL", "MON", "BOS", "BUL", "ALB", "ION", "ROM", "CRE", "CYP", "GEO", "ARM", "AZB", "CIR",
+             "SYR", "LEB", "HDJ", "NEJ", "ABU", "YEM", "EGY"}
+_n = [0, 0]
+for p in ALLP:
+    if p in CHINA or p not in vprov or not owner.get(p) or owner[p] == "HRE":
+        continue
+    v = vprov[p]
+    if owner[p] == "IRQ" or "IRQ" in v["cores"]:
+        owner[p] = "PER"
+        _n[1] += 1
+    elif owner[p] in OTTO_TAGS or (owner[p] == "OMA" and cont.get(p) == "asia") or (cont.get(p) == "europe" and PFOLDER.get(p) == "balkan"):
+        owner[p] = "TUR"
+        _n[0] += 1
+print("provinces merged into the Ottoman Empire: %d | Iraq to Persia: %d" % tuple(_n))
+
+# The two island traders start with footholds overseas.
+OVERSEAS = {
+    "TWN": [1397,                              # Sandakan, North Borneo
+            2127],                             # Seychelles
+    "SHG": [658,                               # Hawaii
+            2125,                              # Mauritius
+            1321, 1322, 1323, 1324, 1325, 2128],   # all of the Ceylon state: Colombo, Jaffna, Kandy, Trincomalee, Maldives, Diego Garcia
+}
+for _t, _ps in OVERSEAS.items():
+    for p in _ps:
+        assert p in vprov and p not in CHINA, p
+        owner[p] = _t
+
 EMPTIED = {p for p in ALLP if owner[p] is None and p in vprov and vprov[p]["owner"] is not None}
 
 # ------------------------------------------------------------------ pops
@@ -348,7 +378,7 @@ run_pops({}, False)
 # The old world is left behind AND broken up: every large non-Chinese country is cut into regional
 # successor states of roughly eight provinces, each named after its biggest city. The piece holding
 # the old capital keeps the original tag. History and parties are the parent's own (vanilla text).
-NO_SUCCESSORS = set(WARLORDS) | {"PAN", "PER", "MGL", "WBK", "SIA", "DAI", "BUR", "CAM", "LUA", "JOH", "ATJ", "BRU", "BAL", "JAV", "PHI"}
+NO_SUCCESSORS = set(WARLORDS) | {"PAN", "PER", "MGL", "WBK", "TUR", "SIA", "DAI", "BUR", "CAM", "LUA", "JOH", "ATJ", "BRU", "BAL", "JAV", "PHI"}
 SUCCESSOR = collections.OrderedDict()        # new tag -> (parent tag, name, colour)
 SUCCESSOR["HRE"] = ("AUS", "Holy Roman Empire", (214, 196, 120))    # Austria's own country file and history, verbatim
 
@@ -451,6 +481,51 @@ for tag, w in WARLORDS.items():
         POPFAC[tag] = hi / tot
 print("population balancing factors:", {k: round(v, 2) for k, v in POPFAC.items()})
 run_pops(POPFAC, True)
+
+# ------------------------------------------------------------------ Siberia without Russians
+# Russia never crossed the Urals in this world. In the empty lands that were Russian Asia, a
+# province of forest peoples (or one that had only settlers) becomes wholly Siberian; in a steppe
+# province the settlers take the culture of the people already living there.
+SIBERIA = {p for p in vprov if cont.get(p) == "asia" and vprov[p]["owner"] == "RUS" and owner.get(p) is None}
+SLAVS = {"russian", "ukrainian", "byelorussian"} | {k for k, v in CMAP.items() if v in ("russian", "ukrainian", "byelorussian")}
+SLAVS |= {CMAP.get(k, k) for k in list(SLAVS)}
+FOREST = {"siberian", "yakut"}
+_sib = collections.Counter()
+
+
+def _siberia(text):
+    out, i = [], 0
+    for m_ in re.finditer(r"(?m)^(\d+)\s*=\s*\{", text):
+        if m_.start() < i:
+            continue
+        d, j = 1, m_.end()
+        while d:
+            d += text[j] == "{"
+            d -= text[j] == "}"
+            j += 1
+        body = text[m_.end():j - 1]
+        if int(m_.group(1)) in SIBERIA:
+            size = collections.Counter()
+            for b_ in re.finditer(r"culture\s*=\s*(\w+)[^}]*?size\s*=\s*(\d+)", body):
+                size[b_.group(1)] += int(b_.group(2))
+            native = [c_ for c_, n_ in size.most_common() if c_ not in SLAVS]
+            if not native or native[0] in FOREST:
+                body = re.sub(r"culture\s*=\s*\w+", "culture = siberian", body)
+                _sib["siberian"] += sum(size.values())
+            else:
+                body = re.sub(r"culture\s*=\s*(%s)\b" % "|".join(sorted(SLAVS)), "culture = " + native[0], body)
+                _sib[native[0]] += sum(size.values())
+        out.append(text[i:m_.end()] + body + "}")
+        i = j
+    return "".join(out) + text[i:]
+
+
+for f in glob.glob(os.path.join(OUT, "history", "pops", "1836.1.1", "*.txt")):
+    t_ = open(f, encoding=ENC).read().replace("\r\n", "\n")
+    n_ = _siberia(t_)
+    if n_ != t_:
+        open(f, "w", encoding=ENC, newline="\r\n").write(n_)
+print("siberia: %d provinces, pops by culture now (thousands): %s" % (len(SIBERIA), {k: v * 4 // 1000 for k, v in _sib.most_common()}))
 if WORLD_BANK and popsize[2131] == 0:
     wr("history/pops/1836.1.1/World Bank.txt", "2131 = {%s}\n" % BANK_POPS)
     popsize[2131] = 100000
@@ -472,11 +547,24 @@ for p in ALLP:
         goods = "precious_metal"
     elif goods == "precious_metal" and WORLD_BANK:          # only bankers can mine gold now, so other deposits change
         goods = ["iron", "coal", "sulphur"][p % 3]
+    if p in CHINA:                  # minerals only where China's deposits are (content.py)
+        if p in CN_MINERALS:
+            goods = CN_MINERALS[p]
+        elif p in CN_CROPS:
+            goods = CN_CROPS[p]
+        elif goods in ("coal", "iron", "sulphur"):
+            goods = CN_FALLBACK.get(o, "cattle" if o == "MGL" else "grain")
     if goods:
         L.append("trade_goods = %s" % goods)
     lr = v["lr"]
+    if p in CHINA:
+        lr = CN_LIFE_PROV.get(p, CN_LIFE[o])
+    elif cont.get(p) == "europe" and lr:
+        lr -= 5                     # Europe is a poorer place to live in this world
     if o is None:
         lr = max(lr or 0, 35)
+        if p in SIBERIA:
+            lr = 45                 # empty, rich and waiting: the great prize of the north
     if lr:
         L.append("life_rating = %d" % lr)
     # provinces added by a mod come out as ocean unless their terrain is stated (see 01b_terrain.py)
@@ -502,6 +590,13 @@ owned = collections.defaultdict(list)
 for p in ALLP:
     if owner[p]:
         owned[owner[p]].append(p)
+_cl = [CN_LIFE_PROV.get(p, CN_LIFE[owner[p]]) for p in ALLP if p in CHINA]
+print("china: average life rating %.1f over %d provinces | minerals %s" % (sum(_cl) / len(_cl), len(_cl), dict(collections.Counter(CN_MINERALS.values()))))
+assert all(q in CHINA for q in CN_MINERALS), [q for q in CN_MINERALS if q not in CHINA]
+assert all(q in CHINA for q in CN_CROPS), [q for q in CN_CROPS if q not in CHINA]
+assert CN_FISH <= set(COASTAL), ("fish in a province with no coast", sorted(CN_FISH - set(COASTAL)))
+for _t in ("TWN",):
+    assert {CN_MINERALS.get(q) for q in ALLP if owner[q] == _t and q in CHINA} <= {"coal", "iron", "sulphur"}, _t
 
 # every coastal major gets a naval base in its best port
 for tag, w in WARLORDS.items():
@@ -510,8 +605,9 @@ for tag, w in WARLORDS.items():
         cap = w[2] if w[2] in ports else max(ports, key=lambda q: popsize[q])
         path = glob.glob(os.path.join(OUT, "history", "provinces", "*", "%d - *.txt" % cap))[0]
         t = open(path, encoding=ENC).read()
-        if "naval_base" not in t:
-            open(path, "w", encoding=ENC, newline="\r\n").write(t + "naval_base = 1\n")
+        lvl = 3 if tag == "TWN" else 1
+        t = re.sub(r"(?m)^naval_base = \d+\n", "", t)
+        open(path, "w", encoding=ENC, newline="\r\n").write(t + "naval_base = %d\n" % lvl)
 
 # ------------------------------------------------------------------ tiers
 PARTIAL_X = {"JAP", "TUR", "EGY", "PAN", "PER", "MGL"}
@@ -572,7 +668,10 @@ FORMABLES = collections.OrderedDict([
     ("KHG", ("Mongol Empire", "Mongol", (120, 170, 220), "mongol")),
     ("KLS", ("Khalsa Raj", "Khalsa", (240, 150, 30), "panjabi")),
     ("PSE", ("Persian Empire", "Persian", (60, 160, 90), "persian")),
-])
+    ("SMG", ("Southern Ming", "Ming", (200, 40, 40), "min")),
+    ("TNG", ("Tungning", "Tungning", (40, 130, 170), "min")),
+    ("SUV", ("Suvarnabhumi", "Suvarnabhumi", (225, 175, 55), "thai")),
+] + list(ROAD_TAGS.items()))
 NEWTAGS = [t for t in WARLORDS if t not in vtags] + list(DOMINIONS) + list(FORMABLES)
 clash = [t for t in list(DOMINIONS) + list(FORMABLES) if t in vtags]
 assert not clash, clash
@@ -748,6 +847,8 @@ def generic_history(tag, t, special=False, src=None):
     lit = {"partial": (0.10, 0.05), "unciv": (0.04, 0.02), "primitive": (0.01, 0.01)}[t]
     if tag == "HRE":
         lit = (0.02, 0.01)
+    if tag == "PER":
+        lit = (0.20, 0.20)
     s = "capital = %d\n" % capital[tag] + "\n".join(keep) + "\nliteracy = %s\nnon_state_culture_literacy = %s\ncivilized = no\n" % lit
     if special:
         s += reforms(SPECIAL_REF) + "set_country_flag = great_horde\n"
@@ -761,6 +862,11 @@ def generic_history(tag, t, special=False, src=None):
     if tag in owned:
         s += 'oob = "%s_oob.txt"\n' % tag
     return s
+
+
+GOV_IDEOLOGIES = {}
+for _g, _b, _s, _e in blocks(re.sub(r"#.*", "", rd("common", "governments.txt"))):
+    GOV_IDEOLOGIES[_g] = set(re.findall(r"(\w+)\s*=\s*yes", _b)) - {"election", "appoint_ruling_party"}
 
 
 def fix_party(tag, text):
@@ -779,10 +885,22 @@ def fix_party(tag, text):
             if a <= 18360101 < z:
                 valid[nm] = re.search(r"ideology\s*=\s*(\w+)", b).group(1)
     mm = re.search(r'ruling_party\s*=\s*"?(\w+)"?', text)
-    if mm and mm.group(1) in valid:
+    gv = re.search(r"(?m)^government\s*=\s*(\w+)", text)
+    allowed = GOV_IDEOLOGIES.get(gv.group(1)) if gv else None
+    fits = lambda n: allowed is None or valid[n] in allowed
+    if mm and mm.group(1) in valid and fits(mm.group(1)):
         return text
+    if not any(fits(n) for n in valid):
+        # no party of an allowed kind exists in 1836 (a "presidential dictatorship" with no reactionary
+        # party): the country becomes an absolute monarchy, which every party of the time can serve
+        print("  government of %s changed: %s -> absolute_monarchy (no party it allows exists in 1836)" % (tag, gv.group(1)))
+        text = text[:gv.start(1)] + "absolute_monarchy" + text[gv.end(1):]
+        allowed = GOV_IDEOLOGIES["absolute_monarchy"]
+        mm = re.search(r'ruling_party\s*=\s*"?(\w+)"?', text)
+        if mm and mm.group(1) in valid and fits(mm.group(1)):
+            return text
     for want in ("conservative", "reactionary", "liberal"):
-        pick = [n for n, i in valid.items() if i == want]
+        pick = [n for n, i in valid.items() if i == want and fits(n)]
         if pick:
             print("  ruling party of %s replaced: %s -> %s" % (tag, mm.group(1) if mm else None, pick[0]))
             if mm:
@@ -1075,7 +1193,7 @@ while grow:                                   # swallow unowned asian pockets su
         nb = [q for q in ADJ.get(p, ()) if q not in SEA]
         if nb and sum(q in sea_c for q in nb) * 2 >= len(nb):
             sea_c.add(p); grow = True
-sea_c |= {p for p in ALLP if owner.get(p) == "TWN"}
+sea_c |= {p for p in ALLP if owner.get(p) == "TWN" and p in CHINA}      # the island itself, not its overseas posts
 for k in contblocks:
     ids = contblocks[k][0]
     ids += [c[0] for p in list(ids) for c in SPLIT.get(p, [])]
@@ -1104,6 +1222,15 @@ for tag in SEA_MIGRANT:
     t_ += "schools = traditional_academic\n" + techs(PARTIAL_TECH) + "set_country_flag = nanyang_state\n" + MIGRANT_FLAGS
     open(path, "w", encoding=ENC, newline="\r\n").write(t_)
     tier[tag] = "nanyang"
+_mg = os.path.join(OUT, "history", "countries", hname["MGL"])
+t_ = open(_mg, encoding=ENC).read().replace("\r\n", "\n")
+assert "civilized = no" in t_
+t_ = t_.replace("civilized = no", "civilized = yes")
+t_ = re.sub(r"(?m)^\w+ = (yes|no)_(%s)\n" % "|".join(REF_E + REF_M), "", t_)
+t_ = t_.replace("set_country_flag = partial_nation\n", "")
+t_ += "schools = army_tech_school\n" + techs(HORDE_TECH)
+open(_mg, "w", encoding=ENC, newline="\r\n").write(t_)
+tier["MGL"] = "horde"
 _tw = glob.glob(os.path.join(OUT, "history", "countries", "TWN - *.txt"))[0]
 open(_tw, "a", encoding=ENC, newline="\r\n").write(MIGRANT_FLAGS)
 final_cont = {p: k for k, (ids, rest) in contblocks.items() for p in ids}

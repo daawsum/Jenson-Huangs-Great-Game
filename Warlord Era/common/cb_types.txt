@@ -39,6 +39,7 @@
 
 # Order that CBs are executed in a peace treaty
 peace_order = {
+	take_capital
 acquire_core_state_tiny
 acquire_core_state_small
 acquire_core_state_medium
@@ -117,6 +118,10 @@ gunboat = {
 	crisis = no
 	
 	can_use = {
+		NOT = {
+			tag = HRE
+			civilized = no
+		}
 		NOT = { is_our_vassal = THIS }
 		OR =
 		{
@@ -192,6 +197,10 @@ conquest = {
 	crisis = no
 	
 	can_use = {
+		NOT = {
+			tag = HRE
+			civilized = no
+		}
 		NOT = { is_our_vassal = THIS }
 		# only one state or unciv
 		NOT = { number_of_states = 5 }
@@ -311,6 +320,10 @@ add_to_sphere = {
 	good_relation_militancy_factor = 1
 
 	can_use = {
+		NOT = {
+			tag = HRE
+			civilized = no
+		}
 		NOT = { is_our_vassal = THIS }
 		this = { is_greater_power = yes }
 		is_greater_power = no
@@ -356,6 +369,10 @@ take_from_sphere = {
 	good_relation_militancy_factor = 1
 
 	can_use = {
+		NOT = {
+			tag = HRE
+			civilized = no
+		}
 		NOT = { is_our_vassal = THIS }
 		this = { is_greater_power = yes }
 		is_greater_power = yes
@@ -410,6 +427,10 @@ acquire_core_state_tiny = {
 	good_relation_militancy_factor = 1
 
 	can_use = {
+		NOT = {
+			tag = HRE
+			civilized = no
+		}
 		any_owned_province = { is_core = TIN }
 		NOT = { is_our_vassal = THIS }
 		number_of_states = 2 # annex if you want their last state
@@ -463,6 +484,10 @@ acquire_core_state_small = {
 	good_relation_militancy_factor = 1
 
 	can_use = {
+		NOT = {
+			tag = HRE
+			civilized = no
+		}
 		any_owned_province = { is_core = SMA }
 		NOT = { is_our_vassal = THIS }
 		number_of_states = 2 # annex if you want their last state
@@ -516,6 +541,10 @@ acquire_core_state_medium = {
 	good_relation_militancy_factor = 1
 
 	can_use = {
+		NOT = {
+			tag = HRE
+			civilized = no
+		}
 		any_owned_province = { is_core = MED }
 		NOT = { is_our_vassal = THIS }
 		number_of_states = 2 # annex if you want their last state
@@ -569,6 +598,10 @@ acquire_core_state_large = {
 	good_relation_militancy_factor = 1
 
 	can_use = {
+		NOT = {
+			tag = HRE
+			civilized = no
+		}
 		any_owned_province = { is_core = LRG }
 		NOT = { is_our_vassal = THIS }
 		number_of_states = 2 # annex if you want their last state
@@ -622,6 +655,10 @@ acquire_core_state_huge = {
 	good_relation_militancy_factor = 1
 
 	can_use = {
+		NOT = {
+			tag = HRE
+			civilized = no
+		}
 		any_owned_province = { is_core = HUG }
 		NOT = { is_our_vassal = THIS }
 		number_of_states = 2 # annex if you want their last state
@@ -674,6 +711,10 @@ acquire_core_state = {
 	good_relation_militancy_factor = 1
 
 	can_use = {
+		NOT = {
+			tag = HRE
+			civilized = no
+		}
 		NOT = { is_our_vassal = THIS }
 		number_of_states = 2 # annex if you want their last state
 		any_owned_province = {
@@ -725,6 +766,10 @@ annex_core_country = {
 	good_relation_militancy_factor = 1
 
 	can_use = {
+		NOT = {
+			tag = HRE
+			civilized = no
+		}
 		NOT = { is_our_vassal = THIS }
 		any_owned_province = {
 			is_core = THIS
@@ -774,6 +819,10 @@ acquire_substate_region = {
 	good_relation_militancy_factor = 1
 
 	can_use = {
+		NOT = {
+			tag = HRE
+			civilized = no
+		}
 		NOT = { is_our_vassal = THIS }
 		num_of_substates = 1 # if has any substate
 		any_substate = {
@@ -830,6 +879,10 @@ acquire_state_tiny = {
 	good_relation_militancy_factor = 1
 
 	can_use = {
+		NOT = {
+			tag = HRE
+			civilized = no
+		}
 		any_owned_province = { is_core = TIN }
 		NOT = { is_our_vassal = THIS }
 		number_of_states = 2 # annex if you want their last state
@@ -907,6 +960,10 @@ acquire_state_small = {
 	good_relation_militancy_factor = 1
 
 	can_use = {
+		NOT = {
+			tag = HRE
+			civilized = no
+		}
 		any_owned_province = { is_core = SMA }
 		NOT = { is_our_vassal = THIS }
 		number_of_states = 2 # annex if you want their last state
@@ -984,6 +1041,10 @@ acquire_state_medium = {
 	good_relation_militancy_factor = 1
 
 	can_use = {
+		NOT = {
+			tag = HRE
+			civilized = no
+		}
 		any_owned_province = { is_core = MED }
 		NOT = { is_our_vassal = THIS }
 		number_of_states = 2 # annex if you want their last state
@@ -1061,6 +1122,10 @@ acquire_state_large = {
 	good_relation_militancy_factor = 1
 
 	can_use = {
+		NOT = {
+			tag = HRE
+			civilized = no
+		}
 		any_owned_province = { is_core = LRG }
 		NOT = { is_our_vassal = THIS }
 		number_of_states = 2 # annex if you want their last state
@@ -1138,6 +1203,10 @@ acquire_state_huge = {
 	good_relation_militancy_factor = 1
 
 	can_use = {
+		NOT = {
+			tag = HRE
+			civilized = no
+		}
 		any_owned_province = { is_core = HUG }
 		NOT = { is_our_vassal = THIS }
 		number_of_states = 2 # annex if you want their last state
@@ -1216,6 +1285,10 @@ acquire_state = {
 	good_relation_militancy_factor = 1
 
 	can_use = {
+		NOT = {
+			tag = HRE
+			civilized = no
+		}
 		NOT = { is_our_vassal = THIS }
 		number_of_states = 2 # annex if you want their last state
 		any_owned_province = {
@@ -1291,6 +1364,10 @@ place_in_the_sun_tiny = {
 	good_relation_militancy_factor = 1
 
 	can_use = {
+		NOT = {
+			tag = HRE
+			civilized = no
+		}
 		any_owned_province = { is_core = TIN }
 		NOT = { is_our_vassal = THIS }
 		any_owned_province = {
@@ -1348,6 +1425,10 @@ place_in_the_sun_small = {
 	good_relation_militancy_factor = 1
 
 	can_use = {
+		NOT = {
+			tag = HRE
+			civilized = no
+		}
 		any_owned_province = { is_core = SMA }
 		NOT = { is_our_vassal = THIS }
 		any_owned_province = {
@@ -1405,6 +1486,10 @@ place_in_the_sun_medium = {
 	good_relation_militancy_factor = 1
 
 	can_use = {
+		NOT = {
+			tag = HRE
+			civilized = no
+		}
 		any_owned_province = { is_core = MED }
 		NOT = { is_our_vassal = THIS }
 		any_owned_province = {
@@ -1462,6 +1547,10 @@ place_in_the_sun_large = {
 	good_relation_militancy_factor = 1
 
 	can_use = {
+		NOT = {
+			tag = HRE
+			civilized = no
+		}
 		any_owned_province = { is_core = LRG }
 		NOT = { is_our_vassal = THIS }
 		any_owned_province = {
@@ -1519,6 +1608,10 @@ place_in_the_sun_huge = {
 	good_relation_militancy_factor = 1
 
 	can_use = {
+		NOT = {
+			tag = HRE
+			civilized = no
+		}
 		any_owned_province = { is_core = HUG }
 		NOT = { is_our_vassal = THIS }
 		any_owned_province = {
@@ -1577,6 +1670,10 @@ place_in_the_sun = {
 	good_relation_militancy_factor = 1
 
 	can_use = {
+		NOT = {
+			tag = HRE
+			civilized = no
+		}
 		NOT = { is_our_vassal = THIS }
 		any_owned_province = {
 			is_colonial = yes
@@ -1673,6 +1770,10 @@ cut_down_to_size = {
 	war_name = WAR_NAME
 	
 	can_use = {
+		NOT = {
+			tag = HRE
+			civilized = no
+		}
 		NOT = { is_our_vassal = THIS }
 		is_disarmed = no
 	}
@@ -1695,6 +1796,10 @@ cut_down_to_size_boxer = {
 	crisis = no
 	
 	can_use = {
+		NOT = {
+			tag = HRE
+			civilized = no
+		}
 		NOT = { is_our_vassal = THIS }
 		is_disarmed = no
 	}
@@ -1749,6 +1854,10 @@ free_peoples_tiny = {
 	
 	
 	can_use = {
+		NOT = {
+			tag = HRE
+			civilized = no
+		}
 		any_owned_province = { is_core = TIN }
 		NOT = { is_our_vassal = THIS }
 	}
@@ -1833,6 +1942,10 @@ free_peoples_small = {
 	
 	
 	can_use = {
+		NOT = {
+			tag = HRE
+			civilized = no
+		}
 		any_owned_province = { is_core = SMA }
 		NOT = { is_our_vassal = THIS }
 	}
@@ -1917,6 +2030,10 @@ free_peoples_medium = {
 	
 	
 	can_use = {
+		NOT = {
+			tag = HRE
+			civilized = no
+		}
 		any_owned_province = { is_core = MED }
 		NOT = { is_our_vassal = THIS }
 	}
@@ -2001,6 +2118,10 @@ free_peoples_large = {
 	
 	
 	can_use = {
+		NOT = {
+			tag = HRE
+			civilized = no
+		}
 		any_owned_province = { is_core = LRG }
 		NOT = { is_our_vassal = THIS }
 	}
@@ -2085,6 +2206,10 @@ free_peoples_huge = {
 	
 	
 	can_use = {
+		NOT = {
+			tag = HRE
+			civilized = no
+		}
 		any_owned_province = { is_core = HUG }
 		NOT = { is_our_vassal = THIS }
 	}
@@ -2170,6 +2295,10 @@ free_peoples = {
 	
 	
 	can_use = {
+		NOT = {
+			tag = HRE
+			civilized = no
+		}
 		NOT = { is_our_vassal = THIS }
 	}
 
@@ -2253,6 +2382,10 @@ liberate_country = {
 	
 	
 	can_use = {
+		NOT = {
+			tag = HRE
+			civilized = no
+		}
 		NOT = { is_our_vassal = THIS }
 	}
 
@@ -2336,6 +2469,10 @@ dismantle_forts = {
 	
 	
 	can_use = {
+		NOT = {
+			tag = HRE
+			civilized = no
+		}
 		NOT = { is_our_vassal = THIS }
 	}
 
@@ -2387,6 +2524,10 @@ release_puppet = {
 	good_relation_militancy_factor = 1
 
 	can_use = {
+		NOT = {
+			tag = HRE
+			civilized = no
+		}
 		NOT = { is_our_vassal = THIS }
 		num_of_vassals_no_substates = 1
 	}
@@ -2435,6 +2576,10 @@ make_puppet = {
 	good_relation_militancy_factor = 1
 
 	can_use = {
+		NOT = {
+			tag = HRE
+			civilized = no
+		}
 		NOT = { is_our_vassal = THIS }
 		NOT = { number_of_states = 4 }
 		is_greater_power = no
@@ -2546,6 +2691,10 @@ humiliate = {
 	war_name = WAR_HUMILIATE_NAME
 
 	can_use = {
+		NOT = {
+			tag = HRE
+			civilized = no
+		}
 		NOT = { is_our_vassal = THIS }
 		has_recently_lost_war = no
 	}	
@@ -2583,6 +2732,10 @@ demand_concession_casus_belli_tiny = {
 	always = no
 
 	can_use = {
+		NOT = {
+			tag = HRE
+			civilized = no
+		}
 		any_owned_province = { is_core = TIN }
 		NOT = { is_our_vassal = THIS }
 		THIS = {
@@ -2638,6 +2791,10 @@ demand_concession_casus_belli_small = {
 	always = no
 
 	can_use = {
+		NOT = {
+			tag = HRE
+			civilized = no
+		}
 		any_owned_province = { is_core = SMA }
 		NOT = { is_our_vassal = THIS }
 		THIS = {
@@ -2693,6 +2850,10 @@ demand_concession_casus_belli_medium = {
 	always = no
 
 	can_use = {
+		NOT = {
+			tag = HRE
+			civilized = no
+		}
 		any_owned_province = { is_core = MED }
 		NOT = { is_our_vassal = THIS }
 		THIS = {
@@ -2748,6 +2909,10 @@ demand_concession_casus_belli_large = {
 	always = no
 
 	can_use = {
+		NOT = {
+			tag = HRE
+			civilized = no
+		}
 		any_owned_province = { is_core = LRG }
 		NOT = { is_our_vassal = THIS }
 		THIS = {
@@ -2803,6 +2968,10 @@ demand_concession_casus_belli_huge = {
 	always = no
 
 	can_use = {
+		NOT = {
+			tag = HRE
+			civilized = no
+		}
 		any_owned_province = { is_core = HUG }
 		NOT = { is_our_vassal = THIS }
 		THIS = {
@@ -2859,6 +3028,10 @@ demand_concession_casus_belli = {
 	always = no
 
 	can_use = {
+		NOT = {
+			tag = HRE
+			civilized = no
+		}
 		NOT = { is_our_vassal = THIS }
 		THIS = {
 			civilized = yes
@@ -2913,6 +3086,10 @@ establish_protectorate_casus_belli = {
 	always = no
 	
 	can_use = {
+		NOT = {
+			tag = HRE
+			civilized = no
+		}
 		NOT = { is_our_vassal = THIS }
 		THIS = {
 			civilized = yes
@@ -2971,6 +3148,10 @@ unification_humiliate_cb = {
 	always = yes
 	
 	can_use = {
+		NOT = {
+			tag = HRE
+			civilized = no
+		}
 		NOT = { is_our_vassal = THIS }
 		THIS = {
 			culture_has_union_tag = yes
@@ -3022,6 +3203,10 @@ unification_release_puppet_cb = {
 	always = yes
 
 	can_use = {
+		NOT = {
+			tag = HRE
+			civilized = no
+		}
 		NOT = { is_our_vassal = THIS }
 		num_of_vassals_no_substates = 1
 		THIS = {
@@ -3082,6 +3267,10 @@ unification_casus_belli_tiny = {
 	always = yes
 	
 	can_use = {
+		NOT = {
+			tag = HRE
+			civilized = no
+		}
 		any_owned_province = { is_core = TIN }
 		NOT = { is_our_vassal = THIS }
 		THIS = {
@@ -3153,6 +3342,10 @@ unification_casus_belli_small = {
 	always = yes
 	
 	can_use = {
+		NOT = {
+			tag = HRE
+			civilized = no
+		}
 		any_owned_province = { is_core = SMA }
 		NOT = { is_our_vassal = THIS }
 		THIS = {
@@ -3224,6 +3417,10 @@ unification_casus_belli_medium = {
 	always = yes
 	
 	can_use = {
+		NOT = {
+			tag = HRE
+			civilized = no
+		}
 		any_owned_province = { is_core = MED }
 		NOT = { is_our_vassal = THIS }
 		THIS = {
@@ -3295,6 +3492,10 @@ unification_casus_belli_large = {
 	always = yes
 	
 	can_use = {
+		NOT = {
+			tag = HRE
+			civilized = no
+		}
 		any_owned_province = { is_core = LRG }
 		NOT = { is_our_vassal = THIS }
 		THIS = {
@@ -3366,6 +3567,10 @@ unification_casus_belli_huge = {
 	always = yes
 	
 	can_use = {
+		NOT = {
+			tag = HRE
+			civilized = no
+		}
 		any_owned_province = { is_core = HUG }
 		NOT = { is_our_vassal = THIS }
 		THIS = {
@@ -3435,6 +3640,10 @@ unification_casus_belli = {
 	good_relation_infamy_factor = 1
 	good_relation_militancy_factor = 1
 	can_use = {
+		NOT = {
+			tag = HRE
+			civilized = no
+		}
 		NOT = { is_our_vassal = THIS }
 		THIS = {
 			culture_has_union_tag = yes
@@ -3504,6 +3713,10 @@ unification_annex_casus_belli = {
 	always = yes
 	
 	can_use = {
+		NOT = {
+			tag = HRE
+			civilized = no
+		}
 		NOT = { is_our_vassal = THIS }
 		THIS = {
 			culture_has_union_tag = yes
@@ -3563,6 +3776,10 @@ rude_boy = {
 	always = yes
 
 	can_use = {
+		NOT = {
+			tag = HRE
+			civilized = no
+		}
 		NOT = { is_our_vassal = THIS }
 		badboy = 1
 	}
@@ -3604,6 +3821,10 @@ install_communist_gov_cb = {
 	good_relation_militancy_factor = 1
 
 	can_use = {
+		NOT = {
+			tag = HRE
+			civilized = no
+		}
 		THIS = {
 			# If actor is a great power
 			is_greater_power = yes
@@ -3682,6 +3903,10 @@ uninstall_communist_gov_cb = {
 	good_relation_militancy_factor = 1
 
 	can_use = {
+		NOT = {
+			tag = HRE
+			civilized = no
+		}
 		THIS = {
 			# If actor ruling party is not communist
 			NOT = {
@@ -3771,6 +3996,10 @@ warlord_take_state_tiny = {
 	good_relation_infamy_factor = 1
 	good_relation_militancy_factor = 1
 	can_use = {
+		NOT = {
+			tag = HRE
+			civilized = no
+		}
 		any_owned_province = { is_core = TIN }
 		has_country_flag = chinese_warlord
 		THIS = { has_country_flag = chinese_warlord }
@@ -3803,6 +4032,10 @@ warlord_take_state_small = {
 	good_relation_infamy_factor = 1
 	good_relation_militancy_factor = 1
 	can_use = {
+		NOT = {
+			tag = HRE
+			civilized = no
+		}
 		any_owned_province = { is_core = SMA }
 		has_country_flag = chinese_warlord
 		THIS = { has_country_flag = chinese_warlord }
@@ -3835,6 +4068,10 @@ warlord_take_state_medium = {
 	good_relation_infamy_factor = 1
 	good_relation_militancy_factor = 1
 	can_use = {
+		NOT = {
+			tag = HRE
+			civilized = no
+		}
 		any_owned_province = { is_core = MED }
 		has_country_flag = chinese_warlord
 		THIS = { has_country_flag = chinese_warlord }
@@ -3867,6 +4104,10 @@ warlord_take_state_large = {
 	good_relation_infamy_factor = 1
 	good_relation_militancy_factor = 1
 	can_use = {
+		NOT = {
+			tag = HRE
+			civilized = no
+		}
 		any_owned_province = { is_core = LRG }
 		has_country_flag = chinese_warlord
 		THIS = { has_country_flag = chinese_warlord }
@@ -3899,6 +4140,10 @@ warlord_take_state_huge = {
 	good_relation_infamy_factor = 1
 	good_relation_militancy_factor = 1
 	can_use = {
+		NOT = {
+			tag = HRE
+			civilized = no
+		}
 		any_owned_province = { is_core = HUG }
 		has_country_flag = chinese_warlord
 		THIS = { has_country_flag = chinese_warlord }
@@ -3934,6 +4179,10 @@ warlord_annex = {
 	good_relation_infamy_factor = 1
 	good_relation_militancy_factor = 1
 	can_use = {
+		NOT = {
+			tag = HRE
+			civilized = no
+		}
 		has_country_flag = chinese_warlord
 		THIS = { has_country_flag = chinese_warlord }
 		NOT = { is_our_vassal = THIS }
@@ -3941,4 +4190,112 @@ warlord_annex = {
 	}
 	po_annex = yes
 	war_name = WAR_RESTORE_ORDER_NAME
+}
+
+# from DoD Heartbreaker MP 4.9.5
+take_capital = {
+	sprite_index = 6
+	is_triggered_only = yes
+	months = 12
+	construction_speed = 0.5
+	
+	badboy_factor = 1.5
+	prestige_factor = 10
+	peace_cost_factor = 0.016
+	penalty_factor = 1
+
+	break_truce_prestige_factor = 1
+	break_truce_infamy_factor = 2
+	break_truce_militancy_factor = 2
+	truce_months = 60
+	
+	good_relation_prestige_factor = 1
+	good_relation_infamy_factor = 1
+	good_relation_militancy_factor = 1
+
+	can_use = {
+		NOT = {
+			tag = HRE
+			civilized = no
+		}
+		this = { NOT = { badboy = 1 } }
+		NOT = { 
+			OR = { 
+				has_country_modifier = neutrality
+				has_country_modifier = generic_neutrality
+			}
+		}
+		THIS = { NOT = {
+				OR = {
+					has_country_modifier = neutrality
+					has_country_modifier = generic_neutrality
+				}
+			 } 
+		}
+		number_of_states = 2 # annex if you want their last state
+		any_owned_province = {
+			not = { is_core = THIS }
+			is_colonial = no
+		}
+		OR = {
+			AND = {
+				civilized = yes
+				THIS = {
+					civilized = yes
+				}
+			}
+			AND = {
+				civilized = no
+				THIS = {
+					civilized = no
+				}
+			}
+			AND = {
+				civilized = no
+				THIS = {
+					civilized = yes
+				}
+			}
+			AND = {
+				civilized = yes
+				THIS = {
+					civilized = no
+				}
+			}
+		}
+		THIS = {
+			NOT = { has_country_flag = conquerable_1865 }
+		}
+		NOT = { has_country_flag = conquerable_1865 }
+	}
+	
+	allowed_states = {
+		is_colonial = no
+		any_owned_province = {
+			not = {	is_core = THIS }
+			is_colonial = no
+		}
+		any_owned_province = { is_capital = yes }
+	}
+	
+	allowed_states_in_crisis = {
+		any_owned_province = {
+			any_neighbor_province = {
+				owner = { tag = THIS }
+			}
+		}
+	}		
+
+	po_demand_state = yes
+	po_remove_prestige = yes
+	
+	war_name = WAR_TAKE_NAME
+	
+	on_add = {
+		move_issue_percentage = { 
+			from = jingoism 
+			to = pro_military
+			value = 0.25
+		}
+	}
 }

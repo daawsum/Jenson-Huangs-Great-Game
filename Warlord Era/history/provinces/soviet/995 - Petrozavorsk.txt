@@ -1,6 +1,6 @@
-owner = XAJ
-controller = XAJ
-add_core = XAJ
+owner = XAD
+controller = XAD
+add_core = XAD
 add_core = RUS
 trade_goods = grain
-life_rating = 35
+life_rating = 30

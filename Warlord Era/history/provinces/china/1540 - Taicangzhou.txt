@@ -2,5 +2,5 @@ owner = SHG
 controller = SHG
 add_core = SHG
 add_core = CHI
-trade_goods = tea
-life_rating = 32
+trade_goods = grain
+life_rating = 40

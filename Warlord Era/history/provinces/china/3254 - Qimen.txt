@@ -3,5 +3,5 @@ controller = AHC
 add_core = AHC
 add_core = CHI
 trade_goods = tea
-life_rating = 32
+life_rating = 38
 terrain = woods

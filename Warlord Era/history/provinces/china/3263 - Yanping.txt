@@ -3,5 +3,5 @@ controller = FUJ
 add_core = FUJ
 add_core = CHI
 trade_goods = tea
-life_rating = 32
+life_rating = 36
 terrain = plains

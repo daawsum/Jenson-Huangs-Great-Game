@@ -2,5 +2,5 @@ owner = JLN
 controller = JLN
 add_core = JLN
 add_core = CHI
-trade_goods = coal
+trade_goods = fish
 life_rating = 32

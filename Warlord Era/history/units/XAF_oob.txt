@@ -1,15 +1,15 @@
 army = {
-	name = "Army of Sendai"
-	location = 1668
+	name = "Army of Uglich"
+	location = 991
 	regiment = {
-		name = "1. Army of Sendai"
+		name = "1. Army of Uglich"
 		type = infantry
-		home = 1668
+		home = 991
 	}
 	regiment = {
-		name = "2. Army of Sendai"
+		name = "2. Army of Uglich"
 		type = infantry
-		home = 1673
+		home = 1024
 	}
 }
 

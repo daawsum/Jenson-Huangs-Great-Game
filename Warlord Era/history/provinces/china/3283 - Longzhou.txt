@@ -3,5 +3,5 @@ controller = GXI
 add_core = GXI
 add_core = CHI
 trade_goods = cotton
-life_rating = 32
+life_rating = 34
 terrain = hills

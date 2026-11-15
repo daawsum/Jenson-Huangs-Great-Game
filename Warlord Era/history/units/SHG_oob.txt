@@ -13,22 +13,22 @@ army = {
 	regiment = {
 		name = "2. Shanghai First Army"
 		type = infantry
-		home = 1538
+		home = 658
 	}
 	regiment = {
 		name = "3. Shanghai First Army"
 		type = infantry
-		home = 1540
+		home = 1321
 	}
 	regiment = {
 		name = "4. Shanghai First Army"
 		type = infantry
-		home = 1538
+		home = 1322
 	}
 	regiment = {
 		name = "5. Shanghai First Army"
 		type = infantry
-		home = 1540
+		home = 1323
 	}
 	regiment = {
 		name = "6. Shanghai First Army"

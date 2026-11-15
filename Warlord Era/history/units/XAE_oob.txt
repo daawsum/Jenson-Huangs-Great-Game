@@ -1,40 +1,45 @@
 army = {
-	name = "Army of Damascus"
-	location = 902
+	name = "Army of Voronets"
+	location = 1019
 	regiment = {
-		name = "1. Army of Damascus"
+		name = "1. Army of Voronets"
 		type = infantry
-		home = 902
+		home = 1019
 	}
 	regiment = {
-		name = "2. Army of Damascus"
+		name = "2. Army of Voronets"
 		type = infantry
-		home = 897
+		home = 1050
 	}
 	regiment = {
-		name = "3. Army of Damascus"
+		name = "3. Army of Voronets"
 		type = infantry
-		home = 894
+		home = 1039
 	}
 	regiment = {
-		name = "4. Army of Damascus"
+		name = "4. Army of Voronets"
 		type = infantry
-		home = 898
+		home = 1047
 	}
 	regiment = {
-		name = "5. Army of Damascus"
+		name = "5. Army of Voronets"
 		type = infantry
-		home = 896
+		home = 979
 	}
 	regiment = {
-		name = "6. Army of Damascus"
+		name = "6. Army of Voronets"
 		type = infantry
-		home = 900
+		home = 1051
 	}
 	regiment = {
-		name = "7. Army of Damascus"
+		name = "7. Army of Voronets"
+		type = infantry
+		home = 1045
+	}
+	regiment = {
+		name = "8. Army of Voronets"
 		type = cavalry
-		home = 913
+		home = 1040
 	}
 }
 

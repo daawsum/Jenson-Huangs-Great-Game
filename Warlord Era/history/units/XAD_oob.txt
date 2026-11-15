@@ -1,15 +1,15 @@
 army = {
-	name = "Army of Khartoum"
-	location = 1827
+	name = "Army of Petrozavorsk"
+	location = 995
 	regiment = {
-		name = "1. Army of Khartoum"
+		name = "1. Army of Petrozavorsk"
 		type = infantry
-		home = 1827
+		home = 995
 	}
 	regiment = {
-		name = "2. Army of Khartoum"
+		name = "2. Army of Petrozavorsk"
 		type = infantry
-		home = 1830
+		home = 993
 	}
 }
 

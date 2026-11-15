@@ -19,22 +19,22 @@ army = {
 	regiment = {
 		name = "4. Host of Hyderabad"
 		type = irregular
-		home = 1306
+		home = 1319
 	}
 	regiment = {
 		name = "5. Host of Hyderabad"
 		type = irregular
-		home = 1310
+		home = 1306
 	}
 	regiment = {
 		name = "6. Host of Hyderabad"
 		type = irregular
-		home = 1287
+		home = 1318
 	}
 	regiment = {
 		name = "7. Host of Hyderabad"
 		type = cavalry
-		home = 1309
+		home = 1310
 	}
 }
 

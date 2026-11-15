@@ -13,132 +13,132 @@ army = {
 	regiment = {
 		name = "1. Nizam 1"
 		type = infantry
-		home = 1127
+		home = 923
 	}
 	regiment = {
 		name = "2. Nizam 1"
 		type = infantry
-		home = 1108
+		home = 1127
 	}
 	regiment = {
 		name = "3. Nizam 1"
 		type = infantry
-		home = 1112
+		home = 1108
 	}
 	regiment = {
 		name = "4. Nizam 1"
 		type = infantry
-		home = 1117
+		home = 925
 	}
 	regiment = {
 		name = "5. Nizam 1"
 		type = infantry
-		home = 1111
+		home = 1112
 	}
 	regiment = {
 		name = "6. Nizam 1"
 		type = cavalry
-		home = 1116
+		home = 926
 	}
 	regiment = {
 		name = "7. Nizam 1"
 		type = cavalry
-		home = 1147
+		home = 1117
 	}
 	regiment = {
 		name = "8. Nizam 1"
 		type = artillery
-		home = 1142
+		home = 1111
 	}
 }
 
 army = {
 	name = "Nizam 2"
-	location = 1108
+	location = 1127
 	regiment = {
 		name = "1. Nizam 2"
 		type = infantry
-		home = 1127
+		home = 923
 	}
 	regiment = {
 		name = "2. Nizam 2"
 		type = infantry
-		home = 1108
+		home = 1127
 	}
 	regiment = {
 		name = "3. Nizam 2"
 		type = infantry
-		home = 1112
+		home = 1108
 	}
 	regiment = {
 		name = "4. Nizam 2"
 		type = infantry
-		home = 1117
+		home = 925
 	}
 	regiment = {
 		name = "5. Nizam 2"
 		type = infantry
-		home = 1111
+		home = 1112
 	}
 	regiment = {
 		name = "6. Nizam 2"
 		type = cavalry
-		home = 1116
+		home = 926
 	}
 	regiment = {
 		name = "7. Nizam 2"
 		type = cavalry
-		home = 1147
+		home = 1117
 	}
 	regiment = {
 		name = "8. Nizam 2"
 		type = artillery
-		home = 1142
+		home = 1111
 	}
 }
 
 army = {
 	name = "Nizam 3"
-	location = 1112
+	location = 1108
 	regiment = {
 		name = "1. Nizam 3"
 		type = infantry
-		home = 1127
+		home = 923
 	}
 	regiment = {
 		name = "2. Nizam 3"
 		type = infantry
-		home = 1108
+		home = 1127
 	}
 	regiment = {
 		name = "3. Nizam 3"
 		type = infantry
-		home = 1112
+		home = 1108
 	}
 	regiment = {
 		name = "4. Nizam 3"
 		type = infantry
-		home = 1117
+		home = 925
 	}
 	regiment = {
 		name = "5. Nizam 3"
 		type = infantry
-		home = 1111
+		home = 1112
 	}
 	regiment = {
 		name = "6. Nizam 3"
 		type = cavalry
-		home = 1116
+		home = 926
 	}
 	regiment = {
 		name = "7. Nizam 3"
 		type = cavalry
-		home = 1147
+		home = 1117
 	}
 	regiment = {
 		name = "8. Nizam 3"
 		type = artillery
-		home = 1142
+		home = 1111
 	}
 }
 

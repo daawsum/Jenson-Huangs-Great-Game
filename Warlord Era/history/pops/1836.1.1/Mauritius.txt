@@ -1,4 +1,10 @@
 2125 = {
+	bureaucrats = {
+		culture = british
+		religion = placeholder
+		size = 25
+	}
+
 	clergymen = {
 		culture = british
 		religion = placeholder
@@ -8,7 +14,7 @@
 	artisans = {
 		culture = british
 		religion = placeholder
-		size = 25
+		size = 125
 	}
 
 	soldiers = {
@@ -20,13 +26,19 @@
 	aristocrats = {
 		culture = french
 		religion = placeholder
-		size = 25
+		size = 48
+	}
+
+	bureaucrats = {
+		culture = french
+		religion = placeholder
+		size = 29
 	}
 
 	artisans = {
 		culture = french
 		religion = placeholder
-		size = 27
+		size = 174
 	}
 
 	clergymen = {
@@ -44,31 +56,31 @@
 	farmers = {
 		culture = french
 		religion = placeholder
-		size = 30
+		size = 193
 	}
 
 	clergymen = {
 		culture = african_minor
 		religion = placeholder
-		size = 25
+		size = 121
 	}
 
 	artisans = {
 		culture = african_minor
 		religion = placeholder
-		size = 165
+		size = 1066
 	}
 
 	soldiers = {
 		culture = african_minor
 		religion = placeholder
-		size = 37
+		size = 242
 	}
 
 	farmers = {
 		culture = african_minor
 		religion = placeholder
-		size = 3356
+		size = 21686
 	}
 }
 
@@ -76,6 +88,6 @@
 	farmers = {
 		culture = african_minor
 		religion = placeholder
-		size = 175
+		size = 169
 	}
 }

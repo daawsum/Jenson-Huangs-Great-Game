@@ -1,0 +1,82 @@
+promote_aristocrats;Encourage Landowners ;;;;;;;;;;;;;x
+promote_artisans;Encourage Artisans Tier 1;;;;;;;;;;;;;x
+promote_bureaucrats;Encourage Bureaucrats Tier 1;;;;;;;;;;;;;x
+promote_capitalists;Encourage Capitalists Tier 1;;;;;;;;;;;;;x
+promote_clergymen;Encourage Intellectuals;;;;;;;;;;;;;x
+promote_clerks;Encourage Clerks Tier 1;;;;;;;;;;;;;x
+promote_craftsmen;Encourage Craftsmen Tier 1;;;;;;;;;;;;;x
+promote_farmers;Encourage Farmers Tier 1;;;;;;;;;;;;;x
+promote_labourers;Encourage Labourers Tier 1;;;;;;;;;;;;;x
+promote_officers;Encourage Officers Tier 1;;;;;;;;;;;;;x
+promote_soldiers;Encourage Soldiers Tier 1;;;;;;;;;;;;;x
+promote_bureaucrats_2;Encourage Bureaucrats Tier 2;;;;;;;;;;;;;x
+promote_capitalists_2;Encourage Capitalists Tier 2;;;;;;;;;;;;;x
+promote_clergymen_2;Encourage Clergymen Tier 2;;;;;;;;;;;;;x
+promote_clerks_2;Encourage Clerks Tier 2;;;;;;;;;;;;;x
+promote_craftsmen_2;Encourage Craftsmen Tier 2;;;;;;;;;;;;;x
+promote_officers_2;Encourage Officers Tier 2;;;;;;;;;;;;;x
+promote_soldiers_2;Encourage Soldiers Tier 2;;;;;;;;;;;;;x
+internal_migration;Internal Migrant Priority;;;;;;;;;;;;;x
+assimilation_bonus;Bonus Assimilation Rate;;;;;;;;;;;;;x
+ship_focus;Ship Repair Speed;;;;;;;;;;;;;x
+militancy_and_reform_focus;Raise Reform Desire and Militancy;;;;;;;;;;;;;x
+promote_bureaucrats_3;Encourage Bureaucrats Tier 3;;;;;;;;;;;;;x
+promote_capitalists_3;Encourage Capitalists Tier 3;;;;;;;;;;;;;x
+promote_clergymen_3;Encourage Clergymen Tier 3;;;;;;;;;;;;;x
+promote_clerks_3;Encourage Clerks Tier 3;;;;;;;;;;;;;x
+promote_craftsmen_3;Encourage Craftsmen Tier 3;;;;;;;;;;;;;x
+promote_officers_3;Encourage Officers Tier 3;;;;;;;;;;;;;x
+promote_soldiers_3;Encourage Soldiers Tier 3;;;;;;;;;;;;;x
+factory_input_bonus;Reduce Factory Inputs;;;;;;;;;;;;;x
+factory_output_bonus;Increase Factory Outputs;;;;;;;;;;;;;x
+mining_bonus;Bonus Mining Efficiency;;;;;;;;;;;;;x
+farming_bonus;Bonus Farming Efficiency;;;;;;;;;;;;;x
+promote_bureaucrats_4;Encourage Bureaucrats Tier 4;;;;;;;;;;;;;x
+promote_capitalists_4;Encourage Capitalists Tier 4;;;;;;;;;;;;;x
+promote_clergymen_4;Encourage Clergymen Tier 4;;;;;;;;;;;;;x
+promote_clerks_4;Encourage Clerks Tier 4;;;;;;;;;;;;;x
+promote_craftsmen_4;Encourage Craftsmen Tier 4;;;;;;;;;;;;;x
+promote_officers_4;Encourage Officers Tier 4;;;;;;;;;;;;;x
+promote_soldiers_4;Encourage Soldiers Tier 4;;;;;;;;;;;;;x
+factory_input_output_bonus;Reduce Factory Inputs and Increase Factory Outputs;;;;;;;;;;;;;x
+craftsmen_assimilation_bonus;Promote Craftsmen and Boost Assimilation Rate;;;;;;;;;;;;;x
+soldier_assimilation_bonus;Promote Soldiers and Boost Assimilation Rate;;;;;;;;;;;;;x
+bureaucrat_migration_bonus;Promote Bureaucrats and Increase Internal Migrant Priority;;;;;;;;;;;;;x
+promote_bureaucrats_5;Encourage Bureaucrats Tier 5;;;;;;;;;;;;;x
+promote_capitalists_5;Encourage Capitalists Tier 5;;;;;;;;;;;;;x
+promote_clergymen_5;Encourage Clergymen Tier 5;;;;;;;;;;;;;x
+promote_clerks_5;Encourage Clerks Tier 5;;;;;;;;;;;;;x
+promote_craftsmen_5;Encourage Craftsmen Tier 5;;;;;;;;;;;;;x
+promote_officers_5;Encourage Officers Tier 5;;;;;;;;;;;;;x
+promote_soldiers_5;Encourage Soldiers Tier 5;;;;;;;;;;;;;x
+input_craftsmen;Promote Craftsmen and Reduce Factory Inputs;;;;;;;;;;;;;x
+output_craftsmen;Promote Craftsmen and Increase Factory Outputs;;;;;;;;;;;;;x
+input_clerks;Promote Clerks and Reduce Factory Inputs;;;;;;;;;;;;;x
+output_clerks;Promote Clerks and Increase Factory Outputs;;;;;;;;;;;;;x
+promote_bureaucrats_6;Encourage Bureaucrats Tier 6;;;;;;;;;;;;;x
+promote_capitalists_6;Encourage Capitalists Tier 6;;;;;;;;;;;;;x
+promote_clergymen_6;Encourage Clergymen Tier 6;;;;;;;;;;;;;x
+promote_clerks_6;Encourage Clerks Tier 6;;;;;;;;;;;;;x
+promote_craftsmen_6;Encourage Craftsmen Tier 6;;;;;;;;;;;;;x
+promote_officers_6;Encourage Officers Tier 6;;;;;;;;;;;;;x
+promote_soldiers_6;Encourage Soldiers Tier 6;;;;;;;;;;;;;x
+input_output_craftsmen;Promote Craftsmen and Reduce Factory Inputs as well as Increase Factory Outputs;;;;;;;;;;;;;x
+input_output_clerks;Promote Clerks and Reduce Factory Inputs as well as Increase Factory Outputs;;;;;;;;;;;;;x
+input_output_soldiers;Promote Soldiers and Reduce Factory Inputs as well as Increase Factory Outputs;;;;;;;;;;;;;x
+input_output_rgos;Reduce Factory Inputs, Increase Factory Outputs, and Increase Mining/Farming Efficiency;;;;;;;;;;;;;x
+tier_1_focus;Tier 1;;;;;;;;;;;;;x
+tier_2_focus;Tier 2;;;;;;;;;;;;;x
+tier_3_focus;Tier 3;;;;;;;;;;;;;x
+tier_4_focus;Tier 4;;;;;;;;;;;;;x
+tier_5_focus;Tier 5;;;;;;;;;;;;;x
+tier_6_focus;Tier 6;;;;;;;;;;;;;x
+tier_2_title;§GTier 2 National Focuses Unlocked!;;;;;;;;;;;;;x
+tier_2_desc;With the discovery of Associatinism, you have begun to explore new methods of controlling your nations thinking.;;;;;;;;;;;;;x
+tier_3_title;§GTier 3 National Focuses Unlocked!;;;;;;;;;;;;;x
+tier_3_desc;With the discovery of Associatinism, you have begun to explore new methods of controlling your nations thinking.;;;;;;;;;;;;;x
+tier_4_title;§GTier 4 National Focuses Unlocked!;;;;;;;;;;;;;x
+tier_4_desc;With the discovery of Associatinism, you have begun to explore new methods of controlling your nations thinking.;;;;;;;;;;;;;x
+tier_5_title;§GTier 5 National Focuses Unlocked!;;;;;;;;;;;;;x
+tier_5_desc;With the discovery of Associatinism, you have begun to explore new methods of controlling your nations thinking.;;;;;;;;;;;;;x
+tier_6_title;§GTier 6 National Focuses Unlocked!;;;;;;;;;;;;;x
+tier_6_desc;With the discovery of Associatinism, you have begun to explore new methods of controlling your nations thinking.;;;;;;;;;;;;;x

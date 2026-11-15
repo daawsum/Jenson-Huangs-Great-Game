@@ -1,6 +1,6 @@
-owner = XAA
-controller = XAA
-add_core = XAA
+owner = TUR
+controller = TUR
+add_core = TUR
 add_core = EGY
 trade_goods = cotton
 life_rating = 35

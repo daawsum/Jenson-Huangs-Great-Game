@@ -1,15 +1,30 @@
 army = {
-	name = "Army of Kassala"
-	location = 1829
+	name = "Army of Nagasaki"
+	location = 1661
 	regiment = {
-		name = "1. Army of Kassala"
+		name = "1. Army of Nagasaki"
 		type = infantry
-		home = 1829
+		home = 1661
 	}
 	regiment = {
-		name = "2. Army of Kassala"
+		name = "2. Army of Nagasaki"
 		type = infantry
-		home = 1836
+		home = 1660
+	}
+	regiment = {
+		name = "3. Army of Nagasaki"
+		type = infantry
+		home = 1664
+	}
+	regiment = {
+		name = "4. Army of Nagasaki"
+		type = infantry
+		home = 1667
+	}
+	regiment = {
+		name = "5. Army of Nagasaki"
+		type = cavalry
+		home = 1638
 	}
 }
 

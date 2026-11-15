@@ -1,30 +1,35 @@
 army = {
-	name = "Army of Asyut"
-	location = 1762
+	name = "Army of Ufa"
+	location = 1042
 	regiment = {
-		name = "1. Army of Asyut"
+		name = "1. Army of Ufa"
 		type = infantry
-		home = 1762
+		home = 1042
 	}
 	regiment = {
-		name = "2. Army of Asyut"
+		name = "2. Army of Ufa"
 		type = infantry
-		home = 2559
+		home = 1020
 	}
 	regiment = {
-		name = "3. Army of Asyut"
+		name = "3. Army of Ufa"
 		type = infantry
-		home = 1835
+		home = 1026
 	}
 	regiment = {
-		name = "4. Army of Asyut"
+		name = "4. Army of Ufa"
 		type = infantry
-		home = 1768
+		home = 1021
 	}
 	regiment = {
-		name = "5. Army of Asyut"
+		name = "5. Army of Ufa"
+		type = infantry
+		home = 1030
+	}
+	regiment = {
+		name = "6. Army of Ufa"
 		type = cavalry
-		home = 1767
+		home = 1032
 	}
 }
 

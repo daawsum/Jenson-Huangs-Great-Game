@@ -1,0 +1,4 @@
+take_capital;Take Capital;;;;;;;;;;;;;x
+take_capital_desc;Take the Capital region of a §Ycountry§W and force them to move their capital elsewhere;;;;;;;;;;;;;x
+take_capital_setup;Take Capital region $STATE$ of $RECIPIENT$;;;;;;;;;;;;;x
+take_capital_short;Takes Capital from $RECIPIENT$;;;;;;;;;;;;;x

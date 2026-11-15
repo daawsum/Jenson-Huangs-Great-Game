@@ -2,12 +2,12 @@ owner = TWN
 controller = TWN
 add_core = TWN
 add_core = CHI
-trade_goods = tea
-life_rating = 32
+trade_goods = sulphur
+life_rating = 45
 terrain = plains
 state_building = {
 	level = 1
 	building = furniture_factory
 	upgrade = yes
 }
-naval_base = 1
+naval_base = 3

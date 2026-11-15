@@ -3,5 +3,5 @@ controller = HRE
 add_core = HRE
 add_core = GER
 trade_goods = fish
-life_rating = 40
+life_rating = 35
 naval_base = 1

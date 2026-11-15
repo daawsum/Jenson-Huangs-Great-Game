@@ -1,6 +1,6 @@
-owner = XAK
-controller = XAK
-add_core = XAK
+owner = XAE
+controller = XAE
+add_core = XAE
 add_core = RUS
 trade_goods = coal
-life_rating = 35
+life_rating = 30

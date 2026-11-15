@@ -28,12 +28,12 @@ army = {
 	regiment = {
 		name = "5. Formosan First Army"
 		type = infantry
-		home = 3385
+		home = 1397
 	}
 	regiment = {
 		name = "6. Formosan First Army"
 		type = cavalry
-		home = 2562
+		home = 2127
 	}
 }
 

@@ -1,30 +1,15 @@
 army = {
-	name = "Host of Muscat"
-	location = 1166
+	name = "Host of Dar Es Salaam"
+	location = 2036
 	regiment = {
-		name = "1. Host of Muscat"
+		name = "1. Host of Dar Es Salaam"
 		type = irregular
 		home = 2048
 	}
 	regiment = {
-		name = "2. Host of Muscat"
+		name = "2. Host of Dar Es Salaam"
 		type = irregular
 		home = 2029
-	}
-	regiment = {
-		name = "3. Host of Muscat"
-		type = irregular
-		home = 1166
-	}
-	regiment = {
-		name = "4. Host of Muscat"
-		type = irregular
-		home = 1868
-	}
-	regiment = {
-		name = "5. Host of Muscat"
-		type = cavalry
-		home = 2036
 	}
 }
 

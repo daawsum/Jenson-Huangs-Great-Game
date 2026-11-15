@@ -3,4 +3,4 @@ controller = XIN
 add_core = XIN
 add_core = CHI
 trade_goods = cotton
-life_rating = 32
+life_rating = 27

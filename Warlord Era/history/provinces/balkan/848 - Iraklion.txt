@@ -1,8 +1,8 @@
-owner = XAA
-controller = XAA
-add_core = XAA
+owner = TUR
+controller = TUR
+add_core = TUR
 add_core = EGY
 add_core = CRE
 add_core = GRE
 trade_goods = fruit
-life_rating = 35
+life_rating = 30

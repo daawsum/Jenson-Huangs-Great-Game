@@ -116,8 +116,8 @@ def mod(key, name, desc, icon=5, **kw):
 
 
 mod("khalsa_army", "The Khalsa Army", "The Fauj-i-Khas, drilled by veterans of Napoleon, is the finest army in Asia. It is a small professional force, not a levy.",
-    land_organisation=0.6, org_regain=0.5, land_attack_modifier=0.25, land_defense_modifier=0.25,
-    land_unit_start_experience=50, mobilisation_size=-0.02, supply_consumption=-0.2, leadership=2)
+    land_organisation=0.15, org_regain=0.125, land_attack_modifier=0.0625, land_defense_modifier=0.0625,
+    land_unit_start_experience=12.5, mobilisation_size=-0.1, supply_consumption=-0.05, leadership=0.5)
 mod("mongol_horde", "The Great Horde", "Every man a rider, every rider a soldier.",
     land_organisation=0.5, org_regain=0.75, land_unit_start_experience=50, mobilisation_size=0.15, supply_consumption=-0.5,
     leadership=2, max_attrition=-2, research_points_modifier=0.25, mobilisation_economy_impact=-0.5)
@@ -171,6 +171,19 @@ mod("party_state", "Party-State", "One party organises the whole people.", mobil
 mod("constitutional_parliament", "National Assembly", "A constitution that binds the generals.", research_points_modifier=0.08, global_pop_militancy_modifier=-0.02, mobilisation_size=-0.01)
 mod("clique_truce", "Truce with a Rival", "The old feud is set aside.", diplomatic_points_modifier=0.25, war_exhaustion=-0.01)
 
+mod("persianate_revival", "Persianate Revival", "Persian is the language of school, court and bazaar across the empire.",
+    global_assimilation_rate=1.0, education_efficiency_modifier=0.15)
+mod("khalsa_raj_order", "Order of the Khalsa Raj", "One law and one school system from Kabul to Delhi.",
+    global_assimilation_rate=0.5, education_efficiency_modifier=0.15)
+mod("taiwanese_maritime_heritage", "Taiwanese Maritime Heritage", "Formosa has lived by the sea since Koxinga's fleets: its captains, its yards and its navigators are the best in the China seas.",
+    leadership=2, research_points_modifier=0.25, naval_organisation=0.1)
+mod("maritime_hegemon", "Maritime Hegemon", "Formosa's schools turn out navigators and its squadrons keep the sea far from any friendly port.",
+    education_efficiency_modifier=0.15, supply_range=0.33)
+mod("golden_peninsula", "The Golden Peninsula", "Suvarnabhumi, the Land of Gold: every ship that rounds the cape brings settlers.", global_immigrant_attract=0.75)
+mod("continental_lessons", "The Realm United", "One government commands every shipyard and school in the islands.", naval_organisation=0.1, research_points_modifier=0.25)
+mod("taiwanese_dream", "The Taiwanese Dream", "A new land for anyone willing to cross the strait: free soil, honest officials, and mines and mills that never stop.",
+    global_immigrant_attract=1.0, administrative_efficiency_modifier=0.5, RGO_throughput=0.25, factory_throughput=0.25)
+
 for _t, (_name, _desc, _kw) in TRAITS.items():
     mod("trait_" + _t, _name, _desc, **_kw)
 for _t, (_id, _dev, _amb) in IDENTITY.items():
@@ -181,10 +194,14 @@ mod("clique_accord", "Accord Between Cliques", "Two cliques have agreed to stand
     tax_efficiency=0.04, diplomatic_points_modifier=0.25, org_regain=0.05)
 mod("protected_clique", "Under Protection", "A stronger clique guarantees our borders.", land_defense_modifier=0.1, core_pop_militancy_modifier=-0.01)
 
-em = rd("common", "event_modifiers.txt") + "\n\n##### WARLORD ERA #####\n"
-for k, (kw, icon) in MODS.items():
-    em += "%s = {\n%s\ticon = %d\n}\n\n" % (k, "".join("\t%s = %s\n" % (a, b) for a, b in kw.items()), icon)
-wr("common/event_modifiers.txt", em)
+def write_modifiers():
+    em = rd("common", "event_modifiers.txt") + "\n\n##### WARLORD ERA #####\n"
+    for k, (kw, icon) in MODS.items():
+        em += "%s = {\n%s\ticon = %d\n}\n\n" % (k, "".join("\t%s = %s\n" % (a, b) for a, b in kw.items()), icon)
+    wr("common/event_modifiers.txt", em)
+
+
+write_modifiers()
 
 # ------------------------------------------------------------------ dominion areas
 vowner = {}
@@ -309,11 +326,11 @@ TECH_OF = {
     "build_jiangnan_shipyard": "steamers", "found_peking_university": "idealism", "build_longhai_railway": "early_railroad",
     "launch_northern_expedition": NATIO, "revive_treasure_fleet": "steamers", "collect_remittances": STATE,
     "start_new_life_movement": REVO, "open_silver_mint": "private_bank_money_bill_printing", "pacify_tibet": NATIO,
-    "reclaim_outer_mongolia": NATIO, "claim_korea": NATIO, "claim_annam": NATIO, "form_china": NATIO,
+    "reclaim_outer_mongolia": NATIO, "claim_korea": NATIO, "claim_annam": NATIO, "form_china": REVO, "japan_accept_koreans": STATE,
 }
 TECH_SUFFIX = [("_identity", ENL), ("_develop", IDEO), ("_ambition", NATIO), ("_claim", STATE), ("_accord", IDEO),
                ("_denounce", ENL), ("_detente", IDEO), ("_protection", ENL)]
-NO_TECH = {"open_nanyang_ports"}
+NO_TECH = {"open_nanyang_ports", "taiwan_claims"}
 _TECHS = set()
 for _f in glob.glob(os.path.join(OUT, "technologies", "*.txt")):
     _TECHS |= {k for k, b, s_, e_ in blocks(re.sub(r"#.*", "", open(_f, encoding=ENC, errors="replace").read()))}
@@ -336,13 +353,48 @@ def tech_for(key, potential):
     return STATE if key.startswith("form_") else IDEO
 
 
+HIDDEN = collections.Counter()
+INFAMY = collections.Counter()
+
+
+def _prereq(allow):
+    """split an allow block into (territory conditions, the rest), statement by statement"""
+    st, cur, d = [], [], 0
+    for l in allow.strip("\n").split("\n"):
+        if not l.strip() and not d:
+            continue
+        cur.append(l)
+        d += l.count("{") - l.count("}")
+        if d == 0:
+            st.append("\n".join(cur))
+            cur = []
+    assert not cur, allow
+    terr = lambda x: bool(re.match(r"\s*owns\s*=\s*\d+\s*$", x)) or \
+        bool(re.match(r"\s*OR\s*=\s*\{(\s*owns\s*=\s*\d+)+\s*\}\s*$", x)) or \
+        bool(re.match(r"\s*any_owned_province\s*=\s*\{", x))
+    return "\n".join(x for x in st if terr(x)), "\n".join(x for x in st if not terr(x))
+
+
 def decision(key, title, desc, potential, allow, effect, ai=1, tech=None):
     effect = _map_cultures(effect)
+    # claiming land or a war goal by decree is noticed: 2 infamy for cores on foreign land, 1 for a casus belli
+    bb = 2 * bool(re.search(r"add_core\s*=\s*THIS", effect)) + bool(re.search(r"\bcasus_belli\s*=", effect))
+    if bb:
+        effect = effect.rstrip("\n") + "\nbadboy = %d" % bb
+        desc = "%s (+%d infamy)" % (desc, bb)
+        INFAMY[bb] += 1
     if tech is None:
         tech = tech_for(key, potential)
     if tech:
         assert tech in _TECHS, (key, tech)
-        allow = "%s = 1\n%s" % (tech, allow)
+        potential = "%s\n%s = 1" % (potential, tech)
+    # a decision is not listed at all until its technology is known and the land it needs is held;
+    # what is left in "allow" is what a player can still work towards (money, peace, prestige, relations)
+    show, keep = _prereq(allow)
+    if show:
+        potential = potential + "\n" + show
+    allow = keep
+    HIDDEN[bool(tech) + bool(show)] += 1
     GATES[tech or "(none: cannot research)"] += 1
     DEC.append("\t%s = {\n\t\tpotential = {\n%s\n\t\t}\n\t\tallow = {\n%s\n\t\t}\n\t\teffect = {\n%s\n\t\t}\n\t\tai_will_do = {\n\t\t\tfactor = %s\n\t\t}\n\t}\n"
                % (key, block(potential, 3), block(allow, 3), block(effect, 3), ai))
@@ -389,7 +441,8 @@ def formable(tag, name, key, cities, who, extra="", desc=None, prest=20, tech=No
 WL = "has_country_flag = chinese_warlord"
 formable("CHI", "the Republic of China", "china", [1612, 2221, 1493, 1578, 1559, 1522, 1479],
          "OR = {\n" + "\n".join("\ttag = %s" % t for t in FORMERS["CHI"]) + "\n}",
-         _acc("CHI") + "add_country_modifier = { name = mandate_of_heaven duration = -1 }\nbadboy = -10\n",
+         _acc("CHI") + "add_country_modifier = { name = mandate_of_heaven duration = -1 }\nbadboy = -10\n"
+         "",
          "Beijing, Nanjing, Canton, Chengdu, Xian, Wuchang and Mukden all fly our flag. The warlord era is over: proclaim one China. Only the six great cliques and the eight regional states may do so.", 100)
 _FN = {"BYG": ("the Beiyang Government", "beiyang", [1612, 1617, 1563, 1508, 1572]), "LGG": ("Liangguang", "liangguang", [1493, 1502, 1503]),
        "SHU": ("the State of Shu", "shu", [1578, 1577]), "WUU": ("the State of Wu", "wu", [2221, 1538, 1604]),
@@ -410,11 +463,13 @@ formable("KHG", "the Mongol Empire", "mongol_empire", [1465, 1612, 1600, 1479], 
          "add_accepted_culture = beifaren\nadd_accepted_culture = manchu\nadd_accepted_culture = uighur\nany_owned = { add_core = KHG }\n",
          "Urga, Beijing, Urumqi and Mukden bow to the Khan. Restore the empire of Chinggis.", 100)
 formable("KLS", "the Khalsa Raj", "khalsa_raj", ["Lahore", "Delhi", "Kabul", "Multan", "Srinagar"], "tag = PAN",
-         "add_accepted_culture = avadhi\nadd_accepted_culture = kashmiri\nadd_accepted_culture = pashtun\nany_owned = { add_core = KLS }\n",
-         "From Kabul to Delhi the Khalsa rules. Proclaim the Raj.", 100)
-formable("PSE", "the Persian Empire", "persian_empire", ["Tehran", "Baghdad", "Herat", "Baku"], "tag = PER",
-         "add_accepted_culture = azerbaijani\nadd_accepted_culture = kurdish\nadd_accepted_culture = pashtun\nany_owned = { add_core = PSE }\n",
-         "Tehran, Baghdad, Herat and Baku are ours again. The empire of Nader Shah is restored.", 100)
+         "add_accepted_culture = kashmiri\nadd_accepted_culture = pashtun\nany_owned = { add_core = KLS }\n"
+         "add_country_modifier = { name = khalsa_raj_order duration = -1 }\n",
+         "From Kabul to Delhi the Khalsa rules. Proclaim the Raj: its schools and its courts will make one people of the north.", 100, tech=STATE)
+formable("PSE", "the Persian Empire", "persian_empire", ["Baku", "Diyarbakir", "Hakkari", "Tashkent"], "tag = PER",
+         "add_accepted_culture = azerbaijani\nadd_accepted_culture = kurdish\nadd_accepted_culture = pashtun\nany_owned = { add_core = PSE }\n"
+         "add_country_modifier = { name = persianate_revival duration = -1 }\n",
+         "Baku, Kurdistan and Tashkent are ours. The empire of Nader Shah is restored, and Persian is again the tongue of every court from the Tigris to the Syr Darya.", 100, tech=STATE)
 
 # ---- formables that reuse vanilla tags
 def vformable(tag, name, key, cities, tags, extra=""):
@@ -433,11 +488,11 @@ vformable("CZH", "Czechoslovakia", "czechoslovakia", ["Prague", "Bratislava"], [
 vformable("INO", "Nusantara", "nusantara", ["Batavia", "Banda Aceh", "Brunei"], ["JAV", "ATJ", "BAL", "BRU", "JOH"], "any_owned = { add_core = INO }\n")
 
 # ---- warlord flavour
-def once(key, title, desc, potential, allow, effect, modname=None, dur=-1, ai=1):
+def once(key, title, desc, potential, allow, effect, modname=None, dur=-1, ai=1, tech=None):
     eff = effect
     if modname:
         eff = "add_country_modifier = { name = %s duration = %d }\n" % (modname, dur) + eff
-    decision(key, title, desc, potential + "\nNOT = { has_country_flag = did_%s }" % key, allow, "set_country_flag = did_%s\n" % key + eff, ai)
+    decision(key, title, desc, potential + "\nNOT = { has_country_flag = did_%s }" % key, allow, "set_country_flag = did_%s\n" % key + eff, ai, tech=tech)
 
 
 once("found_whampoa", "Found the Whampoa Academy", "Open a modern officer school on Whampoa island below Canton.", WL + "\n" + owns(1493), "money = 30000", "treasury = -30000\nprestige = 5", "whampoa_academy")
@@ -478,6 +533,10 @@ once("subdue_the_khanates", "Subdue the Khanates", "Khiva and Bukhara raid our b
 
 # ---- Mongolia
 MG = "OR = { tag = MGL tag = KHG }"
+once("mongol_felt_tents", "Khan of All Who Live in Felt Tents", "Chinggis took that title when the steppe peoples swore to him. The Kazakhs, Kirghiz, Uzbeks, Turkmen, Tajiks and Uighurs are of the same world as we are: they ride in the horde as equals.",
+     MG, "war = no", "".join("add_accepted_culture = %s\n" % k for k in ("uighur", "kazak", "kirgiz", "uzbek", "turkmen", "tajik")) + "prestige = 5")
+once("mongol_scourge_of_the_north", "Scourge of the North", "The forest peoples of Siberia and the Manchu banners were our subjects and our kin by marriage before they were anyone else's. They ride with us again.",
+     MG, "war = no", "add_accepted_culture = siberian\nadd_accepted_culture = manchu\nprestige = 5")
 once("call_the_kurultai", "Call the Great Kurultai", "Summon every banner prince to Urga and have them swear to one Khan.", MG, "war = no", "prestige = 20", "kurultai")
 once("revive_the_tumens", "Revive the Tumens", "Restore the decimal levy of Chinggis.", MG, "prestige = 10", "", "revived_tumens")
 once("claim_inner_mongolia", "Claim Inner Mongolia", "The banners south of the Gobi are our kin.", MG, "war = no",
@@ -507,13 +566,8 @@ def choice(group, tech, options, potential=WL):
                  potential + "\nNOT = { has_country_flag = chose_%s }" % group, allow, eff + effect, ai, tech=tech)
 
 
-choice("creed", IDEO, [
-    ("adopt_three_principles", "Adopt the Three Principles", "Nationalism, democracy and the people's livelihood become the creed of the state.",
-     "war = no\nprestige = 20", "nationalvalue = nv_liberty\nany_pop = { consciousness = 1 }\nprestige = 5", None),
-    ("restore_confucian_order", "Restore the Confucian Order", "Reopen the temples and the examinations.",
-     "war = no\nprestige = 20", "nationalvalue = nv_order\nany_pop = { militancy = -1 }\nprestige = 5", None),
-    ("grant_provincial_constitution", "Grant a Provincial Constitution", "Promise the gentry an assembly and self-rule: our province first, the nation later.",
-     "war = no\nprestige = 20", "nationalvalue = nv_equality\nany_pop = { consciousness = 1 }", "federal_self_rule")])
+once("grant_provincial_constitution", "Grant a Provincial Constitution", "Promise the gentry an assembly and self-rule: our province first, the nation later.",
+     WL, "war = no\nprestige = 20", "any_pop = { consciousness = 1 }", "federal_self_rule")
 choice("opium", ENL, [
     ("opium_monopoly_dec", "Establish an Opium Monopoly", "A suppression bureau that sells what it confiscates. The money is very good.",
      "war = no", "treasury = 60000\nprestige = -5", "opium_monopoly"),
@@ -569,6 +623,92 @@ choice("mass", MASS, [
     ("convene_parliament", "Convene a National Assembly", "Elections, a cabinet and a constitution that binds the generals.",
      "war = no", "any_pop = { militancy = -2 }\nprestige = 10", "constitutional_parliament")])
 
+# ---- Taiwan: available from the first day
+_hainan = sorted(p for p, o in OWNER.items() if o == "HNI")
+assert _hainan
+once("taiwan_claims", "The Two Islands and the River Mouth", "Hainan is Formosa's sister island, and whoever holds Shanghai holds the trade of the Yangtze. Claim Hainan as our own and prepare to take Shanghai itself.",
+     "tag = TWN", "war = no",
+     "".join("%d = { add_core = THIS }\n" % p for p in _hainan) + "casus_belli = { target = SHG type = take_capital months = 120 }")
+
+# ---- Taiwan, once it holds Hainan and Shanghai: the mainland or the ocean, never both
+_canton = sorted(p for p, o in OWNER.items() if o == "GDG")
+_java = sorted(p for r, ps in REGIONS.items() for p in ps if 1413 in ps)        # the state of Java, Madura included
+assert len(_canton) > 5 and len(_java) > 5 and "javan = {" in open(os.path.join(OUT, "common", "cultures.txt"), encoding=ENC).read()
+_tw_need = "war = no\n" + owns(*(_hainan + [1538]))
+choice("taiwan_road", STATE, [
+    ("taiwan_great_game", "The Great Game", "With Hainan and Shanghai in hand, Formosa is a mainland power. Claim Guangdong and take the Cantonese into the nation: the contest for China itself begins.",
+     _tw_need, "".join("%d = { add_core = THIS }\n" % p for p in _canton) + "add_accepted_culture = yue\nprestige = 10", None),
+    ("taiwan_maritime_hegemon", "The Maritime Hegemon", "With Hainan and Shanghai in hand, Formosa commands the China seas. Turn south instead: claim Java, take the Javanese into the nation, and school a generation of navigators.",
+     _tw_need, "".join("%d = { add_core = THIS }\n" % p for p in _java) + "add_accepted_culture = javan\nprestige = 10", "maritime_hegemon")],
+    potential="tag = TWN")
+
+# ---- Taiwan's second step, after Nationalism and Imperialism
+NAMES = {t: w[0] for t, w in WARLORDS.items()}
+NAMES.update({"KOR": "Korea", "DAI": "Dai Nam", "BUR": "Burma"})
+_CAP = {k: int(v) for k, v in Wd["capital"].items()}
+_cu = open(os.path.join(OUT, "common", "cultures.txt"), encoding=ENC).read()
+def _culture(k):
+    k = CM.get(k, k)
+    assert re.search(r"(?m)^\t%s = \{" % k, _cu), k
+    return k
+
+
+once("taiwan_restore_the_ming", "Restore the Ming", "Guangdong is ours. Koxinga held Formosa in the name of the Ming; we shall finish what he began. The peoples of the southern coast and of the Yellow River are our own, and the state takes the old dynasty's name.",
+     "tag = TWN\nhas_country_flag = did_taiwan_great_game", "war = no\n" + owns(*_canton),
+     "".join("add_accepted_culture = %s\n" % _culture(k) for k in ("wu", "jianghuai", "jilu", "zhongyuan", "jin", "guanzhong")) + "prestige = 25\nchange_tag = SMG", tech=NATIO)
+_nsw = [p for p in REGIONS["ENG_2468"] if p != 2508]                      # New South Wales without Norfolk Island
+_mad = sorted(p for r in ("MAD_2117", "MAD_2121") for p in REGIONS[r] if OWNER.get(p) == "MAD")
+assert 2468 in _nsw and len(_mad) == 8
+once("taiwan_southern_ocean", "Lords of the Southern Ocean", "Batavia is ours and no fleet contests these seas. Our captains have planted the flag at Sydney cove and on the great island of Madagascar: move the seat of government to the new southern continent and proclaim the realm Koxinga dreamed of.",
+     "tag = TWN\nhas_country_flag = did_taiwan_maritime_hegemon", "war = no\nowns = 1413",
+     "".join("%d = { secede_province = THIS }\n%d = { add_core = THIS }\n" % (p, p) for p in _nsw + _mad) + "capital = 2468\nprestige = 25\nchange_tag = TNG", tech=NATIO)
+
+# ---- the golden peninsula: Siam, the Malay states and Dai Viet
+formable("SUV", "Suvarnabhumi", "suvarnabhumi", [_CAP["SIA"], _CAP["JOH"], _CAP["DAI"]], "OR = {\n\ttag = SIA\n\ttag = JOH\n\ttag = DAI\n}",
+         "".join("add_accepted_culture = %s\n" % _culture(k) for k in ("thai", "malay", "vietnamese"))
+         + "any_owned = { add_core = SUV }\nadd_country_modifier = { name = golden_peninsula duration = -1 }\n",
+         "Bangkok, Johor Bahru and Hanoi answer to one court. Siamese, Malays and Vietnamese shall be one realm, the Land of Gold of the old books, and the whole world's migrants are welcome in it.", 50)
+
+# ---- Japan: outside the modern world until it beats a clique at its own game
+_japan = sorted(p for p, o in OWNER.items() if o and PFOLDER.get(p) == "japan" and CONT.get(p) == "asia" and o not in WARLORDS)
+assert 30 < len(_japan) < 60 and _CAP["JAP"] in _japan, len(_japan)
+once("japan_continental_victory", "The Realm United", "Every domain of the islands answers to one government at last. With the whole country's rice, silver and shipwrights behind it, Japan can learn everything the cliques know.",
+     "tag = JAP\ncivilized = no", owns(*_japan),
+     "years_of_research = 5\nprestige = 20", "continental_lessons")
+once("japan_accept_koreans", "One Realm across the Strait", "The peninsula and the islands share scripts, sages and enemies. Declare the Koreans subjects equal before the Emperor.",
+     "tag = JAP", "war = no", "add_accepted_culture = %s\nprestige = 5" % _culture("korean"))
+
+# ---- every great clique chooses its road once it has swallowed the neighbour it claimed
+_siberia = sorted(p for p in OWNER if area(p) == "DBH")
+assert len(_siberia) > 30
+ROAD_REPORT = collections.Counter()
+for tag, opts in ROADS.items():
+    target = TARGET[tag]
+    own_cu = {CM.get(x, x) for x in [CLIQUE_CULTURE[tag][0]] + list(CLIQUE_CULTURE[tag][1])}
+    built = []
+    for i, (title, text, claims, accept, kw, newtag) in enumerate(opts):
+        key = "%s_road_%s" % (tag, "ab"[i])
+        provs = []
+        for cl in claims:
+            ps = _siberia if cl == "SIBERIA" else sorted(p for p, o in OWNER.items() if o == cl)
+            assert ps, (tag, cl)
+            provs += ps
+        eff = "".join("%d = { add_core = THIS }\n" % p for p in provs)
+        eff += "".join("add_accepted_culture = %s\n" % k for k in dict.fromkeys(_culture(k) for k in accept) if k not in own_cu)
+        eff += "prestige = 10"
+        if newtag:
+            eff += "\nchange_tag = %s" % newtag
+        mod(key, title, text, **kw)
+        ROAD_REPORT["tall" if not claims else "new country" if newtag else "conquest"] += 1
+        built.append((key, title, text, "war = no\nowns = %d" % _CAP[target], eff, key))
+    if tag == "XIN":                # Xinjiang faces both ways at once: it may take both roads
+        for key, title, text, allow, eff, modname in built:
+            once(key, title, text, "tag = XIN", allow, eff, modname, tech=STATE)
+    else:
+        choice("road_" + tag, STATE, built, potential="tag = %s" % tag)
+print("clique roads:", dict(ROAD_REPORT))
+write_modifiers()          # again: the roads above define their own modifiers
+
 # ---- every major: identity, development, ambition against its rival, a contested claim, an accord
 NAMES = {t: w[0] for t, w in WARLORDS.items()}
 NAMES.update({"KOR": "Korea", "DAI": "Dai Nam", "BUR": "Burma"})
@@ -612,6 +752,8 @@ for minor, major in PATRON.items():
 
 wr("decisions/WarlordEra.txt", "political_decisions = {\n" + "\n".join(DEC) + "}\n")
 print("decisions:", len(DEC), "| technology required:", dict(GATES.most_common()))
+print("decisions that now give infamy: +1 (casus belli) %d, +2 (cores) %d, +3 (both) %d" % (INFAMY[1], INFAMY[2], INFAMY[3]))
+print("hidden until prerequisites are met: by technology and territory %d, by one of them %d, always listed %d" % (HIDDEN[2], HIDDEN[1], HIDDEN[0]))
 
 # ------------------------------------------------------------------ events
 EV = []
@@ -659,7 +801,38 @@ setup("OR = {\n\t\t\t" + "\n\t\t\t".join("tag = %s" % t for t in INLAND) + "\n\t
 
 for _t, (_name, _desc, _kw) in TRAITS.items():
     setup("tag = %s" % _t, "trait_" + _t, _name, _desc)
+setup("tag = TWN", "taiwanese_maritime_heritage", "Taiwanese Maritime Heritage",
+      "Formosa has lived by the sea since Koxinga's fleets. Our captains and navigators are the best in the China seas, and the great naval station at our capital can keep a fleet far larger than an island this size should.")
+setup("tag = TWN", "taiwanese_dream", "The Taiwanese Dream",
+      "Formosa is rich in coal, iron and sulphur and short of hands. Its government promises land and work to anyone who crosses the strait.")
 
+# ---- oil where China's fields are: vanilla's own oil event, once per field, with our provinces
+_goods = rd("events", "Goods.txt")
+_m = re.search(r"province_event\s*=\s*\{\s*id\s*=\s*1109\b", _goods)
+_d, _j = 1, _goods.index("{", _m.start()) + 1
+while _d:
+    _d += _goods[_j] == "{"
+    _d -= _goods[_j] == "}"
+    _j += 1
+_tmpl = _goods[_m.start():_j]
+_or = re.search(r"or\s*=\s*\{(\s*province_id\s*=\s*\d+[^\n]*\n)+\s*\}", _tmpl)
+assert _or and "trade_goods = oil" in _tmpl
+_new = ""
+for _i, (_yr, _pv) in enumerate(CN_OIL):
+    assert OWNER.get(_pv) in WARLORDS, _pv
+    _e = _tmpl[:_or.start()] + "province_id = %d\t\t# %s" % (_pv, PNAME[_pv]) + _tmpl[_or.end():]
+    _e = re.sub(r"id\s*=\s*1109\b", "id = %d" % (880401 + _i), _e, count=1)
+    _e, _k = re.subn(r"year\s*=\s*\d+", "year = %d" % _yr, _e, count=1)
+    assert _k == 1
+    _new += _e + "\n\n"
+# the gold strike at Caozhou goes: only the World Bank's bankers can work gold in this mod
+_goods = re.sub(r"[ \t]*province_id\s*=\s*1564\b[^\n]*\n", "", _goods, count=1)
+wr("events/Goods.txt", _goods.rstrip() + "\n\n##### Warlord Era: the oil fields of China #####\n" + _new)
+print("oil events for chinese fields:", len(CN_OIL))
+
+event("The Age of Great Wars", "The doctrines of revolution and counter-revolution have been set down, and with them the idea that a whole nation, not merely its army, goes to war. From this day the great powers of the world fight Great Wars.",
+      "revolution_n_counterrevolution = 1\nNOT = { has_global_flag = great_wars_enabled }",
+      [("Then let us be ready.", "great_wars_enabled = yes\nset_global_flag = great_wars_enabled")])
 event("The Sea Lanes Turn", "Chinese dominions now exist beyond the oceans, and the junks that once carried settlers to our ports sail on to newer lands. The great migration to the southern seas is over.",
       "has_country_flag = old_world_colony\nhas_global_flag = new_world_opened",
       [("We must compete fairly now.", "clr_country_flag = new_world_nation\nclr_country_flag = old_world_colony\nremove_country_modifier = nanyang_haven")],

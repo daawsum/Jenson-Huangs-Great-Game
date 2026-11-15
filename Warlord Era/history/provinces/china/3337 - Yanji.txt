@@ -2,6 +2,6 @@ owner = JLN
 controller = JLN
 add_core = JLN
 add_core = CHI
-trade_goods = iron
+trade_goods = timber
 life_rating = 32
 terrain = plains

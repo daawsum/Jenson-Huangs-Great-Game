@@ -4,4 +4,4 @@ add_core = HRE
 add_core = SAR
 add_core = ITA
 trade_goods = grain
-life_rating = 34
+life_rating = 29

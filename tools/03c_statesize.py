@@ -35,9 +35,9 @@ FAMILIES = {
     "unification_casus_belli": [0.002, 0.004, 0.008, 0.012, 0.016],
     "warlord_take_state": [0.002, 0.004, 0.006, 0.009, 0.012],          # this mod's own war goal
 }
-ERAS = [(880201, None, 1860, [100000, 450000, 750000, 1050000]),       # Heartbreaker's thresholds and years
-        (880202, 1860, 1900, [150000, 650000, 1050000, 1500000]),
-        (880203, 1900, None, [200000, 800000, 1400000, 2000000])]
+ERAS = [(880201, None, 1860, [200000, 900000, 1500000, 2100000]),       # Heartbreaker's years, twice its thresholds
+        (880202, 1860, 1900, [300000, 1300000, 2100000, 3000000]),
+        (880203, 1900, None, [400000, 1600000, 2800000, 4000000])]
 RUNNER = "WBK" if WORLD_BANK else "ZHL"
 
 

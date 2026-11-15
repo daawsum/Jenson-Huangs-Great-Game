@@ -1,0 +1,78 @@
+become_host_nation_title;Become the Host Nation;;;;;;;;;;;;;x
+become_host_nation_desc;Only click this decision if you are the host/GM!;;;;;;;;;;;;;x
+show_host_decisions_title;Show Host Decisions;;;;;;;;;;;;;x
+show_host_decisions_desc;Click to show all host decisions;;;;;;;;;;;;;x
+hide_host_decisions_title;Hide Host Decisions;;;;;;;;;;;;;x
+hide_host_decisions_desc;Click to hide all host decisions;;;;;;;;;;;;;x
+ally_all_countries_title;Ally All Countries;;;;;;;;;;;;;x
+ally_all_countries_desc;Click to ally all countries in the game;;;;;;;;;;;;;x
+unally_all_countries_title;Unally All Countries;;;;;;;;;;;;;x
+unally_all_countries_desc;Click to unally all countries in the game;;;;;;;;;;;;;x
+get_militaryaccess_with_all_countries_title;Grant Military Access to All Countries;;;;;;;;;;;;;x
+get_militaryaccess_with_all_countries_desc;Click to grant military access to all countries in the game. Manually remove the mil access given to the country or countries you want to set as targets for the decisions.;;;;;;;;;;;;;x
+remove_militaryaccess_with_all_countries_title;Remove Mil Access Given to All Countries;;;;;;;;;;;;;x
+remove_militaryaccess_with_all_countries_desc;Click to remove military access given to all countries in the game;;;;;;;;;;;;;x
+transfer_host_nation_title;Transfer Host Nation;;;;;;;;;;;;;x
+transfer_host_nation_desc;Click to transfer the host nation flag to the target nation.;;;;;;;;;;;;;x
+kick_players_no_milaccess_title;Kick All Target Players;;;;;;;;;;;;;x
+kick_players_no_milaccess_desc;Click to kick all target player-countries from the game.;;;;;;;;;;;;;x
+unsige_country_no_milaccess_title;Unsiege All Target Countries;;;;;;;;;;;;;x
+unsige_country_no_milaccess_desc;Click to unoccupy all non-rebel occupations in target countries.;;;;;;;;;;;;;x
+choose_country_to_siege_title;Choose a Target Country to be the Occupier;;;;;;;;;;;;;x
+choose_country_to_siege_desc;Click to pick a target country to be the occupier, after clicking this a new decision will unlock allowing you to choose which countries will be sieged by this target country.;;;;;;;;;;;;;x
+siege_country_title;Siege All Target Countries to the Occupier;;;;;;;;;;;;;x
+siege_country_desc;Click this to siege all target countries to the occupier you picked earlier;;;;;;;;;;;;;x
+increase_infamy_title;Increase Infamy;;;;;;;;;;;;;x
+increase_infamy_desc;Does what it says.;;;;;;;;;;;;;x
+decrease_infamy_title;Decrease Infamy;;;;;;;;;;;;;x
+decrease_infamy_desc;Does what it says.;;;;;;;;;;;;;x
+give_sanctions_title;Give Sanctions;;;;;;;;;;;;;x
+give_sanctions_desc;Does what it says.;;;;;;;;;;;;;x
+swap_country_title;Change Tag to the Target Country;;;;;;;;;;;;;x
+swap_country_desc;Clicking this decision will change your tag to the target country.;;;;;;;;;;;;;x
+swap_country_host_flag_yes_title;Enable Host Flag Following Tag Changes;;;;;;;;;;;;;x
+swap_country_host_flag_yes_desc;Clicking this decision will make it so when you change tag, the host nation flag will follow to the nation you swap to.;;;;;;;;;;;;;x
+swap_country_host_flag_no_title;Disable Host Flag Following Tag Changes;;;;;;;;;;;;;x
+swap_country_host_flag_no_desc;Clicking this decision will disable the host flag following your tag swaps again.;;;;;;;;;;;;;x
+select_country_to_swap_title;Set a Player to Tag Switch to a Target Country.;;;;;;;;;;;;;x
+select_country_to_swap_desc;Click this decision to set a target country as the player to move to the destination tag with the next decision.;;;;;;;;;;;;;x
+select_country_to_swap_to_title;Set The Destination Tag to a Target Country.;;;;;;;;;;;;;x
+select_country_to_swap_to_desc;Click this decision to set a target country as the destination tag, and move the initially selected player to said tag.;;;;;;;;;;;;;x
+reset_swap_selection_title;Reset Tag Switch Selection;;;;;;;;;;;;;x
+reset_swap_selection_desc;Clicking this decision will reset the countries flagged for tag swaps;;;;;;;;;;;;;x
+change_national_value_on_title;Change National Value (Hidden);;;;;;;;;;;;;x
+change_national_value_on_desc;Show National Value Decisions.;;;;;;;;;;;;;x
+change_national_value_off_title;Change National Value (Showing);;;;;;;;;;;;;x
+change_national_value_off_desc;Hide National Value Decisions.\n\nNote: If you don't see any options, scroll down in your decisions menu to see options that are currently unavailable to you.;;;;;;;;;;;;;x
+switch_to_diplomacy_title;Embrace the Ideal of Diplomacy;;;;;;;;;;;;;x
+switch_to_diplomacy_desc;The channels of power require an eye for detail, a fine touch, and a silver tongue. Let our people focus our energies into refining these qualities so we may be masters over those who are less.. refined.\n\n§YThe modifiers for this NV are:§W\n§GDiplomatic Points Generation: +200%\nBase Influence Points Generation: +50%\nInfamy Decay Speed: -0.05\nFaster CB Generation Speed: +50%§W;;;;;;;;;;;;;x
+switch_to_education_title;Embrace the Ideal of Education;;;;;;;;;;;;;x
+switch_to_education_desc;Our people must look forward, ignoring the wanton worries of our rivals. Wield logic and rationality to march forward!\n\n§YThe modifiers for this NV are:§W\n§GEducation Efficiency: +40%\nCulture Tech Research Bonus: +5%§W;;;;;;;;;;;;;x
+switch_to_order_title;Embrace the Ideal of Order;;;;;;;;;;;;;x
+switch_to_order_desc;The foreigners progress and dominate through an orderly and organized society, based on a sense of duty to their country. If we were to embrace this ideal, we might strive as they do.\n\n§YThe modifiers for this NV are:§W\n§GOrganization Regain Rate: +5%\nLand Unit Starting Experience: +5%\nLeadership Points Gain: +100%\nArmy Tech Research Bonus: +5%§W;;;;;;;;;;;;;x
+switch_to_production_title;Embrace the Ideal of Productivity;;;;;;;;;;;;;x
+switch_to_production_desc;The foreigners progress through an industrious society based on hard work. If we were to embrace this ideal, we might progress as they do.\n\n§YThe modifiers for this NV are:§W\n§GFactory Input: -5%\nFactory Output: +25%\n§GCommerce Tech Research Bonus: +5%\nIndustry Tech Research Bonus: +5%§W;;;;;;;;;;;;;x
+switch_to_equality_title;Embrace the Ideal of Equality;;;;;;;;;;;;;x
+switch_to_equality_desc;It is time for our nation to change the character of our people, to encourage them to embrace the values of equality and social fairness above all else.\n\n§YThe modifiers for this NV are:§W\n§GBonus Assimilation Rate: +50%\nCulture Tech Research Bonus: +5%§W;;;;;;;;;;;;;x
+change_tech_school_on_title;Change Tech School (Hidden);;;;;;;;;;;;;x
+change_tech_school_on_desc;Show Tech School Decisions;;;;;;;;;;;;;x
+change_tech_school_off_title;Change Tech School (Showing);;;;;;;;;;;;;x
+change_tech_school_off_desc;Hide Tech School Decisions\n\nNote: If you don't see any options, scroll down in your decisions menu to see options that are currently unavailable to you.;;;;;;;;;;;;;x
+switch_to_army_tech_title;Military-Industrial Complex;;;;;;;;;;;;;x
+switch_to_army_tech_desc;Cooperation between private industrialists and the military, on the issues of national defense and war policy, have led to the development of a particularly important web of connections, personal ties and acquaintances, with just an ever so slight hint of corruption, that can best be described as a Military-Industrial Complex. By furthering the goals and ambitions of these informal networks within our academia, we can boost industrial and military research, at the expense of navy and culture.;;;;;;;;;;;;;x
+switch_to_navy_tech_title;Sea power & The Merchant Marine;;;;;;;;;;;;;x
+switch_to_navy_tech_desc;It has been said that the best way to get ahead in our country is to go via the naval schools. Much of our country's military and political elites have been educated navy men, or have served in the merchant marine. The navy's importance for a seafaring country like our own cannot be underestimated, and by promoting these groups and backgrounds politically, we can ensure that our naval technology will develop at an increased rate, at the expense, however, of other fields of research.;;;;;;;;;;;;;x
+switch_to_culture_tech_title;Avantgarde Intelligentsia;;;;;;;;;;;;;x
+switch_to_culture_tech_desc;A cultural and ideological avantgarde within our country has, during the past years, been undertaking a long march through our academic institutions. By steadily working their way up the rungs of the academic ladder, these radical new ideologues are now in a position to completely subvert our academic institutions to better suit their ideological agenda. By supporting their cause, we can increase the speed of our cultural research, to the detriment, however, of other spheres of intellectual progress.;;;;;;;;;;;;;x
+switch_to_trade_tech_title;Tycoon Capitalism & Business Schools;;;;;;;;;;;;;x
+switch_to_trade_tech_desc;Our country has under the past years come increasingly under the sway of select cliques of people who have all been educated at the same, or similar, elite business schools and companies. By supporting these groups, we can ensure that our academia's focus lies where it matters: in the fields of commerce and industry. This change will, however, come at the expense of other fields of research.;;;;;;;;;;;;;x
+switch_to_industry_tech_title;Corporative Industrialism;;;;;;;;;;;;;x
+switch_to_industry_tech_desc;Capital and government in our country have, for some time, been doing their utmost to weave between them an intricate web of personal relations, that has increasingly come to assume the forms of a symbiotic relationship of mutual dependence. By further promoting these connections between the public and private spheres of our society, we can vastly increase our technological progress in the fields of industry, at the expense, however of research in other fields.;;;;;;;;;;;;;x
+switch_to_traditional_academic_title;Restore The Academia;;;;;;;;;;;;;x
+switch_to_traditional_academic_desc;Required to be traditional academia for 10 years before you can switch to a new tech school. (Check time left on Academic Confusion country modifier);;;;;;;;;;;;;x
+academic_confusion;Academic Confusion;;;;;;;;;;;;;x
+academic_confusion_desc;Our academia is in a state of disarray, following a paradigm shift within our academic establishment. Our prestige and research will be hampered while the effect lasts.;;;;;;;;;;;;;x
+kinda_bad_badboy;International Sanctions;;;;;;;;;;;;;x
+kinda_bad_badboy_desc;We have been declared a threat to global safety and international balance of power. Sanctions have been applied to our country and citizens and we have been warned that the great powers will worsen these sanctions in case we continue our aggressiveness.;;;;;;;;;;;;;x
+national_confusion;National Confusion;;;;;;;;;;;;;x
+national_confusion_desc;There has been a great deal of change in our country. It will take some time to sort things out, before business as usual can resume.;;;;;;;;;;;;;x

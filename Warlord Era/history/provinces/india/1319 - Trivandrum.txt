@@ -1,5 +1,6 @@
-owner = TRA
-controller = TRA
+owner = HYD
+controller = HYD
+add_core = HYD
 add_core = TRA
 add_core = HND
 trade_goods = fruit

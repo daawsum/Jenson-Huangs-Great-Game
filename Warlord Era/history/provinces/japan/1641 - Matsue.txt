@@ -1,6 +1,6 @@
-owner = XAG
-controller = XAG
-add_core = XAG
+owner = XAB
+controller = XAB
+add_core = XAB
 add_core = JAP
 trade_goods = fish
 life_rating = 35

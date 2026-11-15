@@ -142,9 +142,9 @@ IDENTITY = {
 
 # Literacy at the start. The examination heartlands (Jiangnan, Zhejiang, Anhui's academies, Hunan's
 # Yuelu school), the merchant south (Canton, Fujian) and the capital read; the frontier does not.
-LITERACY = {"JSU": 0.45, "ZHJ": 0.45, "SHG": 0.50, "GDG": 0.40, "FUJ": 0.38, "ZHL": 0.38, "AHC": 0.36, "HNC": 0.34,
+LITERACY = {"JSU": 0.45, "ZHJ": 0.45, "SHG": 0.70, "GDG": 0.40, "FUJ": 0.38, "ZHL": 0.38, "AHC": 0.36, "HNC": 0.34,
             "SDG": 0.30, "HBE": 0.30, "JXI": 0.30, "SXI": 0.28, "SZC": 0.26, "CQG": 0.26, "FTN": 0.24, "HNA": 0.22,
-            "TWN": 0.24, "XZC": 0.20, "GXI": 0.18, "HNI": 0.16, "GMJ": 0.16, "YNN": 0.14, "GZH": 0.12, "JLN": 0.14,
+            "TWN": 0.70, "XZC": 0.20, "GXI": 0.18, "HNI": 0.70, "GMJ": 0.16, "YNN": 0.14, "GZH": 0.12, "JLN": 0.14,
             "HLJ": 0.10, "RHE": 0.10, "CHH": 0.08, "SYN": 0.08, "NXA": 0.08, "XBI": 0.08, "QHI": 0.05, "XKG": 0.05,
             "XIN": 0.06, "KSG": 0.05, "TIB": 0.06}
 
@@ -152,3 +152,303 @@ LITERACY = {"JSU": 0.45, "ZHJ": 0.45, "SHG": 0.50, "GDG": 0.40, "FUJ": 0.38, "ZH
 FORMERS = {"BYG": ["ZHL", "AHC", "SDG", "HNA"], "LGG": ["GDG", "GXI"], "SHU": ["SZC", "CQG"], "WUU": ["JSU", "ZHJ", "SHG"],
            "CHU": ["HBE", "HNC", "JXI"], "DIA": ["YNN", "GZH"], "NWF": ["GMJ", "XBI", "XIN"], "MZG": ["FTN", "JLN", "HLJ"]}
 FORMERS["CHI"] = ["ZHL", "FTN", "GDG", "JSU", "AHC", "HBE"] + [t for t in FORMERS]
+
+
+# ------------------------------------------------------------------ minerals of China
+# Every coal, iron and sulphur province in China is reset and placed again where the deposits are.
+# Sources: USGS Open-File Report 00-047 (coal-bearing regions and major mines of China), US Bureau
+# of Mines Minerals Yearbooks (China), "Spatio-temporal distribution and tectonic settings of the
+# major iron deposits in China", Earth Science Frontiers 2018 25(3) on China's sulphur resources.
+CN_MINERALS = {
+    # coal
+    1576: "coal",   # Datong (Datong-Ningwu field)
+    1572: "coal",   # Taiyuan (Xishan)
+    3349: "coal",   # Pingding (Yangquan)
+    1574: "coal",   # Luan (Changzhi)
+    3350: "coal",   # Zezhou (Jincheng anthracite)
+    1573: "coal",   # Fenzhou (Fenxi)
+    1616: "coal",   # Tangshan (Kailuan)
+    3379: "coal",   # Guangping (Fengfeng, Handan)
+    3260: "coal",   # Tieling (Fushun and Tiefa)
+    3377: "coal",   # Chaoyang (Beipiao, Fuxin)
+    3296: "coal",   # Xinxiang (Jiaozuo)
+    1514: "coal",   # Runing (Pingdingshan)
+    1567: "coal",   # Qingzhou (Zibo, Boshan)
+    3345: "coal",   # Yanzhou
+    3342: "coal",   # Jining (Zaozhuang)
+    1472: "coal",   # Fengyang (Huainan)
+    1542: "coal",   # Xuzhou (Jiawang, Huaibei)
+    3325: "coal",   # Yuanzhou (Pingxiang, the Hanyeping collieries)
+    1526: "coal",   # Baoqing (Lianyuan, Lengshuijiang)
+    3339: "coal",   # Yulin (Shenmu-Fugu)
+    3318: "coal",   # Dongsheng (Ordos)
+    1083: "coal",   # Boli (Jixi, Qitaihe)
+    3334: "coal",   # Sanxing (Hegang, Shuangyashan)
+    3360: "coal",   # Guangan (Huaying mountain)
+    3289: "coal",   # Xingyi (Liupanshui, Panxian)
+    1506: "coal",   # Anshun
+    3366: "coal",   # Qujing (Fuyuan)
+    3274: "coal",   # Lingzhou (Lingwu, Ningdong)
+    1600: "coal",   # Dihua (the Urumqi coalfield)
+    3273: "coal",   # North Lanzhou (Yaojie, Jingyuan)
+    3265: "coal",   # Xinzhu (north Taiwan coal measures)
+    # iron
+    3259: "iron",   # Liaoyang (Anshan, Benxi)
+    1615: "iron",   # Jizhou (East Hebei: Zunhua, Qianan)
+    3317: "iron",   # Zhangjiakou (Xuanhua, Longyan)
+    1613: "iron",   # Chengde (Damiao)
+    1522: "iron",   # Wuchang (Daye)
+    1477: "iron",   # Taiping (Maanshan, Dangtu)
+    1568: "iron",   # Taian (Laiwu)
+    3348: "iron",   # Xinzhou (Lvliang-Taiyuan-Xinzhou district)
+    1575: "iron",   # Pingyang (Linfen)
+    3312: "iron",   # Baotou (Bayan Obo)
+    1499: "iron",   # Hainan (Shilu)
+    3267: "iron",   # Longyan (Makeng)
+    1500: "iron",   # Shaozhou (Dabaoshan)
+    1555: "iron",   # Jilin (Tonghua)
+    1488: "iron",   # Jiayuguan (Jingtieshan)
+    3368: "iron",   # Lijiang (Panzhihua)
+    2562: "iron",   # Tainan
+    3385: "iron",   # Fengshan
+    # sulphur
+    3282: "sulphur",   # Luoding (Yunfu, the largest pyrite deposit in China)
+    3252: "sulphur",   # Tongling (pyrite)
+    3362: "sulphur",   # Xuyong (Xuyong-Gulin pyrite)
+    3309: "sulphur",   # Pingjiang (Liuyang)
+    1597: "sulphur",   # Aksu (Kuqa native sulphur)
+    1595: "sulphur",   # Ili
+    1485: "sulphur",   # Taibei (Datun volcanoes, Beitou)
+}
+# what a province grows once it loses a mineral it should not have had
+CN_FALLBACK = {"SXI": "grain", "GMJ": "grain", "HNA": "grain", "HNC": "tea", "HBE": "tea", "JXI": "tea", "SZC": "silk", "XBI": "wool",
+               "XIN": "wool", "KSG": "cotton", "JLN": "timber", "HLJ": "timber", "RHE": "cattle", "SYN": "wool", "QHI": "wool", "FTN": "timber"}
+
+# Oil found where China's oil fields are (vanilla's oil event, with these provinces): (year, province)
+CN_OIL = [
+    (1877, 3265),   # Xinzhu: Chuhuangkeng in Miaoli, drilled 1877
+    (1880, 1561),   # Yenan: Yanchang, the mainland's first well (1907)
+    (1885, 3268),   # Jiuquan: Yumen (1939)
+    (1890, 1596),   # Tulta: Karamay (1955)
+    (1890, 3330),   # Hulan: Daqing (1959)
+    (1890, 1552),   # Qiqihar: Daqing
+    (1895, 3346),   # Binzhou: Shengli, the Yellow River delta
+    (1895, 1480),   # Jinzhou: Liaohe
+    (1895, 3382),   # Cangzhou: Dagang and Huabei
+    (1895, 3336),   # Changchun: Jilin field (Songyuan)
+    (1900, 1556),   # Makhai: Qaidam (Lenghu)
+    (1900, 1583),   # Shunqing: central Sichuan (Nanchong)
+    (1900, 1614),   # Daming: Zhongyuan (Puyang)
+    (1900, 1513),   # Nanyang
+    (1900, 1520),   # Jingzhou: Jianghan (Qianjiang)
+    (1900, 3275),   # Qingyang: Changqing (Ordos basin)
+]
+
+# ------------------------------------------------------------------ life rating of China
+# Where people have always lived thickest: the Yangtze and Pearl deltas and the Chengdu plain (40),
+# the North China plain, the middle Yangtze and the Sichuan basin (37-38), then hill country, the
+# loess plateau and Manchuria (32-35), the steppe and the dry north-west (27-31), and Tibet (25).
+# Taiwan is 45.
+CN_LIFE = {"JSU": 40, "SHG": 40, "ZHJ": 38, "GDG": 37, "ZHL": 38, "SDG": 38, "AHC": 38, "HBE": 38, "XZC": 37, "HNA": 37, "HNC": 37,
+           "JXI": 37, "CQG": 37, "SZC": 37, "FUJ": 36, "FTN": 35, "GXI": 34, "SXI": 34, "GMJ": 34, "HNI": 34, "YNN": 33, "GZH": 32,
+           "JLN": 32, "RHE": 31, "NXA": 31, "XBI": 30, "HLJ": 29, "CHH": 29, "SYN": 29, "XIN": 27, "KSG": 27, "XKG": 27, "QHI": 26,
+           "TIB": 25, "TWN": 45, "MGL": 28}
+CN_LIFE_PROV = {1604: 40, 1605: 40, 1606: 40, 1609: 40, 1608: 40,             # Hangzhou bay
+                1493: 40, 3276: 40, 1496: 40, 1498: 40,                        # Pearl River delta
+                1578: 40, 3356: 40, 3354: 40,                                  # Chengdu plain
+                1582: 30, 3358: 30, 3359: 30,                                  # the Sichuan highlands
+                3339: 31, 1561: 31,                                            # northern Shaanxi
+                1488: 27, 3268: 27, 3269: 27,                                  # the Hexi corridor
+                1601: 35, 1602: 35}                                            # Kunming and Dali basins
+
+
+# ------------------------------------------------------------------ crops and fisheries of China
+# Vanilla grows tea and silk almost everywhere south of the Yellow River. Tea stays in the real tea
+# districts (Fujian, Huizhou and Liuan, Hangzhou, Xinyang, Hankou, Puer, Zunyi) and silk in the real
+# silk districts (Suzhou, Hangzhou, Huzhou, Jiaxing, Yangzhou). The rest becomes what the place is
+# known for.
+CN_CROPS = {
+    # --- grain: the wheat plain, the rice bowls and the four great rice markets
+    1612: "grain",   # Beijing (the capital's wheat plain)
+    3380: "grain",   # Langfang
+    3381: "grain",   # North Shuntian
+    3383: "grain",   # Baoding
+    1511: "grain",   # Zhengzhou
+    1478: "grain",   # Yingzhou (Huaibei wheat)
+    3258: "grain",   # Bozhou
+    1509: "grain",   # Guide
+    3292: "grain",   # Shangqiu
+    1512: "grain",   # Chenzhou
+    3253: "grain",   # Bengbu
+    1474: "grain",   # Luzhou (the Chaohu rice basin)
+    3255: "grain",   # Chaohu
+    3257: "grain",   # Wuhu (one of the four great rice markets)
+    1476: "grain",   # Sizhou
+    1536: "grain",   # Huaian (the Grand Canal granaries)
+    1537: "grain",   # Changzhou (Wuxi, another of the four rice markets)
+    3322: "grain",   # Gaoyou (the Lixiahe rice lowlands)
+    1540: "grain",   # Taicangzhou (Taicang means "great granary")
+    1516: "grain",   # Hanyang (the Jianghan plain)
+    1517: "grain",   # Dean
+    1519: "grain",   # Anlu
+    1520: "grain",   # Jingzhou
+    3301: "grain",   # Shashi
+    3298: "grain",   # Suizhou
+    3300: "grain",   # Jingmen
+    1524: "grain",   # Changsha (rice market: "when Huguang ripens, the realm is fed")
+    3305: "grain",   # Xiangtan
+    1525: "grain",   # Changde (the Dongting lake plain)
+    3306: "grain",   # Lizhou
+    1527: "grain",   # Hengzhou
+    1530: "grain",   # Yongzhou
+    1545: "grain",   # Nanchang (the Poyang lake plain)
+    1547: "grain",   # Jian
+    3326: "grain",   # Linchuan
+    1578: "grain",   # Chengdu (the Dujiangyan-irrigated plain)
+    3354: "grain",   # Mianzhou
+    3357: "grain",   # Wanxian
+    3353: "grain",   # Fuling
+    1583: "grain",   # Shunqing
+    1601: "grain",   # Kunming (the Dian lake basin)
+    1505: "grain",   # Guiyang
+    # --- fruit
+    3376: "fruit",   # Changping (peaches, persimmons and chestnuts of the hills north of Beijing)
+    1618: "fruit",   # Zhongding (Zhaozhou snow pears)
+    3382: "fruit",   # Cangzhou (golden-thread jujubes)
+    3261: "fruit",   # Xingcheng (the pear and apple belt of western Liaoning)
+    1565: "fruit",   # Laizhou (Laiyang pears, Yantai apples)
+    3321: "fruit",   # Pizhou (the Dangshan pear country of the old Yellow River bed)
+    1610: "fruit",   # Taizhou (Huangyan tangerines)
+    1487: "fruit",   # Zhangzhou (citrus, lychee, longan, bananas)
+    3264: "fruit",   # Xinghua (Putian lychee, longan and loquat)
+    1494: "fruit",   # Chaozhou (Chaozhou mandarins)
+    1497: "fruit",   # Huizhou (lychee)
+    3277: "fruit",   # Jiaying (Meizhou pomelos)
+    3278: "fruit",   # Leizhou (pineapple and tropical fruit)
+    3280: "fruit",   # Qiongzhou (coconut and tropical fruit)
+    3302: "fruit",   # Yichang (Yichang and Zigui oranges)
+    3311: "fruit",   # Daozhou (Dao county oranges)
+    3310: "fruit",   # Fenghuang (west Hunan citrus)
+    1548: "fruit",   # Jianchang (Nanfeng tangerines)
+    1550: "fruit",   # Ganzhou (the Gannan orange country)
+    3363: "fruit",   # East Yibin (Luzhou and Hejiang lychee)
+    1577: "fruit",   # Chongqing (Jiangjin oranges)
+    1581: "fruit",   # Kuizhou (Fengjie oranges)
+    3367: "fruit",   # Zhaotong (Zhaotong apples)
+    3370: "fruit",   # Linan (Mengzi pomegranates)
+    1490: "fruit",   # Lanzhou (melons, peaches and lily bulbs)
+    1599: "fruit",   # Kumul (Hami melons)
+    # --- fish: the fishing ports and the four great fishing grounds
+    1617: "fish",    # Tianjin (Bohai bay)
+    1481: "fish",    # Port Arthur (Dalian and the Liaodong grounds)
+    1082: "fish",    # Haishenwai ("sea cucumber bay")
+    1569: "fish",    # Weihaiwei (the Yantai-Weihai ground)
+    1571: "fish",    # Yizhou (holds the Rizhao coast on this map)
+    3320: "fish",    # Haizhou (the Haizhou bay ground)
+    1541: "fish",    # Tongzhou (the Lusi ground)
+    1538: "fish",    # Shanghai (the mouth of the Yangtze)
+    1608: "fish",    # Ningbo (the Zhoushan ground, the largest in China)
+    3375: "fish",    # Chuzhou (holds the Wenzhou coast on this map)
+    1611: "fruit",   # Wenzhou (Ou mandarins; its piece of the map is inland)
+    3262: "fish",    # Funing (yellow croaker of Sandu bay)
+    3279: "grain",   # Haifeng (its piece of the map is inland; Hong Kong and Macao fish this coast)
+    1496: "fish",    # Hong Kong
+    1498: "fish",    # Macao
+    1495: "fish",    # Zhanjiang (the Beibu gulf ground)
+    # --- the Sichuan highlands herd yak; they never grew silk
+    1582: "cattle", 3358: "cattle", 3359: "cattle",
+}
+CN_FISH = {p for p, g in CN_CROPS.items() if g == "fish"}
+assert not set(CN_CROPS) & set(CN_MINERALS), set(CN_CROPS) & set(CN_MINERALS)
+
+
+# ------------------------------------------------------------------ the two roads of each great clique
+# Once a clique has State and Government and holds the capital of the small neighbour it claims
+# (TARGET), it must choose one of two roads for good. Almost all are roads of conquest; Shanxi and
+# Hunan may instead turn inward and play tall.
+# option: (title, text, claims, accepted cultures, modifier effects, new tag or None)
+#   claims are tags (every province they own at the start becomes a core) or "SIBERIA".
+ROADS = {
+    "ZHL": [("Beyond the Shanhai Pass", "The Qing came through the pass to take Beijing. We go out through it: Manchuria to the Amur is declared ours.",
+             ["FTN", "JLN", "HLJ", "RHE"], ["dongbei", "manchu"], dict(land_organisation=0.08, cb_generation_speed_modifier=0.25), None),
+            ("The Tribute Restored", "Seoul and Urga once sent envoys to kneel in Beijing. They will again, or be garrisoned: Korea and Mongolia are claimed for the capital.",
+             ["KOR", "MGL", "CHH"], ["korean", "mongol"], dict(prestige=0.02, diplomatic_points_modifier=0.25, org_regain=0.1), None)],
+    "FTN": [("Enter the Pass", "Every master of Manchuria has ended by riding through the Shanhai Pass. Zhili and the capital are ours by right of the strongest army.",
+             ["ZHL", "RHE", "CHH"], ["jilu"], dict(land_organisation=0.1, mobilisation_size=0.02), None),
+            ("The Great Northern Wilderness", "Turn our backs on the quarrels of China. The forests from the Amur to the Arctic are empty, rich and unguarded, and Korea lies open beside them.",
+             ["SIBERIA", "KOR"], ["korean", "siberian"], dict(global_immigrant_attract=0.5, farm_rgo_eff=0.1, mine_rgo_eff=0.1), None)],
+    "AHC": [("The Huai Army Marches Again", "Li Hongzhang's Huai Army took Jiangnan from the Taiping. It shall take it again: Nanjing, Suzhou and Shanghai are claimed.",
+             ["JSU", "SHG", "ZHJ"], ["wu"], dict(land_organisation=0.08, tax_efficiency=0.05), None),
+            ("Regent of the North", "Duan Qirui ruled Beijing through loans and bayonets. March on the plain: Henan, Xuzhou and Shandong first, the capital after.",
+             ["HNA", "XZC", "SDG"], ["jilu"], dict(org_regain=0.15, loan_interest=-0.25, cb_generation_speed_modifier=0.25), None)],
+    "SXI": [("The Model Province", "Let the others bleed each other white. Behind the passes we build arsenals, schools and a narrow-gauge railway no invader's trains can use.",
+             [], [], dict(factory_throughput=0.2, education_efficiency_modifier=0.2, land_defense_modifier=0.2, tax_efficiency=0.1, research_points_modifier=0.1, mobilisation_size=-0.01), None),
+            ("Out of the Passes", "Shanxi merchants financed half of China; Shanxi soldiers can own it. Down onto the Wei valley and out over the Great Wall.",
+             ["GMJ", "SYN", "CHH", "NXA"], ["guanzhong", "mongol"], dict(land_organisation=0.08, tax_efficiency=0.03), None)],
+    "GMJ": [("The Long March West", "The Northwest Army was made for empty country. Take the Hexi corridor, the oases and the Muslim marches as far as the Pamirs.",
+             ["XBI", "NXA", "QHI", "XIN", "KSG"], ["uighur", "tibetan"], dict(supply_consumption=-0.15, land_organisation=0.08, max_attrition=-1), None),
+            ("The Christian General's Crusade", "Feng Yuxiang baptised his regiments with a fire hose. Now he will cleanse the Central Plain of warlords: Shanxi and Henan are claimed for the people's army.",
+             ["SXI", "HNA"], ["zhongyuan"], dict(land_unit_start_experience=20, core_pop_militancy_modifier=-0.02, org_regain=0.1), None)],
+    "SDG": [("The Yellow Sea Realm", "From Qingdao and Weihaiwei the sea is ours. Korea is one night's sail away, and beyond it the islands of Japan.",
+             ["KOR", "JAP"], ["korean"], dict(naval_organisation=0.15, land_organisation=0.05, prestige=0.01), None),
+            ("Heirs of Qi and Lu", "This is the soil of Confucius and Mencius, and their country ran wider than our borders. Take the old states of the plain back.",
+             ["HNA", "XZC", "ZHL"], ["zhongyuan"], dict(education_efficiency_modifier=0.1, core_pop_militancy_modifier=-0.02, land_organisation=0.05), None)],
+    "HNA": [("Hunting the Deer on the Central Plain", "Whoever takes the plain takes the realm; so it has been since the Zhou. Every army that borders us is hunting the same deer: strike first, at Shandong and Shanxi.",
+             ["SDG", "SXI", "ZHL"], ["jilu", "jin"], dict(land_organisation=0.1, org_regain=0.1), None),
+            ("South to the Han River", "The plain feeds armies but cannot pay them. Hankou can: take the middle Yangtze and its customs houses.",
+             ["HBE", "AHC"], ["chu", "jianghuai"], dict(tax_efficiency=0.08, supply_consumption=-0.1), None)],
+    "JSU": [("The League of Seven Provinces", "Sun Chuanfang called himself commander of five provinces. Make it seven: Zhejiang, Fujian, Jiangxi and Anhui answer to Nanjing.",
+             ["ZHJ", "FUJ", "JXI", "AHC"], ["min", "gan"], dict(tax_efficiency=0.05, land_organisation=0.05, diplomatic_points_modifier=0.25), None),
+            ("The Treaty Port Empire", "Nanjing's wealth is the river's mouth. Seize Shanghai, then do to others what the treaty powers did to us: the Philippines and the Malay ports are claimed.",
+             ["SHG", "PHI", "JOH"], ["malay"], dict(naval_organisation=0.15, tax_efficiency=0.08, factory_throughput=0.05), None)],
+    "ZHJ": [("The Zhoushan Thalassocracy", "Ningbo's captains traded to Nagasaki and Manila before any European did. Formosa, the Ryukyus' masters in Japan and the Philippines are claimed for the fleet.",
+             ["TWN", "JAP", "PHI"], ["japanese"], dict(naval_organisation=0.2, research_points_modifier=0.05, prestige=0.01), None),
+            ("Heirs of Wuyue", "The kingdom of Wuyue held the whole delta and the Fujian coast in peace while the north burned. Take its old borders by force.",
+             ["JSU", "SHG", "FUJ"], ["jianghuai"], dict(tax_efficiency=0.08, land_defense_modifier=0.1, education_efficiency_modifier=0.05), None)],
+    "FUJ": [("The Lanfang Republic", "Hakka miners once ruled a republic of their own in Borneo. Fujian's sons are already in every port of the southern seas: follow them with a fleet and proclaim the republic again, from Brunei to Manila.",
+             ["BRU", "PHI", "JAV"], ["malay", "javan"], dict(naval_organisation=0.15, global_immigrant_attract=0.5), "LFG"),
+            ("The Min-Yue Confederacy", "Before the Han came there was Minyue and Nanyue, one coast from the Min river to Hainan. Canton, Formosa and Hainan belong with us.",
+             ["GDG", "TWN", "HNI"], ["yue"], dict(tax_efficiency=0.05, naval_organisation=0.1, land_organisation=0.05), None)],
+    "GDG": [("The Northern Expedition", "Swear the army at Whampoa and march: Hunan, Jiangxi and Hubei first, then the Yangtze. The revolution will not stay in one province.",
+             ["HNC", "JXI", "HBE"], ["xiang", "gan", "chu"], dict(land_organisation=0.1, org_regain=0.1, war_exhaustion=-0.01, cb_generation_speed_modifier=0.5), None),
+            ("The Canton System Abroad", "For a century every foreign ship was made to trade at Canton alone. Now Canton's merchants will hold the foreign ports: Hanoi, Singapore and Bangkok.",
+             ["DAI", "JOH", "SIA"], ["vietnamese", "malay", "thai"], dict(naval_organisation=0.1, tax_efficiency=0.1, factory_throughput=0.05), None)],
+    "GXI": [("The Annam Protectorate", "The Black Flags of Guangxi fought for Annam when the court would not. Go back over the border and stay: all Vietnam is claimed, and Siam beyond it.",
+             ["DAI", "SIA"], ["vietnamese", "thai"], dict(supply_consumption=-0.15, land_organisation=0.08, max_attrition=-1), None),
+            ("The New Guangxi Clique", "Li Zongren and Bai Chongxi made a poor province the best-drilled in China. Its army deserves a richer country: Canton, Hunan and Guizhou.",
+             ["GDG", "HNC", "GZH"], ["xiang"], dict(land_organisation=0.12, land_unit_start_experience=20, mobilisation_size=0.02), None)],
+    "HNC": [("Hunan for the Hunanese", "A provincial constitution, a provincial army, and no northern or southern troops on our soil ever again. Let them come and try the passes.",
+             [], [], dict(land_defense_modifier=0.25, mobilisation_size=0.04, education_efficiency_modifier=0.15, core_pop_militancy_modifier=-0.03, farm_rgo_eff=0.1, research_points_modifier=0.1), None),
+            ("The Xiang Army Reborn", "Zeng Guofan raised the Xiang Army from these villages and it conquered half of China. Raise it again: Hubei, Jiangxi and Guizhou.",
+             ["HBE", "JXI", "GZH"], ["chu", "gan"], dict(land_organisation=0.1, land_unit_start_experience=25, mobilisation_size=0.02), None)],
+    "HBE": [("Thoroughfare of Nine Provinces", "Every road and river in China crosses at Wuhan. Whoever sits here may reach in any direction: Henan, Hunan and Jiangxi are claimed.",
+             ["HNA", "HNC", "JXI"], ["zhongyuan", "gan"], dict(tax_efficiency=0.08, supply_consumption=-0.1, land_organisation=0.05), None),
+            ("Up the Three Gorges", "Liu Bei went up the river from Jingzhou and won a kingdom. Our gunboats can pass the gorges now: Chongqing and Sichuan are claimed.",
+             ["CQG", "SZC"], ["bashu"], dict(naval_organisation=0.1, land_organisation=0.08, farm_rgo_eff=0.05), None)],
+    "SZC": [("The Road to Lhasa", "Zhao Erfeng marched from Chengdu to Lhasa with two thousand men. We have more. The marches, Kokonor and Tibet itself are claimed.",
+             ["XKG", "QHI", "TIB"], ["tibetan"], dict(max_attrition=-2, supply_consumption=-0.2, land_organisation=0.05), None),
+            ("Zhuge Liang's Northern Expeditions", "Six times the Chancellor of Shu went out through the Qinling passes and six times he failed. The seventh expedition is ours: Hanzhong, the Wei valley and the north-west.",
+             ["GMJ", "XBI", "CQG"], ["guanzhong"], dict(land_organisation=0.1, org_regain=0.15, land_unit_start_experience=15), None)],
+    "YNN": [("The Kingdom of Nanzhao", "Nanzhao ruled from Dali to the Irrawaddy and sacked Chengdu. Its heirs go south again: Burma and Siam are claimed for a kingdom of the mountains.",
+             ["BUR", "SIA"], ["burmese", "thai"], dict(max_attrition=-2, supply_consumption=-0.15, land_organisation=0.08), "NZO"),
+            ("The National Protection War", "When Yuan Shikai made himself emperor it was Yunnan that marched to stop him. March again, down into Sichuan, Guizhou and Guangxi.",
+             ["SZC", "GZH", "GXI"], ["bashu", "yue"], dict(land_organisation=0.1, land_unit_start_experience=20, prestige=0.01), None)],
+    "GZH": [("The Opium Road to the Sea", "Our one crop needs a port. Force a road through Guangxi to the gulf and hold every toll station on it.",
+             ["GXI", "HNI"], ["yue"], dict(tax_efficiency=0.12, supply_consumption=-0.1, land_organisation=0.05), None),
+            ("Yelang Thinks Itself Great", "The king of Yelang asked the Han envoy whose realm was larger. Let no one laugh this time: Yunnan, Chongqing and western Hunan are claimed.",
+             ["YNN", "CQG", "HNC"], ["bashu", "xiang"], dict(land_defense_modifier=0.15, land_organisation=0.08, max_attrition=-1), None)],
+    "XBI": [("Dunganistan", "The Hui cavalry answers to no Han general. Ride west and carve a Muslim realm out of the oases: Xinjiang, Kashgaria and Kokand.",
+             ["XIN", "KSG", "KOK"], ["uighur"], dict(land_organisation=0.1, org_regain=0.15, supply_consumption=-0.15), "DGN"),
+            ("Lords of the Roof of the World", "Ma Bufang's riders broke the Tibetan tribes of Kokonor. Finish it: Qinghai, the marches and Lhasa.",
+             ["QHI", "XKG", "TIB"], ["tibetan"], dict(max_attrition=-2, land_organisation=0.08, mobilisation_size=0.02), None)],
+    "XIN": [("Protector-General of the Western Regions", "The Han and the Tang kept a Protector-General beyond the Pamirs. Revive the office: Kashgaria, Kokand, Bukhara and Khiva.",
+             ["KSG", "KOK", "BUK", "KHI"], ["uighur", "kazak", "kirgiz", "uzbek", "turkmen", "tajik"], dict(supply_consumption=-0.2, land_organisation=0.08, diplomatic_points_modifier=0.25), "WRP"),
+            ("Back through the Jade Gate", "Zuo Zongtang came out through the Jade Gate with coffins in his baggage train. We go back in the same way, for Lanzhou and Xian.",
+             ["XBI", "NXA", "GMJ"], ["tibetan"], dict(land_organisation=0.1, org_regain=0.1, max_attrition=-1), None)],
+    "JXI": [("Down to the Sea", "Jiangxi's porcelain and tea go to the world through other men's ports. Take them: Fujian and Zhejiang.",
+             ["FUJ", "ZHJ"], ["min", "wu"], dict(tax_efficiency=0.08, naval_organisation=0.1, factory_throughput=0.05), None),
+            ("The Nanchang Uprising", "An army was born in Nanchang once and went on to take the country. Begin with the middle Yangtze: Wuhan and Changsha.",
+             ["HBE", "HNC"], ["chu", "xiang"], dict(land_organisation=0.1, mobilisation_size=0.03, core_pop_militancy_modifier=-0.01), None)],
+}
+ROAD_TAGS = {"LFG": ("Lanfang Republic", "Lanfang", (60, 150, 200), "min"), "NZO": ("Nanzhao", "Nanzhao", (150, 90, 160), "nanfaren"),
+             "DGN": ("Dunganistan", "Dungan", (40, 140, 90), "beifaren"), "WRP": ("Protectorate of the Western Regions", "Western Regions", (210, 170, 90), "beifaren")}

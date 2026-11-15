@@ -4,5 +4,5 @@ add_core = HRE
 add_core = HAM
 add_core = GER
 trade_goods = fruit
-life_rating = 40
+life_rating = 35
 naval_base = 1

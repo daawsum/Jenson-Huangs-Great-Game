@@ -1,4 +1,4 @@
-capital = 1166
+capital = 2036
 primary_culture = bedouin
 religion = placeholder
 government = absolute_monarchy

@@ -2,24 +2,24 @@
 	aristocrats = {
 		culture = french
 		religion = placeholder
-		size = 25
+		size = 20
 	}
 
 	clergymen = {
 		culture = african_minor
 		religion = placeholder
-		size = 25
+		size = 30
 	}
 
 	artisans = {
 		culture = african_minor
 		religion = placeholder
-		size = 25
+		size = 75
 	}
 
 	farmers = {
 		culture = african_minor
 		religion = placeholder
-		size = 176
+		size = 1175
 	}
 }

@@ -1,6 +1,6 @@
-owner = XAD
-controller = XAD
-add_core = XAD
+owner = TUR
+controller = TUR
+add_core = TUR
 add_core = EGY
 trade_goods = grain
 life_rating = 30

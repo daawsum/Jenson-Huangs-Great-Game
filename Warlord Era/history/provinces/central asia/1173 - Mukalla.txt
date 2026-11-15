@@ -1,5 +1,6 @@
-owner = YEM
-controller = YEM
+owner = TUR
+controller = TUR
+add_core = TUR
 add_core = YEM
 trade_goods = opium
 life_rating = 35

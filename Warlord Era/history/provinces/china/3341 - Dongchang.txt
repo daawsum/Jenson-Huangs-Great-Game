@@ -3,5 +3,5 @@ controller = SDG
 add_core = SDG
 add_core = CHI
 trade_goods = cotton
-life_rating = 32
+life_rating = 38
 terrain = plains

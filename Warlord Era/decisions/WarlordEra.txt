@@ -33,10 +33,7 @@ political_decisions = {
 					region = USA_121
 				}
 			}
-		}
-		allow = {
 			state_n_government = 1
-			war = no
 			any_owned_province = {
 				OR = {
 					region = USA_1
@@ -50,6 +47,9 @@ political_decisions = {
 					region = USA_121
 				}
 			}
+		}
+		allow = {
+			war = no
 		}
 		effect = {
 			any_owned = {
@@ -100,9 +100,9 @@ political_decisions = {
 					region = USA_121
 				}
 			}
+			state_n_government = 1
 		}
 		allow = {
-			state_n_government = 1
 			war = no
 		}
 		effect = {
@@ -206,10 +206,7 @@ political_decisions = {
 					region = TEX_132
 				}
 			}
-		}
-		allow = {
 			state_n_government = 1
-			war = no
 			any_owned_province = {
 				OR = {
 					region = USA_124
@@ -244,6 +241,9 @@ political_decisions = {
 					region = TEX_132
 				}
 			}
+		}
+		allow = {
+			war = no
 		}
 		effect = {
 			any_owned = {
@@ -336,9 +336,9 @@ political_decisions = {
 					region = TEX_132
 				}
 			}
+			state_n_government = 1
 		}
 		allow = {
-			state_n_government = 1
 			war = no
 		}
 		effect = {
@@ -427,10 +427,7 @@ political_decisions = {
 					region = ENG_68
 				}
 			}
-		}
-		allow = {
 			state_n_government = 1
-			war = no
 			any_owned_province = {
 				OR = {
 					region = ENG_6
@@ -447,6 +444,9 @@ political_decisions = {
 					region = ENG_68
 				}
 			}
+		}
+		allow = {
+			war = no
 		}
 		effect = {
 			any_owned = {
@@ -503,9 +503,9 @@ political_decisions = {
 					region = ENG_68
 				}
 			}
+			state_n_government = 1
 		}
 		allow = {
-			state_n_government = 1
 			war = no
 		}
 		effect = {
@@ -588,10 +588,7 @@ political_decisions = {
 					region = MEX_2173
 				}
 			}
-		}
-		allow = {
 			state_n_government = 1
-			war = no
 			any_owned_province = {
 				OR = {
 					region = UCA_2186
@@ -614,6 +611,9 @@ political_decisions = {
 					region = MEX_2173
 				}
 			}
+		}
+		allow = {
+			war = no
 		}
 		effect = {
 			any_owned = {
@@ -682,9 +682,9 @@ political_decisions = {
 					region = MEX_2173
 				}
 			}
+			state_n_government = 1
 		}
 		allow = {
-			state_n_government = 1
 			war = no
 		}
 		effect = {
@@ -747,10 +747,7 @@ political_decisions = {
 					region = ENG_203
 				}
 			}
-		}
-		allow = {
 			state_n_government = 1
-			war = no
 			any_owned_province = {
 				OR = {
 					region = SPA_2209
@@ -760,6 +757,9 @@ political_decisions = {
 					region = ENG_203
 				}
 			}
+		}
+		allow = {
+			war = no
 		}
 		effect = {
 			any_owned = {
@@ -802,9 +802,9 @@ political_decisions = {
 					region = ENG_203
 				}
 			}
+			state_n_government = 1
 		}
 		allow = {
-			state_n_government = 1
 			war = no
 		}
 		effect = {
@@ -882,10 +882,7 @@ political_decisions = {
 					region = BOL_2305
 				}
 			}
-		}
-		allow = {
 			state_n_government = 1
-			war = no
 			any_owned_province = {
 				OR = {
 					region = ECU_2279
@@ -909,6 +906,9 @@ political_decisions = {
 					region = BOL_2305
 				}
 			}
+		}
+		allow = {
+			war = no
 		}
 		effect = {
 			any_owned = {
@@ -979,9 +979,9 @@ political_decisions = {
 					region = BOL_2305
 				}
 			}
+			state_n_government = 1
 		}
 		allow = {
-			state_n_government = 1
 			war = no
 		}
 		effect = {
@@ -1059,10 +1059,7 @@ political_decisions = {
 					region = BRZ_2408
 				}
 			}
-		}
-		allow = {
 			state_n_government = 1
-			war = no
 			any_owned_province = {
 				OR = {
 					region = BRZ_2401
@@ -1079,6 +1076,9 @@ political_decisions = {
 					region = BRZ_2408
 				}
 			}
+		}
+		allow = {
+			war = no
 		}
 		effect = {
 			any_owned = {
@@ -1135,9 +1135,9 @@ political_decisions = {
 					region = BRZ_2408
 				}
 			}
+			state_n_government = 1
 		}
 		allow = {
-			state_n_government = 1
 			war = no
 		}
 		effect = {
@@ -1214,10 +1214,7 @@ political_decisions = {
 					region = CHL_2332
 				}
 			}
-		}
-		allow = {
 			state_n_government = 1
-			war = no
 			any_owned_province = {
 				OR = {
 					region = URU_2344
@@ -1237,6 +1234,9 @@ political_decisions = {
 					region = CHL_2332
 				}
 			}
+		}
+		allow = {
+			war = no
 		}
 		effect = {
 			any_owned = {
@@ -1299,9 +1299,9 @@ political_decisions = {
 					region = CHL_2332
 				}
 			}
+			state_n_government = 1
 		}
 		allow = {
-			state_n_government = 1
 			war = no
 		}
 		effect = {
@@ -1367,10 +1367,7 @@ political_decisions = {
 					region = ENG_2513
 				}
 			}
-		}
-		allow = {
 			state_n_government = 1
-			war = no
 			any_owned_province = {
 				OR = {
 					region = ENG_2468
@@ -1383,6 +1380,9 @@ political_decisions = {
 					region = ENG_2513
 				}
 			}
+		}
+		allow = {
+			war = no
 		}
 		effect = {
 			any_owned = {
@@ -1431,9 +1431,9 @@ political_decisions = {
 					region = ENG_2513
 				}
 			}
+			state_n_government = 1
 		}
 		allow = {
-			state_n_government = 1
 			war = no
 		}
 		effect = {
@@ -1494,10 +1494,7 @@ political_decisions = {
 					region = JAP_1654
 				}
 			}
-		}
-		allow = {
 			state_n_government = 1
-			war = no
 			any_owned_province = {
 				OR = {
 					region = HAW_658
@@ -1511,6 +1508,9 @@ political_decisions = {
 					region = JAP_1654
 				}
 			}
+		}
+		allow = {
+			war = no
 		}
 		effect = {
 			any_owned = {
@@ -1561,9 +1561,9 @@ political_decisions = {
 					region = JAP_1654
 				}
 			}
+			state_n_government = 1
 		}
 		allow = {
-			state_n_government = 1
 			war = no
 		}
 		effect = {
@@ -1651,10 +1651,7 @@ political_decisions = {
 					region = FRA_1884
 				}
 			}
-		}
-		allow = {
 			state_n_government = 1
-			war = no
 			any_owned_province = {
 				OR = {
 					region = FRA_1879
@@ -1681,6 +1678,9 @@ political_decisions = {
 					region = FRA_1884
 				}
 			}
+		}
+		allow = {
+			war = no
 		}
 		effect = {
 			any_owned = {
@@ -1757,9 +1757,9 @@ political_decisions = {
 					region = FRA_1884
 				}
 			}
+			state_n_government = 1
 		}
 		allow = {
-			state_n_government = 1
 			war = no
 		}
 		effect = {
@@ -1844,10 +1844,7 @@ political_decisions = {
 					region = FRA_1978
 				}
 			}
-		}
-		allow = {
 			state_n_government = 1
-			war = no
 			any_owned_province = {
 				OR = {
 					region = FRA_1972
@@ -1866,6 +1863,9 @@ political_decisions = {
 					region = FRA_1978
 				}
 			}
+		}
+		allow = {
+			war = no
 		}
 		effect = {
 			any_owned = {
@@ -1926,9 +1926,9 @@ political_decisions = {
 					region = FRA_1978
 				}
 			}
+			state_n_government = 1
 		}
 		allow = {
-			state_n_government = 1
 			war = no
 		}
 		effect = {
@@ -2003,10 +2003,7 @@ political_decisions = {
 					region = ENG_1843
 				}
 			}
-		}
-		allow = {
 			state_n_government = 1
-			war = no
 			any_owned_province = {
 				OR = {
 					region = EGY_1838
@@ -2024,6 +2021,9 @@ political_decisions = {
 					region = ENG_1843
 				}
 			}
+		}
+		allow = {
+			war = no
 		}
 		effect = {
 			any_owned = {
@@ -2082,9 +2082,9 @@ political_decisions = {
 					region = ENG_1843
 				}
 			}
+			state_n_government = 1
 		}
 		allow = {
-			state_n_government = 1
 			war = no
 		}
 		effect = {
@@ -2129,7 +2129,6 @@ political_decisions = {
 						region = ENG_2014
 						region = POR_2003
 						region = POR_2006
-						region = ENG_2125
 						region = POR_2049
 						region = POR_2060
 						region = POR_2053
@@ -2156,7 +2155,32 @@ political_decisions = {
 					region = ENG_2014
 					region = POR_2003
 					region = POR_2006
-					region = ENG_2125
+					region = POR_2049
+					region = POR_2060
+					region = POR_2053
+					region = ENG_2096
+					region = ENG_2087
+					region = ENG_2092
+					region = MAD_2117
+					region = MAD_2121
+					region = ENG_2016
+					region = ENG_2083
+					region = ENG_2078
+					region = ENG_2068
+					region = ENG_2039
+					region = BEL_1987
+					region = ZUL_2113
+					region = ORA_2103
+					region = TRN_2108
+				}
+			}
+			state_n_government = 1
+			any_owned_province = {
+				OR = {
+					region = ENG_2074
+					region = ENG_2014
+					region = POR_2003
+					region = POR_2006
 					region = POR_2049
 					region = POR_2060
 					region = POR_2053
@@ -2178,34 +2202,7 @@ political_decisions = {
 			}
 		}
 		allow = {
-			state_n_government = 1
 			war = no
-			any_owned_province = {
-				OR = {
-					region = ENG_2074
-					region = ENG_2014
-					region = POR_2003
-					region = POR_2006
-					region = ENG_2125
-					region = POR_2049
-					region = POR_2060
-					region = POR_2053
-					region = ENG_2096
-					region = ENG_2087
-					region = ENG_2092
-					region = MAD_2117
-					region = MAD_2121
-					region = ENG_2016
-					region = ENG_2083
-					region = ENG_2078
-					region = ENG_2068
-					region = ENG_2039
-					region = BEL_1987
-					region = ZUL_2113
-					region = ORA_2103
-					region = TRN_2108
-				}
-			}
 		}
 		effect = {
 			any_owned = {
@@ -2215,7 +2212,6 @@ political_decisions = {
 						region = ENG_2014
 						region = POR_2003
 						region = POR_2006
-						region = ENG_2125
 						region = POR_2049
 						region = POR_2060
 						region = POR_2053
@@ -2262,7 +2258,6 @@ political_decisions = {
 					region = ENG_2014
 					region = POR_2003
 					region = POR_2006
-					region = ENG_2125
 					region = POR_2049
 					region = POR_2060
 					region = POR_2053
@@ -2282,9 +2277,9 @@ political_decisions = {
 					region = TRN_2108
 				}
 			}
+			state_n_government = 1
 		}
 		allow = {
-			state_n_government = 1
 			war = no
 		}
 		effect = {
@@ -2295,7 +2290,6 @@ political_decisions = {
 						region = ENG_2014
 						region = POR_2003
 						region = POR_2006
-						region = ENG_2125
 						region = POR_2049
 						region = POR_2060
 						region = POR_2053
@@ -2379,10 +2373,7 @@ political_decisions = {
 					region = CHI_1086
 				}
 			}
-		}
-		allow = {
 			state_n_government = 1
-			war = no
 			any_owned_province = {
 				OR = {
 					region = RUS_2590
@@ -2406,6 +2397,9 @@ political_decisions = {
 					region = CHI_1086
 				}
 			}
+		}
+		allow = {
+			war = no
 		}
 		effect = {
 			any_owned = {
@@ -2476,9 +2470,9 @@ political_decisions = {
 					region = CHI_1086
 				}
 			}
+			state_n_government = 1
 		}
 		allow = {
-			state_n_government = 1
 			war = no
 		}
 		effect = {
@@ -2538,10 +2532,7 @@ political_decisions = {
 					region = RUS_1184
 				}
 			}
-		}
-		allow = {
 			state_n_government = 1
-			war = no
 			any_owned_province = {
 				OR = {
 					region = RUS_1182
@@ -2549,6 +2540,9 @@ political_decisions = {
 					region = RUS_1184
 				}
 			}
+		}
+		allow = {
+			war = no
 		}
 		effect = {
 			any_owned = {
@@ -2587,9 +2581,9 @@ political_decisions = {
 					region = RUS_1184
 				}
 			}
+			state_n_government = 1
 		}
 		allow = {
-			state_n_government = 1
 			war = no
 		}
 		effect = {
@@ -2677,10 +2671,7 @@ political_decisions = {
 					region = SIA_1358
 				}
 			}
-		}
-		allow = {
 			state_n_government = 1
-			war = no
 			any_owned_province = {
 				OR = {
 					region = NET_1413
@@ -2710,6 +2701,9 @@ political_decisions = {
 					region = SIA_1358
 				}
 			}
+		}
+		allow = {
+			war = no
 		}
 		effect = {
 			any_owned = {
@@ -2791,9 +2785,9 @@ political_decisions = {
 					region = SIA_1358
 				}
 			}
+			state_n_government = 1
 		}
 		allow = {
-			state_n_government = 1
 			war = no
 		}
 		effect = {
@@ -2857,10 +2851,7 @@ political_decisions = {
 			}
 			NOT = { exists = CHI }
 			NOT = { tag = CHI }
-		}
-		allow = {
-			nationalism_n_imperialism = 1
-			war = no
+			revolution_n_counterrevolution = 1
 			owns = 1612
 			owns = 2221
 			owns = 1493
@@ -2868,6 +2859,9 @@ political_decisions = {
 			owns = 1559
 			owns = 1522
 			owns = 1479
+		}
+		allow = {
+			war = no
 		}
 		effect = {
 			prestige = 100
@@ -2906,15 +2900,15 @@ political_decisions = {
 			NOT = { exists = CHI }
 			NOT = { exists = BYG }
 			NOT = { tag = BYG }
-		}
-		allow = {
 			state_n_government = 1
-			war = no
 			owns = 1612
 			owns = 1617
 			owns = 1563
 			owns = 1508
 			owns = 1572
+		}
+		allow = {
+			war = no
 		}
 		effect = {
 			prestige = 20
@@ -2937,13 +2931,13 @@ political_decisions = {
 			NOT = { exists = CHI }
 			NOT = { exists = LGG }
 			NOT = { tag = LGG }
-		}
-		allow = {
 			state_n_government = 1
-			war = no
 			owns = 1493
 			owns = 1502
 			owns = 1503
+		}
+		allow = {
+			war = no
 		}
 		effect = {
 			prestige = 20
@@ -2965,12 +2959,12 @@ political_decisions = {
 			NOT = { exists = CHI }
 			NOT = { exists = SHU }
 			NOT = { tag = SHU }
-		}
-		allow = {
 			state_n_government = 1
-			war = no
 			owns = 1578
 			owns = 1577
+		}
+		allow = {
+			war = no
 		}
 		effect = {
 			prestige = 20
@@ -2993,13 +2987,13 @@ political_decisions = {
 			NOT = { exists = CHI }
 			NOT = { exists = WUU }
 			NOT = { tag = WUU }
-		}
-		allow = {
 			state_n_government = 1
-			war = no
 			owns = 2221
 			owns = 1538
 			owns = 1604
+		}
+		allow = {
+			war = no
 		}
 		effect = {
 			prestige = 20
@@ -3022,13 +3016,13 @@ political_decisions = {
 			NOT = { exists = CHI }
 			NOT = { exists = CHU }
 			NOT = { tag = CHU }
-		}
-		allow = {
 			state_n_government = 1
-			war = no
 			owns = 1522
 			owns = 1524
 			owns = 1516
+		}
+		allow = {
+			war = no
 		}
 		effect = {
 			prestige = 20
@@ -3051,12 +3045,12 @@ political_decisions = {
 			NOT = { exists = CHI }
 			NOT = { exists = DIA }
 			NOT = { tag = DIA }
-		}
-		allow = {
 			state_n_government = 1
-			war = no
 			owns = 1601
 			owns = 1505
+		}
+		allow = {
+			war = no
 		}
 		effect = {
 			prestige = 20
@@ -3079,13 +3073,13 @@ political_decisions = {
 			NOT = { exists = CHI }
 			NOT = { exists = NWF }
 			NOT = { tag = NWF }
-		}
-		allow = {
 			state_n_government = 1
-			war = no
 			owns = 1490
 			owns = 1559
 			owns = 1600
+		}
+		allow = {
+			war = no
 		}
 		effect = {
 			prestige = 20
@@ -3110,13 +3104,13 @@ political_decisions = {
 			NOT = { exists = CHI }
 			NOT = { exists = MZG }
 			NOT = { tag = MZG }
-		}
-		allow = {
 			state_n_government = 1
-			war = no
 			owns = 1479
 			owns = 1555
 			owns = 1552
+		}
+		allow = {
+			war = no
 		}
 		effect = {
 			prestige = 20
@@ -3134,13 +3128,13 @@ political_decisions = {
 			tag = MGL
 			NOT = { exists = KHG }
 			NOT = { tag = KHG }
-		}
-		allow = {
-			war = no
 			owns = 1465
 			owns = 1612
 			owns = 1600
 			owns = 1479
+		}
+		allow = {
+			war = no
 		}
 		effect = {
 			prestige = 100
@@ -3160,21 +3154,22 @@ political_decisions = {
 			tag = PAN
 			NOT = { exists = KLS }
 			NOT = { tag = KLS }
-		}
-		allow = {
-			war = no
+			state_n_government = 1
 			owns = 1227
 			owns = 1236
 			owns = 1209
 			owns = 1228
 			owns = 1224
 		}
+		allow = {
+			war = no
+		}
 		effect = {
 			prestige = 100
-			add_accepted_culture = avadhi
 			add_accepted_culture = kashmiri
 			add_accepted_culture = pashtun
 			any_owned = { add_core = KLS }
+			add_country_modifier = { name = khalsa_raj_order duration = -1 }
 			change_tag = KLS
 		}
 		ai_will_do = {
@@ -3187,13 +3182,14 @@ political_decisions = {
 			tag = PER
 			NOT = { exists = PSE }
 			NOT = { tag = PSE }
+			state_n_government = 1
+			owns = 1102
+			owns = 893
+			owns = 892
+			owns = 1195
 		}
 		allow = {
 			war = no
-			owns = 1121
-			owns = 926
-			owns = 1212
-			owns = 1102
 		}
 		effect = {
 			prestige = 100
@@ -3201,6 +3197,7 @@ political_decisions = {
 			add_accepted_culture = kurdish
 			add_accepted_culture = pashtun
 			any_owned = { add_core = PSE }
+			add_country_modifier = { name = persianate_revival duration = -1 }
 			change_tag = PSE
 		}
 		ai_will_do = {
@@ -3232,13 +3229,13 @@ political_decisions = {
 			}
 			NOT = { exists = HND }
 			NOT = { tag = HND }
-		}
-		allow = {
-			war = no
 			owns = 1236
 			owns = 1251
 			owns = 1297
 			owns = 1304
+		}
+		allow = {
+			war = no
 		}
 		effect = {
 			prestige = 20
@@ -3259,12 +3256,12 @@ political_decisions = {
 			}
 			NOT = { exists = PLC }
 			NOT = { tag = PLC }
-		}
-		allow = {
-			war = no
 			owns = 706
 			owns = 360
 			owns = 703
+		}
+		allow = {
+			war = no
 		}
 		effect = {
 			prestige = 20
@@ -3284,11 +3281,11 @@ political_decisions = {
 			}
 			NOT = { exists = UBD }
 			NOT = { tag = UBD }
+			owns = 354
+			owns = 349
 		}
 		allow = {
 			war = no
-			owns = 354
-			owns = 349
 		}
 		effect = {
 			prestige = 20
@@ -3308,11 +3305,11 @@ political_decisions = {
 			}
 			NOT = { exists = CZH }
 			NOT = { tag = CZH }
+			owns = 625
+			owns = 633
 		}
 		allow = {
 			war = no
-			owns = 625
-			owns = 633
 		}
 		effect = {
 			prestige = 20
@@ -3329,9 +3326,9 @@ political_decisions = {
 			has_country_flag = chinese_warlord
 			owns = 1493
 			NOT = { has_country_flag = did_found_whampoa }
+			army_professionalism = 1
 		}
 		allow = {
-			army_professionalism = 1
 			money = 30000
 		}
 		effect = {
@@ -3350,9 +3347,9 @@ political_decisions = {
 			has_country_flag = chinese_warlord
 			owns = 1516
 			NOT = { has_country_flag = did_expand_hanyang_arsenal }
+			interchangeable_parts = 1
 		}
 		allow = {
-			interchangeable_parts = 1
 			money = 40000
 		}
 		effect = {
@@ -3371,9 +3368,9 @@ political_decisions = {
 			owns = 1617
 			owns = 1569
 			NOT = { has_country_flag = did_raise_beiyang_fleet }
+			iron_steamers = 1
 		}
 		allow = {
-			iron_steamers = 1
 			money = 50000
 		}
 		effect = {
@@ -3392,9 +3389,9 @@ political_decisions = {
 			has_country_flag = chinese_warlord
 			owns = 1538
 			NOT = { has_country_flag = did_build_jiangnan_shipyard }
+			steamers = 1
 		}
 		allow = {
-			steamers = 1
 			money = 40000
 		}
 		effect = {
@@ -3412,9 +3409,9 @@ political_decisions = {
 			has_country_flag = chinese_warlord
 			owns = 1612
 			NOT = { has_country_flag = did_found_peking_university }
+			idealism = 1
 		}
 		allow = {
-			idealism = 1
 			money = 30000
 			war = no
 		}
@@ -3436,9 +3433,9 @@ political_decisions = {
 			owns = 1508
 			owns = 1559
 			NOT = { has_country_flag = did_build_longhai_railway }
+			early_railroad = 1
 		}
 		allow = {
-			early_railroad = 1
 			money = 80000
 			war = no
 		}
@@ -3468,9 +3465,9 @@ political_decisions = {
 				tag = DIA
 			}
 			NOT = { has_country_flag = did_launch_northern_expedition }
+			nationalism_n_imperialism = 1
 		}
 		allow = {
-			nationalism_n_imperialism = 1
 			war = no
 			prestige = 30
 		}
@@ -3497,9 +3494,9 @@ political_decisions = {
 				owns = 2221
 			}
 			NOT = { has_country_flag = did_revive_treasure_fleet }
+			steamers = 1
 		}
 		allow = {
-			steamers = 1
 			money = 60000
 			war = no
 		}
@@ -3520,9 +3517,9 @@ political_decisions = {
 			num_of_vassals = 1
 			has_global_flag = new_world_opened
 			NOT = { has_country_flag = did_collect_remittances }
+			state_n_government = 1
 		}
 		allow = {
-			state_n_government = 1
 			war = no
 		}
 		effect = {
@@ -3539,9 +3536,9 @@ political_decisions = {
 		potential = {
 			has_country_flag = chinese_warlord
 			NOT = { has_country_flag = did_start_new_life_movement }
+			revolution_n_counterrevolution = 1
 		}
 		allow = {
-			revolution_n_counterrevolution = 1
 			war = no
 			money = 15000
 		}
@@ -3559,9 +3556,9 @@ political_decisions = {
 		potential = {
 			has_country_flag = chinese_warlord
 			NOT = { has_country_flag = did_open_silver_mint }
+			private_bank_money_bill_printing = 1
 		}
 		allow = {
-			private_bank_money_bill_printing = 1
 			money = 20000
 		}
 		effect = {
@@ -3580,9 +3577,9 @@ political_decisions = {
 			exists = TIB
 			OR = { owns = 1578 owns = 1586 owns = 1557 }
 			NOT = { has_country_flag = did_pacify_tibet }
+			nationalism_n_imperialism = 1
 		}
 		allow = {
-			nationalism_n_imperialism = 1
 			war = no
 			prestige = 20
 		}
@@ -3590,6 +3587,7 @@ political_decisions = {
 			set_country_flag = did_pacify_tibet
 			TIB = { any_owned = { add_core = THIS } }
 			casus_belli = { target = TIB type = conquest months = 60 }
+			badboy = 3
 		}
 		ai_will_do = {
 			factor = 1
@@ -3602,9 +3600,9 @@ political_decisions = {
 			exists = MGL
 			OR = { owns = 1612 owns = 1532 owns = 1534 }
 			NOT = { has_country_flag = did_reclaim_outer_mongolia }
+			nationalism_n_imperialism = 1
 		}
 		allow = {
-			nationalism_n_imperialism = 1
 			war = no
 			prestige = 20
 		}
@@ -3612,6 +3610,7 @@ political_decisions = {
 			set_country_flag = did_reclaim_outer_mongolia
 			MGL = { any_owned = { add_core = THIS } }
 			casus_belli = { target = MGL type = conquest months = 60 }
+			badboy = 3
 		}
 		ai_will_do = {
 			factor = 1
@@ -3624,15 +3623,16 @@ political_decisions = {
 			exists = KOR
 			owns = 1479
 			NOT = { has_country_flag = did_claim_korea }
+			nationalism_n_imperialism = 1
 		}
 		allow = {
-			nationalism_n_imperialism = 1
 			war = no
 			prestige = 20
 		}
 		effect = {
 			set_country_flag = did_claim_korea
 			casus_belli = { target = KOR type = make_puppet months = 60 }
+			badboy = 1
 		}
 		ai_will_do = {
 			factor = 1
@@ -3645,15 +3645,16 @@ political_decisions = {
 			exists = DAI
 			OR = { owns = 1502 owns = 1601 }
 			NOT = { has_country_flag = did_claim_annam }
+			nationalism_n_imperialism = 1
 		}
 		allow = {
-			nationalism_n_imperialism = 1
 			war = no
 			prestige = 20
 		}
 		effect = {
 			set_country_flag = did_claim_annam
 			casus_belli = { target = DAI type = make_puppet months = 60 }
+			badboy = 1
 		}
 		ai_will_do = {
 			factor = 1
@@ -3711,6 +3712,7 @@ political_decisions = {
 			AFG = { any_owned = { add_core = THIS } }
 			casus_belli = { target = AFG type = conquest months = 60 }
 			prestige = 5
+			badboy = 3
 		}
 		ai_will_do = {
 			factor = 1
@@ -3731,6 +3733,7 @@ political_decisions = {
 			set_country_flag = did_claim_hindustan
 			MUG = { any_owned = { add_core = THIS } }
 			casus_belli = { target = MUG type = conquest months = 60 }
+			badboy = 3
 		}
 		ai_will_do = {
 			factor = 1
@@ -3750,6 +3753,7 @@ political_decisions = {
 			set_country_flag = did_conquer_sindh
 			SIN = { any_owned = { add_core = THIS } }
 			casus_belli = { target = SIN type = conquest months = 60 }
+			badboy = 3
 		}
 		ai_will_do = {
 			factor = 1
@@ -3770,6 +3774,7 @@ political_decisions = {
 			set_country_flag = did_dogra_expedition
 			casus_belli = { target = TIB type = conquest months = 60 }
 			prestige = 5
+			badboy = 1
 		}
 		ai_will_do = {
 			factor = 1
@@ -3827,6 +3832,7 @@ political_decisions = {
 			1212 = { add_core = THIS }
 			AFG = { any_owned = { add_core = THIS } }
 			casus_belli = { target = AFG type = conquest months = 60 }
+			badboy = 3
 		}
 		ai_will_do = {
 			factor = 1
@@ -3846,6 +3852,7 @@ political_decisions = {
 			set_country_flag = did_claim_mesopotamia
 			IRQ = { any_owned = { add_core = THIS } }
 			casus_belli = { target = IRQ type = conquest months = 60 }
+			badboy = 3
 		}
 		ai_will_do = {
 			factor = 1
@@ -3867,6 +3874,7 @@ political_decisions = {
 			ARM = { any_owned = { add_core = THIS } }
 			GEO = { any_owned = { add_core = THIS } }
 			prestige = 5
+			badboy = 2
 		}
 		ai_will_do = {
 			factor = 1
@@ -3886,6 +3894,49 @@ political_decisions = {
 			set_country_flag = did_subdue_the_khanates
 			KHI = { any_owned = { add_core = THIS } }
 			BUK = { any_owned = { add_core = THIS } }
+			prestige = 5
+			badboy = 2
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	mongol_felt_tents = {
+		potential = {
+			OR = { tag = MGL tag = KHG }
+			NOT = { has_country_flag = did_mongol_felt_tents }
+		}
+		allow = {
+			war = no
+		}
+		effect = {
+			set_country_flag = did_mongol_felt_tents
+			add_accepted_culture = uighur
+			add_accepted_culture = kazak
+			add_accepted_culture = kirgiz
+			add_accepted_culture = uzbek
+			add_accepted_culture = turkmen
+			add_accepted_culture = tajik
+			prestige = 5
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	mongol_scourge_of_the_north = {
+		potential = {
+			OR = { tag = MGL tag = KHG }
+			NOT = { has_country_flag = did_mongol_scourge_of_the_north }
+		}
+		allow = {
+			war = no
+		}
+		effect = {
+			set_country_flag = did_mongol_scourge_of_the_north
+			add_accepted_culture = siberian
+			add_accepted_culture = manchu
 			prestige = 5
 		}
 		ai_will_do = {
@@ -3942,6 +3993,7 @@ political_decisions = {
 			CHH = { any_owned = { add_core = THIS } }
 			RHE = { any_owned = { add_core = THIS } }
 			prestige = 5
+			badboy = 2
 		}
 		ai_will_do = {
 			factor = 1
@@ -3962,6 +4014,7 @@ political_decisions = {
 			set_country_flag = did_ride_on_beijing
 			ZHL = { any_owned = { add_core = THIS } }
 			casus_belli = { target = ZHL type = conquest months = 60 }
+			badboy = 3
 		}
 		ai_will_do = {
 			factor = 1
@@ -3981,6 +4034,7 @@ political_decisions = {
 			set_country_flag = did_claim_dzungaria
 			XIN = { any_owned = { add_core = THIS } }
 			casus_belli = { target = XIN type = conquest months = 60 }
+			badboy = 3
 		}
 		ai_will_do = {
 			factor = 1
@@ -3999,6 +4053,7 @@ political_decisions = {
 			set_country_flag = did_claim_buryatia
 			1075 = { add_core = THIS }
 			prestige = 5
+			badboy = 2
 		}
 		ai_will_do = {
 			factor = 1
@@ -4063,125 +4118,23 @@ political_decisions = {
 		}
 	}
 
-	adopt_three_principles = {
-		potential = {
-			has_country_flag = chinese_warlord
-			NOT = { has_country_flag = chose_creed }
-		}
-		allow = {
-			ideological_thought = 1
-			war = no
-			prestige = 20
-		}
-		effect = {
-			set_country_flag = chose_creed
-			set_country_flag = did_adopt_three_principles
-			nationalvalue = nv_liberty
-			any_pop = { consciousness = 1 }
-			prestige = 5
-		}
-		ai_will_do = {
-			factor = 1
-			modifier = {
-				factor = 0
-				NOT = {
-					OR = {
-						tag = FTN
-						tag = GMJ
-						tag = JSU
-						tag = GDG
-						tag = HBE
-						tag = YNN
-						tag = XIN
-						tag = RHE
-						tag = NXA
-						tag = CQG
-						tag = TWN
-						tag = KSG
-					}
-				}
-			}
-		}
-	}
-
-	restore_confucian_order = {
-		potential = {
-			has_country_flag = chinese_warlord
-			NOT = { has_country_flag = chose_creed }
-		}
-		allow = {
-			ideological_thought = 1
-			war = no
-			prestige = 20
-		}
-		effect = {
-			set_country_flag = chose_creed
-			set_country_flag = did_restore_confucian_order
-			nationalvalue = nv_order
-			any_pop = { militancy = -1 }
-			prestige = 5
-		}
-		ai_will_do = {
-			factor = 1
-			modifier = {
-				factor = 0
-				NOT = {
-					OR = {
-						tag = AHC
-						tag = SDG
-						tag = ZHJ
-						tag = GXI
-						tag = JXI
-						tag = GZH
-						tag = JLN
-						tag = CHH
-						tag = QHI
-						tag = TIB
-						tag = SHG
-					}
-				}
-			}
-		}
-	}
-
 	grant_provincial_constitution = {
 		potential = {
 			has_country_flag = chinese_warlord
-			NOT = { has_country_flag = chose_creed }
+			NOT = { has_country_flag = did_grant_provincial_constitution }
+			ideological_thought = 1
 		}
 		allow = {
-			ideological_thought = 1
 			war = no
 			prestige = 20
 		}
 		effect = {
-			set_country_flag = chose_creed
 			set_country_flag = did_grant_provincial_constitution
 			add_country_modifier = { name = federal_self_rule duration = -1 }
-			nationalvalue = nv_equality
 			any_pop = { consciousness = 1 }
 		}
 		ai_will_do = {
 			factor = 1
-			modifier = {
-				factor = 0
-				NOT = {
-					OR = {
-						tag = ZHL
-						tag = SXI
-						tag = HNA
-						tag = FUJ
-						tag = HNC
-						tag = SZC
-						tag = XBI
-						tag = HLJ
-						tag = SYN
-						tag = XKG
-						tag = HNI
-						tag = XZC
-					}
-				}
-			}
 		}
 	}
 
@@ -4189,9 +4142,9 @@ political_decisions = {
 		potential = {
 			has_country_flag = chinese_warlord
 			NOT = { has_country_flag = chose_opium }
+			enlightenment_thought = 1
 		}
 		allow = {
-			enlightenment_thought = 1
 			war = no
 		}
 		effect = {
@@ -4235,9 +4188,9 @@ political_decisions = {
 		potential = {
 			has_country_flag = chinese_warlord
 			NOT = { has_country_flag = chose_opium }
+			enlightenment_thought = 1
 		}
 		allow = {
-			enlightenment_thought = 1
 			war = no
 			money = 10000
 		}
@@ -4282,9 +4235,9 @@ political_decisions = {
 		potential = {
 			has_country_flag = chinese_warlord
 			NOT = { has_country_flag = chose_revenue }
+			state_n_government = 1
 		}
 		allow = {
-			state_n_government = 1
 			war = no
 			money = 10000
 		}
@@ -4329,9 +4282,9 @@ political_decisions = {
 		potential = {
 			has_country_flag = chinese_warlord
 			NOT = { has_country_flag = chose_revenue }
+			state_n_government = 1
 		}
 		allow = {
-			state_n_government = 1
 			money = 1
 		}
 		effect = {
@@ -4373,9 +4326,9 @@ political_decisions = {
 		potential = {
 			has_country_flag = chinese_warlord
 			NOT = { has_country_flag = chose_bandits }
+			ideological_thought = 1
 		}
 		allow = {
-			ideological_thought = 1
 			money = 1
 		}
 		effect = {
@@ -4412,9 +4365,9 @@ political_decisions = {
 		potential = {
 			has_country_flag = chinese_warlord
 			NOT = { has_country_flag = chose_bandits }
+			ideological_thought = 1
 		}
 		allow = {
-			ideological_thought = 1
 			war = no
 			money = 15000
 		}
@@ -4453,9 +4406,9 @@ political_decisions = {
 		potential = {
 			has_country_flag = chinese_warlord
 			NOT = { has_country_flag = chose_bandits }
+			ideological_thought = 1
 		}
 		allow = {
-			ideological_thought = 1
 			money = 1
 		}
 		effect = {
@@ -4491,9 +4444,9 @@ political_decisions = {
 		potential = {
 			has_country_flag = chinese_warlord
 			NOT = { has_country_flag = chose_army_model }
+			state_n_government = 1
 		}
 		allow = {
-			state_n_government = 1
 			war = no
 			money = 20000
 		}
@@ -4537,9 +4490,9 @@ political_decisions = {
 		potential = {
 			has_country_flag = chinese_warlord
 			NOT = { has_country_flag = chose_army_model }
+			state_n_government = 1
 		}
 		allow = {
-			state_n_government = 1
 			war = no
 			money = 30000
 		}
@@ -4584,9 +4537,9 @@ political_decisions = {
 		potential = {
 			has_country_flag = chinese_warlord
 			NOT = { has_country_flag = chose_economy }
+			state_n_government = 1
 		}
 		allow = {
-			state_n_government = 1
 			war = no
 			money = 25000
 		}
@@ -4624,9 +4577,9 @@ political_decisions = {
 		potential = {
 			has_country_flag = chinese_warlord
 			NOT = { has_country_flag = chose_economy }
+			state_n_government = 1
 		}
 		allow = {
-			state_n_government = 1
 			war = no
 		}
 		effect = {
@@ -4663,9 +4616,9 @@ political_decisions = {
 		potential = {
 			has_country_flag = chinese_warlord
 			NOT = { has_country_flag = chose_economy }
+			state_n_government = 1
 		}
 		allow = {
-			state_n_government = 1
 			war = no
 			money = 15000
 		}
@@ -4703,9 +4656,9 @@ political_decisions = {
 		potential = {
 			has_country_flag = chinese_warlord
 			NOT = { has_country_flag = chose_learning }
+			idealism = 1
 		}
 		allow = {
-			idealism = 1
 			money = 25000
 		}
 		effect = {
@@ -4748,9 +4701,9 @@ political_decisions = {
 		potential = {
 			has_country_flag = chinese_warlord
 			NOT = { has_country_flag = chose_learning }
+			idealism = 1
 		}
 		allow = {
-			idealism = 1
 			money = 25000
 			war = no
 		}
@@ -4794,9 +4747,9 @@ political_decisions = {
 		potential = {
 			has_country_flag = chinese_warlord
 			NOT = { has_country_flag = chose_outlook }
+			nationalism_n_imperialism = 1
 		}
 		allow = {
-			nationalism_n_imperialism = 1
 			war = no
 			total_amount_of_ships = 10
 		}
@@ -4839,9 +4792,9 @@ political_decisions = {
 		potential = {
 			has_country_flag = chinese_warlord
 			NOT = { has_country_flag = chose_outlook }
+			nationalism_n_imperialism = 1
 		}
 		allow = {
-			nationalism_n_imperialism = 1
 			war = no
 		}
 		effect = {
@@ -4884,12 +4837,12 @@ political_decisions = {
 		potential = {
 			has_country_flag = chinese_warlord
 			NOT = { has_country_flag = chose_legitimacy }
+			nationalism_n_imperialism = 1
+			owns = 1612
 		}
 		allow = {
-			nationalism_n_imperialism = 1
 			prestige = 100
 			war = no
-			owns = 1612
 		}
 		effect = {
 			set_country_flag = chose_legitimacy
@@ -4931,15 +4884,15 @@ political_decisions = {
 		potential = {
 			has_country_flag = chinese_warlord
 			NOT = { has_country_flag = chose_legitimacy }
-		}
-		allow = {
 			nationalism_n_imperialism = 1
-			prestige = 100
-			war = no
 			OR = {
 				owns = 2221
 				owns = 1493
 			}
+		}
+		allow = {
+			prestige = 100
+			war = no
 		}
 		effect = {
 			set_country_flag = chose_legitimacy
@@ -4981,9 +4934,9 @@ political_decisions = {
 		potential = {
 			has_country_flag = chinese_warlord
 			NOT = { has_country_flag = chose_land }
+			revolution_n_counterrevolution = 1
 		}
 		allow = {
-			revolution_n_counterrevolution = 1
 			war = no
 		}
 		effect = {
@@ -5026,9 +4979,9 @@ political_decisions = {
 		potential = {
 			has_country_flag = chinese_warlord
 			NOT = { has_country_flag = chose_land }
+			revolution_n_counterrevolution = 1
 		}
 		allow = {
-			revolution_n_counterrevolution = 1
 			war = no
 		}
 		effect = {
@@ -5072,9 +5025,9 @@ political_decisions = {
 		potential = {
 			has_country_flag = chinese_warlord
 			NOT = { has_country_flag = chose_mass }
+			mass_politics = 1
 		}
 		allow = {
-			mass_politics = 1
 			war = no
 		}
 		effect = {
@@ -5118,9 +5071,9 @@ political_decisions = {
 		potential = {
 			has_country_flag = chinese_warlord
 			NOT = { has_country_flag = chose_mass }
+			mass_politics = 1
 		}
 		allow = {
-			mass_politics = 1
 			war = no
 		}
 		effect = {
@@ -5159,13 +5112,3416 @@ political_decisions = {
 		}
 	}
 
+	taiwan_claims = {
+		potential = {
+			tag = TWN
+			NOT = { has_country_flag = did_taiwan_claims }
+		}
+		allow = {
+			war = no
+		}
+		effect = {
+			set_country_flag = did_taiwan_claims
+			1499 = { add_core = THIS }
+			3280 = { add_core = THIS }
+			casus_belli = { target = SHG type = take_capital months = 120 }
+			badboy = 3
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	taiwan_great_game = {
+		potential = {
+			tag = TWN
+			NOT = { has_country_flag = chose_taiwan_road }
+			state_n_government = 1
+			owns = 1499
+			owns = 3280
+			owns = 1538
+		}
+		allow = {
+			war = no
+		}
+		effect = {
+			set_country_flag = chose_taiwan_road
+			set_country_flag = did_taiwan_great_game
+			1493 = { add_core = THIS }
+			1494 = { add_core = THIS }
+			1496 = { add_core = THIS }
+			1497 = { add_core = THIS }
+			1498 = { add_core = THIS }
+			1500 = { add_core = THIS }
+			1501 = { add_core = THIS }
+			3276 = { add_core = THIS }
+			3277 = { add_core = THIS }
+			3279 = { add_core = THIS }
+			3281 = { add_core = THIS }
+			3282 = { add_core = THIS }
+			add_accepted_culture = yue
+			prestige = 10
+			badboy = 2
+		}
+		ai_will_do = {
+			factor = 1
+			modifier = {
+				factor = 0
+				NOT = {
+					OR = {
+						tag = FTN
+						tag = SXI
+						tag = SDG
+						tag = JSU
+						tag = FUJ
+						tag = GXI
+						tag = HBE
+						tag = SZC
+						tag = GZH
+						tag = XIN
+						tag = HLJ
+						tag = CHH
+						tag = NXA
+						tag = XKG
+						tag = TIB
+						tag = TWN
+						tag = XZC
+					}
+				}
+			}
+		}
+	}
+
+	taiwan_maritime_hegemon = {
+		potential = {
+			tag = TWN
+			NOT = { has_country_flag = chose_taiwan_road }
+			state_n_government = 1
+			owns = 1499
+			owns = 3280
+			owns = 1538
+		}
+		allow = {
+			war = no
+		}
+		effect = {
+			set_country_flag = chose_taiwan_road
+			set_country_flag = did_taiwan_maritime_hegemon
+			add_country_modifier = { name = maritime_hegemon duration = -1 }
+			1413 = { add_core = THIS }
+			1414 = { add_core = THIS }
+			1415 = { add_core = THIS }
+			1416 = { add_core = THIS }
+			1417 = { add_core = THIS }
+			1418 = { add_core = THIS }
+			1419 = { add_core = THIS }
+			1420 = { add_core = THIS }
+			1421 = { add_core = THIS }
+			add_accepted_culture = javan
+			prestige = 10
+			badboy = 2
+		}
+		ai_will_do = {
+			factor = 1
+			modifier = {
+				factor = 0
+				NOT = {
+					OR = {
+						tag = ZHL
+						tag = AHC
+						tag = GMJ
+						tag = HNA
+						tag = ZHJ
+						tag = GDG
+						tag = HNC
+						tag = JXI
+						tag = YNN
+						tag = XBI
+						tag = JLN
+						tag = RHE
+						tag = SYN
+						tag = QHI
+						tag = CQG
+						tag = HNI
+						tag = SHG
+						tag = KSG
+					}
+				}
+			}
+		}
+	}
+
+	taiwan_restore_the_ming = {
+		potential = {
+			tag = TWN
+			has_country_flag = did_taiwan_great_game
+			NOT = { has_country_flag = did_taiwan_restore_the_ming }
+			nationalism_n_imperialism = 1
+			owns = 1493
+			owns = 1494
+			owns = 1496
+			owns = 1497
+			owns = 1498
+			owns = 1500
+			owns = 1501
+			owns = 3276
+			owns = 3277
+			owns = 3279
+			owns = 3281
+			owns = 3282
+		}
+		allow = {
+			war = no
+		}
+		effect = {
+			set_country_flag = did_taiwan_restore_the_ming
+			add_accepted_culture = wu
+			add_accepted_culture = jianghuai
+			add_accepted_culture = jilu
+			add_accepted_culture = zhongyuan
+			add_accepted_culture = jin
+			add_accepted_culture = guanzhong
+			prestige = 25
+			change_tag = SMG
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	taiwan_southern_ocean = {
+		potential = {
+			tag = TWN
+			has_country_flag = did_taiwan_maritime_hegemon
+			NOT = { has_country_flag = did_taiwan_southern_ocean }
+			nationalism_n_imperialism = 1
+			owns = 1413
+		}
+		allow = {
+			war = no
+		}
+		effect = {
+			set_country_flag = did_taiwan_southern_ocean
+			2468 = { secede_province = THIS }
+			2468 = { add_core = THIS }
+			2469 = { secede_province = THIS }
+			2469 = { add_core = THIS }
+			2470 = { secede_province = THIS }
+			2470 = { add_core = THIS }
+			2471 = { secede_province = THIS }
+			2471 = { add_core = THIS }
+			2472 = { secede_province = THIS }
+			2472 = { add_core = THIS }
+			2473 = { secede_province = THIS }
+			2473 = { add_core = THIS }
+			2474 = { secede_province = THIS }
+			2474 = { add_core = THIS }
+			2475 = { secede_province = THIS }
+			2475 = { add_core = THIS }
+			2115 = { secede_province = THIS }
+			2115 = { add_core = THIS }
+			2116 = { secede_province = THIS }
+			2116 = { add_core = THIS }
+			2117 = { secede_province = THIS }
+			2117 = { add_core = THIS }
+			2118 = { secede_province = THIS }
+			2118 = { add_core = THIS }
+			2119 = { secede_province = THIS }
+			2119 = { add_core = THIS }
+			2120 = { secede_province = THIS }
+			2120 = { add_core = THIS }
+			2121 = { secede_province = THIS }
+			2121 = { add_core = THIS }
+			2122 = { secede_province = THIS }
+			2122 = { add_core = THIS }
+			capital = 2468
+			prestige = 25
+			change_tag = TNG
+			badboy = 2
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	form_suvarnabhumi = {
+		potential = {
+			OR = {
+				tag = SIA
+				tag = JOH
+				tag = DAI
+			}
+			NOT = { exists = SUV }
+			NOT = { tag = SUV }
+			state_n_government = 1
+			owns = 1346
+			owns = 1385
+			owns = 1369
+		}
+		allow = {
+			war = no
+		}
+		effect = {
+			prestige = 50
+			add_accepted_culture = thai
+			add_accepted_culture = malay
+			add_accepted_culture = vietnamese
+			any_owned = { add_core = SUV }
+			add_country_modifier = { name = golden_peninsula duration = -1 }
+			change_tag = SUV
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	japan_continental_victory = {
+		potential = {
+			tag = JAP
+			civilized = no
+			NOT = { has_country_flag = did_japan_continental_victory }
+			owns = 1638
+			owns = 1639
+			owns = 1640
+			owns = 1641
+			owns = 1642
+			owns = 1643
+			owns = 1644
+			owns = 1645
+			owns = 1646
+			owns = 1647
+			owns = 1648
+			owns = 1649
+			owns = 1650
+			owns = 1651
+			owns = 1652
+			owns = 1653
+			owns = 1655
+			owns = 1656
+			owns = 1657
+			owns = 1658
+			owns = 1659
+			owns = 1660
+			owns = 1661
+			owns = 1662
+			owns = 1663
+			owns = 1664
+			owns = 1665
+			owns = 1666
+			owns = 1667
+			owns = 1668
+			owns = 1669
+			owns = 1670
+			owns = 1671
+			owns = 1672
+			owns = 1673
+			owns = 1674
+			owns = 1675
+			owns = 1676
+			owns = 1677
+			owns = 1678
+			owns = 1679
+		}
+		allow = {
+			
+		}
+		effect = {
+			set_country_flag = did_japan_continental_victory
+			add_country_modifier = { name = continental_lessons duration = -1 }
+			years_of_research = 5
+			prestige = 20
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	japan_accept_koreans = {
+		potential = {
+			tag = JAP
+			NOT = { has_country_flag = did_japan_accept_koreans }
+			state_n_government = 1
+		}
+		allow = {
+			war = no
+		}
+		effect = {
+			set_country_flag = did_japan_accept_koreans
+			add_accepted_culture = korean
+			prestige = 5
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	ZHL_road_a = {
+		potential = {
+			tag = ZHL
+			NOT = { has_country_flag = chose_road_ZHL }
+			state_n_government = 1
+			owns = 1613
+		}
+		allow = {
+			war = no
+		}
+		effect = {
+			set_country_flag = chose_road_ZHL
+			set_country_flag = did_ZHL_road_a
+			add_country_modifier = { name = ZHL_road_a duration = -1 }
+			1479 = { add_core = THIS }
+			1480 = { add_core = THIS }
+			1481 = { add_core = THIS }
+			3259 = { add_core = THIS }
+			3260 = { add_core = THIS }
+			3261 = { add_core = THIS }
+			1082 = { add_core = THIS }
+			1083 = { add_core = THIS }
+			1554 = { add_core = THIS }
+			1555 = { add_core = THIS }
+			3334 = { add_core = THIS }
+			3335 = { add_core = THIS }
+			3336 = { add_core = THIS }
+			3337 = { add_core = THIS }
+			1002 = { add_core = THIS }
+			1084 = { add_core = THIS }
+			1085 = { add_core = THIS }
+			1552 = { add_core = THIS }
+			1553 = { add_core = THIS }
+			2617 = { add_core = THIS }
+			3249 = { add_core = THIS }
+			3250 = { add_core = THIS }
+			3330 = { add_core = THIS }
+			3331 = { add_core = THIS }
+			3332 = { add_core = THIS }
+			3333 = { add_core = THIS }
+			1533 = { add_core = THIS }
+			1613 = { add_core = THIS }
+			3314 = { add_core = THIS }
+			3315 = { add_core = THIS }
+			3377 = { add_core = THIS }
+			3378 = { add_core = THIS }
+			add_accepted_culture = dongbei
+			add_accepted_culture = manchu
+			prestige = 10
+			badboy = 2
+		}
+		ai_will_do = {
+			factor = 1
+			modifier = {
+				factor = 0
+				NOT = {
+					OR = {
+						tag = FTN
+						tag = SXI
+						tag = SDG
+						tag = JSU
+						tag = FUJ
+						tag = GXI
+						tag = HBE
+						tag = SZC
+						tag = GZH
+						tag = XIN
+						tag = HLJ
+						tag = CHH
+						tag = NXA
+						tag = XKG
+						tag = TIB
+						tag = TWN
+						tag = XZC
+					}
+				}
+			}
+		}
+	}
+
+	ZHL_road_b = {
+		potential = {
+			tag = ZHL
+			NOT = { has_country_flag = chose_road_ZHL }
+			state_n_government = 1
+			owns = 1613
+		}
+		allow = {
+			war = no
+		}
+		effect = {
+			set_country_flag = chose_road_ZHL
+			set_country_flag = did_ZHL_road_b
+			add_country_modifier = { name = ZHL_road_b duration = -1 }
+			1619 = { add_core = THIS }
+			1620 = { add_core = THIS }
+			1621 = { add_core = THIS }
+			1622 = { add_core = THIS }
+			1623 = { add_core = THIS }
+			1624 = { add_core = THIS }
+			1625 = { add_core = THIS }
+			1626 = { add_core = THIS }
+			1627 = { add_core = THIS }
+			1628 = { add_core = THIS }
+			1629 = { add_core = THIS }
+			1630 = { add_core = THIS }
+			1631 = { add_core = THIS }
+			1632 = { add_core = THIS }
+			1633 = { add_core = THIS }
+			1634 = { add_core = THIS }
+			1635 = { add_core = THIS }
+			1636 = { add_core = THIS }
+			1637 = { add_core = THIS }
+			1465 = { add_core = THIS }
+			1466 = { add_core = THIS }
+			1467 = { add_core = THIS }
+			1468 = { add_core = THIS }
+			1469 = { add_core = THIS }
+			2207 = { add_core = THIS }
+			2608 = { add_core = THIS }
+			2678 = { add_core = THIS }
+			2679 = { add_core = THIS }
+			1534 = { add_core = THIS }
+			3316 = { add_core = THIS }
+			3317 = { add_core = THIS }
+			add_accepted_culture = korean
+			add_accepted_culture = mongol
+			prestige = 10
+			badboy = 2
+		}
+		ai_will_do = {
+			factor = 1
+			modifier = {
+				factor = 0
+				NOT = {
+					OR = {
+						tag = ZHL
+						tag = AHC
+						tag = GMJ
+						tag = HNA
+						tag = ZHJ
+						tag = GDG
+						tag = HNC
+						tag = JXI
+						tag = YNN
+						tag = XBI
+						tag = JLN
+						tag = RHE
+						tag = SYN
+						tag = QHI
+						tag = CQG
+						tag = HNI
+						tag = SHG
+						tag = KSG
+					}
+				}
+			}
+		}
+	}
+
+	FTN_road_a = {
+		potential = {
+			tag = FTN
+			NOT = { has_country_flag = chose_road_FTN }
+			state_n_government = 1
+			owns = 1555
+		}
+		allow = {
+			war = no
+		}
+		effect = {
+			set_country_flag = chose_road_FTN
+			set_country_flag = did_FTN_road_a
+			add_country_modifier = { name = FTN_road_a duration = -1 }
+			1612 = { add_core = THIS }
+			1614 = { add_core = THIS }
+			1615 = { add_core = THIS }
+			1616 = { add_core = THIS }
+			1617 = { add_core = THIS }
+			1618 = { add_core = THIS }
+			3376 = { add_core = THIS }
+			3379 = { add_core = THIS }
+			3380 = { add_core = THIS }
+			3381 = { add_core = THIS }
+			3382 = { add_core = THIS }
+			3383 = { add_core = THIS }
+			1533 = { add_core = THIS }
+			1613 = { add_core = THIS }
+			3314 = { add_core = THIS }
+			3315 = { add_core = THIS }
+			3377 = { add_core = THIS }
+			3378 = { add_core = THIS }
+			1534 = { add_core = THIS }
+			3316 = { add_core = THIS }
+			3317 = { add_core = THIS }
+			add_accepted_culture = jilu
+			prestige = 10
+			badboy = 2
+		}
+		ai_will_do = {
+			factor = 1
+			modifier = {
+				factor = 0
+				NOT = {
+					OR = {
+						tag = FTN
+						tag = SXI
+						tag = SDG
+						tag = JSU
+						tag = FUJ
+						tag = GXI
+						tag = HBE
+						tag = SZC
+						tag = GZH
+						tag = XIN
+						tag = HLJ
+						tag = CHH
+						tag = NXA
+						tag = XKG
+						tag = TIB
+						tag = TWN
+						tag = XZC
+					}
+				}
+			}
+		}
+	}
+
+	FTN_road_b = {
+		potential = {
+			tag = FTN
+			NOT = { has_country_flag = chose_road_FTN }
+			state_n_government = 1
+			owns = 1555
+		}
+		allow = {
+			war = no
+		}
+		effect = {
+			set_country_flag = chose_road_FTN
+			set_country_flag = did_FTN_road_b
+			add_country_modifier = { name = FTN_road_b duration = -1 }
+			1058 = { add_core = THIS }
+			1059 = { add_core = THIS }
+			1061 = { add_core = THIS }
+			1062 = { add_core = THIS }
+			1063 = { add_core = THIS }
+			1064 = { add_core = THIS }
+			1065 = { add_core = THIS }
+			1066 = { add_core = THIS }
+			1067 = { add_core = THIS }
+			1068 = { add_core = THIS }
+			1069 = { add_core = THIS }
+			1070 = { add_core = THIS }
+			1071 = { add_core = THIS }
+			1072 = { add_core = THIS }
+			1073 = { add_core = THIS }
+			1074 = { add_core = THIS }
+			1075 = { add_core = THIS }
+			1076 = { add_core = THIS }
+			1077 = { add_core = THIS }
+			1078 = { add_core = THIS }
+			1079 = { add_core = THIS }
+			1080 = { add_core = THIS }
+			1081 = { add_core = THIS }
+			1086 = { add_core = THIS }
+			1087 = { add_core = THIS }
+			1088 = { add_core = THIS }
+			1089 = { add_core = THIS }
+			2589 = { add_core = THIS }
+			2590 = { add_core = THIS }
+			2613 = { add_core = THIS }
+			2614 = { add_core = THIS }
+			2615 = { add_core = THIS }
+			2616 = { add_core = THIS }
+			2618 = { add_core = THIS }
+			2619 = { add_core = THIS }
+			2620 = { add_core = THIS }
+			2621 = { add_core = THIS }
+			2622 = { add_core = THIS }
+			2633 = { add_core = THIS }
+			2634 = { add_core = THIS }
+			2637 = { add_core = THIS }
+			2638 = { add_core = THIS }
+			2639 = { add_core = THIS }
+			2640 = { add_core = THIS }
+			2641 = { add_core = THIS }
+			2642 = { add_core = THIS }
+			2643 = { add_core = THIS }
+			2644 = { add_core = THIS }
+			2645 = { add_core = THIS }
+			2646 = { add_core = THIS }
+			2647 = { add_core = THIS }
+			2648 = { add_core = THIS }
+			2649 = { add_core = THIS }
+			2650 = { add_core = THIS }
+			2651 = { add_core = THIS }
+			2652 = { add_core = THIS }
+			2653 = { add_core = THIS }
+			2654 = { add_core = THIS }
+			2655 = { add_core = THIS }
+			2656 = { add_core = THIS }
+			2657 = { add_core = THIS }
+			2658 = { add_core = THIS }
+			2659 = { add_core = THIS }
+			2660 = { add_core = THIS }
+			2661 = { add_core = THIS }
+			2662 = { add_core = THIS }
+			2663 = { add_core = THIS }
+			2664 = { add_core = THIS }
+			2665 = { add_core = THIS }
+			2666 = { add_core = THIS }
+			2667 = { add_core = THIS }
+			2668 = { add_core = THIS }
+			2669 = { add_core = THIS }
+			2670 = { add_core = THIS }
+			2671 = { add_core = THIS }
+			2672 = { add_core = THIS }
+			2673 = { add_core = THIS }
+			2674 = { add_core = THIS }
+			2675 = { add_core = THIS }
+			2676 = { add_core = THIS }
+			2677 = { add_core = THIS }
+			2680 = { add_core = THIS }
+			2681 = { add_core = THIS }
+			2682 = { add_core = THIS }
+			2683 = { add_core = THIS }
+			2684 = { add_core = THIS }
+			2685 = { add_core = THIS }
+			2686 = { add_core = THIS }
+			2690 = { add_core = THIS }
+			2691 = { add_core = THIS }
+			2692 = { add_core = THIS }
+			2693 = { add_core = THIS }
+			2694 = { add_core = THIS }
+			2695 = { add_core = THIS }
+			2696 = { add_core = THIS }
+			2697 = { add_core = THIS }
+			2701 = { add_core = THIS }
+			1619 = { add_core = THIS }
+			1620 = { add_core = THIS }
+			1621 = { add_core = THIS }
+			1622 = { add_core = THIS }
+			1623 = { add_core = THIS }
+			1624 = { add_core = THIS }
+			1625 = { add_core = THIS }
+			1626 = { add_core = THIS }
+			1627 = { add_core = THIS }
+			1628 = { add_core = THIS }
+			1629 = { add_core = THIS }
+			1630 = { add_core = THIS }
+			1631 = { add_core = THIS }
+			1632 = { add_core = THIS }
+			1633 = { add_core = THIS }
+			1634 = { add_core = THIS }
+			1635 = { add_core = THIS }
+			1636 = { add_core = THIS }
+			1637 = { add_core = THIS }
+			add_accepted_culture = korean
+			add_accepted_culture = siberian
+			prestige = 10
+			badboy = 2
+		}
+		ai_will_do = {
+			factor = 1
+			modifier = {
+				factor = 0
+				NOT = {
+					OR = {
+						tag = ZHL
+						tag = AHC
+						tag = GMJ
+						tag = HNA
+						tag = ZHJ
+						tag = GDG
+						tag = HNC
+						tag = JXI
+						tag = YNN
+						tag = XBI
+						tag = JLN
+						tag = RHE
+						tag = SYN
+						tag = QHI
+						tag = CQG
+						tag = HNI
+						tag = SHG
+						tag = KSG
+					}
+				}
+			}
+		}
+	}
+
+	AHC_road_a = {
+		potential = {
+			tag = AHC
+			NOT = { has_country_flag = chose_road_AHC }
+			state_n_government = 1
+			owns = 1542
+		}
+		allow = {
+			war = no
+		}
+		effect = {
+			set_country_flag = chose_road_AHC
+			set_country_flag = did_AHC_road_a
+			add_country_modifier = { name = AHC_road_a duration = -1 }
+			1537 = { add_core = THIS }
+			1539 = { add_core = THIS }
+			1541 = { add_core = THIS }
+			1543 = { add_core = THIS }
+			1544 = { add_core = THIS }
+			2221 = { add_core = THIS }
+			3322 = { add_core = THIS }
+			658 = { add_core = THIS }
+			1321 = { add_core = THIS }
+			1322 = { add_core = THIS }
+			1323 = { add_core = THIS }
+			1324 = { add_core = THIS }
+			1325 = { add_core = THIS }
+			1538 = { add_core = THIS }
+			1540 = { add_core = THIS }
+			2125 = { add_core = THIS }
+			2128 = { add_core = THIS }
+			1604 = { add_core = THIS }
+			1605 = { add_core = THIS }
+			1606 = { add_core = THIS }
+			1607 = { add_core = THIS }
+			1608 = { add_core = THIS }
+			1609 = { add_core = THIS }
+			1610 = { add_core = THIS }
+			1611 = { add_core = THIS }
+			3372 = { add_core = THIS }
+			3373 = { add_core = THIS }
+			3374 = { add_core = THIS }
+			3375 = { add_core = THIS }
+			add_accepted_culture = wu
+			prestige = 10
+			badboy = 2
+		}
+		ai_will_do = {
+			factor = 1
+			modifier = {
+				factor = 0
+				NOT = {
+					OR = {
+						tag = FTN
+						tag = SXI
+						tag = SDG
+						tag = JSU
+						tag = FUJ
+						tag = GXI
+						tag = HBE
+						tag = SZC
+						tag = GZH
+						tag = XIN
+						tag = HLJ
+						tag = CHH
+						tag = NXA
+						tag = XKG
+						tag = TIB
+						tag = TWN
+						tag = XZC
+					}
+				}
+			}
+		}
+	}
+
+	AHC_road_b = {
+		potential = {
+			tag = AHC
+			NOT = { has_country_flag = chose_road_AHC }
+			state_n_government = 1
+			owns = 1542
+		}
+		allow = {
+			war = no
+		}
+		effect = {
+			set_country_flag = chose_road_AHC
+			set_country_flag = did_AHC_road_b
+			add_country_modifier = { name = AHC_road_b duration = -1 }
+			1508 = { add_core = THIS }
+			1510 = { add_core = THIS }
+			1511 = { add_core = THIS }
+			1513 = { add_core = THIS }
+			1514 = { add_core = THIS }
+			1515 = { add_core = THIS }
+			3291 = { add_core = THIS }
+			3293 = { add_core = THIS }
+			3294 = { add_core = THIS }
+			3295 = { add_core = THIS }
+			3296 = { add_core = THIS }
+			1476 = { add_core = THIS }
+			1536 = { add_core = THIS }
+			1542 = { add_core = THIS }
+			3320 = { add_core = THIS }
+			3321 = { add_core = THIS }
+			1563 = { add_core = THIS }
+			1564 = { add_core = THIS }
+			1565 = { add_core = THIS }
+			1566 = { add_core = THIS }
+			1567 = { add_core = THIS }
+			1568 = { add_core = THIS }
+			1569 = { add_core = THIS }
+			1570 = { add_core = THIS }
+			1571 = { add_core = THIS }
+			3341 = { add_core = THIS }
+			3342 = { add_core = THIS }
+			3343 = { add_core = THIS }
+			3344 = { add_core = THIS }
+			3345 = { add_core = THIS }
+			3346 = { add_core = THIS }
+			3347 = { add_core = THIS }
+			add_accepted_culture = jilu
+			prestige = 10
+			badboy = 2
+		}
+		ai_will_do = {
+			factor = 1
+			modifier = {
+				factor = 0
+				NOT = {
+					OR = {
+						tag = ZHL
+						tag = AHC
+						tag = GMJ
+						tag = HNA
+						tag = ZHJ
+						tag = GDG
+						tag = HNC
+						tag = JXI
+						tag = YNN
+						tag = XBI
+						tag = JLN
+						tag = RHE
+						tag = SYN
+						tag = QHI
+						tag = CQG
+						tag = HNI
+						tag = SHG
+						tag = KSG
+					}
+				}
+			}
+		}
+	}
+
+	SXI_road_a = {
+		potential = {
+			tag = SXI
+			NOT = { has_country_flag = chose_road_SXI }
+			state_n_government = 1
+			owns = 1532
+		}
+		allow = {
+			war = no
+		}
+		effect = {
+			set_country_flag = chose_road_SXI
+			set_country_flag = did_SXI_road_a
+			add_country_modifier = { name = SXI_road_a duration = -1 }
+			prestige = 10
+		}
+		ai_will_do = {
+			factor = 1
+			modifier = {
+				factor = 0
+				NOT = {
+					OR = {
+						tag = FTN
+						tag = SXI
+						tag = SDG
+						tag = JSU
+						tag = FUJ
+						tag = GXI
+						tag = HBE
+						tag = SZC
+						tag = GZH
+						tag = XIN
+						tag = HLJ
+						tag = CHH
+						tag = NXA
+						tag = XKG
+						tag = TIB
+						tag = TWN
+						tag = XZC
+					}
+				}
+			}
+		}
+	}
+
+	SXI_road_b = {
+		potential = {
+			tag = SXI
+			NOT = { has_country_flag = chose_road_SXI }
+			state_n_government = 1
+			owns = 1532
+		}
+		allow = {
+			war = no
+		}
+		effect = {
+			set_country_flag = chose_road_SXI
+			set_country_flag = did_SXI_road_b
+			add_country_modifier = { name = SXI_road_b duration = -1 }
+			1559 = { add_core = THIS }
+			1561 = { add_core = THIS }
+			1562 = { add_core = THIS }
+			2062 = { add_core = THIS }
+			3338 = { add_core = THIS }
+			3339 = { add_core = THIS }
+			3340 = { add_core = THIS }
+			3384 = { add_core = THIS }
+			1532 = { add_core = THIS }
+			1535 = { add_core = THIS }
+			3312 = { add_core = THIS }
+			3313 = { add_core = THIS }
+			3318 = { add_core = THIS }
+			3319 = { add_core = THIS }
+			1534 = { add_core = THIS }
+			3316 = { add_core = THIS }
+			3317 = { add_core = THIS }
+			1491 = { add_core = THIS }
+			3274 = { add_core = THIS }
+			add_accepted_culture = guanzhong
+			add_accepted_culture = mongol
+			prestige = 10
+			badboy = 2
+		}
+		ai_will_do = {
+			factor = 1
+			modifier = {
+				factor = 0
+				NOT = {
+					OR = {
+						tag = ZHL
+						tag = AHC
+						tag = GMJ
+						tag = HNA
+						tag = ZHJ
+						tag = GDG
+						tag = HNC
+						tag = JXI
+						tag = YNN
+						tag = XBI
+						tag = JLN
+						tag = RHE
+						tag = SYN
+						tag = QHI
+						tag = CQG
+						tag = HNI
+						tag = SHG
+						tag = KSG
+					}
+				}
+			}
+		}
+	}
+
+	GMJ_road_a = {
+		potential = {
+			tag = GMJ
+			NOT = { has_country_flag = chose_road_GMJ }
+			state_n_government = 1
+			owns = 1491
+		}
+		allow = {
+			war = no
+		}
+		effect = {
+			set_country_flag = chose_road_GMJ
+			set_country_flag = did_GMJ_road_a
+			add_country_modifier = { name = GMJ_road_a duration = -1 }
+			1488 = { add_core = THIS }
+			1489 = { add_core = THIS }
+			1490 = { add_core = THIS }
+			1492 = { add_core = THIS }
+			3268 = { add_core = THIS }
+			3269 = { add_core = THIS }
+			3270 = { add_core = THIS }
+			3271 = { add_core = THIS }
+			3272 = { add_core = THIS }
+			3273 = { add_core = THIS }
+			3275 = { add_core = THIS }
+			1491 = { add_core = THIS }
+			3274 = { add_core = THIS }
+			1556 = { add_core = THIS }
+			1557 = { add_core = THIS }
+			1558 = { add_core = THIS }
+			1595 = { add_core = THIS }
+			1596 = { add_core = THIS }
+			1599 = { add_core = THIS }
+			1600 = { add_core = THIS }
+			2607 = { add_core = THIS }
+			1594 = { add_core = THIS }
+			1597 = { add_core = THIS }
+			1598 = { add_core = THIS }
+			add_accepted_culture = uighur
+			add_accepted_culture = tibetan
+			prestige = 10
+			badboy = 2
+		}
+		ai_will_do = {
+			factor = 1
+			modifier = {
+				factor = 0
+				NOT = {
+					OR = {
+						tag = FTN
+						tag = SXI
+						tag = SDG
+						tag = JSU
+						tag = FUJ
+						tag = GXI
+						tag = HBE
+						tag = SZC
+						tag = GZH
+						tag = XIN
+						tag = HLJ
+						tag = CHH
+						tag = NXA
+						tag = XKG
+						tag = TIB
+						tag = TWN
+						tag = XZC
+					}
+				}
+			}
+		}
+	}
+
+	GMJ_road_b = {
+		potential = {
+			tag = GMJ
+			NOT = { has_country_flag = chose_road_GMJ }
+			state_n_government = 1
+			owns = 1491
+		}
+		allow = {
+			war = no
+		}
+		effect = {
+			set_country_flag = chose_road_GMJ
+			set_country_flag = did_GMJ_road_b
+			add_country_modifier = { name = GMJ_road_b duration = -1 }
+			1572 = { add_core = THIS }
+			1573 = { add_core = THIS }
+			1574 = { add_core = THIS }
+			1575 = { add_core = THIS }
+			1576 = { add_core = THIS }
+			3348 = { add_core = THIS }
+			3349 = { add_core = THIS }
+			3350 = { add_core = THIS }
+			3351 = { add_core = THIS }
+			3352 = { add_core = THIS }
+			1508 = { add_core = THIS }
+			1510 = { add_core = THIS }
+			1511 = { add_core = THIS }
+			1513 = { add_core = THIS }
+			1514 = { add_core = THIS }
+			1515 = { add_core = THIS }
+			3291 = { add_core = THIS }
+			3293 = { add_core = THIS }
+			3294 = { add_core = THIS }
+			3295 = { add_core = THIS }
+			3296 = { add_core = THIS }
+			add_accepted_culture = zhongyuan
+			prestige = 10
+			badboy = 2
+		}
+		ai_will_do = {
+			factor = 1
+			modifier = {
+				factor = 0
+				NOT = {
+					OR = {
+						tag = ZHL
+						tag = AHC
+						tag = GMJ
+						tag = HNA
+						tag = ZHJ
+						tag = GDG
+						tag = HNC
+						tag = JXI
+						tag = YNN
+						tag = XBI
+						tag = JLN
+						tag = RHE
+						tag = SYN
+						tag = QHI
+						tag = CQG
+						tag = HNI
+						tag = SHG
+						tag = KSG
+					}
+				}
+			}
+		}
+	}
+
+	SDG_road_a = {
+		potential = {
+			tag = SDG
+			NOT = { has_country_flag = chose_road_SDG }
+			state_n_government = 1
+			owns = 1624
+		}
+		allow = {
+			war = no
+		}
+		effect = {
+			set_country_flag = chose_road_SDG
+			set_country_flag = did_SDG_road_a
+			add_country_modifier = { name = SDG_road_a duration = -1 }
+			1619 = { add_core = THIS }
+			1620 = { add_core = THIS }
+			1621 = { add_core = THIS }
+			1622 = { add_core = THIS }
+			1623 = { add_core = THIS }
+			1624 = { add_core = THIS }
+			1625 = { add_core = THIS }
+			1626 = { add_core = THIS }
+			1627 = { add_core = THIS }
+			1628 = { add_core = THIS }
+			1629 = { add_core = THIS }
+			1630 = { add_core = THIS }
+			1631 = { add_core = THIS }
+			1632 = { add_core = THIS }
+			1633 = { add_core = THIS }
+			1634 = { add_core = THIS }
+			1635 = { add_core = THIS }
+			1636 = { add_core = THIS }
+			1637 = { add_core = THIS }
+			1645 = { add_core = THIS }
+			1646 = { add_core = THIS }
+			1647 = { add_core = THIS }
+			1648 = { add_core = THIS }
+			1649 = { add_core = THIS }
+			1650 = { add_core = THIS }
+			1651 = { add_core = THIS }
+			1652 = { add_core = THIS }
+			1653 = { add_core = THIS }
+			1655 = { add_core = THIS }
+			1656 = { add_core = THIS }
+			1657 = { add_core = THIS }
+			1658 = { add_core = THIS }
+			1659 = { add_core = THIS }
+			1669 = { add_core = THIS }
+			1674 = { add_core = THIS }
+			1675 = { add_core = THIS }
+			1676 = { add_core = THIS }
+			1677 = { add_core = THIS }
+			add_accepted_culture = korean
+			prestige = 10
+			badboy = 2
+		}
+		ai_will_do = {
+			factor = 1
+			modifier = {
+				factor = 0
+				NOT = {
+					OR = {
+						tag = FTN
+						tag = SXI
+						tag = SDG
+						tag = JSU
+						tag = FUJ
+						tag = GXI
+						tag = HBE
+						tag = SZC
+						tag = GZH
+						tag = XIN
+						tag = HLJ
+						tag = CHH
+						tag = NXA
+						tag = XKG
+						tag = TIB
+						tag = TWN
+						tag = XZC
+					}
+				}
+			}
+		}
+	}
+
+	SDG_road_b = {
+		potential = {
+			tag = SDG
+			NOT = { has_country_flag = chose_road_SDG }
+			state_n_government = 1
+			owns = 1624
+		}
+		allow = {
+			war = no
+		}
+		effect = {
+			set_country_flag = chose_road_SDG
+			set_country_flag = did_SDG_road_b
+			add_country_modifier = { name = SDG_road_b duration = -1 }
+			1508 = { add_core = THIS }
+			1510 = { add_core = THIS }
+			1511 = { add_core = THIS }
+			1513 = { add_core = THIS }
+			1514 = { add_core = THIS }
+			1515 = { add_core = THIS }
+			3291 = { add_core = THIS }
+			3293 = { add_core = THIS }
+			3294 = { add_core = THIS }
+			3295 = { add_core = THIS }
+			3296 = { add_core = THIS }
+			1476 = { add_core = THIS }
+			1536 = { add_core = THIS }
+			1542 = { add_core = THIS }
+			3320 = { add_core = THIS }
+			3321 = { add_core = THIS }
+			1612 = { add_core = THIS }
+			1614 = { add_core = THIS }
+			1615 = { add_core = THIS }
+			1616 = { add_core = THIS }
+			1617 = { add_core = THIS }
+			1618 = { add_core = THIS }
+			3376 = { add_core = THIS }
+			3379 = { add_core = THIS }
+			3380 = { add_core = THIS }
+			3381 = { add_core = THIS }
+			3382 = { add_core = THIS }
+			3383 = { add_core = THIS }
+			add_accepted_culture = zhongyuan
+			prestige = 10
+			badboy = 2
+		}
+		ai_will_do = {
+			factor = 1
+			modifier = {
+				factor = 0
+				NOT = {
+					OR = {
+						tag = ZHL
+						tag = AHC
+						tag = GMJ
+						tag = HNA
+						tag = ZHJ
+						tag = GDG
+						tag = HNC
+						tag = JXI
+						tag = YNN
+						tag = XBI
+						tag = JLN
+						tag = RHE
+						tag = SYN
+						tag = QHI
+						tag = CQG
+						tag = HNI
+						tag = SHG
+						tag = KSG
+					}
+				}
+			}
+		}
+	}
+
+	HNA_road_a = {
+		potential = {
+			tag = HNA
+			NOT = { has_country_flag = chose_road_HNA }
+			state_n_government = 1
+			owns = 1542
+		}
+		allow = {
+			war = no
+		}
+		effect = {
+			set_country_flag = chose_road_HNA
+			set_country_flag = did_HNA_road_a
+			add_country_modifier = { name = HNA_road_a duration = -1 }
+			1563 = { add_core = THIS }
+			1564 = { add_core = THIS }
+			1565 = { add_core = THIS }
+			1566 = { add_core = THIS }
+			1567 = { add_core = THIS }
+			1568 = { add_core = THIS }
+			1569 = { add_core = THIS }
+			1570 = { add_core = THIS }
+			1571 = { add_core = THIS }
+			3341 = { add_core = THIS }
+			3342 = { add_core = THIS }
+			3343 = { add_core = THIS }
+			3344 = { add_core = THIS }
+			3345 = { add_core = THIS }
+			3346 = { add_core = THIS }
+			3347 = { add_core = THIS }
+			1572 = { add_core = THIS }
+			1573 = { add_core = THIS }
+			1574 = { add_core = THIS }
+			1575 = { add_core = THIS }
+			1576 = { add_core = THIS }
+			3348 = { add_core = THIS }
+			3349 = { add_core = THIS }
+			3350 = { add_core = THIS }
+			3351 = { add_core = THIS }
+			3352 = { add_core = THIS }
+			1612 = { add_core = THIS }
+			1614 = { add_core = THIS }
+			1615 = { add_core = THIS }
+			1616 = { add_core = THIS }
+			1617 = { add_core = THIS }
+			1618 = { add_core = THIS }
+			3376 = { add_core = THIS }
+			3379 = { add_core = THIS }
+			3380 = { add_core = THIS }
+			3381 = { add_core = THIS }
+			3382 = { add_core = THIS }
+			3383 = { add_core = THIS }
+			add_accepted_culture = jin
+			prestige = 10
+			badboy = 2
+		}
+		ai_will_do = {
+			factor = 1
+			modifier = {
+				factor = 0
+				NOT = {
+					OR = {
+						tag = ZHL
+						tag = AHC
+						tag = GMJ
+						tag = HNA
+						tag = ZHJ
+						tag = GDG
+						tag = HNC
+						tag = JXI
+						tag = YNN
+						tag = XBI
+						tag = JLN
+						tag = RHE
+						tag = SYN
+						tag = QHI
+						tag = CQG
+						tag = HNI
+						tag = SHG
+						tag = KSG
+					}
+				}
+			}
+		}
+	}
+
+	HNA_road_b = {
+		potential = {
+			tag = HNA
+			NOT = { has_country_flag = chose_road_HNA }
+			state_n_government = 1
+			owns = 1542
+		}
+		allow = {
+			war = no
+		}
+		effect = {
+			set_country_flag = chose_road_HNA
+			set_country_flag = did_HNA_road_b
+			add_country_modifier = { name = HNA_road_b duration = -1 }
+			1516 = { add_core = THIS }
+			1517 = { add_core = THIS }
+			1518 = { add_core = THIS }
+			1519 = { add_core = THIS }
+			1520 = { add_core = THIS }
+			1521 = { add_core = THIS }
+			1522 = { add_core = THIS }
+			1523 = { add_core = THIS }
+			3297 = { add_core = THIS }
+			3298 = { add_core = THIS }
+			3299 = { add_core = THIS }
+			3300 = { add_core = THIS }
+			3301 = { add_core = THIS }
+			3302 = { add_core = THIS }
+			3303 = { add_core = THIS }
+			3304 = { add_core = THIS }
+			1470 = { add_core = THIS }
+			1471 = { add_core = THIS }
+			1472 = { add_core = THIS }
+			1473 = { add_core = THIS }
+			1474 = { add_core = THIS }
+			1475 = { add_core = THIS }
+			1477 = { add_core = THIS }
+			1478 = { add_core = THIS }
+			1509 = { add_core = THIS }
+			1512 = { add_core = THIS }
+			3251 = { add_core = THIS }
+			3252 = { add_core = THIS }
+			3253 = { add_core = THIS }
+			3254 = { add_core = THIS }
+			3255 = { add_core = THIS }
+			3256 = { add_core = THIS }
+			3257 = { add_core = THIS }
+			3258 = { add_core = THIS }
+			3292 = { add_core = THIS }
+			add_accepted_culture = chu
+			add_accepted_culture = jianghuai
+			prestige = 10
+			badboy = 2
+		}
+		ai_will_do = {
+			factor = 1
+			modifier = {
+				factor = 0
+				NOT = {
+					OR = {
+						tag = FTN
+						tag = SXI
+						tag = SDG
+						tag = JSU
+						tag = FUJ
+						tag = GXI
+						tag = HBE
+						tag = SZC
+						tag = GZH
+						tag = XIN
+						tag = HLJ
+						tag = CHH
+						tag = NXA
+						tag = XKG
+						tag = TIB
+						tag = TWN
+						tag = XZC
+					}
+				}
+			}
+		}
+	}
+
+	JSU_road_a = {
+		potential = {
+			tag = JSU
+			NOT = { has_country_flag = chose_road_JSU }
+			state_n_government = 1
+			owns = 1538
+		}
+		allow = {
+			war = no
+		}
+		effect = {
+			set_country_flag = chose_road_JSU
+			set_country_flag = did_JSU_road_a
+			add_country_modifier = { name = JSU_road_a duration = -1 }
+			1604 = { add_core = THIS }
+			1605 = { add_core = THIS }
+			1606 = { add_core = THIS }
+			1607 = { add_core = THIS }
+			1608 = { add_core = THIS }
+			1609 = { add_core = THIS }
+			1610 = { add_core = THIS }
+			1611 = { add_core = THIS }
+			3372 = { add_core = THIS }
+			3373 = { add_core = THIS }
+			3374 = { add_core = THIS }
+			3375 = { add_core = THIS }
+			1482 = { add_core = THIS }
+			1483 = { add_core = THIS }
+			1484 = { add_core = THIS }
+			1486 = { add_core = THIS }
+			1487 = { add_core = THIS }
+			3262 = { add_core = THIS }
+			3263 = { add_core = THIS }
+			3264 = { add_core = THIS }
+			3266 = { add_core = THIS }
+			3267 = { add_core = THIS }
+			1545 = { add_core = THIS }
+			1546 = { add_core = THIS }
+			1547 = { add_core = THIS }
+			1548 = { add_core = THIS }
+			1549 = { add_core = THIS }
+			1550 = { add_core = THIS }
+			1551 = { add_core = THIS }
+			3323 = { add_core = THIS }
+			3324 = { add_core = THIS }
+			3325 = { add_core = THIS }
+			3326 = { add_core = THIS }
+			3327 = { add_core = THIS }
+			3328 = { add_core = THIS }
+			3329 = { add_core = THIS }
+			1470 = { add_core = THIS }
+			1471 = { add_core = THIS }
+			1472 = { add_core = THIS }
+			1473 = { add_core = THIS }
+			1474 = { add_core = THIS }
+			1475 = { add_core = THIS }
+			1477 = { add_core = THIS }
+			1478 = { add_core = THIS }
+			1509 = { add_core = THIS }
+			1512 = { add_core = THIS }
+			3251 = { add_core = THIS }
+			3252 = { add_core = THIS }
+			3253 = { add_core = THIS }
+			3254 = { add_core = THIS }
+			3255 = { add_core = THIS }
+			3256 = { add_core = THIS }
+			3257 = { add_core = THIS }
+			3258 = { add_core = THIS }
+			3292 = { add_core = THIS }
+			add_accepted_culture = min
+			add_accepted_culture = gan
+			prestige = 10
+			badboy = 2
+		}
+		ai_will_do = {
+			factor = 1
+			modifier = {
+				factor = 0
+				NOT = {
+					OR = {
+						tag = FTN
+						tag = SXI
+						tag = SDG
+						tag = JSU
+						tag = FUJ
+						tag = GXI
+						tag = HBE
+						tag = SZC
+						tag = GZH
+						tag = XIN
+						tag = HLJ
+						tag = CHH
+						tag = NXA
+						tag = XKG
+						tag = TIB
+						tag = TWN
+						tag = XZC
+					}
+				}
+			}
+		}
+	}
+
+	JSU_road_b = {
+		potential = {
+			tag = JSU
+			NOT = { has_country_flag = chose_road_JSU }
+			state_n_government = 1
+			owns = 1538
+		}
+		allow = {
+			war = no
+		}
+		effect = {
+			set_country_flag = chose_road_JSU
+			set_country_flag = did_JSU_road_b
+			add_country_modifier = { name = JSU_road_b duration = -1 }
+			658 = { add_core = THIS }
+			1321 = { add_core = THIS }
+			1322 = { add_core = THIS }
+			1323 = { add_core = THIS }
+			1324 = { add_core = THIS }
+			1325 = { add_core = THIS }
+			1538 = { add_core = THIS }
+			1540 = { add_core = THIS }
+			2125 = { add_core = THIS }
+			2128 = { add_core = THIS }
+			1455 = { add_core = THIS }
+			1456 = { add_core = THIS }
+			1457 = { add_core = THIS }
+			1458 = { add_core = THIS }
+			1459 = { add_core = THIS }
+			1460 = { add_core = THIS }
+			1461 = { add_core = THIS }
+			1462 = { add_core = THIS }
+			1463 = { add_core = THIS }
+			1464 = { add_core = THIS }
+			2565 = { add_core = THIS }
+			1384 = { add_core = THIS }
+			1385 = { add_core = THIS }
+			1386 = { add_core = THIS }
+			1387 = { add_core = THIS }
+			1388 = { add_core = THIS }
+			1390 = { add_core = THIS }
+			2575 = { add_core = THIS }
+			add_accepted_culture = malay
+			prestige = 10
+			badboy = 2
+		}
+		ai_will_do = {
+			factor = 1
+			modifier = {
+				factor = 0
+				NOT = {
+					OR = {
+						tag = ZHL
+						tag = AHC
+						tag = GMJ
+						tag = HNA
+						tag = ZHJ
+						tag = GDG
+						tag = HNC
+						tag = JXI
+						tag = YNN
+						tag = XBI
+						tag = JLN
+						tag = RHE
+						tag = SYN
+						tag = QHI
+						tag = CQG
+						tag = HNI
+						tag = SHG
+						tag = KSG
+					}
+				}
+			}
+		}
+	}
+
+	ZHJ_road_a = {
+		potential = {
+			tag = ZHJ
+			NOT = { has_country_flag = chose_road_ZHJ }
+			state_n_government = 1
+			owns = 1485
+		}
+		allow = {
+			war = no
+		}
+		effect = {
+			set_country_flag = chose_road_ZHJ
+			set_country_flag = did_ZHJ_road_a
+			add_country_modifier = { name = ZHJ_road_a duration = -1 }
+			1397 = { add_core = THIS }
+			1485 = { add_core = THIS }
+			2127 = { add_core = THIS }
+			2562 = { add_core = THIS }
+			3265 = { add_core = THIS }
+			3385 = { add_core = THIS }
+			1645 = { add_core = THIS }
+			1646 = { add_core = THIS }
+			1647 = { add_core = THIS }
+			1648 = { add_core = THIS }
+			1649 = { add_core = THIS }
+			1650 = { add_core = THIS }
+			1651 = { add_core = THIS }
+			1652 = { add_core = THIS }
+			1653 = { add_core = THIS }
+			1655 = { add_core = THIS }
+			1656 = { add_core = THIS }
+			1657 = { add_core = THIS }
+			1658 = { add_core = THIS }
+			1659 = { add_core = THIS }
+			1669 = { add_core = THIS }
+			1674 = { add_core = THIS }
+			1675 = { add_core = THIS }
+			1676 = { add_core = THIS }
+			1677 = { add_core = THIS }
+			1455 = { add_core = THIS }
+			1456 = { add_core = THIS }
+			1457 = { add_core = THIS }
+			1458 = { add_core = THIS }
+			1459 = { add_core = THIS }
+			1460 = { add_core = THIS }
+			1461 = { add_core = THIS }
+			1462 = { add_core = THIS }
+			1463 = { add_core = THIS }
+			1464 = { add_core = THIS }
+			2565 = { add_core = THIS }
+			add_accepted_culture = japanese
+			prestige = 10
+			badboy = 2
+		}
+		ai_will_do = {
+			factor = 1
+			modifier = {
+				factor = 0
+				NOT = {
+					OR = {
+						tag = FTN
+						tag = SXI
+						tag = SDG
+						tag = JSU
+						tag = FUJ
+						tag = GXI
+						tag = HBE
+						tag = SZC
+						tag = GZH
+						tag = XIN
+						tag = HLJ
+						tag = CHH
+						tag = NXA
+						tag = XKG
+						tag = TIB
+						tag = TWN
+						tag = XZC
+					}
+				}
+			}
+		}
+	}
+
+	ZHJ_road_b = {
+		potential = {
+			tag = ZHJ
+			NOT = { has_country_flag = chose_road_ZHJ }
+			state_n_government = 1
+			owns = 1485
+		}
+		allow = {
+			war = no
+		}
+		effect = {
+			set_country_flag = chose_road_ZHJ
+			set_country_flag = did_ZHJ_road_b
+			add_country_modifier = { name = ZHJ_road_b duration = -1 }
+			1537 = { add_core = THIS }
+			1539 = { add_core = THIS }
+			1541 = { add_core = THIS }
+			1543 = { add_core = THIS }
+			1544 = { add_core = THIS }
+			2221 = { add_core = THIS }
+			3322 = { add_core = THIS }
+			658 = { add_core = THIS }
+			1321 = { add_core = THIS }
+			1322 = { add_core = THIS }
+			1323 = { add_core = THIS }
+			1324 = { add_core = THIS }
+			1325 = { add_core = THIS }
+			1538 = { add_core = THIS }
+			1540 = { add_core = THIS }
+			2125 = { add_core = THIS }
+			2128 = { add_core = THIS }
+			1482 = { add_core = THIS }
+			1483 = { add_core = THIS }
+			1484 = { add_core = THIS }
+			1486 = { add_core = THIS }
+			1487 = { add_core = THIS }
+			3262 = { add_core = THIS }
+			3263 = { add_core = THIS }
+			3264 = { add_core = THIS }
+			3266 = { add_core = THIS }
+			3267 = { add_core = THIS }
+			add_accepted_culture = jianghuai
+			prestige = 10
+			badboy = 2
+		}
+		ai_will_do = {
+			factor = 1
+			modifier = {
+				factor = 0
+				NOT = {
+					OR = {
+						tag = ZHL
+						tag = AHC
+						tag = GMJ
+						tag = HNA
+						tag = ZHJ
+						tag = GDG
+						tag = HNC
+						tag = JXI
+						tag = YNN
+						tag = XBI
+						tag = JLN
+						tag = RHE
+						tag = SYN
+						tag = QHI
+						tag = CQG
+						tag = HNI
+						tag = SHG
+						tag = KSG
+					}
+				}
+			}
+		}
+	}
+
+	FUJ_road_a = {
+		potential = {
+			tag = FUJ
+			NOT = { has_country_flag = chose_road_FUJ }
+			state_n_government = 1
+			owns = 1485
+		}
+		allow = {
+			war = no
+		}
+		effect = {
+			set_country_flag = chose_road_FUJ
+			set_country_flag = did_FUJ_road_a
+			add_country_modifier = { name = FUJ_road_a duration = -1 }
+			1393 = { add_core = THIS }
+			1394 = { add_core = THIS }
+			1395 = { add_core = THIS }
+			1455 = { add_core = THIS }
+			1456 = { add_core = THIS }
+			1457 = { add_core = THIS }
+			1458 = { add_core = THIS }
+			1459 = { add_core = THIS }
+			1460 = { add_core = THIS }
+			1461 = { add_core = THIS }
+			1462 = { add_core = THIS }
+			1463 = { add_core = THIS }
+			1464 = { add_core = THIS }
+			2565 = { add_core = THIS }
+			1413 = { add_core = THIS }
+			1414 = { add_core = THIS }
+			1415 = { add_core = THIS }
+			1416 = { add_core = THIS }
+			1417 = { add_core = THIS }
+			1418 = { add_core = THIS }
+			1419 = { add_core = THIS }
+			1420 = { add_core = THIS }
+			add_accepted_culture = malay
+			add_accepted_culture = javan
+			prestige = 10
+			change_tag = LFG
+			badboy = 2
+		}
+		ai_will_do = {
+			factor = 1
+			modifier = {
+				factor = 0
+				NOT = {
+					OR = {
+						tag = ZHL
+						tag = AHC
+						tag = GMJ
+						tag = HNA
+						tag = ZHJ
+						tag = GDG
+						tag = HNC
+						tag = JXI
+						tag = YNN
+						tag = XBI
+						tag = JLN
+						tag = RHE
+						tag = SYN
+						tag = QHI
+						tag = CQG
+						tag = HNI
+						tag = SHG
+						tag = KSG
+					}
+				}
+			}
+		}
+	}
+
+	FUJ_road_b = {
+		potential = {
+			tag = FUJ
+			NOT = { has_country_flag = chose_road_FUJ }
+			state_n_government = 1
+			owns = 1485
+		}
+		allow = {
+			war = no
+		}
+		effect = {
+			set_country_flag = chose_road_FUJ
+			set_country_flag = did_FUJ_road_b
+			add_country_modifier = { name = FUJ_road_b duration = -1 }
+			1493 = { add_core = THIS }
+			1494 = { add_core = THIS }
+			1496 = { add_core = THIS }
+			1497 = { add_core = THIS }
+			1498 = { add_core = THIS }
+			1500 = { add_core = THIS }
+			1501 = { add_core = THIS }
+			3276 = { add_core = THIS }
+			3277 = { add_core = THIS }
+			3279 = { add_core = THIS }
+			3281 = { add_core = THIS }
+			3282 = { add_core = THIS }
+			1397 = { add_core = THIS }
+			1485 = { add_core = THIS }
+			2127 = { add_core = THIS }
+			2562 = { add_core = THIS }
+			3265 = { add_core = THIS }
+			3385 = { add_core = THIS }
+			1499 = { add_core = THIS }
+			3280 = { add_core = THIS }
+			add_accepted_culture = yue
+			prestige = 10
+			badboy = 2
+		}
+		ai_will_do = {
+			factor = 1
+			modifier = {
+				factor = 0
+				NOT = {
+					OR = {
+						tag = FTN
+						tag = SXI
+						tag = SDG
+						tag = JSU
+						tag = FUJ
+						tag = GXI
+						tag = HBE
+						tag = SZC
+						tag = GZH
+						tag = XIN
+						tag = HLJ
+						tag = CHH
+						tag = NXA
+						tag = XKG
+						tag = TIB
+						tag = TWN
+						tag = XZC
+					}
+				}
+			}
+		}
+	}
+
+	GDG_road_a = {
+		potential = {
+			tag = GDG
+			NOT = { has_country_flag = chose_road_GDG }
+			state_n_government = 1
+			owns = 1499
+		}
+		allow = {
+			war = no
+		}
+		effect = {
+			set_country_flag = chose_road_GDG
+			set_country_flag = did_GDG_road_a
+			add_country_modifier = { name = GDG_road_a duration = -1 }
+			1524 = { add_core = THIS }
+			1525 = { add_core = THIS }
+			1526 = { add_core = THIS }
+			1527 = { add_core = THIS }
+			1528 = { add_core = THIS }
+			1529 = { add_core = THIS }
+			1530 = { add_core = THIS }
+			3305 = { add_core = THIS }
+			3306 = { add_core = THIS }
+			3307 = { add_core = THIS }
+			3308 = { add_core = THIS }
+			3309 = { add_core = THIS }
+			3310 = { add_core = THIS }
+			3311 = { add_core = THIS }
+			1545 = { add_core = THIS }
+			1546 = { add_core = THIS }
+			1547 = { add_core = THIS }
+			1548 = { add_core = THIS }
+			1549 = { add_core = THIS }
+			1550 = { add_core = THIS }
+			1551 = { add_core = THIS }
+			3323 = { add_core = THIS }
+			3324 = { add_core = THIS }
+			3325 = { add_core = THIS }
+			3326 = { add_core = THIS }
+			3327 = { add_core = THIS }
+			3328 = { add_core = THIS }
+			3329 = { add_core = THIS }
+			1516 = { add_core = THIS }
+			1517 = { add_core = THIS }
+			1518 = { add_core = THIS }
+			1519 = { add_core = THIS }
+			1520 = { add_core = THIS }
+			1521 = { add_core = THIS }
+			1522 = { add_core = THIS }
+			1523 = { add_core = THIS }
+			3297 = { add_core = THIS }
+			3298 = { add_core = THIS }
+			3299 = { add_core = THIS }
+			3300 = { add_core = THIS }
+			3301 = { add_core = THIS }
+			3302 = { add_core = THIS }
+			3303 = { add_core = THIS }
+			3304 = { add_core = THIS }
+			add_accepted_culture = xiang
+			add_accepted_culture = gan
+			add_accepted_culture = chu
+			prestige = 10
+			badboy = 2
+		}
+		ai_will_do = {
+			factor = 1
+			modifier = {
+				factor = 0
+				NOT = {
+					OR = {
+						tag = FTN
+						tag = SXI
+						tag = SDG
+						tag = JSU
+						tag = FUJ
+						tag = GXI
+						tag = HBE
+						tag = SZC
+						tag = GZH
+						tag = XIN
+						tag = HLJ
+						tag = CHH
+						tag = NXA
+						tag = XKG
+						tag = TIB
+						tag = TWN
+						tag = XZC
+					}
+				}
+			}
+		}
+	}
+
+	GDG_road_b = {
+		potential = {
+			tag = GDG
+			NOT = { has_country_flag = chose_road_GDG }
+			state_n_government = 1
+			owns = 1499
+		}
+		allow = {
+			war = no
+		}
+		effect = {
+			set_country_flag = chose_road_GDG
+			set_country_flag = did_GDG_road_b
+			add_country_modifier = { name = GDG_road_b duration = -1 }
+			1356 = { add_core = THIS }
+			1362 = { add_core = THIS }
+			1364 = { add_core = THIS }
+			1367 = { add_core = THIS }
+			1368 = { add_core = THIS }
+			1369 = { add_core = THIS }
+			1370 = { add_core = THIS }
+			1371 = { add_core = THIS }
+			1372 = { add_core = THIS }
+			1373 = { add_core = THIS }
+			1374 = { add_core = THIS }
+			1375 = { add_core = THIS }
+			1376 = { add_core = THIS }
+			1377 = { add_core = THIS }
+			1378 = { add_core = THIS }
+			1379 = { add_core = THIS }
+			1380 = { add_core = THIS }
+			1381 = { add_core = THIS }
+			1382 = { add_core = THIS }
+			1383 = { add_core = THIS }
+			1384 = { add_core = THIS }
+			1385 = { add_core = THIS }
+			1386 = { add_core = THIS }
+			1387 = { add_core = THIS }
+			1388 = { add_core = THIS }
+			1390 = { add_core = THIS }
+			2575 = { add_core = THIS }
+			1346 = { add_core = THIS }
+			1347 = { add_core = THIS }
+			1348 = { add_core = THIS }
+			1349 = { add_core = THIS }
+			1350 = { add_core = THIS }
+			1351 = { add_core = THIS }
+			1352 = { add_core = THIS }
+			1353 = { add_core = THIS }
+			1354 = { add_core = THIS }
+			1355 = { add_core = THIS }
+			1357 = { add_core = THIS }
+			1358 = { add_core = THIS }
+			1359 = { add_core = THIS }
+			1360 = { add_core = THIS }
+			1361 = { add_core = THIS }
+			1363 = { add_core = THIS }
+			1365 = { add_core = THIS }
+			1366 = { add_core = THIS }
+			1389 = { add_core = THIS }
+			1391 = { add_core = THIS }
+			1392 = { add_core = THIS }
+			2572 = { add_core = THIS }
+			add_accepted_culture = vietnamese
+			add_accepted_culture = malay
+			add_accepted_culture = thai
+			prestige = 10
+			badboy = 2
+		}
+		ai_will_do = {
+			factor = 1
+			modifier = {
+				factor = 0
+				NOT = {
+					OR = {
+						tag = ZHL
+						tag = AHC
+						tag = GMJ
+						tag = HNA
+						tag = ZHJ
+						tag = GDG
+						tag = HNC
+						tag = JXI
+						tag = YNN
+						tag = XBI
+						tag = JLN
+						tag = RHE
+						tag = SYN
+						tag = QHI
+						tag = CQG
+						tag = HNI
+						tag = SHG
+						tag = KSG
+					}
+				}
+			}
+		}
+	}
+
+	GXI_road_a = {
+		potential = {
+			tag = GXI
+			NOT = { has_country_flag = chose_road_GXI }
+			state_n_government = 1
+			owns = 1369
+		}
+		allow = {
+			war = no
+		}
+		effect = {
+			set_country_flag = chose_road_GXI
+			set_country_flag = did_GXI_road_a
+			add_country_modifier = { name = GXI_road_a duration = -1 }
+			1356 = { add_core = THIS }
+			1362 = { add_core = THIS }
+			1364 = { add_core = THIS }
+			1367 = { add_core = THIS }
+			1368 = { add_core = THIS }
+			1369 = { add_core = THIS }
+			1370 = { add_core = THIS }
+			1371 = { add_core = THIS }
+			1372 = { add_core = THIS }
+			1373 = { add_core = THIS }
+			1374 = { add_core = THIS }
+			1375 = { add_core = THIS }
+			1376 = { add_core = THIS }
+			1377 = { add_core = THIS }
+			1378 = { add_core = THIS }
+			1379 = { add_core = THIS }
+			1380 = { add_core = THIS }
+			1381 = { add_core = THIS }
+			1382 = { add_core = THIS }
+			1383 = { add_core = THIS }
+			1346 = { add_core = THIS }
+			1347 = { add_core = THIS }
+			1348 = { add_core = THIS }
+			1349 = { add_core = THIS }
+			1350 = { add_core = THIS }
+			1351 = { add_core = THIS }
+			1352 = { add_core = THIS }
+			1353 = { add_core = THIS }
+			1354 = { add_core = THIS }
+			1355 = { add_core = THIS }
+			1357 = { add_core = THIS }
+			1358 = { add_core = THIS }
+			1359 = { add_core = THIS }
+			1360 = { add_core = THIS }
+			1361 = { add_core = THIS }
+			1363 = { add_core = THIS }
+			1365 = { add_core = THIS }
+			1366 = { add_core = THIS }
+			1389 = { add_core = THIS }
+			1391 = { add_core = THIS }
+			1392 = { add_core = THIS }
+			2572 = { add_core = THIS }
+			add_accepted_culture = vietnamese
+			add_accepted_culture = thai
+			prestige = 10
+			badboy = 2
+		}
+		ai_will_do = {
+			factor = 1
+			modifier = {
+				factor = 0
+				NOT = {
+					OR = {
+						tag = FTN
+						tag = SXI
+						tag = SDG
+						tag = JSU
+						tag = FUJ
+						tag = GXI
+						tag = HBE
+						tag = SZC
+						tag = GZH
+						tag = XIN
+						tag = HLJ
+						tag = CHH
+						tag = NXA
+						tag = XKG
+						tag = TIB
+						tag = TWN
+						tag = XZC
+					}
+				}
+			}
+		}
+	}
+
+	GXI_road_b = {
+		potential = {
+			tag = GXI
+			NOT = { has_country_flag = chose_road_GXI }
+			state_n_government = 1
+			owns = 1369
+		}
+		allow = {
+			war = no
+		}
+		effect = {
+			set_country_flag = chose_road_GXI
+			set_country_flag = did_GXI_road_b
+			add_country_modifier = { name = GXI_road_b duration = -1 }
+			1493 = { add_core = THIS }
+			1494 = { add_core = THIS }
+			1496 = { add_core = THIS }
+			1497 = { add_core = THIS }
+			1498 = { add_core = THIS }
+			1500 = { add_core = THIS }
+			1501 = { add_core = THIS }
+			3276 = { add_core = THIS }
+			3277 = { add_core = THIS }
+			3279 = { add_core = THIS }
+			3281 = { add_core = THIS }
+			3282 = { add_core = THIS }
+			1524 = { add_core = THIS }
+			1525 = { add_core = THIS }
+			1526 = { add_core = THIS }
+			1527 = { add_core = THIS }
+			1528 = { add_core = THIS }
+			1529 = { add_core = THIS }
+			1530 = { add_core = THIS }
+			3305 = { add_core = THIS }
+			3306 = { add_core = THIS }
+			3307 = { add_core = THIS }
+			3308 = { add_core = THIS }
+			3309 = { add_core = THIS }
+			3310 = { add_core = THIS }
+			3311 = { add_core = THIS }
+			1505 = { add_core = THIS }
+			1506 = { add_core = THIS }
+			1507 = { add_core = THIS }
+			3288 = { add_core = THIS }
+			3289 = { add_core = THIS }
+			3290 = { add_core = THIS }
+			add_accepted_culture = xiang
+			prestige = 10
+			badboy = 2
+		}
+		ai_will_do = {
+			factor = 1
+			modifier = {
+				factor = 0
+				NOT = {
+					OR = {
+						tag = ZHL
+						tag = AHC
+						tag = GMJ
+						tag = HNA
+						tag = ZHJ
+						tag = GDG
+						tag = HNC
+						tag = JXI
+						tag = YNN
+						tag = XBI
+						tag = JLN
+						tag = RHE
+						tag = SYN
+						tag = QHI
+						tag = CQG
+						tag = HNI
+						tag = SHG
+						tag = KSG
+					}
+				}
+			}
+		}
+	}
+
+	HNC_road_a = {
+		potential = {
+			tag = HNC
+			NOT = { has_country_flag = chose_road_HNC }
+			state_n_government = 1
+			owns = 1577
+		}
+		allow = {
+			war = no
+		}
+		effect = {
+			set_country_flag = chose_road_HNC
+			set_country_flag = did_HNC_road_a
+			add_country_modifier = { name = HNC_road_a duration = -1 }
+			prestige = 10
+		}
+		ai_will_do = {
+			factor = 1
+			modifier = {
+				factor = 0
+				NOT = {
+					OR = {
+						tag = ZHL
+						tag = AHC
+						tag = GMJ
+						tag = HNA
+						tag = ZHJ
+						tag = GDG
+						tag = HNC
+						tag = JXI
+						tag = YNN
+						tag = XBI
+						tag = JLN
+						tag = RHE
+						tag = SYN
+						tag = QHI
+						tag = CQG
+						tag = HNI
+						tag = SHG
+						tag = KSG
+					}
+				}
+			}
+		}
+	}
+
+	HNC_road_b = {
+		potential = {
+			tag = HNC
+			NOT = { has_country_flag = chose_road_HNC }
+			state_n_government = 1
+			owns = 1577
+		}
+		allow = {
+			war = no
+		}
+		effect = {
+			set_country_flag = chose_road_HNC
+			set_country_flag = did_HNC_road_b
+			add_country_modifier = { name = HNC_road_b duration = -1 }
+			1516 = { add_core = THIS }
+			1517 = { add_core = THIS }
+			1518 = { add_core = THIS }
+			1519 = { add_core = THIS }
+			1520 = { add_core = THIS }
+			1521 = { add_core = THIS }
+			1522 = { add_core = THIS }
+			1523 = { add_core = THIS }
+			3297 = { add_core = THIS }
+			3298 = { add_core = THIS }
+			3299 = { add_core = THIS }
+			3300 = { add_core = THIS }
+			3301 = { add_core = THIS }
+			3302 = { add_core = THIS }
+			3303 = { add_core = THIS }
+			3304 = { add_core = THIS }
+			1545 = { add_core = THIS }
+			1546 = { add_core = THIS }
+			1547 = { add_core = THIS }
+			1548 = { add_core = THIS }
+			1549 = { add_core = THIS }
+			1550 = { add_core = THIS }
+			1551 = { add_core = THIS }
+			3323 = { add_core = THIS }
+			3324 = { add_core = THIS }
+			3325 = { add_core = THIS }
+			3326 = { add_core = THIS }
+			3327 = { add_core = THIS }
+			3328 = { add_core = THIS }
+			3329 = { add_core = THIS }
+			1505 = { add_core = THIS }
+			1506 = { add_core = THIS }
+			1507 = { add_core = THIS }
+			3288 = { add_core = THIS }
+			3289 = { add_core = THIS }
+			3290 = { add_core = THIS }
+			add_accepted_culture = gan
+			prestige = 10
+			badboy = 2
+		}
+		ai_will_do = {
+			factor = 1
+			modifier = {
+				factor = 0
+				NOT = {
+					OR = {
+						tag = FTN
+						tag = SXI
+						tag = SDG
+						tag = JSU
+						tag = FUJ
+						tag = GXI
+						tag = HBE
+						tag = SZC
+						tag = GZH
+						tag = XIN
+						tag = HLJ
+						tag = CHH
+						tag = NXA
+						tag = XKG
+						tag = TIB
+						tag = TWN
+						tag = XZC
+					}
+				}
+			}
+		}
+	}
+
+	HBE_road_a = {
+		potential = {
+			tag = HBE
+			NOT = { has_country_flag = chose_road_HBE }
+			state_n_government = 1
+			owns = 1577
+		}
+		allow = {
+			war = no
+		}
+		effect = {
+			set_country_flag = chose_road_HBE
+			set_country_flag = did_HBE_road_a
+			add_country_modifier = { name = HBE_road_a duration = -1 }
+			1508 = { add_core = THIS }
+			1510 = { add_core = THIS }
+			1511 = { add_core = THIS }
+			1513 = { add_core = THIS }
+			1514 = { add_core = THIS }
+			1515 = { add_core = THIS }
+			3291 = { add_core = THIS }
+			3293 = { add_core = THIS }
+			3294 = { add_core = THIS }
+			3295 = { add_core = THIS }
+			3296 = { add_core = THIS }
+			1524 = { add_core = THIS }
+			1525 = { add_core = THIS }
+			1526 = { add_core = THIS }
+			1527 = { add_core = THIS }
+			1528 = { add_core = THIS }
+			1529 = { add_core = THIS }
+			1530 = { add_core = THIS }
+			3305 = { add_core = THIS }
+			3306 = { add_core = THIS }
+			3307 = { add_core = THIS }
+			3308 = { add_core = THIS }
+			3309 = { add_core = THIS }
+			3310 = { add_core = THIS }
+			3311 = { add_core = THIS }
+			1545 = { add_core = THIS }
+			1546 = { add_core = THIS }
+			1547 = { add_core = THIS }
+			1548 = { add_core = THIS }
+			1549 = { add_core = THIS }
+			1550 = { add_core = THIS }
+			1551 = { add_core = THIS }
+			3323 = { add_core = THIS }
+			3324 = { add_core = THIS }
+			3325 = { add_core = THIS }
+			3326 = { add_core = THIS }
+			3327 = { add_core = THIS }
+			3328 = { add_core = THIS }
+			3329 = { add_core = THIS }
+			add_accepted_culture = zhongyuan
+			add_accepted_culture = gan
+			prestige = 10
+			badboy = 2
+		}
+		ai_will_do = {
+			factor = 1
+			modifier = {
+				factor = 0
+				NOT = {
+					OR = {
+						tag = ZHL
+						tag = AHC
+						tag = GMJ
+						tag = HNA
+						tag = ZHJ
+						tag = GDG
+						tag = HNC
+						tag = JXI
+						tag = YNN
+						tag = XBI
+						tag = JLN
+						tag = RHE
+						tag = SYN
+						tag = QHI
+						tag = CQG
+						tag = HNI
+						tag = SHG
+						tag = KSG
+					}
+				}
+			}
+		}
+	}
+
+	HBE_road_b = {
+		potential = {
+			tag = HBE
+			NOT = { has_country_flag = chose_road_HBE }
+			state_n_government = 1
+			owns = 1577
+		}
+		allow = {
+			war = no
+		}
+		effect = {
+			set_country_flag = chose_road_HBE
+			set_country_flag = did_HBE_road_b
+			add_country_modifier = { name = HBE_road_b duration = -1 }
+			1577 = { add_core = THIS }
+			1579 = { add_core = THIS }
+			1581 = { add_core = THIS }
+			1583 = { add_core = THIS }
+			1584 = { add_core = THIS }
+			3353 = { add_core = THIS }
+			3355 = { add_core = THIS }
+			3357 = { add_core = THIS }
+			3360 = { add_core = THIS }
+			3361 = { add_core = THIS }
+			1578 = { add_core = THIS }
+			1580 = { add_core = THIS }
+			1582 = { add_core = THIS }
+			1585 = { add_core = THIS }
+			3354 = { add_core = THIS }
+			3356 = { add_core = THIS }
+			3358 = { add_core = THIS }
+			3359 = { add_core = THIS }
+			3362 = { add_core = THIS }
+			3363 = { add_core = THIS }
+			add_accepted_culture = bashu
+			prestige = 10
+			badboy = 2
+		}
+		ai_will_do = {
+			factor = 1
+			modifier = {
+				factor = 0
+				NOT = {
+					OR = {
+						tag = FTN
+						tag = SXI
+						tag = SDG
+						tag = JSU
+						tag = FUJ
+						tag = GXI
+						tag = HBE
+						tag = SZC
+						tag = GZH
+						tag = XIN
+						tag = HLJ
+						tag = CHH
+						tag = NXA
+						tag = XKG
+						tag = TIB
+						tag = TWN
+						tag = XZC
+					}
+				}
+			}
+		}
+	}
+
+	SZC_road_a = {
+		potential = {
+			tag = SZC
+			NOT = { has_country_flag = chose_road_SZC }
+			state_n_government = 1
+			owns = 1586
+		}
+		allow = {
+			war = no
+		}
+		effect = {
+			set_country_flag = chose_road_SZC
+			set_country_flag = did_SZC_road_a
+			add_country_modifier = { name = SZC_road_a duration = -1 }
+			1586 = { add_core = THIS }
+			1588 = { add_core = THIS }
+			3364 = { add_core = THIS }
+			3365 = { add_core = THIS }
+			1556 = { add_core = THIS }
+			1557 = { add_core = THIS }
+			1558 = { add_core = THIS }
+			1587 = { add_core = THIS }
+			1589 = { add_core = THIS }
+			1590 = { add_core = THIS }
+			1591 = { add_core = THIS }
+			1592 = { add_core = THIS }
+			1593 = { add_core = THIS }
+			add_accepted_culture = tibetan
+			prestige = 10
+			badboy = 2
+		}
+		ai_will_do = {
+			factor = 1
+			modifier = {
+				factor = 0
+				NOT = {
+					OR = {
+						tag = FTN
+						tag = SXI
+						tag = SDG
+						tag = JSU
+						tag = FUJ
+						tag = GXI
+						tag = HBE
+						tag = SZC
+						tag = GZH
+						tag = XIN
+						tag = HLJ
+						tag = CHH
+						tag = NXA
+						tag = XKG
+						tag = TIB
+						tag = TWN
+						tag = XZC
+					}
+				}
+			}
+		}
+	}
+
+	SZC_road_b = {
+		potential = {
+			tag = SZC
+			NOT = { has_country_flag = chose_road_SZC }
+			state_n_government = 1
+			owns = 1586
+		}
+		allow = {
+			war = no
+		}
+		effect = {
+			set_country_flag = chose_road_SZC
+			set_country_flag = did_SZC_road_b
+			add_country_modifier = { name = SZC_road_b duration = -1 }
+			1559 = { add_core = THIS }
+			1561 = { add_core = THIS }
+			1562 = { add_core = THIS }
+			2062 = { add_core = THIS }
+			3338 = { add_core = THIS }
+			3339 = { add_core = THIS }
+			3340 = { add_core = THIS }
+			3384 = { add_core = THIS }
+			1488 = { add_core = THIS }
+			1489 = { add_core = THIS }
+			1490 = { add_core = THIS }
+			1492 = { add_core = THIS }
+			3268 = { add_core = THIS }
+			3269 = { add_core = THIS }
+			3270 = { add_core = THIS }
+			3271 = { add_core = THIS }
+			3272 = { add_core = THIS }
+			3273 = { add_core = THIS }
+			3275 = { add_core = THIS }
+			1577 = { add_core = THIS }
+			1579 = { add_core = THIS }
+			1581 = { add_core = THIS }
+			1583 = { add_core = THIS }
+			1584 = { add_core = THIS }
+			3353 = { add_core = THIS }
+			3355 = { add_core = THIS }
+			3357 = { add_core = THIS }
+			3360 = { add_core = THIS }
+			3361 = { add_core = THIS }
+			add_accepted_culture = guanzhong
+			prestige = 10
+			badboy = 2
+		}
+		ai_will_do = {
+			factor = 1
+			modifier = {
+				factor = 0
+				NOT = {
+					OR = {
+						tag = ZHL
+						tag = AHC
+						tag = GMJ
+						tag = HNA
+						tag = ZHJ
+						tag = GDG
+						tag = HNC
+						tag = JXI
+						tag = YNN
+						tag = XBI
+						tag = JLN
+						tag = RHE
+						tag = SYN
+						tag = QHI
+						tag = CQG
+						tag = HNI
+						tag = SHG
+						tag = KSG
+					}
+				}
+			}
+		}
+	}
+
+	YNN_road_a = {
+		potential = {
+			tag = YNN
+			NOT = { has_country_flag = chose_road_YNN }
+			state_n_government = 1
+			owns = 1334
+		}
+		allow = {
+			war = no
+		}
+		effect = {
+			set_country_flag = chose_road_YNN
+			set_country_flag = did_YNN_road_a
+			add_country_modifier = { name = YNN_road_a duration = -1 }
+			1330 = { add_core = THIS }
+			1331 = { add_core = THIS }
+			1332 = { add_core = THIS }
+			1333 = { add_core = THIS }
+			1334 = { add_core = THIS }
+			1335 = { add_core = THIS }
+			1336 = { add_core = THIS }
+			1337 = { add_core = THIS }
+			1338 = { add_core = THIS }
+			1339 = { add_core = THIS }
+			1340 = { add_core = THIS }
+			1341 = { add_core = THIS }
+			1342 = { add_core = THIS }
+			1343 = { add_core = THIS }
+			1344 = { add_core = THIS }
+			1345 = { add_core = THIS }
+			1346 = { add_core = THIS }
+			1347 = { add_core = THIS }
+			1348 = { add_core = THIS }
+			1349 = { add_core = THIS }
+			1350 = { add_core = THIS }
+			1351 = { add_core = THIS }
+			1352 = { add_core = THIS }
+			1353 = { add_core = THIS }
+			1354 = { add_core = THIS }
+			1355 = { add_core = THIS }
+			1357 = { add_core = THIS }
+			1358 = { add_core = THIS }
+			1359 = { add_core = THIS }
+			1360 = { add_core = THIS }
+			1361 = { add_core = THIS }
+			1363 = { add_core = THIS }
+			1365 = { add_core = THIS }
+			1366 = { add_core = THIS }
+			1389 = { add_core = THIS }
+			1391 = { add_core = THIS }
+			1392 = { add_core = THIS }
+			2572 = { add_core = THIS }
+			add_accepted_culture = burmese
+			add_accepted_culture = thai
+			prestige = 10
+			change_tag = NZO
+			badboy = 2
+		}
+		ai_will_do = {
+			factor = 1
+			modifier = {
+				factor = 0
+				NOT = {
+					OR = {
+						tag = ZHL
+						tag = AHC
+						tag = GMJ
+						tag = HNA
+						tag = ZHJ
+						tag = GDG
+						tag = HNC
+						tag = JXI
+						tag = YNN
+						tag = XBI
+						tag = JLN
+						tag = RHE
+						tag = SYN
+						tag = QHI
+						tag = CQG
+						tag = HNI
+						tag = SHG
+						tag = KSG
+					}
+				}
+			}
+		}
+	}
+
+	YNN_road_b = {
+		potential = {
+			tag = YNN
+			NOT = { has_country_flag = chose_road_YNN }
+			state_n_government = 1
+			owns = 1334
+		}
+		allow = {
+			war = no
+		}
+		effect = {
+			set_country_flag = chose_road_YNN
+			set_country_flag = did_YNN_road_b
+			add_country_modifier = { name = YNN_road_b duration = -1 }
+			1578 = { add_core = THIS }
+			1580 = { add_core = THIS }
+			1582 = { add_core = THIS }
+			1585 = { add_core = THIS }
+			3354 = { add_core = THIS }
+			3356 = { add_core = THIS }
+			3358 = { add_core = THIS }
+			3359 = { add_core = THIS }
+			3362 = { add_core = THIS }
+			3363 = { add_core = THIS }
+			1505 = { add_core = THIS }
+			1506 = { add_core = THIS }
+			1507 = { add_core = THIS }
+			3288 = { add_core = THIS }
+			3289 = { add_core = THIS }
+			3290 = { add_core = THIS }
+			1495 = { add_core = THIS }
+			1502 = { add_core = THIS }
+			1503 = { add_core = THIS }
+			1504 = { add_core = THIS }
+			3278 = { add_core = THIS }
+			3283 = { add_core = THIS }
+			3284 = { add_core = THIS }
+			3285 = { add_core = THIS }
+			3286 = { add_core = THIS }
+			3287 = { add_core = THIS }
+			add_accepted_culture = yue
+			prestige = 10
+			badboy = 2
+		}
+		ai_will_do = {
+			factor = 1
+			modifier = {
+				factor = 0
+				NOT = {
+					OR = {
+						tag = FTN
+						tag = SXI
+						tag = SDG
+						tag = JSU
+						tag = FUJ
+						tag = GXI
+						tag = HBE
+						tag = SZC
+						tag = GZH
+						tag = XIN
+						tag = HLJ
+						tag = CHH
+						tag = NXA
+						tag = XKG
+						tag = TIB
+						tag = TWN
+						tag = XZC
+					}
+				}
+			}
+		}
+	}
+
+	GZH_road_a = {
+		potential = {
+			tag = GZH
+			NOT = { has_country_flag = chose_road_GZH }
+			state_n_government = 1
+			owns = 1577
+		}
+		allow = {
+			war = no
+		}
+		effect = {
+			set_country_flag = chose_road_GZH
+			set_country_flag = did_GZH_road_a
+			add_country_modifier = { name = GZH_road_a duration = -1 }
+			1495 = { add_core = THIS }
+			1502 = { add_core = THIS }
+			1503 = { add_core = THIS }
+			1504 = { add_core = THIS }
+			3278 = { add_core = THIS }
+			3283 = { add_core = THIS }
+			3284 = { add_core = THIS }
+			3285 = { add_core = THIS }
+			3286 = { add_core = THIS }
+			3287 = { add_core = THIS }
+			1499 = { add_core = THIS }
+			3280 = { add_core = THIS }
+			add_accepted_culture = yue
+			prestige = 10
+			badboy = 2
+		}
+		ai_will_do = {
+			factor = 1
+			modifier = {
+				factor = 0
+				NOT = {
+					OR = {
+						tag = ZHL
+						tag = AHC
+						tag = GMJ
+						tag = HNA
+						tag = ZHJ
+						tag = GDG
+						tag = HNC
+						tag = JXI
+						tag = YNN
+						tag = XBI
+						tag = JLN
+						tag = RHE
+						tag = SYN
+						tag = QHI
+						tag = CQG
+						tag = HNI
+						tag = SHG
+						tag = KSG
+					}
+				}
+			}
+		}
+	}
+
+	GZH_road_b = {
+		potential = {
+			tag = GZH
+			NOT = { has_country_flag = chose_road_GZH }
+			state_n_government = 1
+			owns = 1577
+		}
+		allow = {
+			war = no
+		}
+		effect = {
+			set_country_flag = chose_road_GZH
+			set_country_flag = did_GZH_road_b
+			add_country_modifier = { name = GZH_road_b duration = -1 }
+			1601 = { add_core = THIS }
+			1602 = { add_core = THIS }
+			1603 = { add_core = THIS }
+			3366 = { add_core = THIS }
+			3367 = { add_core = THIS }
+			3368 = { add_core = THIS }
+			3369 = { add_core = THIS }
+			3370 = { add_core = THIS }
+			3371 = { add_core = THIS }
+			1577 = { add_core = THIS }
+			1579 = { add_core = THIS }
+			1581 = { add_core = THIS }
+			1583 = { add_core = THIS }
+			1584 = { add_core = THIS }
+			3353 = { add_core = THIS }
+			3355 = { add_core = THIS }
+			3357 = { add_core = THIS }
+			3360 = { add_core = THIS }
+			3361 = { add_core = THIS }
+			1524 = { add_core = THIS }
+			1525 = { add_core = THIS }
+			1526 = { add_core = THIS }
+			1527 = { add_core = THIS }
+			1528 = { add_core = THIS }
+			1529 = { add_core = THIS }
+			1530 = { add_core = THIS }
+			3305 = { add_core = THIS }
+			3306 = { add_core = THIS }
+			3307 = { add_core = THIS }
+			3308 = { add_core = THIS }
+			3309 = { add_core = THIS }
+			3310 = { add_core = THIS }
+			3311 = { add_core = THIS }
+			add_accepted_culture = bashu
+			prestige = 10
+			badboy = 2
+		}
+		ai_will_do = {
+			factor = 1
+			modifier = {
+				factor = 0
+				NOT = {
+					OR = {
+						tag = FTN
+						tag = SXI
+						tag = SDG
+						tag = JSU
+						tag = FUJ
+						tag = GXI
+						tag = HBE
+						tag = SZC
+						tag = GZH
+						tag = XIN
+						tag = HLJ
+						tag = CHH
+						tag = NXA
+						tag = XKG
+						tag = TIB
+						tag = TWN
+						tag = XZC
+					}
+				}
+			}
+		}
+	}
+
+	XBI_road_a = {
+		potential = {
+			tag = XBI
+			NOT = { has_country_flag = chose_road_XBI }
+			state_n_government = 1
+			owns = 1557
+		}
+		allow = {
+			war = no
+		}
+		effect = {
+			set_country_flag = chose_road_XBI
+			set_country_flag = did_XBI_road_a
+			add_country_modifier = { name = XBI_road_a duration = -1 }
+			1595 = { add_core = THIS }
+			1596 = { add_core = THIS }
+			1599 = { add_core = THIS }
+			1600 = { add_core = THIS }
+			2607 = { add_core = THIS }
+			1594 = { add_core = THIS }
+			1597 = { add_core = THIS }
+			1598 = { add_core = THIS }
+			1185 = { add_core = THIS }
+			1186 = { add_core = THIS }
+			1189 = { add_core = THIS }
+			1190 = { add_core = THIS }
+			1193 = { add_core = THIS }
+			1195 = { add_core = THIS }
+			1201 = { add_core = THIS }
+			1202 = { add_core = THIS }
+			1203 = { add_core = THIS }
+			1208 = { add_core = THIS }
+			add_accepted_culture = uighur
+			prestige = 10
+			change_tag = DGN
+			badboy = 2
+		}
+		ai_will_do = {
+			factor = 1
+			modifier = {
+				factor = 0
+				NOT = {
+					OR = {
+						tag = ZHL
+						tag = AHC
+						tag = GMJ
+						tag = HNA
+						tag = ZHJ
+						tag = GDG
+						tag = HNC
+						tag = JXI
+						tag = YNN
+						tag = XBI
+						tag = JLN
+						tag = RHE
+						tag = SYN
+						tag = QHI
+						tag = CQG
+						tag = HNI
+						tag = SHG
+						tag = KSG
+					}
+				}
+			}
+		}
+	}
+
+	XBI_road_b = {
+		potential = {
+			tag = XBI
+			NOT = { has_country_flag = chose_road_XBI }
+			state_n_government = 1
+			owns = 1557
+		}
+		allow = {
+			war = no
+		}
+		effect = {
+			set_country_flag = chose_road_XBI
+			set_country_flag = did_XBI_road_b
+			add_country_modifier = { name = XBI_road_b duration = -1 }
+			1556 = { add_core = THIS }
+			1557 = { add_core = THIS }
+			1558 = { add_core = THIS }
+			1586 = { add_core = THIS }
+			1588 = { add_core = THIS }
+			3364 = { add_core = THIS }
+			3365 = { add_core = THIS }
+			1587 = { add_core = THIS }
+			1589 = { add_core = THIS }
+			1590 = { add_core = THIS }
+			1591 = { add_core = THIS }
+			1592 = { add_core = THIS }
+			1593 = { add_core = THIS }
+			prestige = 10
+			badboy = 2
+		}
+		ai_will_do = {
+			factor = 1
+			modifier = {
+				factor = 0
+				NOT = {
+					OR = {
+						tag = FTN
+						tag = SXI
+						tag = SDG
+						tag = JSU
+						tag = FUJ
+						tag = GXI
+						tag = HBE
+						tag = SZC
+						tag = GZH
+						tag = XIN
+						tag = HLJ
+						tag = CHH
+						tag = NXA
+						tag = XKG
+						tag = TIB
+						tag = TWN
+						tag = XZC
+					}
+				}
+			}
+		}
+	}
+
+	XIN_road_a = {
+		potential = {
+			tag = XIN
+			NOT = { has_country_flag = did_XIN_road_a }
+			state_n_government = 1
+			owns = 1594
+		}
+		allow = {
+			war = no
+		}
+		effect = {
+			set_country_flag = did_XIN_road_a
+			add_country_modifier = { name = XIN_road_a duration = -1 }
+			1594 = { add_core = THIS }
+			1597 = { add_core = THIS }
+			1598 = { add_core = THIS }
+			1185 = { add_core = THIS }
+			1186 = { add_core = THIS }
+			1189 = { add_core = THIS }
+			1190 = { add_core = THIS }
+			1193 = { add_core = THIS }
+			1195 = { add_core = THIS }
+			1201 = { add_core = THIS }
+			1202 = { add_core = THIS }
+			1203 = { add_core = THIS }
+			1208 = { add_core = THIS }
+			1197 = { add_core = THIS }
+			1198 = { add_core = THIS }
+			1199 = { add_core = THIS }
+			1200 = { add_core = THIS }
+			1207 = { add_core = THIS }
+			1211 = { add_core = THIS }
+			1191 = { add_core = THIS }
+			1192 = { add_core = THIS }
+			1196 = { add_core = THIS }
+			1206 = { add_core = THIS }
+			add_accepted_culture = kazak
+			add_accepted_culture = kirgiz
+			add_accepted_culture = uzbek
+			add_accepted_culture = turkmen
+			add_accepted_culture = tajik
+			prestige = 10
+			change_tag = WRP
+			badboy = 2
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	XIN_road_b = {
+		potential = {
+			tag = XIN
+			NOT = { has_country_flag = did_XIN_road_b }
+			state_n_government = 1
+			owns = 1594
+		}
+		allow = {
+			war = no
+		}
+		effect = {
+			set_country_flag = did_XIN_road_b
+			add_country_modifier = { name = XIN_road_b duration = -1 }
+			1488 = { add_core = THIS }
+			1489 = { add_core = THIS }
+			1490 = { add_core = THIS }
+			1492 = { add_core = THIS }
+			3268 = { add_core = THIS }
+			3269 = { add_core = THIS }
+			3270 = { add_core = THIS }
+			3271 = { add_core = THIS }
+			3272 = { add_core = THIS }
+			3273 = { add_core = THIS }
+			3275 = { add_core = THIS }
+			1491 = { add_core = THIS }
+			3274 = { add_core = THIS }
+			1559 = { add_core = THIS }
+			1561 = { add_core = THIS }
+			1562 = { add_core = THIS }
+			2062 = { add_core = THIS }
+			3338 = { add_core = THIS }
+			3339 = { add_core = THIS }
+			3340 = { add_core = THIS }
+			3384 = { add_core = THIS }
+			add_accepted_culture = tibetan
+			prestige = 10
+			badboy = 2
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	JXI_road_a = {
+		potential = {
+			tag = JXI
+			NOT = { has_country_flag = chose_road_JXI }
+			state_n_government = 1
+			owns = 1538
+		}
+		allow = {
+			war = no
+		}
+		effect = {
+			set_country_flag = chose_road_JXI
+			set_country_flag = did_JXI_road_a
+			add_country_modifier = { name = JXI_road_a duration = -1 }
+			1482 = { add_core = THIS }
+			1483 = { add_core = THIS }
+			1484 = { add_core = THIS }
+			1486 = { add_core = THIS }
+			1487 = { add_core = THIS }
+			3262 = { add_core = THIS }
+			3263 = { add_core = THIS }
+			3264 = { add_core = THIS }
+			3266 = { add_core = THIS }
+			3267 = { add_core = THIS }
+			1604 = { add_core = THIS }
+			1605 = { add_core = THIS }
+			1606 = { add_core = THIS }
+			1607 = { add_core = THIS }
+			1608 = { add_core = THIS }
+			1609 = { add_core = THIS }
+			1610 = { add_core = THIS }
+			1611 = { add_core = THIS }
+			3372 = { add_core = THIS }
+			3373 = { add_core = THIS }
+			3374 = { add_core = THIS }
+			3375 = { add_core = THIS }
+			add_accepted_culture = min
+			add_accepted_culture = wu
+			prestige = 10
+			badboy = 2
+		}
+		ai_will_do = {
+			factor = 1
+			modifier = {
+				factor = 0
+				NOT = {
+					OR = {
+						tag = ZHL
+						tag = AHC
+						tag = GMJ
+						tag = HNA
+						tag = ZHJ
+						tag = GDG
+						tag = HNC
+						tag = JXI
+						tag = YNN
+						tag = XBI
+						tag = JLN
+						tag = RHE
+						tag = SYN
+						tag = QHI
+						tag = CQG
+						tag = HNI
+						tag = SHG
+						tag = KSG
+					}
+				}
+			}
+		}
+	}
+
+	JXI_road_b = {
+		potential = {
+			tag = JXI
+			NOT = { has_country_flag = chose_road_JXI }
+			state_n_government = 1
+			owns = 1538
+		}
+		allow = {
+			war = no
+		}
+		effect = {
+			set_country_flag = chose_road_JXI
+			set_country_flag = did_JXI_road_b
+			add_country_modifier = { name = JXI_road_b duration = -1 }
+			1516 = { add_core = THIS }
+			1517 = { add_core = THIS }
+			1518 = { add_core = THIS }
+			1519 = { add_core = THIS }
+			1520 = { add_core = THIS }
+			1521 = { add_core = THIS }
+			1522 = { add_core = THIS }
+			1523 = { add_core = THIS }
+			3297 = { add_core = THIS }
+			3298 = { add_core = THIS }
+			3299 = { add_core = THIS }
+			3300 = { add_core = THIS }
+			3301 = { add_core = THIS }
+			3302 = { add_core = THIS }
+			3303 = { add_core = THIS }
+			3304 = { add_core = THIS }
+			1524 = { add_core = THIS }
+			1525 = { add_core = THIS }
+			1526 = { add_core = THIS }
+			1527 = { add_core = THIS }
+			1528 = { add_core = THIS }
+			1529 = { add_core = THIS }
+			1530 = { add_core = THIS }
+			3305 = { add_core = THIS }
+			3306 = { add_core = THIS }
+			3307 = { add_core = THIS }
+			3308 = { add_core = THIS }
+			3309 = { add_core = THIS }
+			3310 = { add_core = THIS }
+			3311 = { add_core = THIS }
+			add_accepted_culture = xiang
+			prestige = 10
+			badboy = 2
+		}
+		ai_will_do = {
+			factor = 1
+			modifier = {
+				factor = 0
+				NOT = {
+					OR = {
+						tag = FTN
+						tag = SXI
+						tag = SDG
+						tag = JSU
+						tag = FUJ
+						tag = GXI
+						tag = HBE
+						tag = SZC
+						tag = GZH
+						tag = XIN
+						tag = HLJ
+						tag = CHH
+						tag = NXA
+						tag = XKG
+						tag = TIB
+						tag = TWN
+						tag = XZC
+					}
+				}
+			}
+		}
+	}
+
 	ZHL_identity = {
 		potential = {
 			tag = ZHL
 			NOT = { has_country_flag = did_ZHL_identity }
+			enlightenment_thought = 1
 		}
 		allow = {
-			enlightenment_thought = 1
 			war = no
 		}
 		effect = {
@@ -5182,9 +8538,9 @@ political_decisions = {
 		potential = {
 			tag = ZHL
 			NOT = { has_country_flag = did_ZHL_develop }
+			ideological_thought = 1
 		}
 		allow = {
-			ideological_thought = 1
 			war = no
 			money = 40000
 		}
@@ -5204,10 +8560,11 @@ political_decisions = {
 			tag = ZHL
 			NOT = { has_country_flag = did_ZHL_detente }
 			NOT = { has_country_flag = did_ZHL_ambition }
-		}
-		allow = {
 			nationalism_n_imperialism = 1
 			owns = 1479
+		}
+		allow = {
+			
 		}
 		effect = {
 			set_country_flag = did_ZHL_ambition
@@ -5225,9 +8582,9 @@ political_decisions = {
 			tag = ZHL
 			exists = RHE
 			NOT = { has_country_flag = did_ZHL_claim }
+			state_n_government = 1
 		}
 		allow = {
-			state_n_government = 1
 			war = no
 			prestige = 10
 		}
@@ -5236,6 +8593,7 @@ political_decisions = {
 			RHE = { any_owned = { add_core = THIS } }
 			casus_belli = { target = RHE type = conquest months = 120 }
 			relation = { who = RHE value = -100 }
+			badboy = 3
 		}
 		ai_will_do = {
 			factor = 1
@@ -5247,9 +8605,9 @@ political_decisions = {
 			tag = ZHL
 			exists = SDG
 			NOT = { has_country_flag = did_ZHL_accord }
+			ideological_thought = 1
 		}
 		allow = {
-			ideological_thought = 1
 			war = no
 			relation = { who = SDG value = 100 }
 			SDG = { war = no }
@@ -5272,9 +8630,9 @@ political_decisions = {
 			exists = FTN
 			NOT = { has_country_flag = did_ZHL_detente }
 			NOT = { has_country_flag = did_ZHL_denounce }
+			enlightenment_thought = 1
 		}
 		allow = {
-			enlightenment_thought = 1
 			war = no
 		}
 		effect = {
@@ -5282,6 +8640,7 @@ political_decisions = {
 			relation = { who = FTN value = -100 }
 			casus_belli = { target = FTN type = humiliate months = 60 }
 			prestige = 3
+			badboy = 1
 		}
 		ai_will_do = {
 			factor = 1
@@ -5295,9 +8654,9 @@ political_decisions = {
 			NOT = { has_country_flag = did_ZHL_denounce }
 			NOT = { has_country_flag = did_ZHL_ambition }
 			NOT = { has_country_flag = did_ZHL_detente }
+			ideological_thought = 1
 		}
 		allow = {
-			ideological_thought = 1
 			war = no
 			NOT = { war_with = FTN }
 		}
@@ -5317,9 +8676,9 @@ political_decisions = {
 		potential = {
 			tag = FTN
 			NOT = { has_country_flag = did_FTN_identity }
+			enlightenment_thought = 1
 		}
 		allow = {
-			enlightenment_thought = 1
 			war = no
 		}
 		effect = {
@@ -5336,9 +8695,9 @@ political_decisions = {
 		potential = {
 			tag = FTN
 			NOT = { has_country_flag = did_FTN_develop }
+			ideological_thought = 1
 		}
 		allow = {
-			ideological_thought = 1
 			war = no
 			money = 50000
 		}
@@ -5358,10 +8717,11 @@ political_decisions = {
 			tag = FTN
 			NOT = { has_country_flag = did_FTN_detente }
 			NOT = { has_country_flag = did_FTN_ambition }
-		}
-		allow = {
 			nationalism_n_imperialism = 1
 			owns = 1612
+		}
+		allow = {
+			
 		}
 		effect = {
 			set_country_flag = did_FTN_ambition
@@ -5379,9 +8739,9 @@ political_decisions = {
 			tag = FTN
 			exists = JLN
 			NOT = { has_country_flag = did_FTN_claim }
+			state_n_government = 1
 		}
 		allow = {
-			state_n_government = 1
 			war = no
 			prestige = 10
 		}
@@ -5390,6 +8750,7 @@ political_decisions = {
 			JLN = { any_owned = { add_core = THIS } }
 			casus_belli = { target = JLN type = conquest months = 120 }
 			relation = { who = JLN value = -100 }
+			badboy = 3
 		}
 		ai_will_do = {
 			factor = 1
@@ -5401,9 +8762,9 @@ political_decisions = {
 			tag = FTN
 			exists = AHC
 			NOT = { has_country_flag = did_FTN_accord }
+			ideological_thought = 1
 		}
 		allow = {
-			ideological_thought = 1
 			war = no
 			relation = { who = AHC value = 100 }
 			AHC = { war = no }
@@ -5426,9 +8787,9 @@ political_decisions = {
 			exists = ZHL
 			NOT = { has_country_flag = did_FTN_detente }
 			NOT = { has_country_flag = did_FTN_denounce }
+			enlightenment_thought = 1
 		}
 		allow = {
-			enlightenment_thought = 1
 			war = no
 		}
 		effect = {
@@ -5436,6 +8797,7 @@ political_decisions = {
 			relation = { who = ZHL value = -100 }
 			casus_belli = { target = ZHL type = humiliate months = 60 }
 			prestige = 3
+			badboy = 1
 		}
 		ai_will_do = {
 			factor = 1
@@ -5449,9 +8811,9 @@ political_decisions = {
 			NOT = { has_country_flag = did_FTN_denounce }
 			NOT = { has_country_flag = did_FTN_ambition }
 			NOT = { has_country_flag = did_FTN_detente }
+			ideological_thought = 1
 		}
 		allow = {
-			ideological_thought = 1
 			war = no
 			NOT = { war_with = ZHL }
 		}
@@ -5471,9 +8833,9 @@ political_decisions = {
 		potential = {
 			tag = AHC
 			NOT = { has_country_flag = did_AHC_identity }
+			enlightenment_thought = 1
 		}
 		allow = {
-			enlightenment_thought = 1
 			war = no
 		}
 		effect = {
@@ -5490,9 +8852,9 @@ political_decisions = {
 		potential = {
 			tag = AHC
 			NOT = { has_country_flag = did_AHC_develop }
+			ideological_thought = 1
 		}
 		allow = {
-			ideological_thought = 1
 			war = no
 			money = 45000
 		}
@@ -5512,10 +8874,11 @@ political_decisions = {
 			tag = AHC
 			NOT = { has_country_flag = did_AHC_detente }
 			NOT = { has_country_flag = did_AHC_ambition }
-		}
-		allow = {
 			nationalism_n_imperialism = 1
 			owns = 2221
+		}
+		allow = {
+			
 		}
 		effect = {
 			set_country_flag = did_AHC_ambition
@@ -5533,9 +8896,9 @@ political_decisions = {
 			tag = AHC
 			exists = XZC
 			NOT = { has_country_flag = did_AHC_claim }
+			state_n_government = 1
 		}
 		allow = {
-			state_n_government = 1
 			war = no
 			prestige = 10
 		}
@@ -5544,6 +8907,7 @@ political_decisions = {
 			XZC = { any_owned = { add_core = THIS } }
 			casus_belli = { target = XZC type = conquest months = 120 }
 			relation = { who = XZC value = -100 }
+			badboy = 3
 		}
 		ai_will_do = {
 			factor = 1
@@ -5555,9 +8919,9 @@ political_decisions = {
 			tag = AHC
 			exists = FTN
 			NOT = { has_country_flag = did_AHC_accord }
+			ideological_thought = 1
 		}
 		allow = {
-			ideological_thought = 1
 			war = no
 			relation = { who = FTN value = 100 }
 			FTN = { war = no }
@@ -5580,9 +8944,9 @@ political_decisions = {
 			exists = JSU
 			NOT = { has_country_flag = did_AHC_detente }
 			NOT = { has_country_flag = did_AHC_denounce }
+			enlightenment_thought = 1
 		}
 		allow = {
-			enlightenment_thought = 1
 			war = no
 		}
 		effect = {
@@ -5590,6 +8954,7 @@ political_decisions = {
 			relation = { who = JSU value = -100 }
 			casus_belli = { target = JSU type = humiliate months = 60 }
 			prestige = 3
+			badboy = 1
 		}
 		ai_will_do = {
 			factor = 1
@@ -5603,9 +8968,9 @@ political_decisions = {
 			NOT = { has_country_flag = did_AHC_denounce }
 			NOT = { has_country_flag = did_AHC_ambition }
 			NOT = { has_country_flag = did_AHC_detente }
+			ideological_thought = 1
 		}
 		allow = {
-			ideological_thought = 1
 			war = no
 			NOT = { war_with = JSU }
 		}
@@ -5625,9 +8990,9 @@ political_decisions = {
 		potential = {
 			tag = JSU
 			NOT = { has_country_flag = did_JSU_identity }
+			enlightenment_thought = 1
 		}
 		allow = {
-			enlightenment_thought = 1
 			war = no
 		}
 		effect = {
@@ -5644,9 +9009,9 @@ political_decisions = {
 		potential = {
 			tag = JSU
 			NOT = { has_country_flag = did_JSU_develop }
+			ideological_thought = 1
 		}
 		allow = {
-			ideological_thought = 1
 			war = no
 			money = 45000
 		}
@@ -5666,10 +9031,11 @@ political_decisions = {
 			tag = JSU
 			NOT = { has_country_flag = did_JSU_detente }
 			NOT = { has_country_flag = did_JSU_ambition }
-		}
-		allow = {
 			nationalism_n_imperialism = 1
 			owns = 1470
+		}
+		allow = {
+			
 		}
 		effect = {
 			set_country_flag = did_JSU_ambition
@@ -5687,9 +9053,9 @@ political_decisions = {
 			tag = JSU
 			exists = SHG
 			NOT = { has_country_flag = did_JSU_claim }
+			state_n_government = 1
 		}
 		allow = {
-			state_n_government = 1
 			war = no
 			prestige = 10
 		}
@@ -5698,6 +9064,7 @@ political_decisions = {
 			SHG = { any_owned = { add_core = THIS } }
 			casus_belli = { target = SHG type = conquest months = 120 }
 			relation = { who = SHG value = -100 }
+			badboy = 3
 		}
 		ai_will_do = {
 			factor = 1
@@ -5709,9 +9076,9 @@ political_decisions = {
 			tag = JSU
 			exists = ZHJ
 			NOT = { has_country_flag = did_JSU_accord }
+			ideological_thought = 1
 		}
 		allow = {
-			ideological_thought = 1
 			war = no
 			relation = { who = ZHJ value = 100 }
 			ZHJ = { war = no }
@@ -5734,9 +9101,9 @@ political_decisions = {
 			exists = AHC
 			NOT = { has_country_flag = did_JSU_detente }
 			NOT = { has_country_flag = did_JSU_denounce }
+			enlightenment_thought = 1
 		}
 		allow = {
-			enlightenment_thought = 1
 			war = no
 		}
 		effect = {
@@ -5744,6 +9111,7 @@ political_decisions = {
 			relation = { who = AHC value = -100 }
 			casus_belli = { target = AHC type = humiliate months = 60 }
 			prestige = 3
+			badboy = 1
 		}
 		ai_will_do = {
 			factor = 1
@@ -5757,9 +9125,9 @@ political_decisions = {
 			NOT = { has_country_flag = did_JSU_denounce }
 			NOT = { has_country_flag = did_JSU_ambition }
 			NOT = { has_country_flag = did_JSU_detente }
+			ideological_thought = 1
 		}
 		allow = {
-			ideological_thought = 1
 			war = no
 			NOT = { war_with = AHC }
 		}
@@ -5779,9 +9147,9 @@ political_decisions = {
 		potential = {
 			tag = SXI
 			NOT = { has_country_flag = did_SXI_identity }
+			enlightenment_thought = 1
 		}
 		allow = {
-			enlightenment_thought = 1
 			war = no
 		}
 		effect = {
@@ -5798,9 +9166,9 @@ political_decisions = {
 		potential = {
 			tag = SXI
 			NOT = { has_country_flag = did_SXI_develop }
+			ideological_thought = 1
 		}
 		allow = {
-			ideological_thought = 1
 			war = no
 			money = 45000
 		}
@@ -5820,10 +9188,11 @@ political_decisions = {
 			tag = SXI
 			NOT = { has_country_flag = did_SXI_detente }
 			NOT = { has_country_flag = did_SXI_ambition }
-		}
-		allow = {
 			nationalism_n_imperialism = 1
 			owns = 1559
+		}
+		allow = {
+			
 		}
 		effect = {
 			set_country_flag = did_SXI_ambition
@@ -5841,9 +9210,9 @@ political_decisions = {
 			tag = SXI
 			exists = SYN
 			NOT = { has_country_flag = did_SXI_claim }
+			state_n_government = 1
 		}
 		allow = {
-			state_n_government = 1
 			war = no
 			prestige = 10
 		}
@@ -5852,6 +9221,7 @@ political_decisions = {
 			SYN = { any_owned = { add_core = THIS } }
 			casus_belli = { target = SYN type = conquest months = 120 }
 			relation = { who = SYN value = -100 }
+			badboy = 3
 		}
 		ai_will_do = {
 			factor = 1
@@ -5863,9 +9233,9 @@ political_decisions = {
 			tag = SXI
 			exists = HNA
 			NOT = { has_country_flag = did_SXI_accord }
+			ideological_thought = 1
 		}
 		allow = {
-			ideological_thought = 1
 			war = no
 			relation = { who = HNA value = 100 }
 			HNA = { war = no }
@@ -5888,9 +9258,9 @@ political_decisions = {
 			exists = GMJ
 			NOT = { has_country_flag = did_SXI_detente }
 			NOT = { has_country_flag = did_SXI_denounce }
+			enlightenment_thought = 1
 		}
 		allow = {
-			enlightenment_thought = 1
 			war = no
 		}
 		effect = {
@@ -5898,6 +9268,7 @@ political_decisions = {
 			relation = { who = GMJ value = -100 }
 			casus_belli = { target = GMJ type = humiliate months = 60 }
 			prestige = 3
+			badboy = 1
 		}
 		ai_will_do = {
 			factor = 1
@@ -5911,9 +9282,9 @@ political_decisions = {
 			NOT = { has_country_flag = did_SXI_denounce }
 			NOT = { has_country_flag = did_SXI_ambition }
 			NOT = { has_country_flag = did_SXI_detente }
+			ideological_thought = 1
 		}
 		allow = {
-			ideological_thought = 1
 			war = no
 			NOT = { war_with = GMJ }
 		}
@@ -5933,9 +9304,9 @@ political_decisions = {
 		potential = {
 			tag = GMJ
 			NOT = { has_country_flag = did_GMJ_identity }
+			enlightenment_thought = 1
 		}
 		allow = {
-			enlightenment_thought = 1
 			war = no
 		}
 		effect = {
@@ -5952,9 +9323,9 @@ political_decisions = {
 		potential = {
 			tag = GMJ
 			NOT = { has_country_flag = did_GMJ_develop }
+			ideological_thought = 1
 		}
 		allow = {
-			ideological_thought = 1
 			war = no
 			money = 35000
 		}
@@ -5974,10 +9345,11 @@ political_decisions = {
 			tag = GMJ
 			NOT = { has_country_flag = did_GMJ_detente }
 			NOT = { has_country_flag = did_GMJ_ambition }
-		}
-		allow = {
 			nationalism_n_imperialism = 1
 			owns = 1572
+		}
+		allow = {
+			
 		}
 		effect = {
 			set_country_flag = did_GMJ_ambition
@@ -5995,9 +9367,9 @@ political_decisions = {
 			tag = GMJ
 			exists = NXA
 			NOT = { has_country_flag = did_GMJ_claim }
+			state_n_government = 1
 		}
 		allow = {
-			state_n_government = 1
 			war = no
 			prestige = 10
 		}
@@ -6006,6 +9378,7 @@ political_decisions = {
 			NXA = { any_owned = { add_core = THIS } }
 			casus_belli = { target = NXA type = conquest months = 120 }
 			relation = { who = NXA value = -100 }
+			badboy = 3
 		}
 		ai_will_do = {
 			factor = 1
@@ -6017,9 +9390,9 @@ political_decisions = {
 			tag = GMJ
 			exists = XBI
 			NOT = { has_country_flag = did_GMJ_accord }
+			ideological_thought = 1
 		}
 		allow = {
-			ideological_thought = 1
 			war = no
 			relation = { who = XBI value = 100 }
 			XBI = { war = no }
@@ -6042,9 +9415,9 @@ political_decisions = {
 			exists = SXI
 			NOT = { has_country_flag = did_GMJ_detente }
 			NOT = { has_country_flag = did_GMJ_denounce }
+			enlightenment_thought = 1
 		}
 		allow = {
-			enlightenment_thought = 1
 			war = no
 		}
 		effect = {
@@ -6052,6 +9425,7 @@ political_decisions = {
 			relation = { who = SXI value = -100 }
 			casus_belli = { target = SXI type = humiliate months = 60 }
 			prestige = 3
+			badboy = 1
 		}
 		ai_will_do = {
 			factor = 1
@@ -6065,9 +9439,9 @@ political_decisions = {
 			NOT = { has_country_flag = did_GMJ_denounce }
 			NOT = { has_country_flag = did_GMJ_ambition }
 			NOT = { has_country_flag = did_GMJ_detente }
+			ideological_thought = 1
 		}
 		allow = {
-			ideological_thought = 1
 			war = no
 			NOT = { war_with = SXI }
 		}
@@ -6087,9 +9461,9 @@ political_decisions = {
 		potential = {
 			tag = SDG
 			NOT = { has_country_flag = did_SDG_identity }
+			enlightenment_thought = 1
 		}
 		allow = {
-			enlightenment_thought = 1
 			war = no
 		}
 		effect = {
@@ -6106,9 +9480,9 @@ political_decisions = {
 		potential = {
 			tag = SDG
 			NOT = { has_country_flag = did_SDG_develop }
+			ideological_thought = 1
 		}
 		allow = {
-			ideological_thought = 1
 			war = no
 			money = 50000
 		}
@@ -6128,10 +9502,11 @@ political_decisions = {
 			tag = SDG
 			NOT = { has_country_flag = did_SDG_detente }
 			NOT = { has_country_flag = did_SDG_ambition }
-		}
-		allow = {
 			nationalism_n_imperialism = 1
 			owns = 1508
+		}
+		allow = {
+			
 		}
 		effect = {
 			set_country_flag = did_SDG_ambition
@@ -6149,9 +9524,9 @@ political_decisions = {
 			tag = SDG
 			exists = KOR
 			NOT = { has_country_flag = did_SDG_claim }
+			state_n_government = 1
 		}
 		allow = {
-			state_n_government = 1
 			war = no
 			prestige = 10
 		}
@@ -6160,6 +9535,7 @@ political_decisions = {
 			KOR = { any_owned = { add_core = THIS } }
 			casus_belli = { target = KOR type = conquest months = 120 }
 			relation = { who = KOR value = -100 }
+			badboy = 3
 		}
 		ai_will_do = {
 			factor = 1
@@ -6171,9 +9547,9 @@ political_decisions = {
 			tag = SDG
 			exists = ZHL
 			NOT = { has_country_flag = did_SDG_accord }
+			ideological_thought = 1
 		}
 		allow = {
-			ideological_thought = 1
 			war = no
 			relation = { who = ZHL value = 100 }
 			ZHL = { war = no }
@@ -6196,9 +9572,9 @@ political_decisions = {
 			exists = HNA
 			NOT = { has_country_flag = did_SDG_detente }
 			NOT = { has_country_flag = did_SDG_denounce }
+			enlightenment_thought = 1
 		}
 		allow = {
-			enlightenment_thought = 1
 			war = no
 		}
 		effect = {
@@ -6206,6 +9582,7 @@ political_decisions = {
 			relation = { who = HNA value = -100 }
 			casus_belli = { target = HNA type = humiliate months = 60 }
 			prestige = 3
+			badboy = 1
 		}
 		ai_will_do = {
 			factor = 1
@@ -6219,9 +9596,9 @@ political_decisions = {
 			NOT = { has_country_flag = did_SDG_denounce }
 			NOT = { has_country_flag = did_SDG_ambition }
 			NOT = { has_country_flag = did_SDG_detente }
+			ideological_thought = 1
 		}
 		allow = {
-			ideological_thought = 1
 			war = no
 			NOT = { war_with = HNA }
 		}
@@ -6241,9 +9618,9 @@ political_decisions = {
 		potential = {
 			tag = HNA
 			NOT = { has_country_flag = did_HNA_identity }
+			enlightenment_thought = 1
 		}
 		allow = {
-			enlightenment_thought = 1
 			war = no
 		}
 		effect = {
@@ -6260,9 +9637,9 @@ political_decisions = {
 		potential = {
 			tag = HNA
 			NOT = { has_country_flag = did_HNA_develop }
+			ideological_thought = 1
 		}
 		allow = {
-			ideological_thought = 1
 			war = no
 			money = 40000
 		}
@@ -6282,10 +9659,11 @@ political_decisions = {
 			tag = HNA
 			NOT = { has_country_flag = did_HNA_detente }
 			NOT = { has_country_flag = did_HNA_ambition }
-		}
-		allow = {
 			nationalism_n_imperialism = 1
 			owns = 1563
+		}
+		allow = {
+			
 		}
 		effect = {
 			set_country_flag = did_HNA_ambition
@@ -6303,9 +9681,9 @@ political_decisions = {
 			tag = HNA
 			exists = XZC
 			NOT = { has_country_flag = did_HNA_claim }
+			state_n_government = 1
 		}
 		allow = {
-			state_n_government = 1
 			war = no
 			prestige = 10
 		}
@@ -6314,6 +9692,7 @@ political_decisions = {
 			XZC = { any_owned = { add_core = THIS } }
 			casus_belli = { target = XZC type = conquest months = 120 }
 			relation = { who = XZC value = -100 }
+			badboy = 3
 		}
 		ai_will_do = {
 			factor = 1
@@ -6325,9 +9704,9 @@ political_decisions = {
 			tag = HNA
 			exists = SXI
 			NOT = { has_country_flag = did_HNA_accord }
+			ideological_thought = 1
 		}
 		allow = {
-			ideological_thought = 1
 			war = no
 			relation = { who = SXI value = 100 }
 			SXI = { war = no }
@@ -6350,9 +9729,9 @@ political_decisions = {
 			exists = SDG
 			NOT = { has_country_flag = did_HNA_detente }
 			NOT = { has_country_flag = did_HNA_denounce }
+			enlightenment_thought = 1
 		}
 		allow = {
-			enlightenment_thought = 1
 			war = no
 		}
 		effect = {
@@ -6360,6 +9739,7 @@ political_decisions = {
 			relation = { who = SDG value = -100 }
 			casus_belli = { target = SDG type = humiliate months = 60 }
 			prestige = 3
+			badboy = 1
 		}
 		ai_will_do = {
 			factor = 1
@@ -6373,9 +9753,9 @@ political_decisions = {
 			NOT = { has_country_flag = did_HNA_denounce }
 			NOT = { has_country_flag = did_HNA_ambition }
 			NOT = { has_country_flag = did_HNA_detente }
+			ideological_thought = 1
 		}
 		allow = {
-			ideological_thought = 1
 			war = no
 			NOT = { war_with = SDG }
 		}
@@ -6395,9 +9775,9 @@ political_decisions = {
 		potential = {
 			tag = ZHJ
 			NOT = { has_country_flag = did_ZHJ_identity }
+			enlightenment_thought = 1
 		}
 		allow = {
-			enlightenment_thought = 1
 			war = no
 		}
 		effect = {
@@ -6414,9 +9794,9 @@ political_decisions = {
 		potential = {
 			tag = ZHJ
 			NOT = { has_country_flag = did_ZHJ_develop }
+			ideological_thought = 1
 		}
 		allow = {
-			ideological_thought = 1
 			war = no
 			money = 50000
 		}
@@ -6436,10 +9816,11 @@ political_decisions = {
 			tag = ZHJ
 			NOT = { has_country_flag = did_ZHJ_detente }
 			NOT = { has_country_flag = did_ZHJ_ambition }
-		}
-		allow = {
 			nationalism_n_imperialism = 1
 			owns = 1482
+		}
+		allow = {
+			
 		}
 		effect = {
 			set_country_flag = did_ZHJ_ambition
@@ -6457,9 +9838,9 @@ political_decisions = {
 			tag = ZHJ
 			exists = TWN
 			NOT = { has_country_flag = did_ZHJ_claim }
+			state_n_government = 1
 		}
 		allow = {
-			state_n_government = 1
 			war = no
 			prestige = 10
 		}
@@ -6468,6 +9849,7 @@ political_decisions = {
 			TWN = { any_owned = { add_core = THIS } }
 			casus_belli = { target = TWN type = conquest months = 120 }
 			relation = { who = TWN value = -100 }
+			badboy = 3
 		}
 		ai_will_do = {
 			factor = 1
@@ -6479,9 +9861,9 @@ political_decisions = {
 			tag = ZHJ
 			exists = JSU
 			NOT = { has_country_flag = did_ZHJ_accord }
+			ideological_thought = 1
 		}
 		allow = {
-			ideological_thought = 1
 			war = no
 			relation = { who = JSU value = 100 }
 			JSU = { war = no }
@@ -6504,9 +9886,9 @@ political_decisions = {
 			exists = FUJ
 			NOT = { has_country_flag = did_ZHJ_detente }
 			NOT = { has_country_flag = did_ZHJ_denounce }
+			enlightenment_thought = 1
 		}
 		allow = {
-			enlightenment_thought = 1
 			war = no
 		}
 		effect = {
@@ -6514,6 +9896,7 @@ political_decisions = {
 			relation = { who = FUJ value = -100 }
 			casus_belli = { target = FUJ type = humiliate months = 60 }
 			prestige = 3
+			badboy = 1
 		}
 		ai_will_do = {
 			factor = 1
@@ -6527,9 +9910,9 @@ political_decisions = {
 			NOT = { has_country_flag = did_ZHJ_denounce }
 			NOT = { has_country_flag = did_ZHJ_ambition }
 			NOT = { has_country_flag = did_ZHJ_detente }
+			ideological_thought = 1
 		}
 		allow = {
-			ideological_thought = 1
 			war = no
 			NOT = { war_with = FUJ }
 		}
@@ -6549,9 +9932,9 @@ political_decisions = {
 		potential = {
 			tag = FUJ
 			NOT = { has_country_flag = did_FUJ_identity }
+			enlightenment_thought = 1
 		}
 		allow = {
-			enlightenment_thought = 1
 			war = no
 		}
 		effect = {
@@ -6568,9 +9951,9 @@ political_decisions = {
 		potential = {
 			tag = FUJ
 			NOT = { has_country_flag = did_FUJ_develop }
+			ideological_thought = 1
 		}
 		allow = {
-			ideological_thought = 1
 			war = no
 			money = 50000
 		}
@@ -6590,10 +9973,11 @@ political_decisions = {
 			tag = FUJ
 			NOT = { has_country_flag = did_FUJ_detente }
 			NOT = { has_country_flag = did_FUJ_ambition }
-		}
-		allow = {
 			nationalism_n_imperialism = 1
 			owns = 1604
+		}
+		allow = {
+			
 		}
 		effect = {
 			set_country_flag = did_FUJ_ambition
@@ -6611,9 +9995,9 @@ political_decisions = {
 			tag = FUJ
 			exists = TWN
 			NOT = { has_country_flag = did_FUJ_claim }
+			state_n_government = 1
 		}
 		allow = {
-			state_n_government = 1
 			war = no
 			prestige = 10
 		}
@@ -6622,6 +10006,7 @@ political_decisions = {
 			TWN = { any_owned = { add_core = THIS } }
 			casus_belli = { target = TWN type = conquest months = 120 }
 			relation = { who = TWN value = -100 }
+			badboy = 3
 		}
 		ai_will_do = {
 			factor = 1
@@ -6633,9 +10018,9 @@ political_decisions = {
 			tag = FUJ
 			exists = GDG
 			NOT = { has_country_flag = did_FUJ_accord }
+			ideological_thought = 1
 		}
 		allow = {
-			ideological_thought = 1
 			war = no
 			relation = { who = GDG value = 100 }
 			GDG = { war = no }
@@ -6658,9 +10043,9 @@ political_decisions = {
 			exists = ZHJ
 			NOT = { has_country_flag = did_FUJ_detente }
 			NOT = { has_country_flag = did_FUJ_denounce }
+			enlightenment_thought = 1
 		}
 		allow = {
-			enlightenment_thought = 1
 			war = no
 		}
 		effect = {
@@ -6668,6 +10053,7 @@ political_decisions = {
 			relation = { who = ZHJ value = -100 }
 			casus_belli = { target = ZHJ type = humiliate months = 60 }
 			prestige = 3
+			badboy = 1
 		}
 		ai_will_do = {
 			factor = 1
@@ -6681,9 +10067,9 @@ political_decisions = {
 			NOT = { has_country_flag = did_FUJ_denounce }
 			NOT = { has_country_flag = did_FUJ_ambition }
 			NOT = { has_country_flag = did_FUJ_detente }
+			ideological_thought = 1
 		}
 		allow = {
-			ideological_thought = 1
 			war = no
 			NOT = { war_with = ZHJ }
 		}
@@ -6703,9 +10089,9 @@ political_decisions = {
 		potential = {
 			tag = GDG
 			NOT = { has_country_flag = did_GDG_identity }
+			enlightenment_thought = 1
 		}
 		allow = {
-			enlightenment_thought = 1
 			war = no
 		}
 		effect = {
@@ -6722,9 +10108,9 @@ political_decisions = {
 		potential = {
 			tag = GDG
 			NOT = { has_country_flag = did_GDG_develop }
+			ideological_thought = 1
 		}
 		allow = {
-			ideological_thought = 1
 			war = no
 			money = 35000
 		}
@@ -6744,10 +10130,11 @@ political_decisions = {
 			tag = GDG
 			NOT = { has_country_flag = did_GDG_detente }
 			NOT = { has_country_flag = did_GDG_ambition }
-		}
-		allow = {
 			nationalism_n_imperialism = 1
 			owns = 1503
+		}
+		allow = {
+			
 		}
 		effect = {
 			set_country_flag = did_GDG_ambition
@@ -6765,9 +10152,9 @@ political_decisions = {
 			tag = GDG
 			exists = HNI
 			NOT = { has_country_flag = did_GDG_claim }
+			state_n_government = 1
 		}
 		allow = {
-			state_n_government = 1
 			war = no
 			prestige = 10
 		}
@@ -6776,6 +10163,7 @@ political_decisions = {
 			HNI = { any_owned = { add_core = THIS } }
 			casus_belli = { target = HNI type = conquest months = 120 }
 			relation = { who = HNI value = -100 }
+			badboy = 3
 		}
 		ai_will_do = {
 			factor = 1
@@ -6787,9 +10175,9 @@ political_decisions = {
 			tag = GDG
 			exists = FUJ
 			NOT = { has_country_flag = did_GDG_accord }
+			ideological_thought = 1
 		}
 		allow = {
-			ideological_thought = 1
 			war = no
 			relation = { who = FUJ value = 100 }
 			FUJ = { war = no }
@@ -6812,9 +10200,9 @@ political_decisions = {
 			exists = GXI
 			NOT = { has_country_flag = did_GDG_detente }
 			NOT = { has_country_flag = did_GDG_denounce }
+			enlightenment_thought = 1
 		}
 		allow = {
-			enlightenment_thought = 1
 			war = no
 		}
 		effect = {
@@ -6822,6 +10210,7 @@ political_decisions = {
 			relation = { who = GXI value = -100 }
 			casus_belli = { target = GXI type = humiliate months = 60 }
 			prestige = 3
+			badboy = 1
 		}
 		ai_will_do = {
 			factor = 1
@@ -6835,9 +10224,9 @@ political_decisions = {
 			NOT = { has_country_flag = did_GDG_denounce }
 			NOT = { has_country_flag = did_GDG_ambition }
 			NOT = { has_country_flag = did_GDG_detente }
+			ideological_thought = 1
 		}
 		allow = {
-			ideological_thought = 1
 			war = no
 			NOT = { war_with = GXI }
 		}
@@ -6857,9 +10246,9 @@ political_decisions = {
 		potential = {
 			tag = GXI
 			NOT = { has_country_flag = did_GXI_identity }
+			enlightenment_thought = 1
 		}
 		allow = {
-			enlightenment_thought = 1
 			war = no
 		}
 		effect = {
@@ -6876,9 +10265,9 @@ political_decisions = {
 		potential = {
 			tag = GXI
 			NOT = { has_country_flag = did_GXI_develop }
+			ideological_thought = 1
 		}
 		allow = {
-			ideological_thought = 1
 			war = no
 			money = 35000
 		}
@@ -6898,10 +10287,11 @@ political_decisions = {
 			tag = GXI
 			NOT = { has_country_flag = did_GXI_detente }
 			NOT = { has_country_flag = did_GXI_ambition }
-		}
-		allow = {
 			nationalism_n_imperialism = 1
 			owns = 1493
+		}
+		allow = {
+			
 		}
 		effect = {
 			set_country_flag = did_GXI_ambition
@@ -6919,9 +10309,9 @@ political_decisions = {
 			tag = GXI
 			exists = DAI
 			NOT = { has_country_flag = did_GXI_claim }
+			state_n_government = 1
 		}
 		allow = {
-			state_n_government = 1
 			war = no
 			prestige = 10
 		}
@@ -6930,6 +10320,7 @@ political_decisions = {
 			DAI = { any_owned = { add_core = THIS } }
 			casus_belli = { target = DAI type = conquest months = 120 }
 			relation = { who = DAI value = -100 }
+			badboy = 3
 		}
 		ai_will_do = {
 			factor = 1
@@ -6941,9 +10332,9 @@ political_decisions = {
 			tag = GXI
 			exists = HNC
 			NOT = { has_country_flag = did_GXI_accord }
+			ideological_thought = 1
 		}
 		allow = {
-			ideological_thought = 1
 			war = no
 			relation = { who = HNC value = 100 }
 			HNC = { war = no }
@@ -6966,9 +10357,9 @@ political_decisions = {
 			exists = GDG
 			NOT = { has_country_flag = did_GXI_detente }
 			NOT = { has_country_flag = did_GXI_denounce }
+			enlightenment_thought = 1
 		}
 		allow = {
-			enlightenment_thought = 1
 			war = no
 		}
 		effect = {
@@ -6976,6 +10367,7 @@ political_decisions = {
 			relation = { who = GDG value = -100 }
 			casus_belli = { target = GDG type = humiliate months = 60 }
 			prestige = 3
+			badboy = 1
 		}
 		ai_will_do = {
 			factor = 1
@@ -6989,9 +10381,9 @@ political_decisions = {
 			NOT = { has_country_flag = did_GXI_denounce }
 			NOT = { has_country_flag = did_GXI_ambition }
 			NOT = { has_country_flag = did_GXI_detente }
+			ideological_thought = 1
 		}
 		allow = {
-			ideological_thought = 1
 			war = no
 			NOT = { war_with = GDG }
 		}
@@ -7011,9 +10403,9 @@ political_decisions = {
 		potential = {
 			tag = HNC
 			NOT = { has_country_flag = did_HNC_identity }
+			enlightenment_thought = 1
 		}
 		allow = {
-			enlightenment_thought = 1
 			war = no
 		}
 		effect = {
@@ -7030,9 +10422,9 @@ political_decisions = {
 		potential = {
 			tag = HNC
 			NOT = { has_country_flag = did_HNC_develop }
+			ideological_thought = 1
 		}
 		allow = {
-			ideological_thought = 1
 			war = no
 			money = 30000
 		}
@@ -7052,10 +10444,11 @@ political_decisions = {
 			tag = HNC
 			NOT = { has_country_flag = did_HNC_detente }
 			NOT = { has_country_flag = did_HNC_ambition }
-		}
-		allow = {
 			nationalism_n_imperialism = 1
 			owns = 1505
+		}
+		allow = {
+			
 		}
 		effect = {
 			set_country_flag = did_HNC_ambition
@@ -7073,9 +10466,9 @@ political_decisions = {
 			tag = HNC
 			exists = CQG
 			NOT = { has_country_flag = did_HNC_claim }
+			state_n_government = 1
 		}
 		allow = {
-			state_n_government = 1
 			war = no
 			prestige = 10
 		}
@@ -7084,6 +10477,7 @@ political_decisions = {
 			CQG = { any_owned = { add_core = THIS } }
 			casus_belli = { target = CQG type = conquest months = 120 }
 			relation = { who = CQG value = -100 }
+			badboy = 3
 		}
 		ai_will_do = {
 			factor = 1
@@ -7095,9 +10489,9 @@ political_decisions = {
 			tag = HNC
 			exists = GXI
 			NOT = { has_country_flag = did_HNC_accord }
+			ideological_thought = 1
 		}
 		allow = {
-			ideological_thought = 1
 			war = no
 			relation = { who = GXI value = 100 }
 			GXI = { war = no }
@@ -7120,9 +10514,9 @@ political_decisions = {
 			exists = GZH
 			NOT = { has_country_flag = did_HNC_detente }
 			NOT = { has_country_flag = did_HNC_denounce }
+			enlightenment_thought = 1
 		}
 		allow = {
-			enlightenment_thought = 1
 			war = no
 		}
 		effect = {
@@ -7130,6 +10524,7 @@ political_decisions = {
 			relation = { who = GZH value = -100 }
 			casus_belli = { target = GZH type = humiliate months = 60 }
 			prestige = 3
+			badboy = 1
 		}
 		ai_will_do = {
 			factor = 1
@@ -7143,9 +10538,9 @@ political_decisions = {
 			NOT = { has_country_flag = did_HNC_denounce }
 			NOT = { has_country_flag = did_HNC_ambition }
 			NOT = { has_country_flag = did_HNC_detente }
+			ideological_thought = 1
 		}
 		allow = {
-			ideological_thought = 1
 			war = no
 			NOT = { war_with = GZH }
 		}
@@ -7165,9 +10560,9 @@ political_decisions = {
 		potential = {
 			tag = GZH
 			NOT = { has_country_flag = did_GZH_identity }
+			enlightenment_thought = 1
 		}
 		allow = {
-			enlightenment_thought = 1
 			war = no
 		}
 		effect = {
@@ -7184,9 +10579,9 @@ political_decisions = {
 		potential = {
 			tag = GZH
 			NOT = { has_country_flag = did_GZH_develop }
+			ideological_thought = 1
 		}
 		allow = {
-			ideological_thought = 1
 			war = no
 			money = 30000
 		}
@@ -7206,10 +10601,11 @@ political_decisions = {
 			tag = GZH
 			NOT = { has_country_flag = did_GZH_detente }
 			NOT = { has_country_flag = did_GZH_ambition }
-		}
-		allow = {
 			nationalism_n_imperialism = 1
 			owns = 1524
+		}
+		allow = {
+			
 		}
 		effect = {
 			set_country_flag = did_GZH_ambition
@@ -7227,9 +10623,9 @@ political_decisions = {
 			tag = GZH
 			exists = CQG
 			NOT = { has_country_flag = did_GZH_claim }
+			state_n_government = 1
 		}
 		allow = {
-			state_n_government = 1
 			war = no
 			prestige = 10
 		}
@@ -7238,6 +10634,7 @@ political_decisions = {
 			CQG = { any_owned = { add_core = THIS } }
 			casus_belli = { target = CQG type = conquest months = 120 }
 			relation = { who = CQG value = -100 }
+			badboy = 3
 		}
 		ai_will_do = {
 			factor = 1
@@ -7249,9 +10646,9 @@ political_decisions = {
 			tag = GZH
 			exists = YNN
 			NOT = { has_country_flag = did_GZH_accord }
+			ideological_thought = 1
 		}
 		allow = {
-			ideological_thought = 1
 			war = no
 			relation = { who = YNN value = 100 }
 			YNN = { war = no }
@@ -7274,9 +10671,9 @@ political_decisions = {
 			exists = HNC
 			NOT = { has_country_flag = did_GZH_detente }
 			NOT = { has_country_flag = did_GZH_denounce }
+			enlightenment_thought = 1
 		}
 		allow = {
-			enlightenment_thought = 1
 			war = no
 		}
 		effect = {
@@ -7284,6 +10681,7 @@ political_decisions = {
 			relation = { who = HNC value = -100 }
 			casus_belli = { target = HNC type = humiliate months = 60 }
 			prestige = 3
+			badboy = 1
 		}
 		ai_will_do = {
 			factor = 1
@@ -7297,9 +10695,9 @@ political_decisions = {
 			NOT = { has_country_flag = did_GZH_denounce }
 			NOT = { has_country_flag = did_GZH_ambition }
 			NOT = { has_country_flag = did_GZH_detente }
+			ideological_thought = 1
 		}
 		allow = {
-			ideological_thought = 1
 			war = no
 			NOT = { war_with = HNC }
 		}
@@ -7319,9 +10717,9 @@ political_decisions = {
 		potential = {
 			tag = HBE
 			NOT = { has_country_flag = did_HBE_identity }
+			enlightenment_thought = 1
 		}
 		allow = {
-			enlightenment_thought = 1
 			war = no
 		}
 		effect = {
@@ -7338,9 +10736,9 @@ political_decisions = {
 		potential = {
 			tag = HBE
 			NOT = { has_country_flag = did_HBE_develop }
+			ideological_thought = 1
 		}
 		allow = {
-			ideological_thought = 1
 			war = no
 			money = 40000
 		}
@@ -7360,10 +10758,11 @@ political_decisions = {
 			tag = HBE
 			NOT = { has_country_flag = did_HBE_detente }
 			NOT = { has_country_flag = did_HBE_ambition }
-		}
-		allow = {
 			nationalism_n_imperialism = 1
 			owns = 1545
+		}
+		allow = {
+			
 		}
 		effect = {
 			set_country_flag = did_HBE_ambition
@@ -7381,9 +10780,9 @@ political_decisions = {
 			tag = HBE
 			exists = CQG
 			NOT = { has_country_flag = did_HBE_claim }
+			state_n_government = 1
 		}
 		allow = {
-			state_n_government = 1
 			war = no
 			prestige = 10
 		}
@@ -7392,6 +10791,7 @@ political_decisions = {
 			CQG = { any_owned = { add_core = THIS } }
 			casus_belli = { target = CQG type = conquest months = 120 }
 			relation = { who = CQG value = -100 }
+			badboy = 3
 		}
 		ai_will_do = {
 			factor = 1
@@ -7403,9 +10803,9 @@ political_decisions = {
 			tag = HBE
 			exists = SZC
 			NOT = { has_country_flag = did_HBE_accord }
+			ideological_thought = 1
 		}
 		allow = {
-			ideological_thought = 1
 			war = no
 			relation = { who = SZC value = 100 }
 			SZC = { war = no }
@@ -7428,9 +10828,9 @@ political_decisions = {
 			exists = JXI
 			NOT = { has_country_flag = did_HBE_detente }
 			NOT = { has_country_flag = did_HBE_denounce }
+			enlightenment_thought = 1
 		}
 		allow = {
-			enlightenment_thought = 1
 			war = no
 		}
 		effect = {
@@ -7438,6 +10838,7 @@ political_decisions = {
 			relation = { who = JXI value = -100 }
 			casus_belli = { target = JXI type = humiliate months = 60 }
 			prestige = 3
+			badboy = 1
 		}
 		ai_will_do = {
 			factor = 1
@@ -7451,9 +10852,9 @@ political_decisions = {
 			NOT = { has_country_flag = did_HBE_denounce }
 			NOT = { has_country_flag = did_HBE_ambition }
 			NOT = { has_country_flag = did_HBE_detente }
+			ideological_thought = 1
 		}
 		allow = {
-			ideological_thought = 1
 			war = no
 			NOT = { war_with = JXI }
 		}
@@ -7473,9 +10874,9 @@ political_decisions = {
 		potential = {
 			tag = JXI
 			NOT = { has_country_flag = did_JXI_identity }
+			enlightenment_thought = 1
 		}
 		allow = {
-			enlightenment_thought = 1
 			war = no
 		}
 		effect = {
@@ -7492,9 +10893,9 @@ political_decisions = {
 		potential = {
 			tag = JXI
 			NOT = { has_country_flag = did_JXI_develop }
+			ideological_thought = 1
 		}
 		allow = {
-			ideological_thought = 1
 			war = no
 			money = 40000
 		}
@@ -7514,10 +10915,11 @@ political_decisions = {
 			tag = JXI
 			NOT = { has_country_flag = did_JXI_detente }
 			NOT = { has_country_flag = did_JXI_ambition }
-		}
-		allow = {
 			nationalism_n_imperialism = 1
 			owns = 1522
+		}
+		allow = {
+			
 		}
 		effect = {
 			set_country_flag = did_JXI_ambition
@@ -7535,9 +10937,9 @@ political_decisions = {
 			tag = JXI
 			exists = SHG
 			NOT = { has_country_flag = did_JXI_claim }
+			state_n_government = 1
 		}
 		allow = {
-			state_n_government = 1
 			war = no
 			prestige = 10
 		}
@@ -7546,6 +10948,7 @@ political_decisions = {
 			SHG = { any_owned = { add_core = THIS } }
 			casus_belli = { target = SHG type = conquest months = 120 }
 			relation = { who = SHG value = -100 }
+			badboy = 3
 		}
 		ai_will_do = {
 			factor = 1
@@ -7557,9 +10960,9 @@ political_decisions = {
 			tag = JXI
 			exists = XIN
 			NOT = { has_country_flag = did_JXI_accord }
+			ideological_thought = 1
 		}
 		allow = {
-			ideological_thought = 1
 			war = no
 			relation = { who = XIN value = 100 }
 			XIN = { war = no }
@@ -7582,9 +10985,9 @@ political_decisions = {
 			exists = HBE
 			NOT = { has_country_flag = did_JXI_detente }
 			NOT = { has_country_flag = did_JXI_denounce }
+			enlightenment_thought = 1
 		}
 		allow = {
-			enlightenment_thought = 1
 			war = no
 		}
 		effect = {
@@ -7592,6 +10995,7 @@ political_decisions = {
 			relation = { who = HBE value = -100 }
 			casus_belli = { target = HBE type = humiliate months = 60 }
 			prestige = 3
+			badboy = 1
 		}
 		ai_will_do = {
 			factor = 1
@@ -7605,9 +11009,9 @@ political_decisions = {
 			NOT = { has_country_flag = did_JXI_denounce }
 			NOT = { has_country_flag = did_JXI_ambition }
 			NOT = { has_country_flag = did_JXI_detente }
+			ideological_thought = 1
 		}
 		allow = {
-			ideological_thought = 1
 			war = no
 			NOT = { war_with = HBE }
 		}
@@ -7627,9 +11031,9 @@ political_decisions = {
 		potential = {
 			tag = SZC
 			NOT = { has_country_flag = did_SZC_identity }
+			enlightenment_thought = 1
 		}
 		allow = {
-			enlightenment_thought = 1
 			war = no
 		}
 		effect = {
@@ -7646,9 +11050,9 @@ political_decisions = {
 		potential = {
 			tag = SZC
 			NOT = { has_country_flag = did_SZC_develop }
+			ideological_thought = 1
 		}
 		allow = {
-			ideological_thought = 1
 			war = no
 			money = 35000
 		}
@@ -7668,10 +11072,11 @@ political_decisions = {
 			tag = SZC
 			NOT = { has_country_flag = did_SZC_detente }
 			NOT = { has_country_flag = did_SZC_ambition }
-		}
-		allow = {
 			nationalism_n_imperialism = 1
 			owns = 1601
+		}
+		allow = {
+			
 		}
 		effect = {
 			set_country_flag = did_SZC_ambition
@@ -7689,9 +11094,9 @@ political_decisions = {
 			tag = SZC
 			exists = XKG
 			NOT = { has_country_flag = did_SZC_claim }
+			state_n_government = 1
 		}
 		allow = {
-			state_n_government = 1
 			war = no
 			prestige = 10
 		}
@@ -7700,6 +11105,7 @@ political_decisions = {
 			XKG = { any_owned = { add_core = THIS } }
 			casus_belli = { target = XKG type = conquest months = 120 }
 			relation = { who = XKG value = -100 }
+			badboy = 3
 		}
 		ai_will_do = {
 			factor = 1
@@ -7711,9 +11117,9 @@ political_decisions = {
 			tag = SZC
 			exists = HBE
 			NOT = { has_country_flag = did_SZC_accord }
+			ideological_thought = 1
 		}
 		allow = {
-			ideological_thought = 1
 			war = no
 			relation = { who = HBE value = 100 }
 			HBE = { war = no }
@@ -7736,9 +11142,9 @@ political_decisions = {
 			exists = YNN
 			NOT = { has_country_flag = did_SZC_detente }
 			NOT = { has_country_flag = did_SZC_denounce }
+			enlightenment_thought = 1
 		}
 		allow = {
-			enlightenment_thought = 1
 			war = no
 		}
 		effect = {
@@ -7746,6 +11152,7 @@ political_decisions = {
 			relation = { who = YNN value = -100 }
 			casus_belli = { target = YNN type = humiliate months = 60 }
 			prestige = 3
+			badboy = 1
 		}
 		ai_will_do = {
 			factor = 1
@@ -7759,9 +11166,9 @@ political_decisions = {
 			NOT = { has_country_flag = did_SZC_denounce }
 			NOT = { has_country_flag = did_SZC_ambition }
 			NOT = { has_country_flag = did_SZC_detente }
+			ideological_thought = 1
 		}
 		allow = {
-			ideological_thought = 1
 			war = no
 			NOT = { war_with = YNN }
 		}
@@ -7781,9 +11188,9 @@ political_decisions = {
 		potential = {
 			tag = YNN
 			NOT = { has_country_flag = did_YNN_identity }
+			enlightenment_thought = 1
 		}
 		allow = {
-			enlightenment_thought = 1
 			war = no
 		}
 		effect = {
@@ -7800,9 +11207,9 @@ political_decisions = {
 		potential = {
 			tag = YNN
 			NOT = { has_country_flag = did_YNN_develop }
+			ideological_thought = 1
 		}
 		allow = {
-			ideological_thought = 1
 			war = no
 			money = 40000
 		}
@@ -7822,10 +11229,11 @@ political_decisions = {
 			tag = YNN
 			NOT = { has_country_flag = did_YNN_detente }
 			NOT = { has_country_flag = did_YNN_ambition }
-		}
-		allow = {
 			nationalism_n_imperialism = 1
 			owns = 1578
+		}
+		allow = {
+			
 		}
 		effect = {
 			set_country_flag = did_YNN_ambition
@@ -7843,9 +11251,9 @@ political_decisions = {
 			tag = YNN
 			exists = BUR
 			NOT = { has_country_flag = did_YNN_claim }
+			state_n_government = 1
 		}
 		allow = {
-			state_n_government = 1
 			war = no
 			prestige = 10
 		}
@@ -7854,6 +11262,7 @@ political_decisions = {
 			BUR = { any_owned = { add_core = THIS } }
 			casus_belli = { target = BUR type = conquest months = 120 }
 			relation = { who = BUR value = -100 }
+			badboy = 3
 		}
 		ai_will_do = {
 			factor = 1
@@ -7865,9 +11274,9 @@ political_decisions = {
 			tag = YNN
 			exists = GZH
 			NOT = { has_country_flag = did_YNN_accord }
+			ideological_thought = 1
 		}
 		allow = {
-			ideological_thought = 1
 			war = no
 			relation = { who = GZH value = 100 }
 			GZH = { war = no }
@@ -7890,9 +11299,9 @@ political_decisions = {
 			exists = SZC
 			NOT = { has_country_flag = did_YNN_detente }
 			NOT = { has_country_flag = did_YNN_denounce }
+			enlightenment_thought = 1
 		}
 		allow = {
-			enlightenment_thought = 1
 			war = no
 		}
 		effect = {
@@ -7900,6 +11309,7 @@ political_decisions = {
 			relation = { who = SZC value = -100 }
 			casus_belli = { target = SZC type = humiliate months = 60 }
 			prestige = 3
+			badboy = 1
 		}
 		ai_will_do = {
 			factor = 1
@@ -7913,9 +11323,9 @@ political_decisions = {
 			NOT = { has_country_flag = did_YNN_denounce }
 			NOT = { has_country_flag = did_YNN_ambition }
 			NOT = { has_country_flag = did_YNN_detente }
+			ideological_thought = 1
 		}
 		allow = {
-			ideological_thought = 1
 			war = no
 			NOT = { war_with = SZC }
 		}
@@ -7935,9 +11345,9 @@ political_decisions = {
 		potential = {
 			tag = XBI
 			NOT = { has_country_flag = did_XBI_identity }
+			enlightenment_thought = 1
 		}
 		allow = {
-			enlightenment_thought = 1
 			war = no
 		}
 		effect = {
@@ -7954,9 +11364,9 @@ political_decisions = {
 		potential = {
 			tag = XBI
 			NOT = { has_country_flag = did_XBI_develop }
+			ideological_thought = 1
 		}
 		allow = {
-			ideological_thought = 1
 			war = no
 			money = 30000
 		}
@@ -7976,10 +11386,11 @@ political_decisions = {
 			tag = XBI
 			NOT = { has_country_flag = did_XBI_detente }
 			NOT = { has_country_flag = did_XBI_ambition }
-		}
-		allow = {
 			nationalism_n_imperialism = 1
 			owns = 1600
+		}
+		allow = {
+			
 		}
 		effect = {
 			set_country_flag = did_XBI_ambition
@@ -7997,9 +11408,9 @@ political_decisions = {
 			tag = XBI
 			exists = QHI
 			NOT = { has_country_flag = did_XBI_claim }
+			state_n_government = 1
 		}
 		allow = {
-			state_n_government = 1
 			war = no
 			prestige = 10
 		}
@@ -8008,6 +11419,7 @@ political_decisions = {
 			QHI = { any_owned = { add_core = THIS } }
 			casus_belli = { target = QHI type = conquest months = 120 }
 			relation = { who = QHI value = -100 }
+			badboy = 3
 		}
 		ai_will_do = {
 			factor = 1
@@ -8019,9 +11431,9 @@ political_decisions = {
 			tag = XBI
 			exists = GMJ
 			NOT = { has_country_flag = did_XBI_accord }
+			ideological_thought = 1
 		}
 		allow = {
-			ideological_thought = 1
 			war = no
 			relation = { who = GMJ value = 100 }
 			GMJ = { war = no }
@@ -8044,9 +11456,9 @@ political_decisions = {
 			exists = XIN
 			NOT = { has_country_flag = did_XBI_detente }
 			NOT = { has_country_flag = did_XBI_denounce }
+			enlightenment_thought = 1
 		}
 		allow = {
-			enlightenment_thought = 1
 			war = no
 		}
 		effect = {
@@ -8054,6 +11466,7 @@ political_decisions = {
 			relation = { who = XIN value = -100 }
 			casus_belli = { target = XIN type = humiliate months = 60 }
 			prestige = 3
+			badboy = 1
 		}
 		ai_will_do = {
 			factor = 1
@@ -8067,9 +11480,9 @@ political_decisions = {
 			NOT = { has_country_flag = did_XBI_denounce }
 			NOT = { has_country_flag = did_XBI_ambition }
 			NOT = { has_country_flag = did_XBI_detente }
+			ideological_thought = 1
 		}
 		allow = {
-			ideological_thought = 1
 			war = no
 			NOT = { war_with = XIN }
 		}
@@ -8089,9 +11502,9 @@ political_decisions = {
 		potential = {
 			tag = XIN
 			NOT = { has_country_flag = did_XIN_identity }
+			enlightenment_thought = 1
 		}
 		allow = {
-			enlightenment_thought = 1
 			war = no
 		}
 		effect = {
@@ -8108,9 +11521,9 @@ political_decisions = {
 		potential = {
 			tag = XIN
 			NOT = { has_country_flag = did_XIN_develop }
+			ideological_thought = 1
 		}
 		allow = {
-			ideological_thought = 1
 			war = no
 			money = 30000
 		}
@@ -8130,10 +11543,11 @@ political_decisions = {
 			tag = XIN
 			NOT = { has_country_flag = did_XIN_detente }
 			NOT = { has_country_flag = did_XIN_ambition }
-		}
-		allow = {
 			nationalism_n_imperialism = 1
 			owns = 1490
+		}
+		allow = {
+			
 		}
 		effect = {
 			set_country_flag = did_XIN_ambition
@@ -8151,9 +11565,9 @@ political_decisions = {
 			tag = XIN
 			exists = KSG
 			NOT = { has_country_flag = did_XIN_claim }
+			state_n_government = 1
 		}
 		allow = {
-			state_n_government = 1
 			war = no
 			prestige = 10
 		}
@@ -8162,6 +11576,7 @@ political_decisions = {
 			KSG = { any_owned = { add_core = THIS } }
 			casus_belli = { target = KSG type = conquest months = 120 }
 			relation = { who = KSG value = -100 }
+			badboy = 3
 		}
 		ai_will_do = {
 			factor = 1
@@ -8173,9 +11588,9 @@ political_decisions = {
 			tag = XIN
 			exists = JXI
 			NOT = { has_country_flag = did_XIN_accord }
+			ideological_thought = 1
 		}
 		allow = {
-			ideological_thought = 1
 			war = no
 			relation = { who = JXI value = 100 }
 			JXI = { war = no }
@@ -8198,9 +11613,9 @@ political_decisions = {
 			exists = XBI
 			NOT = { has_country_flag = did_XIN_detente }
 			NOT = { has_country_flag = did_XIN_denounce }
+			enlightenment_thought = 1
 		}
 		allow = {
-			enlightenment_thought = 1
 			war = no
 		}
 		effect = {
@@ -8208,6 +11623,7 @@ political_decisions = {
 			relation = { who = XBI value = -100 }
 			casus_belli = { target = XBI type = humiliate months = 60 }
 			prestige = 3
+			badboy = 1
 		}
 		ai_will_do = {
 			factor = 1
@@ -8221,9 +11637,9 @@ political_decisions = {
 			NOT = { has_country_flag = did_XIN_denounce }
 			NOT = { has_country_flag = did_XIN_ambition }
 			NOT = { has_country_flag = did_XIN_detente }
+			ideological_thought = 1
 		}
 		allow = {
-			ideological_thought = 1
 			war = no
 			NOT = { war_with = XBI }
 		}
@@ -8245,9 +11661,9 @@ political_decisions = {
 			exists = JLN
 			JLN = { ai = yes }
 			NOT = { has_country_flag = did_FTN_treaty_JLN }
+			nationalism_n_imperialism = 1
 		}
 		allow = {
-			nationalism_n_imperialism = 1
 			war = no
 			prestige = 20
 			relation = { who = JLN value = 175 }
@@ -8269,9 +11685,9 @@ political_decisions = {
 			tag = JLN
 			exists = FTN
 			NOT = { has_country_flag = did_JLN_protection }
+			enlightenment_thought = 1
 		}
 		allow = {
-			enlightenment_thought = 1
 			war = no
 			relation = { who = FTN value = 100 }
 		}
@@ -8292,9 +11708,9 @@ political_decisions = {
 			exists = HLJ
 			HLJ = { ai = yes }
 			NOT = { has_country_flag = did_FTN_treaty_HLJ }
+			nationalism_n_imperialism = 1
 		}
 		allow = {
-			nationalism_n_imperialism = 1
 			war = no
 			prestige = 20
 			relation = { who = HLJ value = 175 }
@@ -8316,9 +11732,9 @@ political_decisions = {
 			tag = HLJ
 			exists = FTN
 			NOT = { has_country_flag = did_HLJ_protection }
+			enlightenment_thought = 1
 		}
 		allow = {
-			enlightenment_thought = 1
 			war = no
 			relation = { who = FTN value = 100 }
 		}
@@ -8339,9 +11755,9 @@ political_decisions = {
 			exists = RHE
 			RHE = { ai = yes }
 			NOT = { has_country_flag = did_ZHL_treaty_RHE }
+			nationalism_n_imperialism = 1
 		}
 		allow = {
-			nationalism_n_imperialism = 1
 			war = no
 			prestige = 20
 			relation = { who = RHE value = 175 }
@@ -8363,9 +11779,9 @@ political_decisions = {
 			tag = RHE
 			exists = ZHL
 			NOT = { has_country_flag = did_RHE_protection }
+			enlightenment_thought = 1
 		}
 		allow = {
-			enlightenment_thought = 1
 			war = no
 			relation = { who = ZHL value = 100 }
 		}
@@ -8386,9 +11802,9 @@ political_decisions = {
 			exists = CHH
 			CHH = { ai = yes }
 			NOT = { has_country_flag = did_ZHL_treaty_CHH }
+			nationalism_n_imperialism = 1
 		}
 		allow = {
-			nationalism_n_imperialism = 1
 			war = no
 			prestige = 20
 			relation = { who = CHH value = 175 }
@@ -8410,9 +11826,9 @@ political_decisions = {
 			tag = CHH
 			exists = ZHL
 			NOT = { has_country_flag = did_CHH_protection }
+			enlightenment_thought = 1
 		}
 		allow = {
-			enlightenment_thought = 1
 			war = no
 			relation = { who = ZHL value = 100 }
 		}
@@ -8433,9 +11849,9 @@ political_decisions = {
 			exists = SYN
 			SYN = { ai = yes }
 			NOT = { has_country_flag = did_SXI_treaty_SYN }
+			nationalism_n_imperialism = 1
 		}
 		allow = {
-			nationalism_n_imperialism = 1
 			war = no
 			prestige = 20
 			relation = { who = SYN value = 175 }
@@ -8457,9 +11873,9 @@ political_decisions = {
 			tag = SYN
 			exists = SXI
 			NOT = { has_country_flag = did_SYN_protection }
+			enlightenment_thought = 1
 		}
 		allow = {
-			enlightenment_thought = 1
 			war = no
 			relation = { who = SXI value = 100 }
 		}
@@ -8480,9 +11896,9 @@ political_decisions = {
 			exists = NXA
 			NXA = { ai = yes }
 			NOT = { has_country_flag = did_XBI_treaty_NXA }
+			nationalism_n_imperialism = 1
 		}
 		allow = {
-			nationalism_n_imperialism = 1
 			war = no
 			prestige = 20
 			relation = { who = NXA value = 175 }
@@ -8504,9 +11920,9 @@ political_decisions = {
 			tag = NXA
 			exists = XBI
 			NOT = { has_country_flag = did_NXA_protection }
+			enlightenment_thought = 1
 		}
 		allow = {
-			enlightenment_thought = 1
 			war = no
 			relation = { who = XBI value = 100 }
 		}
@@ -8527,9 +11943,9 @@ political_decisions = {
 			exists = QHI
 			QHI = { ai = yes }
 			NOT = { has_country_flag = did_XBI_treaty_QHI }
+			nationalism_n_imperialism = 1
 		}
 		allow = {
-			nationalism_n_imperialism = 1
 			war = no
 			prestige = 20
 			relation = { who = QHI value = 175 }
@@ -8551,9 +11967,9 @@ political_decisions = {
 			tag = QHI
 			exists = XBI
 			NOT = { has_country_flag = did_QHI_protection }
+			enlightenment_thought = 1
 		}
 		allow = {
-			enlightenment_thought = 1
 			war = no
 			relation = { who = XBI value = 100 }
 		}
@@ -8574,9 +11990,9 @@ political_decisions = {
 			exists = XKG
 			XKG = { ai = yes }
 			NOT = { has_country_flag = did_SZC_treaty_XKG }
+			nationalism_n_imperialism = 1
 		}
 		allow = {
-			nationalism_n_imperialism = 1
 			war = no
 			prestige = 20
 			relation = { who = XKG value = 175 }
@@ -8598,9 +12014,9 @@ political_decisions = {
 			tag = XKG
 			exists = SZC
 			NOT = { has_country_flag = did_XKG_protection }
+			enlightenment_thought = 1
 		}
 		allow = {
-			enlightenment_thought = 1
 			war = no
 			relation = { who = SZC value = 100 }
 		}
@@ -8621,9 +12037,9 @@ political_decisions = {
 			exists = CQG
 			CQG = { ai = yes }
 			NOT = { has_country_flag = did_SZC_treaty_CQG }
+			nationalism_n_imperialism = 1
 		}
 		allow = {
-			nationalism_n_imperialism = 1
 			war = no
 			prestige = 20
 			relation = { who = CQG value = 175 }
@@ -8645,9 +12061,9 @@ political_decisions = {
 			tag = CQG
 			exists = SZC
 			NOT = { has_country_flag = did_CQG_protection }
+			enlightenment_thought = 1
 		}
 		allow = {
-			enlightenment_thought = 1
 			war = no
 			relation = { who = SZC value = 100 }
 		}
@@ -8668,9 +12084,9 @@ political_decisions = {
 			exists = HNI
 			HNI = { ai = yes }
 			NOT = { has_country_flag = did_GDG_treaty_HNI }
+			nationalism_n_imperialism = 1
 		}
 		allow = {
-			nationalism_n_imperialism = 1
 			war = no
 			prestige = 20
 			relation = { who = HNI value = 175 }
@@ -8692,9 +12108,9 @@ political_decisions = {
 			tag = HNI
 			exists = GDG
 			NOT = { has_country_flag = did_HNI_protection }
+			enlightenment_thought = 1
 		}
 		allow = {
-			enlightenment_thought = 1
 			war = no
 			relation = { who = GDG value = 100 }
 		}
@@ -8715,9 +12131,9 @@ political_decisions = {
 			exists = TWN
 			TWN = { ai = yes }
 			NOT = { has_country_flag = did_FUJ_treaty_TWN }
+			nationalism_n_imperialism = 1
 		}
 		allow = {
-			nationalism_n_imperialism = 1
 			war = no
 			prestige = 20
 			relation = { who = TWN value = 175 }
@@ -8739,9 +12155,9 @@ political_decisions = {
 			tag = TWN
 			exists = FUJ
 			NOT = { has_country_flag = did_TWN_protection }
+			enlightenment_thought = 1
 		}
 		allow = {
-			enlightenment_thought = 1
 			war = no
 			relation = { who = FUJ value = 100 }
 		}
@@ -8762,9 +12178,9 @@ political_decisions = {
 			exists = SHG
 			SHG = { ai = yes }
 			NOT = { has_country_flag = did_JSU_treaty_SHG }
+			nationalism_n_imperialism = 1
 		}
 		allow = {
-			nationalism_n_imperialism = 1
 			war = no
 			prestige = 20
 			relation = { who = SHG value = 175 }
@@ -8786,9 +12202,9 @@ political_decisions = {
 			tag = SHG
 			exists = JSU
 			NOT = { has_country_flag = did_SHG_protection }
+			enlightenment_thought = 1
 		}
 		allow = {
-			enlightenment_thought = 1
 			war = no
 			relation = { who = JSU value = 100 }
 		}
@@ -8809,9 +12225,9 @@ political_decisions = {
 			exists = XZC
 			XZC = { ai = yes }
 			NOT = { has_country_flag = did_AHC_treaty_XZC }
+			nationalism_n_imperialism = 1
 		}
 		allow = {
-			nationalism_n_imperialism = 1
 			war = no
 			prestige = 20
 			relation = { who = XZC value = 175 }
@@ -8833,9 +12249,9 @@ political_decisions = {
 			tag = XZC
 			exists = AHC
 			NOT = { has_country_flag = did_XZC_protection }
+			enlightenment_thought = 1
 		}
 		allow = {
-			enlightenment_thought = 1
 			war = no
 			relation = { who = AHC value = 100 }
 		}
@@ -8856,9 +12272,9 @@ political_decisions = {
 			exists = KSG
 			KSG = { ai = yes }
 			NOT = { has_country_flag = did_XIN_treaty_KSG }
+			nationalism_n_imperialism = 1
 		}
 		allow = {
-			nationalism_n_imperialism = 1
 			war = no
 			prestige = 20
 			relation = { who = KSG value = 175 }
@@ -8880,9 +12296,9 @@ political_decisions = {
 			tag = KSG
 			exists = XIN
 			NOT = { has_country_flag = did_KSG_protection }
+			enlightenment_thought = 1
 		}
 		allow = {
-			enlightenment_thought = 1
 			war = no
 			relation = { who = XIN value = 100 }
 		}
@@ -8903,9 +12319,9 @@ political_decisions = {
 			exists = TIB
 			TIB = { ai = yes }
 			NOT = { has_country_flag = did_XIN_treaty_TIB }
+			nationalism_n_imperialism = 1
 		}
 		allow = {
-			nationalism_n_imperialism = 1
 			war = no
 			prestige = 20
 			relation = { who = TIB value = 175 }
@@ -8927,9 +12343,9 @@ political_decisions = {
 			tag = TIB
 			exists = XIN
 			NOT = { has_country_flag = did_TIB_protection }
+			enlightenment_thought = 1
 		}
 		allow = {
-			enlightenment_thought = 1
 			war = no
 			relation = { who = XIN value = 100 }
 		}

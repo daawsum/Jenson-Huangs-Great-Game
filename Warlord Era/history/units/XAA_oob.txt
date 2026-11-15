@@ -1,15 +1,15 @@
 army = {
-	name = "Army of Alexandria"
-	location = 1751
+	name = "Army of Sendai"
+	location = 1668
 	regiment = {
-		name = "1. Army of Alexandria"
+		name = "1. Army of Sendai"
 		type = infantry
-		home = 1751
+		home = 1668
 	}
 	regiment = {
-		name = "2. Army of Alexandria"
+		name = "2. Army of Sendai"
 		type = infantry
-		home = 1752
+		home = 1673
 	}
 }
 

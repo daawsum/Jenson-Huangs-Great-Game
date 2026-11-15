@@ -8362,31 +8362,31 @@
 	aristocrats = {
 		culture = wu
 		religion = placeholder
-		size = 1300
+		size = 1259
 	}
 
 	clergymen = {
 		culture = wu
 		religion = placeholder
-		size = 675
+		size = 654
 	}
 
 	artisans = {
 		culture = wu
 		religion = placeholder
-		size = 3350
+		size = 3246
 	}
 
 	soldiers = {
 		culture = wu
 		religion = placeholder
-		size = 675
+		size = 654
 	}
 
 	farmers = {
 		culture = wu
 		religion = placeholder
-		size = 60388
+		size = 58510
 	}
 
 	craftsmen = {
@@ -8456,31 +8456,31 @@
 	aristocrats = {
 		culture = wu
 		religion = placeholder
-		size = 27600
+		size = 26750
 	}
 
 	clergymen = {
 		culture = wu
 		religion = placeholder
-		size = 13825
+		size = 13399
 	}
 
 	artisans = {
 		culture = wu
 		religion = placeholder
-		size = 69100
+		size = 66973
 	}
 
 	soldiers = {
 		culture = wu
 		religion = placeholder
-		size = 13825
+		size = 13399
 	}
 
 	farmers = {
 		culture = wu
 		religion = placeholder
-		size = 1248113
+		size = 1209402
 	}
 
 	craftsmen = {

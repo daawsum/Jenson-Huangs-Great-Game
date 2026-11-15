@@ -3,4 +3,4 @@ controller = HRE
 add_core = HRE
 add_core = VEN
 trade_goods = silk
-life_rating = 35
+life_rating = 30

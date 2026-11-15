@@ -1,5 +1,6 @@
-owner = HAW
-controller = HAW
+owner = SHG
+controller = SHG
+add_core = SHG
 add_core = HAW
 trade_goods = fish
 life_rating = 35

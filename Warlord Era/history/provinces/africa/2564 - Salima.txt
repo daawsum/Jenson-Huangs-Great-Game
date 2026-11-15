@@ -1,6 +1,6 @@
-owner = XAC
-controller = XAC
-add_core = XAC
+owner = TUR
+controller = TUR
+add_core = TUR
 add_core = EGY
 trade_goods = cattle
 life_rating = 30

@@ -1,6 +1,6 @@
-owner = XAF
-controller = XAF
-add_core = XAF
+owner = XAA
+controller = XAA
+add_core = XAA
 add_core = JAP
 trade_goods = iron
 life_rating = 35

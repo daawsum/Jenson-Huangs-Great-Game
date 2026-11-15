@@ -124,6 +124,20 @@ KLS;Khalsa Raj;;;;;;;;;;;;;x
 KLS_ADJ;Khalsa;;;;;;;;;;;;;x
 PSE;Persian Empire;;;;;;;;;;;;;x
 PSE_ADJ;Persian;;;;;;;;;;;;;x
+SMG;Southern Ming;;;;;;;;;;;;;x
+SMG_ADJ;Ming;;;;;;;;;;;;;x
+TNG;Tungning;;;;;;;;;;;;;x
+TNG_ADJ;Tungning;;;;;;;;;;;;;x
+SUV;Suvarnabhumi;;;;;;;;;;;;;x
+SUV_ADJ;Suvarnabhumi;;;;;;;;;;;;;x
+LFG;Lanfang Republic;;;;;;;;;;;;;x
+LFG_ADJ;Lanfang;;;;;;;;;;;;;x
+NZO;Nanzhao;;;;;;;;;;;;;x
+NZO_ADJ;Nanzhao;;;;;;;;;;;;;x
+DGN;Dunganistan;;;;;;;;;;;;;x
+DGN_ADJ;Dungan;;;;;;;;;;;;;x
+WRP;Protectorate of the Western Regions;;;;;;;;;;;;;x
+WRP_ADJ;Western Regions;;;;;;;;;;;;;x
 ZHL_conservative;Old Guard;;;;;;;;;;;;;x
 ZHL_conservative_2;Old Guard;;;;;;;;;;;;;x
 ZHL_liberal;Reform Society;;;;;;;;;;;;;x
@@ -943,32 +957,111 @@ PSE_communist;Soviet Committee;;;;;;;;;;;;;x
 PSE_fascist;Blue Shirts;;;;;;;;;;;;;x
 PSE_conservative_4;Old Guard;;;;;;;;;;;;;x
 PSE_reactionary_2;Military Clique;;;;;;;;;;;;;x
+SMG_conservative;Old Guard;;;;;;;;;;;;;x
+SMG_conservative_2;Old Guard;;;;;;;;;;;;;x
+SMG_liberal;Reform Society;;;;;;;;;;;;;x
+SMG_reactionary;Military Clique;;;;;;;;;;;;;x
+SMG_anarcho_liberal;Free Association;;;;;;;;;;;;;x
+SMG_conservative_3;Old Guard;;;;;;;;;;;;;x
+SMG_liberal_2;Reform Society;;;;;;;;;;;;;x
+SMG_liberal_3;Reform Society;;;;;;;;;;;;;x
+SMG_socialist;Labour Union;;;;;;;;;;;;;x
+SMG_communist;Soviet Committee;;;;;;;;;;;;;x
+SMG_fascist;Blue Shirts;;;;;;;;;;;;;x
+SMG_conservative_4;Old Guard;;;;;;;;;;;;;x
+SMG_reactionary_2;Military Clique;;;;;;;;;;;;;x
+TNG_conservative;Old Guard;;;;;;;;;;;;;x
+TNG_conservative_2;Old Guard;;;;;;;;;;;;;x
+TNG_liberal;Reform Society;;;;;;;;;;;;;x
+TNG_reactionary;Military Clique;;;;;;;;;;;;;x
+TNG_anarcho_liberal;Free Association;;;;;;;;;;;;;x
+TNG_conservative_3;Old Guard;;;;;;;;;;;;;x
+TNG_liberal_2;Reform Society;;;;;;;;;;;;;x
+TNG_liberal_3;Reform Society;;;;;;;;;;;;;x
+TNG_socialist;Labour Union;;;;;;;;;;;;;x
+TNG_communist;Soviet Committee;;;;;;;;;;;;;x
+TNG_fascist;Blue Shirts;;;;;;;;;;;;;x
+TNG_conservative_4;Old Guard;;;;;;;;;;;;;x
+TNG_reactionary_2;Military Clique;;;;;;;;;;;;;x
+SUV_conservative;Old Guard;;;;;;;;;;;;;x
+SUV_conservative_2;Old Guard;;;;;;;;;;;;;x
+SUV_liberal;Reform Society;;;;;;;;;;;;;x
+SUV_reactionary;Military Clique;;;;;;;;;;;;;x
+SUV_anarcho_liberal;Free Association;;;;;;;;;;;;;x
+SUV_conservative_3;Old Guard;;;;;;;;;;;;;x
+SUV_liberal_2;Reform Society;;;;;;;;;;;;;x
+SUV_liberal_3;Reform Society;;;;;;;;;;;;;x
+SUV_socialist;Labour Union;;;;;;;;;;;;;x
+SUV_communist;Soviet Committee;;;;;;;;;;;;;x
+SUV_fascist;Blue Shirts;;;;;;;;;;;;;x
+SUV_conservative_4;Old Guard;;;;;;;;;;;;;x
+SUV_reactionary_2;Military Clique;;;;;;;;;;;;;x
+LFG_conservative;Old Guard;;;;;;;;;;;;;x
+LFG_conservative_2;Old Guard;;;;;;;;;;;;;x
+LFG_liberal;Reform Society;;;;;;;;;;;;;x
+LFG_reactionary;Military Clique;;;;;;;;;;;;;x
+LFG_anarcho_liberal;Free Association;;;;;;;;;;;;;x
+LFG_conservative_3;Old Guard;;;;;;;;;;;;;x
+LFG_liberal_2;Reform Society;;;;;;;;;;;;;x
+LFG_liberal_3;Reform Society;;;;;;;;;;;;;x
+LFG_socialist;Labour Union;;;;;;;;;;;;;x
+LFG_communist;Soviet Committee;;;;;;;;;;;;;x
+LFG_fascist;Blue Shirts;;;;;;;;;;;;;x
+LFG_conservative_4;Old Guard;;;;;;;;;;;;;x
+LFG_reactionary_2;Military Clique;;;;;;;;;;;;;x
+NZO_conservative;Old Guard;;;;;;;;;;;;;x
+NZO_conservative_2;Old Guard;;;;;;;;;;;;;x
+NZO_liberal;Reform Society;;;;;;;;;;;;;x
+NZO_reactionary;Military Clique;;;;;;;;;;;;;x
+NZO_anarcho_liberal;Free Association;;;;;;;;;;;;;x
+NZO_conservative_3;Old Guard;;;;;;;;;;;;;x
+NZO_liberal_2;Reform Society;;;;;;;;;;;;;x
+NZO_liberal_3;Reform Society;;;;;;;;;;;;;x
+NZO_socialist;Labour Union;;;;;;;;;;;;;x
+NZO_communist;Soviet Committee;;;;;;;;;;;;;x
+NZO_fascist;Blue Shirts;;;;;;;;;;;;;x
+NZO_conservative_4;Old Guard;;;;;;;;;;;;;x
+NZO_reactionary_2;Military Clique;;;;;;;;;;;;;x
+DGN_conservative;Old Guard;;;;;;;;;;;;;x
+DGN_conservative_2;Old Guard;;;;;;;;;;;;;x
+DGN_liberal;Reform Society;;;;;;;;;;;;;x
+DGN_reactionary;Military Clique;;;;;;;;;;;;;x
+DGN_anarcho_liberal;Free Association;;;;;;;;;;;;;x
+DGN_conservative_3;Old Guard;;;;;;;;;;;;;x
+DGN_liberal_2;Reform Society;;;;;;;;;;;;;x
+DGN_liberal_3;Reform Society;;;;;;;;;;;;;x
+DGN_socialist;Labour Union;;;;;;;;;;;;;x
+DGN_communist;Soviet Committee;;;;;;;;;;;;;x
+DGN_fascist;Blue Shirts;;;;;;;;;;;;;x
+DGN_conservative_4;Old Guard;;;;;;;;;;;;;x
+DGN_reactionary_2;Military Clique;;;;;;;;;;;;;x
+WRP_conservative;Old Guard;;;;;;;;;;;;;x
+WRP_conservative_2;Old Guard;;;;;;;;;;;;;x
+WRP_liberal;Reform Society;;;;;;;;;;;;;x
+WRP_reactionary;Military Clique;;;;;;;;;;;;;x
+WRP_anarcho_liberal;Free Association;;;;;;;;;;;;;x
+WRP_conservative_3;Old Guard;;;;;;;;;;;;;x
+WRP_liberal_2;Reform Society;;;;;;;;;;;;;x
+WRP_liberal_3;Reform Society;;;;;;;;;;;;;x
+WRP_socialist;Labour Union;;;;;;;;;;;;;x
+WRP_communist;Soviet Committee;;;;;;;;;;;;;x
+WRP_fascist;Blue Shirts;;;;;;;;;;;;;x
+WRP_conservative_4;Old Guard;;;;;;;;;;;;;x
+WRP_reactionary_2;Military Clique;;;;;;;;;;;;;x
 HRE;Holy Roman Empire;;;;;;;;;;;;;x
 HRE_ADJ;Holy Roman Empire;;;;;;;;;;;;;x
-XAA;Alexandria;;;;;;;;;;;;;x
-XAA_ADJ;Alexandria;;;;;;;;;;;;;x
-XAB;Kassala;;;;;;;;;;;;;x
-XAB_ADJ;Kassala;;;;;;;;;;;;;x
-XAC;Asyut;;;;;;;;;;;;;x
-XAC_ADJ;Asyut;;;;;;;;;;;;;x
-XAD;Khartoum;;;;;;;;;;;;;x
-XAD_ADJ;Khartoum;;;;;;;;;;;;;x
-XAE;Damascus;;;;;;;;;;;;;x
-XAE_ADJ;Damascus;;;;;;;;;;;;;x
-XAF;Sendai;;;;;;;;;;;;;x
-XAF_ADJ;Sendai;;;;;;;;;;;;;x
-XAG;Nagasaki;;;;;;;;;;;;;x
-XAG_ADJ;Nagasaki;;;;;;;;;;;;;x
-XAH;Ufa;;;;;;;;;;;;;x
-XAH_ADJ;Ufa;;;;;;;;;;;;;x
-XAJ;Petrozavorsk;;;;;;;;;;;;;x
-XAJ_ADJ;Petrozavorsk;;;;;;;;;;;;;x
-XAK;Voronets;;;;;;;;;;;;;x
-XAK_ADJ;Voronets;;;;;;;;;;;;;x
-XAL;Uglich;;;;;;;;;;;;;x
-XAL_ADJ;Uglich;;;;;;;;;;;;;x
-XAM;Kayseri;;;;;;;;;;;;;x
-XAM_ADJ;Kayseri;;;;;;;;;;;;;x
+XAA;Sendai;;;;;;;;;;;;;x
+XAA_ADJ;Sendai;;;;;;;;;;;;;x
+XAB;Nagasaki;;;;;;;;;;;;;x
+XAB_ADJ;Nagasaki;;;;;;;;;;;;;x
+XAC;Ufa;;;;;;;;;;;;;x
+XAC_ADJ;Ufa;;;;;;;;;;;;;x
+XAD;Petrozavorsk;;;;;;;;;;;;;x
+XAD_ADJ;Petrozavorsk;;;;;;;;;;;;;x
+XAE;Voronets;;;;;;;;;;;;;x
+XAE_ADJ;Voronets;;;;;;;;;;;;;x
+XAF;Uglich;;;;;;;;;;;;;x
+XAF_ADJ;Uglich;;;;;;;;;;;;;x
 placeholder;Customary Faith;;;;;;;;;;;;;x
 jilu;Jilu;;;;;;;;;;;;;x
 zhongyuan;Zhongyuan;;;;;;;;;;;;;x

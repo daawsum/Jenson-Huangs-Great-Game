@@ -8,8 +8,19 @@ uncivilized or empty and open to colonisation.
 
 - 35 Chinese cliques on 137 new provinces and 92 new states, each major with its own culture,
   rival, partner, modifiers and decisions.
-- The Sikh Empire, Persia and Mongolia as playable uncivilized powers.
-- Western and central Europe as one backward Holy Roman Empire.
+- The Sikh Empire and Persia as playable uncivilized powers, and a civilized Mongolia.
+- Western and central Europe as one backward Holy Roman Empire; the Balkans, Caucasus, Levant,
+  Arabia and Egypt as one Ottoman Empire; Iraq under Persia; Siberia empty and without Russians.
+- Every great clique chooses one of two hand-written roads (conquest in a direction of its own,
+  a new country, or, for Shanxi and Hunan, playing tall).
+- Taiwan and Shanghai start with posts overseas; Taiwan can become the Southern Ming or Tungning.
+- Coal, iron, sulphur, oil, crops and fisheries of China placed where they really are.
+- Host tools, national value and tech school changes from IGoRDoD 7.31; civilized reforms and
+  the take-capital war goal from DoD Heartbreaker; tiered national focuses unlocked by technology.
+- Technologies, inventions and units from RobloxDoD 1.8; decisions tied to technologies.
+- Regional formables limited to their own cliques, and mutually exclusive national choices.
+- State-size war goals in the style of DoD Heartbreaker, national focuses from IGoR,
+  a World Bank on the Falklands, and migration to South East Asia in the style of Vae Victis.
 
 ## Credits
 

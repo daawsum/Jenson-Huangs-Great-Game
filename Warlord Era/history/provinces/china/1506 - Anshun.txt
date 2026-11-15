@@ -2,6 +2,6 @@ owner = GZH
 controller = GZH
 add_core = GZH
 add_core = CHI
-trade_goods = tea
+trade_goods = coal
 life_rating = 32
 terrain = jungle

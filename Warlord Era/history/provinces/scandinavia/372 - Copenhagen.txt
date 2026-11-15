@@ -3,6 +3,6 @@ controller = HRE
 add_core = HRE
 add_core = SCA
 trade_goods = grain
-life_rating = 35
+life_rating = 30
 fort = 1
 naval_base = 1

@@ -4,9 +4,12 @@ set -e
 cd "$(dirname "$0")"
 python 02_world.py | grep -E "countries at start|ruling party"
 python 03a_tech.py | tail -3
-python 03_gameplay.py | tail -2
+python 03_gameplay.py | tail -3
+python 03e_igor.py
 python 03b_worldbank.py
+python 03f_reforms.py
 python 03c_statesize.py
+python 03g_takecapital.py
 python 03d_focus.py
 python 04b_mapstyle.py
 python 04c_loadscreens.py
