@@ -47,7 +47,7 @@ print("pop types patched:", n)
 
 # ------------------------------------------------------------------ war goals between warlords
 cb = rd("common", "cb_types.txt")
-cb = cb.replace("acquire_core_state \nannex_core_country", "acquire_core_state \nannex_core_country\nwarlord_take_state\nwarlord_annex", 1)
+cb = cb.replace("acquire_core_state \nannex_core_country", "acquire_core_state \nannex_core_country\nwarlord_take_state", 1)
 assert "warlord_take_state" in cb
 COMMON = """	is_triggered_only = yes
 	months = 12
@@ -82,28 +82,12 @@ warlord_take_state = {
 	war_name = WAR_TAKE_NAME
 }
 
-warlord_annex = {
-	sprite_index = 5
-	crisis = no
-""" + COMMON % "0.6" + """	can_use = {
-		has_country_flag = chinese_warlord
-		THIS = { has_country_flag = chinese_warlord }
-		NOT = { is_our_vassal = THIS }
-		NOT = { number_of_states = 3 }
-	}
-	po_annex = yes
-	war_name = WAR_RESTORE_ORDER_NAME
-}
 """
 wr("common/cb_types.txt", cb)
 loc("warlord_take_state", "Warlord Claim")
 loc("warlord_take_state_desc", "Seize a state from a rival warlord.")
 loc("warlord_take_state_setup", "Take $STATE$ from $RECIPIENT$")
 loc("warlord_take_state_short", "Warlord Claim")
-loc("warlord_annex", "Absorb Clique")
-loc("warlord_annex_desc", "Absorb a rival clique that holds two states or fewer.")
-loc("warlord_annex_setup", "Absorb $RECIPIENT$")
-loc("warlord_annex_short", "Absorb Clique")
 
 # ------------------------------------------------------------------ modifiers
 MODS = collections.OrderedDict()

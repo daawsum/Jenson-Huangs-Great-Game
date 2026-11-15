@@ -2,10 +2,6 @@ warlord_take_state;Warlord Claim;;;;;;;;;;;;;x
 warlord_take_state_desc;Seize a state from a rival warlord.;;;;;;;;;;;;;x
 warlord_take_state_setup;Take $STATE$ from $RECIPIENT$;;;;;;;;;;;;;x
 warlord_take_state_short;Warlord Claim;;;;;;;;;;;;;x
-warlord_annex;Absorb Clique;;;;;;;;;;;;;x
-warlord_annex_desc;Absorb a rival clique that holds two states or fewer.;;;;;;;;;;;;;x
-warlord_annex_setup;Absorb $RECIPIENT$;;;;;;;;;;;;;x
-warlord_annex_short;Absorb Clique;;;;;;;;;;;;;x
 khalsa_army;The Khalsa Army;;;;;;;;;;;;;x
 desc_khalsa_army;The Fauj-i-Khas, drilled by veterans of Napoleon, is the finest army in Asia. It is a small professional force, not a levy.;;;;;;;;;;;;;x
 mongol_horde;The Great Horde;;;;;;;;;;;;;x
