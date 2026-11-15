@@ -47,9 +47,27 @@ PICKS = {
     "outlook": "outlook_2",          # an ironclad
     "militia": "protection_2",       # village men mustered
     "advisors": "ambition_1",        # a machine-gun crew under instruction
-    "ev_warlords": "legitimacy_2", "ev_sea": "dominion_2", "ev_bandits": "bandits_2", "ev_greatwar": "ambition_1", "ev_students": "learning_1",
+    "annam": "annam_1",              # map of Annam
+    "korea": "korea_1",              # the Gyeonghoeru pavilion, Seoul
+    "japan": "japan_1",              # a samurai in armour
+    "tibet": "tibet_1",              # the Potala
+    "mongolia": "mongolia_1",        # a Mongol rider taking aim beside his horse
+    "sikh": "sikh_1",                # Maharaja Ranjit Singh
+    "persia": "persia_2",            # Naser al-Din Shah
+    "suvar": "suvar_1",              # a Bangkok canal, old postcard
+    "nanyang": "nanyang_1",          # a harbour of the southern seas
+    "land": "land_2",                # a field hand at work
+    "mint": "mint_1",                # the Yuan Shikai silver dollar
+    "railway": "railway_2",          # a locomotive
+    "shipyard": "shipyard_1",        # a dockyard seen from the hill
+    "university": "university_1",    # a college gate
+    "whampoa": "whampoa_1",          # officers and cadets at the academy
+    "ev_warlords": "legitimacy_2", "ev_sea": "dominion_2", "ev_bandits": "bandits_2", "ev_greatwar": "ev_greatwar_2", "ev_students": "ev_students_2",
+    "ev_taiwan": "ev_taiwan_2", "ev_horde": "mongolia_1", "ev_khalsa": "ev_khalsa_1", "ev_persia": "ev_persia_2",
 }
-# never use: bandits_1 (gruesome), learning_2 (unrelated), detente_* and tall_* (modern or not Chinese)
+PICKS.update({"conscript": "conscript_1", "republic": "republic_1", "mass": "mass_2", "treasure": "treasure_1"})
+# never use: bandits_1 and ev_horde_2 (gruesome), learning_2 (unrelated), ev_horde_1 (modern soldiers),
+# detente_* and tall_* (modern or not Chinese)
 # categories with no good candidate borrow a related picture
 BORROW = {"regional": "china", "settle": "dominion", "accord": "identity", "denounce": "claim", "detente": "accord", "ambition": "road_war",
           "protection": "claim", "tall": "university", "opium_burn": "opium", "revenue": "mint", "bandits": "conscript", "army": "identity",

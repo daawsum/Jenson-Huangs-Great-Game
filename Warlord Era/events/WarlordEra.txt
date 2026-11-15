@@ -2,7 +2,7 @@ country_event = {
 	id = 880001
 	title = "EVTNAME880001"
 	desc = "EVTDESC880001"
-	picture = "we_e_claim_2"
+	picture = "we_e_ev_khalsa_1"
 	trigger = {
 		OR = { tag = PAN tag = KLS }
 		NOT = { has_country_modifier = khalsa_army }
@@ -20,7 +20,7 @@ country_event = {
 	id = 880002
 	title = "EVTNAME880002"
 	desc = "EVTDESC880002"
-	picture = "we_e_claim_2"
+	picture = "we_e_mongolia_1"
 	trigger = {
 		OR = { tag = MGL tag = KHG }
 		NOT = { has_country_modifier = mongol_horde }
@@ -38,7 +38,7 @@ country_event = {
 	id = 880003
 	title = "EVTNAME880003"
 	desc = "EVTDESC880003"
-	picture = "we_e_claim_2"
+	picture = "we_e_ev_persia_2"
 	trigger = {
 		OR = { tag = PER tag = PSE }
 		NOT = { has_country_modifier = qajar_nizam }
@@ -447,7 +447,7 @@ country_event = {
 	id = 880025
 	title = "EVTNAME880025"
 	desc = "EVTDESC880025"
-	picture = "we_e_claim_1"
+	picture = "we_e_ev_taiwan_2"
 	trigger = {
 		tag = TWN
 		NOT = { has_country_modifier = taiwanese_maritime_heritage }
@@ -465,7 +465,7 @@ country_event = {
 	id = 880026
 	title = "EVTNAME880026"
 	desc = "EVTDESC880026"
-	picture = "we_e_claim_1"
+	picture = "we_e_ev_taiwan_2"
 	trigger = {
 		tag = TWN
 		NOT = { has_country_modifier = taiwanese_dream }
@@ -483,7 +483,7 @@ country_event = {
 	id = 880027
 	title = "EVTNAME880027"
 	desc = "EVTDESC880027"
-	picture = "we_e_ambition_1"
+	picture = "we_e_ev_greatwar_2"
 	fire_only_once = yes
 	trigger = {
 		revolution_n_counterrevolution = 1
@@ -587,7 +587,7 @@ country_event = {
 	id = 880032
 	title = "EVTNAME880032"
 	desc = "EVTDESC880032"
-	picture = "we_e_army_2"
+	picture = "we_e_conscript_1"
 	trigger = {
 		has_country_flag = chinese_warlord
 		war = yes
@@ -612,7 +612,7 @@ country_event = {
 	id = 880033
 	title = "EVTNAME880033"
 	desc = "EVTDESC880033"
-	picture = "we_e_army_2"
+	picture = "we_e_conscript_1"
 	trigger = {
 		has_country_flag = chinese_warlord
 		war = yes
@@ -636,7 +636,7 @@ country_event = {
 	id = 880034
 	title = "EVTNAME880034"
 	desc = "EVTDESC880034"
-	picture = "we_e_learning_1"
+	picture = "we_e_ev_students_2"
 	trigger = {
 		has_country_flag = chinese_warlord
 		NOT = { exists = CHI }

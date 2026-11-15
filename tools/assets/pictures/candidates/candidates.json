@@ -390,5 +390,369 @@
   "licence": "Public domain",
   "page": "https://commons.wikimedia.org/wiki/File:Yuan_Shikai_with_army_officers.jpg",
   "query": "Yuan Shikai"
+ },
+ "republic_1": {
+  "title": "File:Sun Yat Sen portrait 2.jpg",
+  "author": "上海同生照相馆 (K.T. Thompson)",
+  "licence": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Sun_Yat_Sen_portrait_2.jpg",
+  "query": "Sun Yat-sen 1912"
+ },
+ "republic_2": {
+  "title": "File:Sun Yat-sen and officials in 1912.jpg",
+  "author": "Unknown authorUnknown author",
+  "licence": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Sun_Yat-sen_and_officials_in_1912.jpg",
+  "query": "Sun Yat-sen 1912"
+ },
+ "land_1": {
+  "title": "File:Farmers of forty centuries - Transplanting rice in China.jpg",
+  "author": "Unknown photographerUnknown photographer",
+  "licence": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Farmers_of_forty_centuries_-_Transplanting_rice_in_China.jpg",
+  "query": "rice farmers China"
+ },
+ "land_2": {
+  "title": "File:Farmers of forty centuries - Applying chaff to a rice field, China.jpg",
+  "author": "Unknown photographerUnknown photographer",
+  "licence": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Farmers_of_forty_centuries_-_Applying_chaff_to_a_rice_field,_China.jpg",
+  "query": "rice farmers China"
+ },
+ "mass_1": {
+  "title": "File:向乃祺2.jpg",
+  "author": "《憲法新聞》 1913年",
+  "licence": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:%E5%90%91%E4%B9%83%E7%A5%BA2.jpg",
+  "query": "National Assembly Republic of China 1913"
+ },
+ "mass_2": {
+  "title": "File:Beiyang Government detail, 中华民国成立之初的参议院 (cropped).jpg",
+  "author": "Unknown authorUnknown author",
+  "licence": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Beiyang_Government_detail,_%E4%B8%AD%E5%8D%8E%E6%B0%91%E5%9B%BD%E6%88%90%E7%AB%8B%E4%B9%8B%E5%88%9D%E7%9A%84%E5%8F%82%E8%AE%AE%E9%99%A2_(cropped).jpg",
+  "query": "National Assembly Republic of China 1913"
+ },
+ "whampoa_1": {
+  "title": "File:Sun Yat-sen in Whampoa Military Academy open ceremony.jpg",
+  "author": "Unknown authorUnknown author",
+  "licence": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Sun_Yat-sen_in_Whampoa_Military_Academy_open_ceremony.jpg",
+  "query": "Whampoa Military Academy"
+ },
+ "whampoa_2": {
+  "title": "File:Sun Yat-sen, He Yingqin, Chiang Kai-shek & Wang Bo-ling at the Whampoa Military Academy, June 1924.jpg",
+  "author": "Unknown authorUnknown author",
+  "licence": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Sun_Yat-sen,_He_Yingqin,_Chiang_Kai-shek_%26_Wang_Bo-ling_at_the_Whampoa_Military_Academy,_June_1924.jpg",
+  "query": "Whampoa Military Academy"
+ },
+ "shipyard_1": {
+  "title": "File:FOOCHOW ARSENAL.jpg",
+  "author": "John Thomson",
+  "licence": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:FOOCHOW_ARSENAL.jpg",
+  "query": "Foochow Arsenal"
+ },
+ "shipyard_2": {
+  "title": "File:Sketch of Foochow Arsenal, 1884.jpg",
+  "author": "Unknown authorUnknown author",
+  "licence": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Sketch_of_Foochow_Arsenal,_1884.jpg",
+  "query": "Foochow Arsenal"
+ },
+ "university_1": {
+  "title": "File:Gate of Agricultural Department, Imperial University of Peking.jpg",
+  "author": "Unknown authorUnknown author",
+  "licence": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Gate_of_Agricultural_Department,_Imperial_University_of_Peking.jpg",
+  "query": "Imperial University of Peking"
+ },
+ "railway_1": {
+  "title": "File:StephensonNo3-sm.jpg",
+  "author": "scan by P.A. Crush of original '皮特•柯睿思中国铁路收藏’",
+  "licence": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:StephensonNo3-sm.jpg",
+  "query": "Peking Mukden railway locomotive"
+ },
+ "railway_2": {
+  "title": "File:Beining Railway No. 46 (China Railways AM2).png",
+  "author": "中国铁道出版社",
+  "licence": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Beining_Railway_No._46_(China_Railways_AM2).png",
+  "query": "Peking Mukden railway locomotive"
+ },
+ "treasure_1": {
+  "title": "File:Zheng He Treasure Ship (15832736462).jpg",
+  "author": "Gary Todd from Xinzheng, China",
+  "licence": "CC0",
+  "page": "https://commons.wikimedia.org/wiki/File:Zheng_He_Treasure_Ship_(15832736462).jpg",
+  "query": "Zheng He ship"
+ },
+ "treasure_2": {
+  "title": "File:Zheng He Treasure Ship (15211206494).jpg",
+  "author": "Gary Todd from Xinzheng, China",
+  "licence": "CC0",
+  "page": "https://commons.wikimedia.org/wiki/File:Zheng_He_Treasure_Ship_(15211206494).jpg",
+  "query": "Zheng He ship"
+ },
+ "mint_1": {
+  "title": "File:Yuan Shikai Dollar Year 3 Obverse.jpg",
+  "author": "Justine Philip, Museums Victoria",
+  "licence": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Yuan_Shikai_Dollar_Year_3_Obverse.jpg",
+  "query": "Yuan Shikai dollar"
+ },
+ "mint_2": {
+  "title": "File:1 dollar Yuan Shikai X - 1921.png",
+  "author": "Windrain",
+  "licence": "CC0",
+  "page": "https://commons.wikimedia.org/wiki/File:1_dollar_Yuan_Shikai_X_-_1921.png",
+  "query": "Yuan Shikai dollar"
+ },
+ "tibet_1": {
+  "title": "File:Mount Mar-bo-ri and the Potala Palace, Lhasa, Tsybikov-Smithsonian-1905-Plate-3.jpg",
+  "author": "Gombojab Tsybikov",
+  "licence": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Mount_Mar-bo-ri_and_the_Potala_Palace,_Lhasa,_Tsybikov-Smithsonian-1905-Plate-3.jpg",
+  "query": "Potala Palace 1904"
+ },
+ "tibet_2": {
+  "title": "File:Lhasa, Amban's Yamen from Southeast.jpg",
+  "author": "Ovshe Norzunov",
+  "licence": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Lhasa,_Amban%27s_Yamen_from_Southeast.jpg",
+  "query": "Potala Palace 1904"
+ },
+ "mongolia_1": {
+  "title": "File:A hunter in Khuree.jpg",
+  "author": "Stéphane Passet",
+  "licence": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:A_hunter_in_Khuree.jpg",
+  "query": "Urga 1913"
+ },
+ "mongolia_2": {
+  "title": "File:Mongolei, nahe Ulaanbaatar Urga.jpg",
+  "author": "Stéphane Passet",
+  "licence": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Mongolei,_nahe_Ulaanbaatar_Urga.jpg",
+  "query": "Urga 1913"
+ },
+ "korea_1": {
+  "title": "File:Gyeongbokgung Gyeonghoeru 1906.png",
+  "author": "ja:朝日新聞社",
+  "licence": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Gyeongbokgung_Gyeonghoeru_1906.png",
+  "query": "Gyeongbokgung 1900s"
+ },
+ "korea_2": {
+  "title": "File:Gyeongbokgung 1906 3.jpg",
+  "author": "ja:朝日新聞社",
+  "licence": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Gyeongbokgung_1906_3.jpg",
+  "query": "Gyeongbokgung 1900s"
+ },
+ "annam_1": {
+  "title": "File:Province de Thua-Thien (1909).jpg",
+  "author": "Chabert-Ostland, Clément-Casimir de (1881-1915) Gallois, Lucien (1857-1941)",
+  "licence": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Province_de_Thua-Thien_(1909).jpg",
+  "query": "Hue citadel 1900s"
+ },
+ "sikh_1": {
+  "title": "File:Maharaja Ranjit Singh portrait.jpg",
+  "author": "AnonymousUnknown author",
+  "licence": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Maharaja_Ranjit_Singh_portrait.jpg",
+  "query": "Ranjit Singh"
+ },
+ "sikh_2": {
+  "title": "File:Painting of the the court of Maharaja Ranjit Singh, by Bishan Singh, ca.1863–64.jpg",
+  "author": "Bishan Singh",
+  "licence": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Painting_of_the_the_court_of_Maharaja_Ranjit_Singh,_by_Bishan_Singh,_ca.1863%E2%80%9364.jpg",
+  "query": "Ranjit Singh"
+ },
+ "persia_1": {
+  "title": "File:Nasser al-Din Shah Louvre MAO776-Edit.jpg",
+  "author": "Bahram Kirmanshahi (Persian, 19th century)",
+  "licence": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Nasser_al-Din_Shah_Louvre_MAO776-Edit.jpg",
+  "query": "Naser al-Din Shah Qajar"
+ },
+ "persia_2": {
+  "title": "File:Naser al-Din Shah Qajar, close up, with slight smile by Nadar.jpg",
+  "author": "Nadar / Adam Cuerden",
+  "licence": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Naser_al-Din_Shah_Qajar,_close_up,_with_slight_smile_by_Nadar.jpg",
+  "query": "Naser al-Din Shah Qajar"
+ },
+ "japan_1": {
+  "title": "File:Samurai with sword.jpg",
+  "author": "Felice Beato",
+  "licence": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Samurai_with_sword.jpg",
+  "query": "samurai Felice Beato"
+ },
+ "japan_2": {
+  "title": "File:Felice Beato éxecution.jpg",
+  "author": "Felice Beato",
+  "licence": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Felice_Beato_%C3%A9xecution.jpg",
+  "query": "samurai Felice Beato"
+ },
+ "suvar_1": {
+  "title": "File:Khlong Somdet in Bangkok Photo 1907 J Antonio.png",
+  "author": "Joaquim Antonio (1857-1912)",
+  "licence": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Khlong_Somdet_in_Bangkok_Photo_1907_J_Antonio.png",
+  "query": "Wat Arun 1900s"
+ },
+ "nanyang_1": {
+  "title": "File:Singapore Roads with Market Hall LCCN2017657640.jpg",
+  "author": "Photoglob Co., publisher",
+  "licence": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Singapore_Roads_with_Market_Hall_LCCN2017657640.jpg",
+  "query": "Singapore harbour 1890s"
+ },
+ "advisors_1": {
+  "title": "File:Carlo Pellegrini - Vanity Fair, Military and Navy, ^The Ever Victorious Army^, Lt Colonel Charles George Gordon - B1979.14.403 - Yale Center for British Art.jpg",
+  "author": "Carlo Pellegrini",
+  "licence": "CC0",
+  "page": "https://commons.wikimedia.org/wiki/File:Carlo_Pellegrini_-_Vanity_Fair,_Military_and_Navy,_%5EThe_Ever_Victorious_Army%5E,_Lt_Colonel_Charles_George_Gordon_-_B1979.14.403_-_Yale_Center_for_British_Art.jpg",
+  "query": "Charles George Gordon Ever Victorious Army"
+ },
+ "advisors_2": {
+  "title": "File:Charles George Gordon, Vanity Fair, 1881-02-19.jpg",
+  "author": "Leslie Ward",
+  "licence": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Charles_George_Gordon,_Vanity_Fair,_1881-02-19.jpg",
+  "query": "Charles George Gordon Ever Victorious Army"
+ },
+ "conscript_1": {
+  "title": "File:Chinese warlord soldiers training with swords 2.png",
+  "author": "Central Intelligence Agency",
+  "licence": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Chinese_warlord_soldiers_training_with_swords_2.png",
+  "query": "Chinese warlord soldiers"
+ },
+ "conscript_2": {
+  "title": "File:Chinese warlord soldiers training with swords 1.png",
+  "author": "Central Intelligence Agency",
+  "licence": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Chinese_warlord_soldiers_training_with_swords_1.png",
+  "query": "Chinese warlord soldiers"
+ },
+ "ev_warlords_1": {
+  "title": "File:Zhang Zuolin3.jpg",
+  "author": "Unknown authorUnknown author",
+  "licence": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Zhang_Zuolin3.jpg",
+  "query": "Zhang Zuolin"
+ },
+ "ev_warlords_2": {
+  "title": "File:Zhang Zuolin during Qing general.jpg",
+  "author": "Unknown authorUnknown author",
+  "licence": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Zhang_Zuolin_during_Qing_general.jpg",
+  "query": "Zhang Zuolin"
+ },
+ "ev_students_1": {
+  "title": "File:Female students participate in demonstration as part of the May Fourth Movement, in 1919.jpg",
+  "author": "Unknown authorUnknown author",
+  "licence": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Female_students_participate_in_demonstration_as_part_of_the_May_Fourth_Movement,_in_1919.jpg",
+  "query": "May Fourth Movement"
+ },
+ "ev_students_2": {
+  "title": "File:Chinese protestors march against the Treaty of Versailles (May 4, 1919).jpg",
+  "author": "Unknown authorUnknown author",
+  "licence": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Chinese_protestors_march_against_the_Treaty_of_Versailles_(May_4,_1919).jpg",
+  "query": "May Fourth Movement"
+ },
+ "ev_taiwan_1": {
+  "title": "File:Koxinga statue.jpg",
+  "author": ".mw-parser-output .messagebox{margin:4px 0;width:auto;border-collapse:collapse;border:2px solid var(--border-color-progressive,#6485d1);background-color:var(--b",
+  "licence": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Koxinga_statue.jpg",
+  "query": "Koxinga"
+ },
+ "ev_taiwan_2": {
+  "title": "File:The Portrait of Koxinga.jpg",
+  "author": "AnonymousUnknown author",
+  "licence": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:The_Portrait_of_Koxinga.jpg",
+  "query": "Koxinga"
+ },
+ "ev_horde_1": {
+  "title": "File:Mongolian Armed Forces 100711-A-CE583-114.jpg",
+  "author": "Sgt. Matthew Nedved",
+  "licence": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Mongolian_Armed_Forces_100711-A-CE583-114.jpg",
+  "query": "Mongolian soldiers 1921"
+ },
+ "ev_horde_2": {
+  "title": "File:Урга, 1921.jpg",
+  "author": "Unknown authorUnknown author",
+  "licence": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:%D0%A3%D1%80%D0%B3%D0%B0,_1921.jpg",
+  "query": "Mongolian soldiers 1921"
+ },
+ "ev_khalsa_1": {
+  "title": "File:Later reproduction of a painting of a durbar (court) scene of Maharaja Ranjit Singh during the reign of the Sikh Empire underneath a canopy, with identifying Perso-Arabic inscriptions (in Nastaliq font).jpg",
+  "author": "Unknown authorUnknown author",
+  "licence": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Later_reproduction_of_a_painting_of_a_durbar_(court)_scene_of_Maharaja_Ranjit_Singh_during_the_reign_of_the_Sikh_Empire_underneath_a_canopy,_with_identifying_Perso-Arabic_inscriptions_(in_Nastaliq_font).jpg",
+  "query": "Sikh Empire army painting"
+ },
+ "ev_khalsa_2": {
+  "title": "File:Incomplete painting of a Sikh chief marching with armed horse horseman carrying tents, ca.1820.jpg",
+  "author": "Unknown authorUnknown author",
+  "licence": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Incomplete_painting_of_a_Sikh_chief_marching_with_armed_horse_horseman_carrying_tents,_ca.1820.jpg",
+  "query": "Sikh Empire army painting"
+ },
+ "ev_persia_1": {
+  "title": "File:Persian Cossack Brigade.jpg",
+  "author": "Unknown authorUnknown author",
+  "licence": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Persian_Cossack_Brigade.jpg",
+  "query": "Persian Cossack Brigade"
+ },
+ "ev_persia_2": {
+  "title": "File:Persian cossack brigade.jpg",
+  "author": "Alexander Ivanovich Iyas",
+  "licence": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Persian_cossack_brigade.jpg",
+  "query": "Persian Cossack Brigade"
+ },
+ "ev_oil_1": {
+  "title": "File:Oil wells just offshore at Summerland, California, c.1915.jpg",
+  "author": "G.H. Eldridge (1854–1905)",
+  "licence": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Oil_wells_just_offshore_at_Summerland,_California,_c.1915.jpg",
+  "query": "oil derrick 1900s"
+ },
+ "ev_oil_2": {
+  "title": "File:The History of the Standard Oil Company Vol 2 - p240 - 241 combined.png",
+  "author": "Ida Tarbell",
+  "licence": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:The_History_of_the_Standard_Oil_Company_Vol_2_-_p240_-_241_combined.png",
+  "query": "oil derrick 1900s"
+ },
+ "ev_greatwar_1": {
+  "title": "File:Sick Parade - British Labour Corps, Indian Troops, Chinese Labour Corps. and German Prisoners of War, Menin Road Aid Post Ypres, 1919 Art.IWMART3781.jpg",
+  "author": "Haydn Reynolds Mackey",
+  "licence": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:Sick_Parade_-_British_Labour_Corps,_Indian_Troops,_Chinese_Labour_Corps._and_German_Prisoners_of_War,_Menin_Road_Aid_Post_Ypres,_1919_Art.IWMART3781.jpg",
+  "query": "Chinese Labour Corps"
+ },
+ "ev_greatwar_2": {
+  "title": "File:The Chinese Labour Corps on the Western Front 1916-1918 Q9848.jpg",
+  "author": "David McLellan",
+  "licence": "Public domain",
+  "page": "https://commons.wikimedia.org/wiki/File:The_Chinese_Labour_Corps_on_the_Western_Front_1916-1918_Q9848.jpg",
+  "query": "Chinese Labour Corps"
  }
 }

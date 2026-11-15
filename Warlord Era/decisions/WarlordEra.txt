@@ -3167,7 +3167,7 @@ political_decisions = {
 	}
 
 	form_mongol_empire = {
-		picture = we_d_claim_2
+		picture = we_d_mongolia_1
 		potential = {
 			tag = MGL
 			NOT = { exists = KHG }
@@ -3194,7 +3194,7 @@ political_decisions = {
 	}
 
 	form_khalsa_raj = {
-		picture = we_d_claim_2
+		picture = we_d_sikh_1
 		potential = {
 			tag = PAN
 			NOT = { exists = KLS }
@@ -3223,7 +3223,7 @@ political_decisions = {
 	}
 
 	form_persian_empire = {
-		picture = we_d_claim_2
+		picture = we_d_persia_2
 		potential = {
 			tag = PER
 			NOT = { exists = PSE }
@@ -3372,7 +3372,7 @@ political_decisions = {
 	}
 
 	found_whampoa = {
-		picture = we_d_army_1
+		picture = we_d_whampoa_1
 		potential = {
 			has_country_flag = chinese_warlord
 			owns = 1493
@@ -3438,7 +3438,7 @@ political_decisions = {
 	}
 
 	build_jiangnan_shipyard = {
-		picture = we_d_outlook_2
+		picture = we_d_shipyard_1
 		potential = {
 			has_country_flag = chinese_warlord
 			owns = 1538
@@ -3459,7 +3459,7 @@ political_decisions = {
 	}
 
 	found_peking_university = {
-		picture = we_d_china_3
+		picture = we_d_university_1
 		potential = {
 			has_country_flag = chinese_warlord
 			owns = 1612
@@ -3482,7 +3482,7 @@ political_decisions = {
 	}
 
 	build_longhai_railway = {
-		picture = we_d_develop_3
+		picture = we_d_railway_2
 		potential = {
 			has_country_flag = chinese_warlord
 			owns = 1542
@@ -3540,7 +3540,7 @@ political_decisions = {
 	}
 
 	revive_treasure_fleet = {
-		picture = we_d_dominion_1
+		picture = we_d_treasure_1
 		potential = {
 			has_country_flag = chinese_warlord
 			OR = {
@@ -3570,7 +3570,7 @@ political_decisions = {
 	}
 
 	collect_remittances = {
-		picture = we_d_dominion_2
+		picture = we_d_nanyang_1
 		potential = {
 			civilized = yes
 			num_of_vassals = 1
@@ -3613,7 +3613,7 @@ political_decisions = {
 	}
 
 	open_silver_mint = {
-		picture = we_d_claim_2
+		picture = we_d_mint_1
 		potential = {
 			has_country_flag = chinese_warlord
 			NOT = { has_country_flag = did_open_silver_mint }
@@ -3633,7 +3633,7 @@ political_decisions = {
 	}
 
 	pacify_tibet = {
-		picture = we_d_claim_2
+		picture = we_d_tibet_1
 		potential = {
 			has_country_flag = chinese_warlord
 			exists = TIB
@@ -3657,7 +3657,7 @@ political_decisions = {
 	}
 
 	reclaim_outer_mongolia = {
-		picture = we_d_claim_2
+		picture = we_d_mongolia_1
 		potential = {
 			has_country_flag = chinese_warlord
 			exists = MGL
@@ -3681,7 +3681,7 @@ political_decisions = {
 	}
 
 	claim_korea = {
-		picture = we_d_claim_2
+		picture = we_d_korea_1
 		potential = {
 			has_country_flag = chinese_warlord
 			exists = KOR
@@ -3704,7 +3704,7 @@ political_decisions = {
 	}
 
 	claim_annam = {
-		picture = we_d_claim_2
+		picture = we_d_annam_1
 		potential = {
 			has_country_flag = chinese_warlord
 			exists = DAI
@@ -3727,7 +3727,7 @@ political_decisions = {
 	}
 
 	expand_fauj_i_khas = {
-		picture = we_d_claim_2
+		picture = we_d_sikh_1
 		potential = {
 			OR = { tag = PAN tag = KLS }
 			NOT = { has_country_flag = did_expand_fauj_i_khas }
@@ -3746,7 +3746,7 @@ political_decisions = {
 	}
 
 	hire_european_generals = {
-		picture = we_d_claim_2
+		picture = we_d_sikh_1
 		potential = {
 			OR = { tag = PAN tag = KLS }
 			NOT = { has_country_flag = did_hire_european_generals }
@@ -3765,7 +3765,7 @@ political_decisions = {
 	}
 
 	seize_the_khyber = {
-		picture = we_d_claim_2
+		picture = we_d_sikh_1
 		potential = {
 			OR = { tag = PAN tag = KLS }
 			exists = AFG
@@ -3788,7 +3788,7 @@ political_decisions = {
 	}
 
 	claim_hindustan = {
-		picture = we_d_claim_2
+		picture = we_d_sikh_1
 		potential = {
 			OR = { tag = PAN tag = KLS }
 			exists = MUG
@@ -3810,7 +3810,7 @@ political_decisions = {
 	}
 
 	conquer_sindh = {
-		picture = we_d_claim_2
+		picture = we_d_sikh_1
 		potential = {
 			OR = { tag = PAN tag = KLS }
 			exists = SIN
@@ -3831,7 +3831,7 @@ political_decisions = {
 	}
 
 	dogra_expedition = {
-		picture = we_d_claim_2
+		picture = we_d_sikh_1
 		potential = {
 			OR = { tag = PAN tag = KLS }
 			exists = TIB
@@ -3853,7 +3853,7 @@ political_decisions = {
 	}
 
 	proclaim_nizam_e_jadid = {
-		picture = we_d_claim_2
+		picture = we_d_persia_2
 		potential = {
 			OR = { tag = PER tag = PSE }
 			NOT = { has_country_flag = did_proclaim_nizam_e_jadid }
@@ -3872,7 +3872,7 @@ political_decisions = {
 	}
 
 	found_dar_ul_funun = {
-		picture = we_d_claim_2
+		picture = we_d_persia_2
 		potential = {
 			OR = { tag = PER tag = PSE }
 			NOT = { has_country_flag = did_found_dar_ul_funun }
@@ -3892,7 +3892,7 @@ political_decisions = {
 	}
 
 	reclaim_herat = {
-		picture = we_d_claim_2
+		picture = we_d_persia_2
 		potential = {
 			OR = { tag = PER tag = PSE }
 			exists = AFG
@@ -3914,7 +3914,7 @@ political_decisions = {
 	}
 
 	claim_mesopotamia = {
-		picture = we_d_claim_2
+		picture = we_d_persia_2
 		potential = {
 			OR = { tag = PER tag = PSE }
 			exists = IRQ
@@ -3935,7 +3935,7 @@ political_decisions = {
 	}
 
 	claim_the_caucasus = {
-		picture = we_d_claim_2
+		picture = we_d_persia_2
 		potential = {
 			OR = { tag = PER tag = PSE }
 			NOT = { has_country_flag = did_claim_the_caucasus }
@@ -3958,7 +3958,7 @@ political_decisions = {
 	}
 
 	subdue_the_khanates = {
-		picture = we_d_claim_2
+		picture = we_d_persia_2
 		potential = {
 			OR = { tag = PER tag = PSE }
 			NOT = { has_country_flag = did_subdue_the_khanates }
@@ -3980,7 +3980,7 @@ political_decisions = {
 	}
 
 	mongol_felt_tents = {
-		picture = we_d_claim_2
+		picture = we_d_mongolia_1
 		potential = {
 			OR = { tag = MGL tag = KHG }
 			NOT = { has_country_flag = did_mongol_felt_tents }
@@ -4004,7 +4004,7 @@ political_decisions = {
 	}
 
 	mongol_scourge_of_the_north = {
-		picture = we_d_claim_2
+		picture = we_d_mongolia_1
 		potential = {
 			OR = { tag = MGL tag = KHG }
 			NOT = { has_country_flag = did_mongol_scourge_of_the_north }
@@ -4024,7 +4024,7 @@ political_decisions = {
 	}
 
 	call_the_kurultai = {
-		picture = we_d_claim_2
+		picture = we_d_mongolia_1
 		potential = {
 			OR = { tag = MGL tag = KHG }
 			NOT = { has_country_flag = did_call_the_kurultai }
@@ -4043,7 +4043,7 @@ political_decisions = {
 	}
 
 	revive_the_tumens = {
-		picture = we_d_claim_2
+		picture = we_d_mongolia_1
 		potential = {
 			OR = { tag = MGL tag = KHG }
 			NOT = { has_country_flag = did_revive_the_tumens }
@@ -4061,7 +4061,7 @@ political_decisions = {
 	}
 
 	claim_inner_mongolia = {
-		picture = we_d_claim_2
+		picture = we_d_mongolia_1
 		potential = {
 			OR = { tag = MGL tag = KHG }
 			NOT = { has_country_flag = did_claim_inner_mongolia }
@@ -4083,7 +4083,7 @@ political_decisions = {
 	}
 
 	ride_on_beijing = {
-		picture = we_d_claim_2
+		picture = we_d_mongolia_1
 		potential = {
 			OR = { tag = MGL tag = KHG }
 			exists = ZHL
@@ -4105,7 +4105,7 @@ political_decisions = {
 	}
 
 	claim_dzungaria = {
-		picture = we_d_claim_2
+		picture = we_d_mongolia_1
 		potential = {
 			OR = { tag = MGL tag = KHG }
 			exists = XIN
@@ -4126,7 +4126,7 @@ political_decisions = {
 	}
 
 	claim_buryatia = {
-		picture = we_d_claim_2
+		picture = we_d_mongolia_1
 		potential = {
 			OR = { tag = MGL tag = KHG }
 			NOT = { has_country_flag = did_claim_buryatia }
@@ -4168,7 +4168,7 @@ political_decisions = {
 	}
 
 	sonno_joi_dec = {
-		picture = we_d_claim_2
+		picture = we_d_japan_1
 		potential = {
 			tag = JAP
 			NOT = { has_country_flag = did_sonno_joi_dec }
@@ -4187,7 +4187,7 @@ political_decisions = {
 	}
 
 	open_nanyang_ports = {
-		picture = we_d_dominion_2
+		picture = we_d_nanyang_1
 		potential = {
 			has_country_flag = old_world_colony
 			NOT = { has_global_flag = new_world_opened }
@@ -4207,7 +4207,7 @@ political_decisions = {
 	}
 
 	grant_provincial_constitution = {
-		picture = we_d_accord_1
+		picture = we_d_mass_2
 		potential = {
 			has_country_flag = chinese_warlord
 			NOT = { has_country_flag = did_grant_provincial_constitution }
@@ -4537,7 +4537,7 @@ political_decisions = {
 	}
 
 	introduce_conscription = {
-		picture = we_d_army_2
+		picture = we_d_conscript_1
 		potential = {
 			has_country_flag = chinese_warlord
 			NOT = { has_country_flag = chose_army_model }
@@ -4713,7 +4713,7 @@ political_decisions = {
 	}
 
 	road_agrarian_order = {
-		picture = we_d_claim_2
+		picture = we_d_land_2
 		potential = {
 			has_country_flag = chinese_warlord
 			NOT = { has_country_flag = chose_economy }
@@ -4800,7 +4800,7 @@ political_decisions = {
 	}
 
 	found_national_academy = {
-		picture = we_d_china_3
+		picture = we_d_university_1
 		potential = {
 			has_country_flag = chinese_warlord
 			NOT = { has_country_flag = chose_learning }
@@ -4987,7 +4987,7 @@ political_decisions = {
 	}
 
 	proclaim_provisional_republic = {
-		picture = we_d_accord_1
+		picture = we_d_republic_1
 		potential = {
 			has_country_flag = chinese_warlord
 			NOT = { has_country_flag = chose_legitimacy }
@@ -5038,7 +5038,7 @@ political_decisions = {
 	}
 
 	land_to_the_tiller = {
-		picture = we_d_claim_2
+		picture = we_d_land_2
 		potential = {
 			has_country_flag = chinese_warlord
 			NOT = { has_country_flag = chose_land }
@@ -5084,7 +5084,7 @@ political_decisions = {
 	}
 
 	uphold_the_landlords = {
-		picture = we_d_claim_2
+		picture = we_d_land_2
 		potential = {
 			has_country_flag = chinese_warlord
 			NOT = { has_country_flag = chose_land }
@@ -5131,7 +5131,7 @@ political_decisions = {
 	}
 
 	build_party_state = {
-		picture = we_d_accord_1
+		picture = we_d_mass_2
 		potential = {
 			has_country_flag = chinese_warlord
 			NOT = { has_country_flag = chose_mass }
@@ -5178,7 +5178,7 @@ political_decisions = {
 	}
 
 	convene_parliament = {
-		picture = we_d_accord_1
+		picture = we_d_mass_2
 		potential = {
 			has_country_flag = chinese_warlord
 			NOT = { has_country_flag = chose_mass }
@@ -5461,7 +5461,7 @@ political_decisions = {
 	}
 
 	form_suvarnabhumi = {
-		picture = we_d_claim_2
+		picture = we_d_suvar_1
 		potential = {
 			OR = {
 				tag = SIA
@@ -5493,7 +5493,7 @@ political_decisions = {
 	}
 
 	japan_continental_victory = {
-		picture = we_d_claim_2
+		picture = we_d_japan_1
 		potential = {
 			tag = JAP
 			civilized = no
@@ -5555,7 +5555,7 @@ political_decisions = {
 	}
 
 	japan_accept_koreans = {
-		picture = we_d_claim_2
+		picture = we_d_japan_1
 		potential = {
 			tag = JAP
 			NOT = { has_country_flag = did_japan_accept_koreans }
