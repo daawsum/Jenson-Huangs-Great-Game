@@ -30,7 +30,6 @@ FAMILIES = {
     "acquire_core_state": [0.001, 0.003, 0.004, 0.006, 0.008],
     "acquire_state": [0.003, 0.006, 0.008, 0.012, 0.016],
     "place_in_the_sun": [0.001, 0.002, 0.003, 0.004, 0.005],
-    "free_peoples": [0.003, 0.006, 0.008, 0.012, 0.016],
     "demand_concession_casus_belli": [0.002, 0.004, 0.006, 0.008, 0.010],
     "unification_casus_belli": [0.002, 0.004, 0.008, 0.012, 0.016],
     "warlord_take_state": [0.002, 0.004, 0.006, 0.009, 0.012],          # this mod's own war goal
@@ -128,39 +127,108 @@ def inject(b, section, line):
     return b[:k] + "\t%s = {\n\t\t%s\n\t}\n" % (section, line) + b[k:]
 
 
+# The sized war goals are Heartbreaker's own blocks, copied as they stand. What matters in them:
+#   * the size marker (is_core = TIN/SMA/...) is tested ONLY inside allowed_states, together with the
+#     other province conditions. It is never in can_use: can_use is what the game turns into the
+#     tooltip of the war goal list, and a marker tag there is what crashed on hover.
+#   * every one is is_triggered_only (it must be justified), with Heartbreaker's costs and truces.
+# Taken out of each block: the lines naming Heartbreaker's own tags (LCT, GHO) and its rule that
+# China can neither use the goal nor be its target.
+# Free Peoples is not split by size here and the original is switched off: its list of countries to
+# free offered the marker tags themselves.
+hb_cb = open(os.path.join(HB, "common", "cb_types.txt"), encoding=ENC, errors="replace").read().replace("\r\n", "\n")
+HB_FAMILIES = ["acquire_core_state", "acquire_state", "place_in_the_sun", "demand_concession_casus_belli"]
+# (Heartbreaker rewrote unification_casus_belli for four countries of its own, so that family is sized here like the warlord goal)
+DROP = [r"NOT\s*=\s*\{\s*tag\s*=\s*LCT\s*\}", r"NOT\s*=\s*\{\s*tag\s*=\s*GHO\s*\}", r"NOT\s*=\s*\{\s*tag\s*=\s*CHI\s*\}",
+        r"this\s*=\s*\{\s*NOT\s*=\s*\{\s*tag\s*=\s*CHI\s*\}\s*\}"]
+have_tags = set(re.findall(r"(?m)^(\w{3})\s*=", read("common/countries.txt"))) | {"REB"}
+
+
+def from_heartbreaker(name):
+    sp = block_span(hb_cb, name)
+    assert sp, "Heartbreaker has no war goal " + name
+    v = hb_cb[sp[0]:sp[1]]
+    for rx in DROP:
+        v = re.sub(r"(?mi)^[ \t]*%s[ \t]*(#.*)?\n" % rx, "", v)
+    bare = re.sub(r"#.*", "", v)
+    odd = set(re.findall(r"\btag\s*=\s*([A-Z][A-Z0-9]{2})\b", bare)) - have_tags - {"THIS", "FROM"}
+    assert not odd, (name, "names tags this mod does not have", odd)
+    cu = bare[bare.index("can_use"):bare.index("allowed_states")] if "allowed_states" in bare and "can_use" in bare else ""
+    assert not re.search(r"is_core\s*=\s*(TIN|SMA|MED|LRG|HUG)", cu), (name, "marker tag inside can_use")
+    assert bare.count("{") == bare.count("}"), name
+    return v
+
+
 order = []
-if "acquire_state_tiny" not in cb:
-    cb = re.sub(r"(?ms)^warlord_take_state_(tiny|small|medium|large|huge) = \{.*?\n\}\n", "", cb)      # older split, if present
-    for fam, factors in FAMILIES.items():
-        sp = block_span(cb, fam)
-        assert sp, "war goal not found in cb_types.txt: " + fam
-        base = cb[sp[0]:sp[1]]
-        variants = ""
-        for (tag, key, name), f in zip(SIZES, factors):
-            v = base.replace("%s = {" % fam, "%s_%s = {" % (fam, key), 1)
-            v = set_field(v, "peace_cost_factor", f)
-            v = add_flag(v, "po_remove_prestige = yes")
-            v = inject(v, "allowed_states", "any_owned_province = { is_core = %s }" % tag)
-            v = inject(v, "can_use", "any_owned_province = { is_core = %s }" % tag)
-            variants += v + "\n\n"
-            order.append("%s_%s" % (fam, key))
-        # the unsized original: still defined for vanilla events, costed like a medium state, not justifiable
-        orig = set_field(base, "peace_cost_factor", factors[2])
-        orig = add_flag(orig, "po_remove_prestige = yes")
-        orig = re.sub(r"(?m)^\s*always\s*=\s*yes\s*\n", "", orig)
-        orig = set_field(orig, "constructing_cb", "no")
-        if fam == "warlord_take_state":
-            orig = ""
-        cb = cb[:sp[0]] + variants + orig + cb[sp[1]:]
-    # war goals that only remove prestige were costed for PEACE_COST_PRESTIGE = 1; give them Heartbreaker's 16%
-    for name in ("humiliate", "rude_boy"):
-        sp = block_span(cb, name)
-        if sp:
-            cb = cb[:sp[0]] + set_field(cb[sp[0]:sp[1]], "peace_cost_factor", 0.004) + cb[sp[1]:]
-    po = re.search(r"peace_order\s*=\s*\{", cb)
-    cb = cb[:po.end()] + "\n" + "\n".join(order) + cb[po.end():]
-    cb = re.sub(r"(?m)^warlord_take_state\s*\n", "", cb)
-    write("common/cb_types.txt", cb)
+cb = re.sub(r"(?ms)^warlord_take_state_(tiny|small|medium|large|huge) = \{.*?\n\}\n", "", cb)
+for fam in HB_FAMILIES:
+    sp = block_span(cb, fam)
+    assert sp, "war goal not found in cb_types.txt: " + fam
+    base = cb[sp[0]:sp[1]]
+    variants = ""
+    for tag, key, name in SIZES:
+        variants += from_heartbreaker("%s_%s" % (fam, key)) + "\n\n"
+        order.append("%s_%s" % (fam, key))
+    # the unsized original stays defined (vanilla events grant it by name) but cannot be justified
+    orig = set_field(base, "peace_cost_factor", FAMILIES[fam][2])
+    orig = add_flag(orig, "po_remove_prestige = yes")
+    orig = re.sub(r"(?m)^\s*always\s*=\s*yes\s*\n", "", orig)
+    orig = set_field(orig, "constructing_cb", "no")
+    cb = cb[:sp[0]] + variants + orig + cb[sp[1]:]
+# this mod's own goal between cliques and vanilla's unification goal, sized the same way: marker in allowed_states only
+for fam in ("warlord_take_state", "unification_casus_belli"):
+    sp = block_span(cb, fam)
+    base = cb[sp[0]:sp[1]]
+    variants = ""
+    for (tag, key, name), f in zip(SIZES, FAMILIES[fam]):
+        v = base.replace("%s = {" % fam, "%s_%s = {" % (fam, key), 1)
+        v = set_field(v, "peace_cost_factor", f)
+        v = add_flag(v, "po_remove_prestige = yes")
+        v = inject(v, "allowed_states", "any_owned_province = { is_core = %s }" % tag)
+        variants += v + "\n\n"
+        order.append("%s_%s" % (fam, key))
+    orig = ""
+    if fam != "warlord_take_state":
+        orig = set_field(add_flag(set_field(base, "peace_cost_factor", FAMILIES[fam][2]), "po_remove_prestige = yes"), "constructing_cb", "no")
+    cb = cb[:sp[0]] + variants + orig + cb[sp[1]:]
+# free peoples: never usable
+sp = block_span(cb, "free_peoples")
+fp = cb[sp[0]:sp[1]]
+fp = set_field(fp, "is_triggered_only", "yes")
+fp = set_field(fp, "constructing_cb", "no")
+fp = re.sub(r"(?m)^\s*always\s*=\s*yes\s*\n", "", fp)
+fp = inject(fp, "can_use", "always = no")
+cb = cb[:sp[0]] + fp + cb[sp[1]:]
+for name in ("humiliate", "rude_boy"):      # prestige-only goals were costed for PEACE_COST_PRESTIGE = 1; Heartbreaker's 16%
+    sp = block_span(cb, name)
+    if sp:
+        cb = cb[:sp[0]] + set_field(cb[sp[0]:sp[1]], "peace_cost_factor", 0.004) + cb[sp[1]:]
+po = re.search(r"peace_order\s*=\s*\{", cb)
+cb = cb[:po.end()] + "\n" + "\n".join(order) + cb[po.end():]
+cb = re.sub(r"(?m)^warlord_take_state\s*\n", "", cb)
+for fam in HB_FAMILIES + ["warlord_take_state", "unification_casus_belli"]:
+    for tag, key, name in SIZES:
+        sp = block_span(cb, "%s_%s" % (fam, key))
+        bare = re.sub(r"#.*", "", cb[sp[0]:sp[1]])
+        i, j = bare.index("can_use"), bare.index("allowed_states")
+        assert "is_core = %s" % tag not in bare[i:j] and "is_core = %s" % tag in bare[j:], (fam, key)
+assert cb.count("{") == cb.count("}")
+write("common/cb_types.txt", cb)
+
+# the two modifiers Heartbreaker's blocks test for (never applied here, but they must exist to be named)
+emp = path("common/event_modifiers.txt")
+em = open(emp, encoding=ENC).read().replace("\r\n", "\n")
+hb_em = re.sub(r"#.*", "", open(os.path.join(HB, "common", "event_modifiers.txt"), encoding=ENC, errors="replace").read())
+addm = ""
+for k in sorted(set(re.findall(r"has_country_modifier\s*=\s*(\w+)", re.sub(r"#.*", "", cb)))):
+    builtin = re.sub(r"#.*", "", rd("common", "static_modifiers.txt") + rd("common", "triggered_modifiers.txt"))
+    if not re.search(r"(?m)^%s\s*=" % k, re.sub(r"#.*", "", em)) and not re.search(r"(?m)^%s\s*=" % k, builtin):
+        sp = block_span(hb_em, k)
+        assert sp, k
+        addm += hb_em[sp[0]:sp[1]] + "\n\n"
+if addm:
+    write("common/event_modifiers.txt", em.rstrip() + "\n\n##### named by Heartbreaker's war goals #####\n" + addm)
+print("modifiers added so the war goals can name them:", re.findall(r"(?m)^(\w+)\s*=", addm))
 print("war goals split by state size:", len(order), "| PEACE_COST_PRESTIGE = 4000")
 
 # ---------------------------------------------------------------- yearly sizing event
@@ -206,9 +274,9 @@ for i, (tag, key, name) in enumerate(SIZES):
             "\xa7Y1836 - 1860 \xa7W%s\\n\xa7Y1860 - 1900 \xa7W%s\\n\xa7Y1900+ \xa7W%s\\n\\n"
             "\xa7RWarscore Costs\\n\xa7WTaking this state costs:\\n"
             "\xa7YWarlord Claim: \xa7W%d%% Warscore\\n\xa7YAcquire Core: \xa7W%d%% Warscore\\n\xa7YAcquire State: \xa7W%d%% Warscore\\n"
-            "\xa7YDemand Concession: \xa7W%d%% Warscore\\n\xa7YPlace in the Sun: \xa7W%d%% Warscore\\n\xa7YFree Peoples: \xa7W%d%% Warscore") % (
+            "\xa7YDemand Concession: \xa7W%d%% Warscore\\n\xa7YPlace in the Sun: \xa7W%d%% Warscore") % (
         name, rng(ERAS[0][3]), rng(ERAS[1][3]), rng(ERAS[2][3]), cost("warlord_take_state", i), cost("acquire_core_state", i),
-        cost("acquire_state", i), cost("demand_concession_casus_belli", i), cost("place_in_the_sun", i), cost("free_peoples", i))
+        cost("acquire_state", i), cost("demand_concession_casus_belli", i), cost("place_in_the_sun", i))
     loc += [(tag, text), (tag + "_ADJ", "%s State" % name), (tag + "_flag", "State Size Marker")]
     for fam in FAMILIES:
         for suf in ("", "_short", "_desc", "_setup"):

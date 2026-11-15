@@ -40,7 +40,30 @@ cb = cb.rstrip() + "\n\n# from DoD Heartbreaker MP 4.9.5\n" + block + "\n"
 for word in ("tag = CHI", "is_culture_group = east_asian", "substate_of = CHI"):
     for ln in cb.split("\n"):
         assert not (word in ln and "NOT" in ln), ("a war goal still shields China", ln)
-SHIELD = "\n\t\tNOT = {\n\t\t\ttag = HRE\n\t\t\tcivilized = no\n\t\t}"
+# NOT with two conditions means "neither of them", so the two must sit inside an AND: without it this
+# line forbade every war goal against any uncivilized country at all.
+SHIELD = "\n\t\tNOT = {\n\t\t\tAND = {\n\t\t\t\ttag = HRE\n\t\t\t\tcivilized = no\n\t\t\t}\n\t\t}"
+
+# Free Peoples goes: its "who to free" list offered the five state-size marker tags, which have a core
+# on every province in the world but are not countries, and pointing at one crashed the game. The
+# five sized versions are removed outright; the original stays in the file, never usable, so nothing
+# that names it by key is left dangling.
+def _block(text, name):
+    m_ = re.search(r"(?m)^%s\s*=\s*\{" % name, text)
+    if not m_:
+        return None
+    d_, j_ = 1, m_.end()
+    while d_:
+        if text[j_] == "#":
+            j_ = text.index("\n", j_)
+            continue
+        d_ += text[j_] == "{"
+        d_ -= text[j_] == "}"
+        j_ += 1
+    return m_.start(), j_
+
+
+n_lists = 0      # no other list is touched: only free peoples offered the marker tags, and FROM does not exist in every list
 out, i, shielded, skipped = [], 0, [], []
 for m in re.finditer(r"(?m)^(\w+)\s*=\s*\{", cb):
     if m.start() < i or m.group(1) == "peace_order":
@@ -56,7 +79,7 @@ for m in re.finditer(r"(?m)^(\w+)\s*=\s*\{", cb):
     body = cb[m.start():j]
     bare = re.sub(r"#.*", "", body)
     cu = re.search(r"(?m)^\tcan_use\s*=\s*\{", body)
-    if cu and m.group(1) not in ("status_quo", "civil_war", "become_independent"):
+    if cu and m.group(1) not in ("status_quo", "civil_war", "become_independent", "free_peoples"):
         body = body[:cu.end()] + SHIELD + body[cu.end():]
         shielded.append(m.group(1))
     else:
@@ -66,6 +89,11 @@ for m in re.finditer(r"(?m)^(\w+)\s*=\s*\{", cb):
 cb = "".join(out) + cb[i:]
 wr("common/cb_types.txt", cb)
 print("war goals that cannot be fabricated on an unwesternized HRE: %d | left alone: %d" % (len(shielded), len(skipped)))
+assert "free_peoples_tiny" not in cb and cb.count("{") == cb.count("}"), "war goal file is unbalanced"
+assert re.search(r"(?s)free_peoples = \{.*?always = no", cb), "free peoples must stay switched off"
+for m in re.finditer(r"NOT\s*=\s*\{\s*tag\s*=\s*HRE\s*civilized", cb):
+    raise SystemExit("the HRE shield is written without AND")
+print("free peoples is switched off and has no sized versions")
 lr = {}
 for f in sorted(glob.glob(os.path.join(H, "localisation", "*.csv"))):
     for l in open(f, encoding=ENC, errors="replace").read().splitlines():

@@ -178,7 +178,7 @@ mod("khalsa_raj_order", "Order of the Khalsa Raj", "One law and one school syste
 mod("taiwanese_maritime_heritage", "Taiwanese Maritime Heritage", "Formosa has lived by the sea since Koxinga's fleets: its captains, its yards and its navigators are the best in the China seas.",
     leadership=2, research_points_modifier=0.25, naval_organisation=0.1)
 mod("maritime_hegemon", "Maritime Hegemon", "Formosa's schools turn out navigators and its squadrons keep the sea far from any friendly port.",
-    education_efficiency_modifier=0.15, supply_range=0.33)
+    education_efficiency_modifier=0.15, naval_organisation=0.15)       # naval range exists only as a technology effect
 mod("golden_peninsula", "The Golden Peninsula", "Suvarnabhumi, the Land of Gold: every ship that rounds the cape brings settlers.", global_immigrant_attract=0.75)
 mod("continental_lessons", "The Realm United", "One government commands every shipyard and school in the islands.", naval_organisation=0.1, research_points_modifier=0.25)
 mod("taiwanese_dream", "The Taiwanese Dream", "A new land for anyone willing to cross the strait: free soil, honest officials, and mines and mills that never stop.",

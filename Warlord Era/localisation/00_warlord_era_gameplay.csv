@@ -1144,7 +1144,7 @@ EVTNAME880104;The World Bank Cannot Be Sphered;;;;;;;;;;;;;x
 EVTDESC880104;Removes any great power's influence over the World Bank.;;;;;;;;;;;;;x
 EVTNAME880105;The World Bank Cannot Be Attacked;;;;;;;;;;;;;x
 EVTDESC880105;Any war against the World Bank ends at once, and the attacker gains infamy.;;;;;;;;;;;;;x
-TIN;佈Tiny State Flag\n劬This province is in a state that meets the following criteria:\n即1836 - 1860 劬Less than 200k POPs\n即1860 - 1900 劬Less than 300k POPs\n即1900+ 劬Less than 400k POPs\n\n刪Warscore Costs\n劬Taking this state costs:\n即Warlord Claim: 劬8% Warscore\n即Acquire Core: 劬4% Warscore\n即Acquire State: 劬12% Warscore\n即Demand Concession: 劬8% Warscore\n即Place in the Sun: 劬4% Warscore\n即Free Peoples: 劬12% Warscore;;;;;;;;;;;;;x
+TIN;佈Tiny State Flag\n劬This province is in a state that meets the following criteria:\n即1836 - 1860 劬Less than 200k POPs\n即1860 - 1900 劬Less than 300k POPs\n即1900+ 劬Less than 400k POPs\n\n刪Warscore Costs\n劬Taking this state costs:\n即Warlord Claim: 劬8% Warscore\n即Acquire Core: 劬4% Warscore\n即Acquire State: 劬12% Warscore\n即Demand Concession: 劬8% Warscore\n即Place in the Sun: 劬4% Warscore;;;;;;;;;;;;;x
 TIN_ADJ;Tiny State;;;;;;;;;;;;;x
 TIN_flag;State Size Marker;;;;;;;;;;;;;x
 acquire_core_state_tiny;Acquire Tiny Core;;;;;;;;;;;;;x
@@ -1159,10 +1159,6 @@ place_in_the_sun_tiny;Tiny Place in the Sun;;;;;;;;;;;;;x
 place_in_the_sun_tiny_short;Acquire Tiny State $STATE$.;;;;;;;;;;;;;x
 place_in_the_sun_tiny_desc;Demand a 即tiny state劬 colony.;;;;;;;;;;;;;x
 place_in_the_sun_tiny_setup;Acquire Tiny State $STATE$ from $RECIPIENT$.;;;;;;;;;;;;;x
-free_peoples_tiny;Free People Tiny State;;;;;;;;;;;;;x
-free_peoples_tiny_short;$THIRD$ acquires $STATE$.;;;;;;;;;;;;;x
-free_peoples_tiny_desc;Liberate a 即country劬's state from its oppressors.;;;;;;;;;;;;;x
-free_peoples_tiny_setup;Hand $STATE$ back to $THIRD$ from $RECIPIENT$.;;;;;;;;;;;;;x
 demand_concession_casus_belli_tiny;Tiny State Concession;;;;;;;;;;;;;x
 demand_concession_casus_belli_tiny_short;Demand Tiny State $STATE$.;;;;;;;;;;;;;x
 demand_concession_casus_belli_tiny_desc;Demand a 即tiny state劬 concession.;;;;;;;;;;;;;x
@@ -1175,7 +1171,7 @@ warlord_take_state_tiny;Warlord Claim (Tiny State);;;;;;;;;;;;;x
 warlord_take_state_tiny_short;Warlord Claim (Tiny);;;;;;;;;;;;;x
 warlord_take_state_tiny_desc;Seize a 即tiny state劬 from a rival warlord.;;;;;;;;;;;;;x
 warlord_take_state_tiny_setup;Take $STATE$ from $RECIPIENT$;;;;;;;;;;;;;x
-SMA;佈Small State Flag\n劬This province is in a state that meets the following criteria:\n即1836 - 1860 劬200k to 900k POPs\n即1860 - 1900 劬300k to 1.3M POPs\n即1900+ 劬400k to 1.6M POPs\n\n刪Warscore Costs\n劬Taking this state costs:\n即Warlord Claim: 劬16% Warscore\n即Acquire Core: 劬12% Warscore\n即Acquire State: 劬24% Warscore\n即Demand Concession: 劬16% Warscore\n即Place in the Sun: 劬8% Warscore\n即Free Peoples: 劬24% Warscore;;;;;;;;;;;;;x
+SMA;佈Small State Flag\n劬This province is in a state that meets the following criteria:\n即1836 - 1860 劬200k to 900k POPs\n即1860 - 1900 劬300k to 1.3M POPs\n即1900+ 劬400k to 1.6M POPs\n\n刪Warscore Costs\n劬Taking this state costs:\n即Warlord Claim: 劬16% Warscore\n即Acquire Core: 劬12% Warscore\n即Acquire State: 劬24% Warscore\n即Demand Concession: 劬16% Warscore\n即Place in the Sun: 劬8% Warscore;;;;;;;;;;;;;x
 SMA_ADJ;Small State;;;;;;;;;;;;;x
 SMA_flag;State Size Marker;;;;;;;;;;;;;x
 acquire_core_state_small;Acquire Small Core;;;;;;;;;;;;;x
@@ -1190,10 +1186,6 @@ place_in_the_sun_small;Small Place in the Sun;;;;;;;;;;;;;x
 place_in_the_sun_small_short;Acquire Small State $STATE$.;;;;;;;;;;;;;x
 place_in_the_sun_small_desc;Demand a 即small state劬 colony.;;;;;;;;;;;;;x
 place_in_the_sun_small_setup;Acquire Small State $STATE$ from $RECIPIENT$.;;;;;;;;;;;;;x
-free_peoples_small;Free People Small State;;;;;;;;;;;;;x
-free_peoples_small_short;$THIRD$ acquires $STATE$.;;;;;;;;;;;;;x
-free_peoples_small_desc;Liberate a 即country劬's state from its oppressors.;;;;;;;;;;;;;x
-free_peoples_small_setup;Hand $STATE$ back to $THIRD$ from $RECIPIENT$.;;;;;;;;;;;;;x
 demand_concession_casus_belli_small;Small State Concession;;;;;;;;;;;;;x
 demand_concession_casus_belli_small_short;Demand Small State $STATE$.;;;;;;;;;;;;;x
 demand_concession_casus_belli_small_desc;Demand a 即small state劬 concession.;;;;;;;;;;;;;x
@@ -1206,7 +1198,7 @@ warlord_take_state_small;Warlord Claim (Small State);;;;;;;;;;;;;x
 warlord_take_state_small_short;Warlord Claim (Small);;;;;;;;;;;;;x
 warlord_take_state_small_desc;Seize a 即small state劬 from a rival warlord.;;;;;;;;;;;;;x
 warlord_take_state_small_setup;Take $STATE$ from $RECIPIENT$;;;;;;;;;;;;;x
-MED;佈Medium State Flag\n劬This province is in a state that meets the following criteria:\n即1836 - 1860 劬900k to 1.5M POPs\n即1860 - 1900 劬1.3M to 2.1M POPs\n即1900+ 劬1.6M to 2.8M POPs\n\n刪Warscore Costs\n劬Taking this state costs:\n即Warlord Claim: 劬24% Warscore\n即Acquire Core: 劬16% Warscore\n即Acquire State: 劬32% Warscore\n即Demand Concession: 劬24% Warscore\n即Place in the Sun: 劬12% Warscore\n即Free Peoples: 劬32% Warscore;;;;;;;;;;;;;x
+MED;佈Medium State Flag\n劬This province is in a state that meets the following criteria:\n即1836 - 1860 劬900k to 1.5M POPs\n即1860 - 1900 劬1.3M to 2.1M POPs\n即1900+ 劬1.6M to 2.8M POPs\n\n刪Warscore Costs\n劬Taking this state costs:\n即Warlord Claim: 劬24% Warscore\n即Acquire Core: 劬16% Warscore\n即Acquire State: 劬32% Warscore\n即Demand Concession: 劬24% Warscore\n即Place in the Sun: 劬12% Warscore;;;;;;;;;;;;;x
 MED_ADJ;Medium State;;;;;;;;;;;;;x
 MED_flag;State Size Marker;;;;;;;;;;;;;x
 acquire_core_state_medium;Acquire Medium Core;;;;;;;;;;;;;x
@@ -1221,10 +1213,6 @@ place_in_the_sun_medium;Medium Place in the Sun;;;;;;;;;;;;;x
 place_in_the_sun_medium_short;Acquire Medium State $STATE$.;;;;;;;;;;;;;x
 place_in_the_sun_medium_desc;Demand a 即medium state劬 colony.;;;;;;;;;;;;;x
 place_in_the_sun_medium_setup;Acquire Medium State $STATE$ from $RECIPIENT$.;;;;;;;;;;;;;x
-free_peoples_medium;Free People Medium State;;;;;;;;;;;;;x
-free_peoples_medium_short;$THIRD$ acquires $STATE$.;;;;;;;;;;;;;x
-free_peoples_medium_desc;Liberate a 即country劬's state from its oppressors.;;;;;;;;;;;;;x
-free_peoples_medium_setup;Hand $STATE$ back to $THIRD$ from $RECIPIENT$.;;;;;;;;;;;;;x
 demand_concession_casus_belli_medium;Medium State Concession;;;;;;;;;;;;;x
 demand_concession_casus_belli_medium_short;Demand Medium State $STATE$.;;;;;;;;;;;;;x
 demand_concession_casus_belli_medium_desc;Demand a 即medium state劬 concession.;;;;;;;;;;;;;x
@@ -1237,7 +1225,7 @@ warlord_take_state_medium;Warlord Claim (Medium State);;;;;;;;;;;;;x
 warlord_take_state_medium_short;Warlord Claim (Medium);;;;;;;;;;;;;x
 warlord_take_state_medium_desc;Seize a 即medium state劬 from a rival warlord.;;;;;;;;;;;;;x
 warlord_take_state_medium_setup;Take $STATE$ from $RECIPIENT$;;;;;;;;;;;;;x
-LRG;佈Large State Flag\n劬This province is in a state that meets the following criteria:\n即1836 - 1860 劬1.5M to 2.1M POPs\n即1860 - 1900 劬2.1M to 3M POPs\n即1900+ 劬2.8M to 4M POPs\n\n刪Warscore Costs\n劬Taking this state costs:\n即Warlord Claim: 劬36% Warscore\n即Acquire Core: 劬24% Warscore\n即Acquire State: 劬48% Warscore\n即Demand Concession: 劬32% Warscore\n即Place in the Sun: 劬16% Warscore\n即Free Peoples: 劬48% Warscore;;;;;;;;;;;;;x
+LRG;佈Large State Flag\n劬This province is in a state that meets the following criteria:\n即1836 - 1860 劬1.5M to 2.1M POPs\n即1860 - 1900 劬2.1M to 3M POPs\n即1900+ 劬2.8M to 4M POPs\n\n刪Warscore Costs\n劬Taking this state costs:\n即Warlord Claim: 劬36% Warscore\n即Acquire Core: 劬24% Warscore\n即Acquire State: 劬48% Warscore\n即Demand Concession: 劬32% Warscore\n即Place in the Sun: 劬16% Warscore;;;;;;;;;;;;;x
 LRG_ADJ;Large State;;;;;;;;;;;;;x
 LRG_flag;State Size Marker;;;;;;;;;;;;;x
 acquire_core_state_large;Acquire Large Core;;;;;;;;;;;;;x
@@ -1252,10 +1240,6 @@ place_in_the_sun_large;Large Place in the Sun;;;;;;;;;;;;;x
 place_in_the_sun_large_short;Acquire Large State $STATE$.;;;;;;;;;;;;;x
 place_in_the_sun_large_desc;Demand a 即large state劬 colony.;;;;;;;;;;;;;x
 place_in_the_sun_large_setup;Acquire Large State $STATE$ from $RECIPIENT$.;;;;;;;;;;;;;x
-free_peoples_large;Free People Large State;;;;;;;;;;;;;x
-free_peoples_large_short;$THIRD$ acquires $STATE$.;;;;;;;;;;;;;x
-free_peoples_large_desc;Liberate a 即country劬's state from its oppressors.;;;;;;;;;;;;;x
-free_peoples_large_setup;Hand $STATE$ back to $THIRD$ from $RECIPIENT$.;;;;;;;;;;;;;x
 demand_concession_casus_belli_large;Large State Concession;;;;;;;;;;;;;x
 demand_concession_casus_belli_large_short;Demand Large State $STATE$.;;;;;;;;;;;;;x
 demand_concession_casus_belli_large_desc;Demand a 即large state劬 concession.;;;;;;;;;;;;;x
@@ -1268,7 +1252,7 @@ warlord_take_state_large;Warlord Claim (Large State);;;;;;;;;;;;;x
 warlord_take_state_large_short;Warlord Claim (Large);;;;;;;;;;;;;x
 warlord_take_state_large_desc;Seize a 即large state劬 from a rival warlord.;;;;;;;;;;;;;x
 warlord_take_state_large_setup;Take $STATE$ from $RECIPIENT$;;;;;;;;;;;;;x
-HUG;佈Huge State Flag\n劬This province is in a state that meets the following criteria:\n即1836 - 1860 劬Greater than 2.1M POPs\n即1860 - 1900 劬Greater than 3M POPs\n即1900+ 劬Greater than 4M POPs\n\n刪Warscore Costs\n劬Taking this state costs:\n即Warlord Claim: 劬48% Warscore\n即Acquire Core: 劬32% Warscore\n即Acquire State: 劬64% Warscore\n即Demand Concession: 劬40% Warscore\n即Place in the Sun: 劬20% Warscore\n即Free Peoples: 劬64% Warscore;;;;;;;;;;;;;x
+HUG;佈Huge State Flag\n劬This province is in a state that meets the following criteria:\n即1836 - 1860 劬Greater than 2.1M POPs\n即1860 - 1900 劬Greater than 3M POPs\n即1900+ 劬Greater than 4M POPs\n\n刪Warscore Costs\n劬Taking this state costs:\n即Warlord Claim: 劬48% Warscore\n即Acquire Core: 劬32% Warscore\n即Acquire State: 劬64% Warscore\n即Demand Concession: 劬40% Warscore\n即Place in the Sun: 劬20% Warscore;;;;;;;;;;;;;x
 HUG_ADJ;Huge State;;;;;;;;;;;;;x
 HUG_flag;State Size Marker;;;;;;;;;;;;;x
 acquire_core_state_huge;Acquire Huge Core;;;;;;;;;;;;;x
@@ -1283,10 +1267,6 @@ place_in_the_sun_huge;Huge Place in the Sun;;;;;;;;;;;;;x
 place_in_the_sun_huge_short;Acquire Huge State $STATE$.;;;;;;;;;;;;;x
 place_in_the_sun_huge_desc;Demand a 即huge state劬 colony.;;;;;;;;;;;;;x
 place_in_the_sun_huge_setup;Acquire Huge State $STATE$ from $RECIPIENT$.;;;;;;;;;;;;;x
-free_peoples_huge;Free People Huge State;;;;;;;;;;;;;x
-free_peoples_huge_short;$THIRD$ acquires $STATE$.;;;;;;;;;;;;;x
-free_peoples_huge_desc;Liberate a 即country劬's state from its oppressors.;;;;;;;;;;;;;x
-free_peoples_huge_setup;Hand $STATE$ back to $THIRD$ from $RECIPIENT$.;;;;;;;;;;;;;x
 demand_concession_casus_belli_huge;Huge State Concession;;;;;;;;;;;;;x
 demand_concession_casus_belli_huge_short;Demand Huge State $STATE$.;;;;;;;;;;;;;x
 demand_concession_casus_belli_huge_desc;Demand a 即huge state劬 concession.;;;;;;;;;;;;;x
