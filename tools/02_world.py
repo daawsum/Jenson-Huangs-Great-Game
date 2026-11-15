@@ -640,6 +640,13 @@ for tag in WARLORDS:
 for t, (ptag, name, col) in SUCCESSOR.items():      # a successor is as backward as its parent
     if t in tier and ptag in tier:
         tier[t] = tier[ptag]
+# Russia never became a state at all in this world, and the Ottoman Empire is a hollow giant: every
+# country standing on what was Russian land, and the Ottomans, are primitive.
+RUSSIAN = {tag for tag, ps in owned.items() if tag not in WARLORDS and tag != "HRE"
+           and sum(1 for q in ps if q in vprov and vprov[q]["owner"] == "RUS") * 2 > len(ps)}
+for tag in RUSSIAN | {"TUR"}:
+    tier[tag] = "primitive"
+print("made primitive:", sorted(RUSSIAN | {"TUR"}))
 
 # ------------------------------------------------------------------ new tags
 DOMINIONS = collections.OrderedDict([
@@ -1098,6 +1105,12 @@ for r, ps in regions.items():
 out = ["%s = { %s }" % (r, " ".join(map(str, ps))) for r, ps in regions.items() if r not in dropped]
 out += ["", "# Warlord Era states"] + ["%s = { %s } # %s" % (r, " ".join(map(str, ps)), regname[r]) for r, ps in newregions.items()]
 wr("map/region.txt", "\n".join(out) + "\n")
+# The Ladakh road: vanilla walls Leh off from western Tibet as impassable, so the Sikhs could never
+# reach Tibet at all. That one border is opened; every other mountain wall stays.
+_adj = rd("map", "adjacencies.csv").replace("\r\n", "\n")
+_open = [l for l in _adj.split("\n") if l.startswith("1226;1592;impassable")]
+assert len(_open) == 1, _open
+wr("map/adjacencies.csv", _adj.replace(_open[0] + "\n", ""))
 print("chinese states:", len(newregions), "replacing", len(dropped))
 final_regions = {r: ps for r, ps in regions.items() if r not in dropped}
 final_regions.update(newregions)
@@ -1234,7 +1247,7 @@ assert "civilized = no" in t_
 t_ = t_.replace("civilized = no", "civilized = yes")
 t_ = re.sub(r"(?m)^\w+ = (yes|no)_(%s)\n" % "|".join(REF_E + REF_M), "", t_)
 t_ = t_.replace("set_country_flag = partial_nation\n", "")
-t_ += "schools = army_tech_school\n" + techs(HORDE_TECH)
+t_ += "prestige = 80\nschools = army_tech_school\n" + techs(HORDE_TECH)
 open(_mg, "w", encoding=ENC, newline="\r\n").write(t_)
 tier["MGL"] = "horde"
 _tw = glob.glob(os.path.join(OUT, "history", "countries", "TWN - *.txt"))[0]

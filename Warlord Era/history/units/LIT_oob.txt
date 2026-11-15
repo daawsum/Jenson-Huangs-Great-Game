@@ -1,15 +1,10 @@
 army = {
-	name = "Army of Vilnius"
+	name = "Warband of Vilnius"
 	location = 360
 	regiment = {
-		name = "1. Army of Vilnius"
-		type = infantry
+		name = "1. Warband of Vilnius"
+		type = irregular
 		home = 360
-	}
-	regiment = {
-		name = "2. Army of Vilnius"
-		type = infantry
-		home = 361
 	}
 }
 

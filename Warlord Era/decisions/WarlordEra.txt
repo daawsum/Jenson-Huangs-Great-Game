@@ -5574,6 +5574,96 @@ political_decisions = {
 		}
 	}
 
+	yunnan_burma_road = {
+		picture = we_d_claim_2
+		potential = {
+			OR = {
+				tag = YNN
+				tag = NZO
+			}
+			NOT = { has_country_flag = did_yunnan_burma_road }
+		}
+		allow = {
+			war = no
+		}
+		effect = {
+			set_country_flag = did_yunnan_burma_road
+			1330 = { add_core = THIS }
+			1331 = { add_core = THIS }
+			1332 = { add_core = THIS }
+			1333 = { add_core = THIS }
+			1334 = { add_core = THIS }
+			1335 = { add_core = THIS }
+			1336 = { add_core = THIS }
+			1337 = { add_core = THIS }
+			1338 = { add_core = THIS }
+			1339 = { add_core = THIS }
+			1340 = { add_core = THIS }
+			1341 = { add_core = THIS }
+			1342 = { add_core = THIS }
+			1343 = { add_core = THIS }
+			1344 = { add_core = THIS }
+			1345 = { add_core = THIS }
+			add_accepted_culture = burmese
+			prestige = 5
+			badboy = 2
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	yunnan_road_to_bengal = {
+		picture = we_d_claim_2
+		potential = {
+			OR = {
+				tag = YNN
+				tag = NZO
+			}
+			has_country_flag = did_yunnan_burma_road
+			exists = SIK
+			NOT = { has_country_flag = did_yunnan_road_to_bengal }
+			state_n_government = 1
+		}
+		allow = {
+			war = no
+		}
+		effect = {
+			set_country_flag = did_yunnan_road_to_bengal
+			casus_belli = { target = SIK type = conquest months = 120 }
+			prestige = 5
+			badboy = 1
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
+	yunnan_lords_of_bengal = {
+		picture = we_d_claim_2
+		potential = {
+			OR = {
+				tag = YNN
+				tag = NZO
+			}
+			has_country_flag = did_yunnan_road_to_bengal
+			NOT = { has_country_flag = did_yunnan_lords_of_bengal }
+			state_n_government = 1
+			owns = 1254
+		}
+		allow = {
+			war = no
+		}
+		effect = {
+			set_country_flag = did_yunnan_lords_of_bengal
+			add_country_modifier = { name = yunnan_delta duration = -1 }
+			prestige = 10
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+
 	ZHL_road_a = {
 		picture = we_d_road_war_1
 		potential = {

@@ -106,6 +106,8 @@ golden_peninsula;The Golden Peninsula;;;;;;;;;;;;;x
 desc_golden_peninsula;Suvarnabhumi, the Land of Gold: every ship that rounds the cape brings settlers.;;;;;;;;;;;;;x
 continental_lessons;The Realm United;;;;;;;;;;;;;x
 desc_continental_lessons;One government commands every shipyard and school in the islands.;;;;;;;;;;;;;x
+yunnan_delta;From the Mountains to the Sea;;;;;;;;;;;;;x
+desc_yunnan_delta;Yunnan's governors make one people of everyone from Kunming to the Bay of Bengal.;;;;;;;;;;;;;x
 taiwanese_dream;The Taiwanese Dream;;;;;;;;;;;;;x
 desc_taiwanese_dream;A new land for anyone willing to cross the strait: free soil, honest officials, and mines and mills that never stop.;;;;;;;;;;;;;x
 trait_ZHL;Beiyang Army;;;;;;;;;;;;;x
@@ -510,6 +512,12 @@ japan_continental_victory_title;The Realm United;;;;;;;;;;;;;x
 japan_continental_victory_desc;Every domain of the islands answers to one government at last. With the whole country's rice, silver and shipwrights behind it, Japan can learn everything the cliques know.;;;;;;;;;;;;;x
 japan_accept_koreans_title;One Realm across the Strait;;;;;;;;;;;;;x
 japan_accept_koreans_desc;The peninsula and the islands share scripts, sages and enemies. Declare the Koreans subjects equal before the Emperor.;;;;;;;;;;;;;x
+yunnan_burma_road_title;The Burma Road;;;;;;;;;;;;;x
+yunnan_burma_road_desc;The caravan road from Kunming over the Salween to Mandalay is older than any border. Claim Burma for Yunnan and take the Burmese in as our own people. (+2 infamy);;;;;;;;;;;;;x
+yunnan_road_to_bengal_title;The Road to Bengal;;;;;;;;;;;;;x
+yunnan_road_to_bengal_desc;Beyond Burma the Brahmaputra runs down to Dacca and the sea. A state that can build roads can march an army along them: prepare the conquest of Bengal. (+1 infamy);;;;;;;;;;;;;x
+yunnan_lords_of_bengal_title;From the Mountains to the Sea;;;;;;;;;;;;;x
+yunnan_lords_of_bengal_desc;Dacca is ours. Yunnan has a port, a delta and thirty million new subjects. Its governors will rule them as Yunnanese: one script, one law, one school.;;;;;;;;;;;;;x
 ZHL_road_a;Beyond the Shanhai Pass;;;;;;;;;;;;;x
 desc_ZHL_road_a;The Qing came through the pass to take Beijing. We go out through it: Manchuria to the Amur is declared ours.;;;;;;;;;;;;;x
 ZHL_road_b;The Tribute Restored;;;;;;;;;;;;;x

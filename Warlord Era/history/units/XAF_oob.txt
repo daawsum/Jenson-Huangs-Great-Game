@@ -1,15 +1,10 @@
 army = {
-	name = "Army of Uglich"
+	name = "Warband of Uglich"
 	location = 991
 	regiment = {
-		name = "1. Army of Uglich"
-		type = infantry
+		name = "1. Warband of Uglich"
+		type = irregular
 		home = 991
-	}
-	regiment = {
-		name = "2. Army of Uglich"
-		type = infantry
-		home = 1024
 	}
 }
 

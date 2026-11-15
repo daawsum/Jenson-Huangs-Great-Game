@@ -79,6 +79,21 @@ for tag, key, name in SIZES:
 dl = rd("common", "defines.lua")
 dl, n = re.subn(r"(PEACE_COST_PRESTIGE\s*=\s*)[\d\.]+", r"\g<1>4000", dl)
 assert n == 1
+# Heartbreaker's fixed war-score costs work by making every sized goal a "prestige" goal that costs
+# PEACE_COST_PRESTIGE x its factor. That only works with the prestige such a goal moves switched off,
+# which Heartbreaker does in the same file. Without these, every state taken paid the winner
+# prestige scaled by the 4000 (tens of thousands of prestige per war).
+hb_dl = open(os.path.join(HB, "common", "defines.lua"), encoding=ENC, errors="replace").read()
+PRESTIGE_DEFINES = ["PRESTIGE_PRESTIGE_BASE", "PRESTIGE_PRESTIGE", "PRESTIGE_REDUCTION_BASE", "PRESTIGE_REDUCTION", "INFAMY_PRESTIGE"]
+copied = {}
+for key in PRESTIGE_DEFINES:
+    m = re.search(r"(?m)^\s*%s\s*=\s*([\d\.]+)" % key, hb_dl)
+    assert m, key
+    dl, n = re.subn(r"(?m)^(\s*%s\s*=\s*)[\d\.]+" % key, lambda x: x.group(1) + m.group(1), dl)
+    assert n == 1, key
+    copied[key] = m.group(1)
+assert float(copied["PRESTIGE_PRESTIGE"]) == 0 and float(copied["PRESTIGE_PRESTIGE_BASE"]) == 0
+print("prestige defines taken from Heartbreaker:", copied)
 write("common/defines.lua", dl)
 
 # ---------------------------------------------------------------- war goals

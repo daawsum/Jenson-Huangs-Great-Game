@@ -71,82 +71,22 @@ leader = {
 }
 
 army = {
-	name = "Army of Istanbul"
+	name = "Warband of Istanbul"
 	location = 860
 	regiment = {
-		name = "1. Army of Istanbul"
-		type = infantry
+		name = "1. Warband of Istanbul"
+		type = irregular
 		home = 1745
 	}
 	regiment = {
-		name = "2. Army of Istanbul"
-		type = infantry
+		name = "2. Warband of Istanbul"
+		type = irregular
 		home = 1751
 	}
 	regiment = {
-		name = "3. Army of Istanbul"
-		type = infantry
+		name = "3. Warband of Istanbul"
+		type = irregular
 		home = 1827
-	}
-	regiment = {
-		name = "4. Army of Istanbul"
-		type = infantry
-		home = 1178
-	}
-	regiment = {
-		name = "5. Army of Istanbul"
-		type = infantry
-		home = 1157
-	}
-	regiment = {
-		name = "6. Army of Istanbul"
-		type = infantry
-		home = 670
-	}
-	regiment = {
-		name = "7. Army of Istanbul"
-		type = infantry
-		home = 806
-	}
-	regiment = {
-		name = "8. Army of Istanbul"
-		type = infantry
-		home = 834
-	}
-	regiment = {
-		name = "9. Army of Istanbul"
-		type = infantry
-		home = 1745
-	}
-	regiment = {
-		name = "10. Army of Istanbul"
-		type = infantry
-		home = 1751
-	}
-	regiment = {
-		name = "11. Army of Istanbul"
-		type = infantry
-		home = 1827
-	}
-	regiment = {
-		name = "12. Army of Istanbul"
-		type = infantry
-		home = 1178
-	}
-	regiment = {
-		name = "13. Army of Istanbul"
-		type = cavalry
-		home = 1157
-	}
-	regiment = {
-		name = "14. Army of Istanbul"
-		type = cavalry
-		home = 670
-	}
-	regiment = {
-		name = "15. Army of Istanbul"
-		type = cavalry
-		home = 806
 	}
 }
 

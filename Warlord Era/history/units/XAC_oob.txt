@@ -1,35 +1,20 @@
 army = {
-	name = "Army of Ufa"
+	name = "Warband of Ufa"
 	location = 1042
 	regiment = {
-		name = "1. Army of Ufa"
-		type = infantry
+		name = "1. Warband of Ufa"
+		type = irregular
 		home = 1042
 	}
 	regiment = {
-		name = "2. Army of Ufa"
-		type = infantry
+		name = "2. Warband of Ufa"
+		type = irregular
 		home = 1020
 	}
 	regiment = {
-		name = "3. Army of Ufa"
-		type = infantry
+		name = "3. Warband of Ufa"
+		type = irregular
 		home = 1026
-	}
-	regiment = {
-		name = "4. Army of Ufa"
-		type = infantry
-		home = 1021
-	}
-	regiment = {
-		name = "5. Army of Ufa"
-		type = infantry
-		home = 1030
-	}
-	regiment = {
-		name = "6. Army of Ufa"
-		type = cavalry
-		home = 1032
 	}
 }
 

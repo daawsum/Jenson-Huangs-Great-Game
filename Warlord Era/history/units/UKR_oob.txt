@@ -1,45 +1,20 @@
 army = {
-	name = "Army of Kiev"
+	name = "Warband of Kiev"
 	location = 958
 	regiment = {
-		name = "1. Army of Kiev"
-		type = infantry
+		name = "1. Warband of Kiev"
+		type = irregular
 		home = 963
 	}
 	regiment = {
-		name = "2. Army of Kiev"
-		type = infantry
+		name = "2. Warband of Kiev"
+		type = irregular
 		home = 980
 	}
 	regiment = {
-		name = "3. Army of Kiev"
-		type = infantry
+		name = "3. Warband of Kiev"
+		type = irregular
 		home = 962
-	}
-	regiment = {
-		name = "4. Army of Kiev"
-		type = infantry
-		home = 978
-	}
-	regiment = {
-		name = "5. Army of Kiev"
-		type = infantry
-		home = 958
-	}
-	regiment = {
-		name = "6. Army of Kiev"
-		type = infantry
-		home = 955
-	}
-	regiment = {
-		name = "7. Army of Kiev"
-		type = infantry
-		home = 969
-	}
-	regiment = {
-		name = "8. Army of Kiev"
-		type = cavalry
-		home = 968
 	}
 }
 

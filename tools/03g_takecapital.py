@@ -94,6 +94,21 @@ assert re.search(r"(?s)free_peoples = \{.*?always = no", cb), "free peoples must
 for m in re.finditer(r"NOT\s*=\s*\{\s*tag\s*=\s*HRE\s*civilized", cb):
     raise SystemExit("the HRE shield is written without AND")
 print("free peoples is switched off and has no sized versions")
+# the protectorate goal (a civilized country against a small uncivilized one) must be vanilla's, plus the HRE shield only
+import difflib
+def _one(text, name):
+    m_ = re.search(r"(?m)^%s\s*=\s*\{" % name, text)
+    d_, j_ = 1, m_.end()
+    while d_:
+        d_ += text[j_] == "{"
+        d_ -= text[j_] == "}"
+        j_ += 1
+    return [l.strip() for l in re.sub(r"#.*", "", text[m_.start():j_]).split("\n") if l.strip()]
+_v = _one(rd("common", "cb_types.txt").replace("\r\n", "\n"), "establish_protectorate_casus_belli")
+_m = _one(cb, "establish_protectorate_casus_belli")
+_extra = [l[2:] for l in difflib.ndiff(_v, _m) if l[:2] in ("+ ", "- ")]
+assert _extra == ["NOT = {", "AND = {", "tag = HRE", "civilized = no", "}", "}"], _extra
+print("establish protectorate: vanilla's rules, usable by civilized countries on small uncivilized ones")
 lr = {}
 for f in sorted(glob.glob(os.path.join(H, "localisation", "*.csv"))):
     for l in open(f, encoding=ENC, errors="replace").read().splitlines():
@@ -107,3 +122,23 @@ used = set(re.findall(r"casus_belli\s*=\s*\{[^}]*?type\s*=\s*(\w+)", open(os.pat
 have = set(re.findall(r"(?m)^(\w+)\s*=\s*\{", cb)) | {"take_capital"}
 assert used <= have, ("decisions grant a war goal that does not exist", used - have)
 print("take_capital war goal from Heartbreaker added | war goals granted by decisions:", sorted(used))
+
+
+# ---- Heartbreaker's money injection (events/money.txt): on the first day every country's treasury is
+# topped up so the game does not open with a world of bankrupt states. Heartbreaker's event is fired by
+# its ghost country GHO and gives 250,000 to great powers and 100,000 to everyone else; here the World
+# Bank fires it (the one country that always exists) and every country gets the 250,000.
+ev = open(os.path.join(H, "events", "money.txt"), encoding=ENC, errors="replace").read().replace("\r\n", "\n")
+assert ev.count("tag = GHO") == 1 and ev.count("treasury = 250000") == 1 and ev.count("treasury = 100000") == 1
+ev = ev.replace("tag = GHO", "tag = WBK")
+a_ = ev.index("any_country = {")
+b_ = ev.rindex("}", 0, ev.rindex("}", 0, ev.rindex("}")))        # end of the second any_country block
+ev = ev[:a_] + "any_country = {\n\t\t\ttreasury = 250000\n\t\t}\n\t" + ev[b_ + 1:].lstrip("\n")
+assert ev.count("{") == ev.count("}") and "is_greater_power" not in ev and ev.count("treasury = 250000") == 1, ev
+eid = re.search(r"id\s*=\s*(\d+)", ev).group(1)
+for f in glob.glob(os.path.join(OUT, "events", "*.txt")):
+    if os.path.basename(f) != "money.txt":
+        assert not re.search(r"\bid\s*=\s*%s\b" % eid, open(f, encoding=ENC, errors="replace").read()), f
+assert re.search(r"(?m)^WBK\s*=", open(os.path.join(OUT, "common", "countries.txt"), encoding=ENC).read())
+wr("events/money.txt", ev)
+print("money injection from Heartbreaker: event", eid, "- 250,000 to every country on day one")

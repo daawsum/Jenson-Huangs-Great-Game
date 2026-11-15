@@ -50,6 +50,9 @@ MODS = collections.OrderedDict()
 
 
 def mod(key, name, desc, icon=5, **kw):
+    # no modifier of this mod gives prestige over time: prestige comes once, from the decision itself
+    kw = {k_: v_ for k_, v_ in kw.items() if k_ != "prestige"}
+    assert kw, key
     MODS[key] = (kw, icon)
     loc(key, name)
     loc("desc_" + key, desc)
@@ -121,6 +124,7 @@ mod("maritime_hegemon", "Maritime Hegemon", "Formosa's schools turn out navigato
     education_efficiency_modifier=0.15, naval_organisation=0.15)       # naval range exists only as a technology effect
 mod("golden_peninsula", "The Golden Peninsula", "Suvarnabhumi, the Land of Gold: every ship that rounds the cape brings settlers.", global_immigrant_attract=0.75)
 mod("continental_lessons", "The Realm United", "One government commands every shipyard and school in the islands.", naval_organisation=0.1, research_points_modifier=0.25)
+mod("yunnan_delta", "From the Mountains to the Sea", "Yunnan's governors make one people of everyone from Kunming to the Bay of Bengal.", global_assimilation_rate=1.0)
 mod("taiwanese_dream", "The Taiwanese Dream", "A new land for anyone willing to cross the strait: free soil, honest officials, and mines and mills that never stop.",
     global_immigrant_attract=1.0, administrative_efficiency_modifier=0.5, RGO_throughput=0.25, factory_throughput=0.25)
 
@@ -267,10 +271,11 @@ TECH_OF = {
     "launch_northern_expedition": NATIO, "revive_treasure_fleet": "steamers", "collect_remittances": STATE,
     "start_new_life_movement": REVO, "open_silver_mint": "private_bank_money_bill_printing", "pacify_tibet": NATIO,
     "reclaim_outer_mongolia": NATIO, "claim_korea": NATIO, "claim_annam": NATIO, "form_china": REVO, "japan_accept_koreans": STATE,
+    "yunnan_road_to_bengal": STATE, "yunnan_lords_of_bengal": STATE,
 }
 TECH_SUFFIX = [("_identity", ENL), ("_develop", IDEO), ("_ambition", NATIO), ("_claim", STATE), ("_accord", IDEO),
                ("_denounce", ENL), ("_detente", IDEO), ("_protection", ENL)]
-NO_TECH = {"open_nanyang_ports", "taiwan_claims"}
+NO_TECH = {"open_nanyang_ports", "taiwan_claims", "yunnan_burma_road"}
 _TECHS = set()
 for _f in glob.glob(os.path.join(OUT, "technologies", "*.txt")):
     _TECHS |= {k for k, b, s_, e_ in blocks(re.sub(r"#.*", "", open(_f, encoding=ENC, errors="replace").read()))}
@@ -317,6 +322,8 @@ def _prereq(allow):
 
 def decision(key, title, desc, potential, allow, effect, ai=1, tech=None):
     effect = _map_cultures(effect)
+    for _v in re.findall(r"(?m)^\s*prestige\s*=\s*(-?[\d\.]+)", effect):       # a one-time gift above 100 is reserved for nothing at all
+        assert abs(float(_v)) <= 100, (key, _v)
     # claiming land or a war goal by decree is noticed: 2 infamy for cores on foreign land, 1 for a casus belli
     bb = 2 * bool(re.search(r"add_core\s*=\s*THIS", effect)) + bool(re.search(r"\bcasus_belli\s*=", effect))
     if bb:
@@ -617,6 +624,20 @@ once("japan_continental_victory", "The Realm United", "Every domain of the islan
      "years_of_research = 5\nprestige = 20", "continental_lessons")
 once("japan_accept_koreans", "One Realm across the Strait", "The peninsula and the islands share scripts, sages and enemies. Declare the Koreans subjects equal before the Emperor.",
      "tag = JAP", "war = no", "add_accepted_culture = %s\nprestige = 5" % _culture("korean"))
+
+# ---- Yunnan: over the mountains to Burma, and down the Brahmaputra to Bengal
+_YN = "OR = {\n\ttag = YNN\n\ttag = NZO\n}"
+_burma = sorted(p for p, o in OWNER.items() if o == "BUR")
+_dacca = P("Dacca")
+_bengal = OWNER[_dacca]
+assert _burma and _bengal and _bengal not in WARLORDS, _bengal
+once("yunnan_burma_road", "The Burma Road", "The caravan road from Kunming over the Salween to Mandalay is older than any border. Claim Burma for Yunnan and take the Burmese in as our own people.",
+     _YN, "war = no", "".join("%d = { add_core = THIS }\n" % p for p in _burma) + "add_accepted_culture = %s\nprestige = 5" % _culture("burmese"))
+once("yunnan_road_to_bengal", "The Road to Bengal", "Beyond Burma the Brahmaputra runs down to Dacca and the sea. A state that can build roads can march an army along them: prepare the conquest of Bengal.",
+     _YN + "\nhas_country_flag = did_yunnan_burma_road\nexists = %s" % _bengal, "war = no",
+     "casus_belli = { target = %s type = conquest months = 120 }\nprestige = 5" % _bengal)
+once("yunnan_lords_of_bengal", "From the Mountains to the Sea", "Dacca is ours. Yunnan has a port, a delta and thirty million new subjects. Its governors will rule them as Yunnanese: one script, one law, one school.",
+     _YN + "\nhas_country_flag = did_yunnan_road_to_bengal", "war = no\nowns = %d" % _dacca, "prestige = 10", "yunnan_delta")
 
 # ---- every great clique chooses its road once it has swallowed the neighbour it claimed
 _siberia = sorted(p for p in OWNER if area(p) == "DBH")

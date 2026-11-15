@@ -125,82 +125,22 @@ leader = {
 }
 
 army = {
-	name = "Army of St Petersburg"
+	name = "Warband of St Petersburg"
 	location = 994
 	regiment = {
-		name = "1. Army of St Petersburg"
-		type = infantry
+		name = "1. Warband of St Petersburg"
+		type = irregular
 		home = 994
 	}
 	regiment = {
-		name = "2. Army of St Petersburg"
-		type = infantry
+		name = "2. Warband of St Petersburg"
+		type = irregular
 		home = 1008
 	}
 	regiment = {
-		name = "3. Army of St Petersburg"
-		type = infantry
+		name = "3. Warband of St Petersburg"
+		type = irregular
 		home = 1025
-	}
-	regiment = {
-		name = "4. Army of St Petersburg"
-		type = infantry
-		home = 1011
-	}
-	regiment = {
-		name = "5. Army of St Petersburg"
-		type = infantry
-		home = 1012
-	}
-	regiment = {
-		name = "6. Army of St Petersburg"
-		type = infantry
-		home = 977
-	}
-	regiment = {
-		name = "7. Army of St Petersburg"
-		type = infantry
-		home = 1010
-	}
-	regiment = {
-		name = "8. Army of St Petersburg"
-		type = infantry
-		home = 989
-	}
-	regiment = {
-		name = "9. Army of St Petersburg"
-		type = infantry
-		home = 994
-	}
-	regiment = {
-		name = "10. Army of St Petersburg"
-		type = infantry
-		home = 1008
-	}
-	regiment = {
-		name = "11. Army of St Petersburg"
-		type = infantry
-		home = 1025
-	}
-	regiment = {
-		name = "12. Army of St Petersburg"
-		type = infantry
-		home = 1011
-	}
-	regiment = {
-		name = "13. Army of St Petersburg"
-		type = cavalry
-		home = 1012
-	}
-	regiment = {
-		name = "14. Army of St Petersburg"
-		type = cavalry
-		home = 977
-	}
-	regiment = {
-		name = "15. Army of St Petersburg"
-		type = cavalry
-		home = 1010
 	}
 }
 

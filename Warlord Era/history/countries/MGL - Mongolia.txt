@@ -36,6 +36,7 @@ non_state_culture_literacy = 0.05
 civilized = yes
 set_country_flag = great_horde
 oob = "MGL_oob.txt"
+prestige = 80
 schools = army_tech_school
 post_napoleonic_thought = 1
 flintlock_rifles = 1
