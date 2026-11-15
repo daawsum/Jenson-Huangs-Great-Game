@@ -1,0 +1,7 @@
+owner = ZHL
+controller = ZHL
+add_core = ZHL
+add_core = CHI
+trade_goods = tea
+life_rating = 32
+terrain = hills

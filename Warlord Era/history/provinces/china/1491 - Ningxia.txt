@@ -1,0 +1,12 @@
+owner = NXA
+controller = NXA
+add_core = NXA
+add_core = CHI
+trade_goods = grain
+life_rating = 32
+terrain = hills
+state_building = {
+	level = 1
+	building = liquor_distillery
+	upgrade = yes
+}

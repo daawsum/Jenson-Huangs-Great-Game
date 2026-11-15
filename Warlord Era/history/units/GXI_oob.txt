@@ -1,0 +1,191 @@
+GDG = {
+	value = -150
+}
+
+HNC = {
+	value = 150
+}
+
+army = {
+	name = "Guangxi First Army"
+	location = 1503
+	regiment = {
+		name = "1. Guangxi First Army"
+		type = infantry
+		home = 1495
+	}
+	regiment = {
+		name = "2. Guangxi First Army"
+		type = infantry
+		home = 3278
+	}
+	regiment = {
+		name = "3. Guangxi First Army"
+		type = infantry
+		home = 1503
+	}
+	regiment = {
+		name = "4. Guangxi First Army"
+		type = infantry
+		home = 3285
+	}
+	regiment = {
+		name = "5. Guangxi First Army"
+		type = infantry
+		home = 3286
+	}
+	regiment = {
+		name = "6. Guangxi First Army"
+		type = infantry
+		home = 1502
+	}
+	regiment = {
+		name = "7. Guangxi First Army"
+		type = cavalry
+		home = 3283
+	}
+	regiment = {
+		name = "8. Guangxi First Army"
+		type = artillery
+		home = 3284
+	}
+	regiment = {
+		name = "9. Guangxi First Army"
+		type = artillery
+		home = 1495
+	}
+}
+
+army = {
+	name = "Guangxi Second Army"
+	location = 3284
+	regiment = {
+		name = "1. Guangxi Second Army"
+		type = infantry
+		home = 1495
+	}
+	regiment = {
+		name = "2. Guangxi Second Army"
+		type = infantry
+		home = 3278
+	}
+	regiment = {
+		name = "3. Guangxi Second Army"
+		type = infantry
+		home = 1503
+	}
+	regiment = {
+		name = "4. Guangxi Second Army"
+		type = infantry
+		home = 3285
+	}
+	regiment = {
+		name = "5. Guangxi Second Army"
+		type = infantry
+		home = 3286
+	}
+	regiment = {
+		name = "6. Guangxi Second Army"
+		type = infantry
+		home = 1502
+	}
+	regiment = {
+		name = "7. Guangxi Second Army"
+		type = cavalry
+		home = 3283
+	}
+	regiment = {
+		name = "8. Guangxi Second Army"
+		type = artillery
+		home = 3284
+	}
+	regiment = {
+		name = "9. Guangxi Second Army"
+		type = artillery
+		home = 1495
+	}
+}
+
+army = {
+	name = "Guangxi Third Army"
+	location = 3283
+	regiment = {
+		name = "1. Guangxi Third Army"
+		type = infantry
+		home = 1495
+	}
+	regiment = {
+		name = "2. Guangxi Third Army"
+		type = infantry
+		home = 3278
+	}
+	regiment = {
+		name = "3. Guangxi Third Army"
+		type = infantry
+		home = 1503
+	}
+	regiment = {
+		name = "4. Guangxi Third Army"
+		type = infantry
+		home = 3285
+	}
+	regiment = {
+		name = "5. Guangxi Third Army"
+		type = infantry
+		home = 3286
+	}
+	regiment = {
+		name = "6. Guangxi Third Army"
+		type = infantry
+		home = 1502
+	}
+	regiment = {
+		name = "7. Guangxi Third Army"
+		type = cavalry
+		home = 3283
+	}
+	regiment = {
+		name = "8. Guangxi Third Army"
+		type = artillery
+		home = 3284
+	}
+	regiment = {
+		name = "9. Guangxi Third Army"
+		type = artillery
+		home = 1495
+	}
+}
+
+navy = {
+	name = "Guangxi Fleet"
+	location = 1495
+	ship = {
+		name = "Guangxi Fleet 1"
+		type = manowar
+	}
+	ship = {
+		name = "Guangxi Fleet 2"
+		type = frigate
+	}
+	ship = {
+		name = "Guangxi Fleet 3"
+		type = frigate
+	}
+	ship = {
+		name = "Guangxi Fleet 4"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Guangxi Fleet 5"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Guangxi Fleet 6"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Guangxi Fleet 7"
+		type = clipper_transport
+	}
+}
+

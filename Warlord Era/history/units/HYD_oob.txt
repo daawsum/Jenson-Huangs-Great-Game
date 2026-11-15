@@ -1,0 +1,40 @@
+army = {
+	name = "Host of Hyderabad"
+	location = 1283
+	regiment = {
+		name = "1. Host of Hyderabad"
+		type = irregular
+		home = 1304
+	}
+	regiment = {
+		name = "2. Host of Hyderabad"
+		type = irregular
+		home = 1283
+	}
+	regiment = {
+		name = "3. Host of Hyderabad"
+		type = irregular
+		home = 1297
+	}
+	regiment = {
+		name = "4. Host of Hyderabad"
+		type = irregular
+		home = 1306
+	}
+	regiment = {
+		name = "5. Host of Hyderabad"
+		type = irregular
+		home = 1310
+	}
+	regiment = {
+		name = "6. Host of Hyderabad"
+		type = irregular
+		home = 1287
+	}
+	regiment = {
+		name = "7. Host of Hyderabad"
+		type = cavalry
+		home = 1309
+	}
+}
+

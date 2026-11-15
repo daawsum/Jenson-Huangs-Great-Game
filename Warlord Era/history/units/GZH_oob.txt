@@ -1,0 +1,88 @@
+HNC = {
+	value = -150
+}
+
+YNN = {
+	value = 150
+}
+
+army = {
+	name = "Guizhou First Army"
+	location = 1505
+	regiment = {
+		name = "1. Guizhou First Army"
+		type = cavalry
+		home = 1507
+	}
+	regiment = {
+		name = "2. Guizhou First Army"
+		type = cavalry
+		home = 3290
+	}
+	regiment = {
+		name = "3. Guizhou First Army"
+		type = cavalry
+		home = 3289
+	}
+	regiment = {
+		name = "4. Guizhou First Army"
+		type = cavalry
+		home = 1506
+	}
+	regiment = {
+		name = "5. Guizhou First Army"
+		type = infantry
+		home = 1505
+	}
+	regiment = {
+		name = "6. Guizhou First Army"
+		type = infantry
+		home = 3288
+	}
+	regiment = {
+		name = "7. Guizhou First Army"
+		type = infantry
+		home = 1507
+	}
+}
+
+army = {
+	name = "Guizhou Second Army"
+	location = 3288
+	regiment = {
+		name = "1. Guizhou Second Army"
+		type = cavalry
+		home = 1507
+	}
+	regiment = {
+		name = "2. Guizhou Second Army"
+		type = cavalry
+		home = 3290
+	}
+	regiment = {
+		name = "3. Guizhou Second Army"
+		type = cavalry
+		home = 3289
+	}
+	regiment = {
+		name = "4. Guizhou Second Army"
+		type = cavalry
+		home = 1506
+	}
+	regiment = {
+		name = "5. Guizhou Second Army"
+		type = infantry
+		home = 1505
+	}
+	regiment = {
+		name = "6. Guizhou Second Army"
+		type = infantry
+		home = 3288
+	}
+	regiment = {
+		name = "7. Guizhou Second Army"
+		type = infantry
+		home = 1507
+	}
+}
+

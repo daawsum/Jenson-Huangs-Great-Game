@@ -1,0 +1,56 @@
+FUJ = {
+	value = 125
+}
+
+army = {
+	name = "Formosan First Army"
+	location = 1485
+	regiment = {
+		name = "1. Formosan First Army"
+		type = infantry
+		home = 3385
+	}
+	regiment = {
+		name = "2. Formosan First Army"
+		type = infantry
+		home = 2562
+	}
+	regiment = {
+		name = "3. Formosan First Army"
+		type = infantry
+		home = 1485
+	}
+	regiment = {
+		name = "4. Formosan First Army"
+		type = infantry
+		home = 3265
+	}
+	regiment = {
+		name = "5. Formosan First Army"
+		type = infantry
+		home = 3385
+	}
+	regiment = {
+		name = "6. Formosan First Army"
+		type = cavalry
+		home = 2562
+	}
+}
+
+navy = {
+	name = "Formosan Fleet"
+	location = 1485
+	ship = {
+		name = "Formosan Fleet 1"
+		type = frigate
+	}
+	ship = {
+		name = "Formosan Fleet 2"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Formosan Fleet 3"
+		type = clipper_transport
+	}
+}
+

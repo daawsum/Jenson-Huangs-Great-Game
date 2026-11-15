@@ -1,0 +1,141 @@
+ZHJ = {
+	value = -150
+}
+
+GDG = {
+	value = 150
+}
+
+TWN = {
+	value = 125
+}
+
+army = {
+	name = "Fujian First Army"
+	location = 1482
+	regiment = {
+		name = "1. Fujian First Army"
+		type = infantry
+		home = 1486
+	}
+	regiment = {
+		name = "2. Fujian First Army"
+		type = infantry
+		home = 3266
+	}
+	regiment = {
+		name = "3. Fujian First Army"
+		type = infantry
+		home = 3262
+	}
+	regiment = {
+		name = "4. Fujian First Army"
+		type = infantry
+		home = 1482
+	}
+	regiment = {
+		name = "5. Fujian First Army"
+		type = infantry
+		home = 1484
+	}
+	regiment = {
+		name = "6. Fujian First Army"
+		type = cavalry
+		home = 3264
+	}
+	regiment = {
+		name = "7. Fujian First Army"
+		type = artillery
+		home = 3263
+	}
+}
+
+army = {
+	name = "Fujian Second Army"
+	location = 1483
+	regiment = {
+		name = "1. Fujian Second Army"
+		type = infantry
+		home = 1486
+	}
+	regiment = {
+		name = "2. Fujian Second Army"
+		type = infantry
+		home = 3266
+	}
+	regiment = {
+		name = "3. Fujian Second Army"
+		type = infantry
+		home = 3262
+	}
+	regiment = {
+		name = "4. Fujian Second Army"
+		type = infantry
+		home = 1482
+	}
+	regiment = {
+		name = "5. Fujian Second Army"
+		type = infantry
+		home = 1484
+	}
+	regiment = {
+		name = "6. Fujian Second Army"
+		type = cavalry
+		home = 3264
+	}
+	regiment = {
+		name = "7. Fujian Second Army"
+		type = artillery
+		home = 3263
+	}
+}
+
+navy = {
+	name = "Fujian Fleet"
+	location = 1482
+	ship = {
+		name = "Fujian Fleet 1"
+		type = manowar
+	}
+	ship = {
+		name = "Fujian Fleet 2"
+		type = manowar
+	}
+	ship = {
+		name = "Fujian Fleet 3"
+		type = frigate
+	}
+	ship = {
+		name = "Fujian Fleet 4"
+		type = frigate
+	}
+	ship = {
+		name = "Fujian Fleet 5"
+		type = frigate
+	}
+	ship = {
+		name = "Fujian Fleet 6"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Fujian Fleet 7"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Fujian Fleet 8"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Fujian Fleet 9"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Fujian Fleet 10"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Fujian Fleet 11"
+		type = clipper_transport
+	}
+}
+

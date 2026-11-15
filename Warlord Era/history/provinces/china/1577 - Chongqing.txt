@@ -1,0 +1,12 @@
+owner = CQG
+controller = CQG
+add_core = CQG
+add_core = CHI
+trade_goods = tea
+life_rating = 32
+terrain = plains
+state_building = {
+	level = 1
+	building = ammunition_factory
+	upgrade = yes
+}

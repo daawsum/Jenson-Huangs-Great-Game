@@ -1,0 +1,39 @@
+XBI = {
+	value = 125
+}
+
+army = {
+	name = "Ningxia First Army"
+	location = 1491
+	regiment = {
+		name = "1. Ningxia First Army"
+		type = infantry
+		home = 3274
+	}
+	regiment = {
+		name = "2. Ningxia First Army"
+		type = infantry
+		home = 1491
+	}
+	regiment = {
+		name = "3. Ningxia First Army"
+		type = infantry
+		home = 3274
+	}
+	regiment = {
+		name = "4. Ningxia First Army"
+		type = infantry
+		home = 1491
+	}
+	regiment = {
+		name = "5. Ningxia First Army"
+		type = infantry
+		home = 3274
+	}
+	regiment = {
+		name = "6. Ningxia First Army"
+		type = cavalry
+		home = 1491
+	}
+}
+

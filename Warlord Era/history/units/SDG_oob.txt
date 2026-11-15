@@ -1,0 +1,137 @@
+HNA = {
+	value = -150
+}
+
+ZHL = {
+	value = 150
+}
+
+army = {
+	name = "Shandong First Army"
+	location = 1563
+	regiment = {
+		name = "1. Shandong First Army"
+		type = infantry
+		home = 1563
+	}
+	regiment = {
+		name = "2. Shandong First Army"
+		type = infantry
+		home = 3341
+	}
+	regiment = {
+		name = "3. Shandong First Army"
+		type = infantry
+		home = 1567
+	}
+	regiment = {
+		name = "4. Shandong First Army"
+		type = infantry
+		home = 1571
+	}
+	regiment = {
+		name = "5. Shandong First Army"
+		type = infantry
+		home = 3347
+	}
+	regiment = {
+		name = "6. Shandong First Army"
+		type = cavalry
+		home = 3344
+	}
+	regiment = {
+		name = "7. Shandong First Army"
+		type = artillery
+		home = 1564
+	}
+}
+
+army = {
+	name = "Shandong Second Army"
+	location = 3342
+	regiment = {
+		name = "1. Shandong Second Army"
+		type = infantry
+		home = 1563
+	}
+	regiment = {
+		name = "2. Shandong Second Army"
+		type = infantry
+		home = 3341
+	}
+	regiment = {
+		name = "3. Shandong Second Army"
+		type = infantry
+		home = 1567
+	}
+	regiment = {
+		name = "4. Shandong Second Army"
+		type = infantry
+		home = 1571
+	}
+	regiment = {
+		name = "5. Shandong Second Army"
+		type = infantry
+		home = 3347
+	}
+	regiment = {
+		name = "6. Shandong Second Army"
+		type = cavalry
+		home = 3344
+	}
+	regiment = {
+		name = "7. Shandong Second Army"
+		type = artillery
+		home = 1564
+	}
+}
+
+navy = {
+	name = "Shandong Fleet"
+	location = 1571
+	ship = {
+		name = "Shandong Fleet 1"
+		type = manowar
+	}
+	ship = {
+		name = "Shandong Fleet 2"
+		type = manowar
+	}
+	ship = {
+		name = "Shandong Fleet 3"
+		type = frigate
+	}
+	ship = {
+		name = "Shandong Fleet 4"
+		type = frigate
+	}
+	ship = {
+		name = "Shandong Fleet 5"
+		type = frigate
+	}
+	ship = {
+		name = "Shandong Fleet 6"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Shandong Fleet 7"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Shandong Fleet 8"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Shandong Fleet 9"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Shandong Fleet 10"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Shandong Fleet 11"
+		type = clipper_transport
+	}
+}
+

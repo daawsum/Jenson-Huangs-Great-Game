@@ -1,0 +1,11 @@
+owner = TIB
+controller = TIB
+add_core = TIB
+add_core = CHI
+trade_goods = cattle
+life_rating = 30
+state_building = {
+	level = 1
+	building = small_arms_factory
+	upgrade = yes
+}

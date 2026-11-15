@@ -1,0 +1,16 @@
+owner = GDG
+controller = GDG
+add_core = GDG
+add_core = CHI
+trade_goods = tea
+life_rating = 32
+state_building = {
+	level = 1
+	building = paper_mill
+	upgrade = yes
+}
+state_building = {
+	level = 1
+	building = fabric_factory
+	upgrade = yes
+}

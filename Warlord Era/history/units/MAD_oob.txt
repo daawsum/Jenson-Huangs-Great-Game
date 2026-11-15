@@ -1,0 +1,15 @@
+army = {
+	name = "Warband of Tananarive"
+	location = 2115
+	regiment = {
+		name = "1. Warband of Tananarive"
+		type = irregular
+		home = 2115
+	}
+	regiment = {
+		name = "2. Warband of Tananarive"
+		type = irregular
+		home = 2116
+	}
+}
+

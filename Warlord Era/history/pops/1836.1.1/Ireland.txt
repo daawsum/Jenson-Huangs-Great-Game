@@ -1,0 +1,431 @@
+254 = {
+	aristocrats = {
+		culture = british
+		religion = placeholder
+		size = 1100
+	}
+
+	officers = {
+		culture = british
+		religion = placeholder
+		size = 250
+	}
+
+	bureaucrats = {
+		culture = british
+		religion = placeholder
+		size = 1125
+	}
+
+	clergymen = {
+		culture = british
+		religion = placeholder
+		size = 750
+	}
+
+	soldiers = {
+		culture = british
+		religion = placeholder
+		size = 1250
+	}
+
+	artisans = {
+		culture = british
+		religion = placeholder
+		size = 17500
+	}
+
+	farmers = {
+		culture = british
+		religion = placeholder
+		size = 87875
+	}
+
+	labourers = {
+		culture = british
+		religion = placeholder
+		size = 25250
+	}
+}
+
+255 = {
+	clergymen = {
+		culture = british
+		religion = placeholder
+		size = 625
+	}
+
+	artisans = {
+		culture = british
+		religion = placeholder
+		size = 6500
+	}
+
+	soldiers = {
+		culture = british
+		religion = placeholder
+		size = 1600
+	}
+
+	labourers = {
+		culture = british
+		religion = placeholder
+		size = 46625
+	}
+
+	aristocrats = {
+		culture = british
+		religion = placeholder
+		size = 500
+	}
+
+	farmers = {
+		culture = british
+		religion = placeholder
+		size = 75250
+	}
+}
+
+256 = {
+	aristocrats = {
+		culture = british
+		religion = placeholder
+		size = 250
+	}
+
+	clergymen = {
+		culture = british
+		religion = placeholder
+		size = 500
+	}
+
+	artisans = {
+		culture = british
+		religion = placeholder
+		size = 3000
+	}
+
+	soldiers = {
+		culture = british
+		religion = placeholder
+		size = 1350
+	}
+
+	labourers = {
+		culture = british
+		religion = placeholder
+		size = 63500
+	}
+}
+
+257 = {
+	aristocrats = {
+		culture = british
+		religion = placeholder
+		size = 250
+	}
+
+	clergymen = {
+		culture = british
+		religion = placeholder
+		size = 300
+	}
+
+	artisans = {
+		culture = british
+		religion = placeholder
+		size = 6000
+	}
+
+	soldiers = {
+		culture = british
+		religion = placeholder
+		size = 625
+	}
+
+	labourers = {
+		culture = british
+		religion = placeholder
+		size = 103250
+	}
+
+	farmers = {
+		culture = british
+		religion = placeholder
+		size = 16575
+	}
+}
+
+258 = {
+	aristocrats = {
+		culture = british
+		religion = placeholder
+		size = 500
+	}
+
+	clergymen = {
+		culture = british
+		religion = placeholder
+		size = 1250
+	}
+
+	artisans = {
+		culture = british
+		religion = placeholder
+		size = 7000
+	}
+
+	soldiers = {
+		culture = british
+		religion = placeholder
+		size = 1500
+	}
+
+	farmers = {
+		culture = british
+		religion = placeholder
+		size = 126750
+	}
+}
+
+259 = {
+	bureaucrats = {
+		culture = british
+		religion = placeholder
+		size = 750
+	}
+
+	aristocrats = {
+		culture = british
+		religion = placeholder
+		size = 1100
+	}
+
+	clergymen = {
+		culture = british
+		religion = placeholder
+		size = 2000
+	}
+
+	artisans = {
+		culture = british
+		religion = placeholder
+		size = 9500
+	}
+
+	soldiers = {
+		culture = british
+		religion = placeholder
+		size = 2500
+	}
+
+	farmers = {
+		culture = british
+		religion = placeholder
+		size = 176250
+	}
+}
+
+260 = {
+	aristocrats = {
+		culture = british
+		religion = placeholder
+		size = 1500
+	}
+
+	bureaucrats = {
+		culture = british
+		religion = placeholder
+		size = 2750
+	}
+
+	officers = {
+		culture = british
+		religion = placeholder
+		size = 750
+	}
+
+	clergymen = {
+		culture = british
+		religion = placeholder
+		size = 1500
+	}
+
+	artisans = {
+		culture = british
+		religion = placeholder
+		size = 22000
+	}
+
+	soldiers = {
+		culture = british
+		religion = placeholder
+		size = 2000
+	}
+
+	farmers = {
+		culture = british
+		religion = placeholder
+		size = 193600
+	}
+}
+
+261 = {
+	aristocrats = {
+		culture = british
+		religion = placeholder
+		size = 1100
+	}
+
+	clergymen = {
+		culture = british
+		religion = placeholder
+		size = 1500
+	}
+
+	artisans = {
+		culture = british
+		religion = placeholder
+		size = 14000
+	}
+
+	soldiers = {
+		culture = british
+		religion = placeholder
+		size = 1500
+	}
+
+	farmers = {
+		culture = british
+		religion = placeholder
+		size = 186500
+	}
+}
+
+262 = {
+	aristocrats = {
+		culture = british
+		religion = placeholder
+		size = 500
+	}
+
+	clergymen = {
+		culture = british
+		religion = placeholder
+		size = 750
+	}
+
+	artisans = {
+		culture = british
+		religion = placeholder
+		size = 7000
+	}
+
+	soldiers = {
+		culture = british
+		religion = placeholder
+		size = 1100
+	}
+
+	farmers = {
+		culture = british
+		religion = placeholder
+		size = 124750
+	}
+}
+
+263 = {
+	aristocrats = {
+		culture = british
+		religion = placeholder
+		size = 1000
+	}
+
+	bureaucrats = {
+		culture = british
+		religion = placeholder
+		size = 2625
+	}
+
+	officers = {
+		culture = british
+		religion = placeholder
+		size = 500
+	}
+
+	clergymen = {
+		culture = british
+		religion = placeholder
+		size = 2250
+	}
+
+	soldiers = {
+		culture = british
+		religion = placeholder
+		size = 2500
+	}
+
+	artisans = {
+		culture = british
+		religion = placeholder
+		size = 52000
+	}
+
+	farmers = {
+		culture = british
+		religion = placeholder
+		size = 154375
+	}
+}
+
+264 = {
+	aristocrats = {
+		culture = british
+		religion = placeholder
+		size = 500
+	}
+
+	artisans = {
+		culture = british
+		religion = placeholder
+		size = 6500
+	}
+
+	soldiers = {
+		culture = british
+		religion = placeholder
+		size = 1500
+	}
+
+	farmers = {
+		culture = british
+		religion = placeholder
+		size = 124500
+	}
+}
+
+265 = {
+	aristocrats = {
+		culture = british
+		religion = placeholder
+		size = 500
+	}
+
+	artisans = {
+		culture = british
+		religion = placeholder
+		size = 5500
+	}
+
+	soldiers = {
+		culture = british
+		religion = placeholder
+		size = 1100
+	}
+
+	labourers = {
+		culture = british
+		religion = placeholder
+		size = 104000
+	}
+}

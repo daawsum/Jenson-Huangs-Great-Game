@@ -1,0 +1,709 @@
+1182 = {
+	bureaucrats = {
+		culture = russian
+		religion = placeholder
+		size = 20
+	}
+
+	clergymen = {
+		culture = russian
+		religion = placeholder
+		size = 15
+	}
+
+	artisans = {
+		culture = russian
+		religion = placeholder
+		size = 35
+	}
+
+	soldiers = {
+		culture = russian
+		religion = placeholder
+		size = 15
+	}
+
+	farmers = {
+		culture = russian
+		religion = placeholder
+		size = 665
+	}
+
+	aristocrats = {
+		culture = kazak
+		religion = placeholder
+		size = 75
+	}
+
+	clergymen = {
+		culture = kazak
+		religion = placeholder
+		size = 75
+	}
+
+	artisans = {
+		culture = kazak
+		religion = placeholder
+		size = 200
+	}
+
+	soldiers = {
+		culture = kazak
+		religion = placeholder
+		size = 25
+	}
+
+	farmers = {
+		culture = kazak
+		religion = placeholder
+		size = 3625
+	}
+}
+
+1183 = {
+	aristocrats = {
+		culture = kazak
+		religion = placeholder
+		size = 25
+	}
+
+	clergymen = {
+		culture = kazak
+		religion = placeholder
+		size = 25
+	}
+
+	artisans = {
+		culture = kazak
+		religion = placeholder
+		size = 37
+	}
+
+	soldiers = {
+		culture = kazak
+		religion = placeholder
+		size = 25
+	}
+
+	farmers = {
+		culture = kazak
+		religion = placeholder
+		size = 686
+	}
+}
+
+2610 = {
+	clergymen = {
+		culture = russian
+		religion = placeholder
+		size = 30
+	}
+
+	artisans = {
+		culture = russian
+		religion = placeholder
+		size = 45
+	}
+
+	soldiers = {
+		culture = russian
+		religion = placeholder
+		size = 25
+	}
+
+	farmers = {
+		culture = russian
+		religion = placeholder
+		size = 1150
+	}
+
+	aristocrats = {
+		culture = kazak
+		religion = placeholder
+		size = 25
+	}
+
+	clergymen = {
+		culture = kazak
+		religion = placeholder
+		size = 25
+	}
+
+	artisans = {
+		culture = kazak
+		religion = placeholder
+		size = 100
+	}
+
+	soldiers = {
+		culture = kazak
+		religion = placeholder
+		size = 25
+	}
+
+	farmers = {
+		culture = kazak
+		religion = placeholder
+		size = 1825
+	}
+}
+
+2611 = {
+	aristocrats = {
+		culture = kazak
+		religion = placeholder
+		size = 25
+	}
+
+	clergymen = {
+		culture = kazak
+		religion = placeholder
+		size = 25
+	}
+
+	artisans = {
+		culture = kazak
+		religion = placeholder
+		size = 37
+	}
+
+	soldiers = {
+		culture = kazak
+		religion = placeholder
+		size = 25
+	}
+
+	farmers = {
+		culture = kazak
+		religion = placeholder
+		size = 686
+	}
+}
+
+1181 = {
+	aristocrats = {
+		culture = kazak
+		religion = placeholder
+		size = 225
+	}
+
+	clergymen = {
+		culture = kazak
+		religion = placeholder
+		size = 125
+	}
+
+	artisans = {
+		culture = kazak
+		religion = placeholder
+		size = 650
+	}
+
+	soldiers = {
+		culture = kazak
+		religion = placeholder
+		size = 125
+	}
+
+	farmers = {
+		culture = kazak
+		religion = placeholder
+		size = 12875
+	}
+}
+
+1184 = {
+	clergymen = {
+		culture = russian
+		religion = placeholder
+		size = 25
+	}
+
+	artisans = {
+		culture = russian
+		religion = placeholder
+		size = 25
+	}
+
+	soldiers = {
+		culture = russian
+		religion = placeholder
+		size = 25
+	}
+
+	farmers = {
+		culture = russian
+		religion = placeholder
+		size = 405
+	}
+
+	aristocrats = {
+		culture = kazak
+		religion = placeholder
+		size = 63
+	}
+
+	clergymen = {
+		culture = kazak
+		religion = placeholder
+		size = 30
+	}
+
+	artisans = {
+		culture = kazak
+		religion = placeholder
+		size = 165
+	}
+
+	soldiers = {
+		culture = kazak
+		religion = placeholder
+		size = 33
+	}
+
+	farmers = {
+		culture = kazak
+		religion = placeholder
+		size = 2857
+	}
+}
+
+1185 = {
+	aristocrats = {
+		culture = kazak
+		religion = placeholder
+		size = 350
+	}
+
+	clergymen = {
+		culture = kazak
+		religion = placeholder
+		size = 200
+	}
+
+	artisans = {
+		culture = kazak
+		religion = placeholder
+		size = 1100
+	}
+
+	soldiers = {
+		culture = kazak
+		religion = placeholder
+		size = 200
+	}
+
+	farmers = {
+		culture = kazak
+		religion = placeholder
+		size = 18250
+	}
+}
+
+2606 = {
+	aristocrats = {
+		culture = kazak
+		religion = placeholder
+		size = 350
+	}
+
+	clergymen = {
+		culture = kazak
+		religion = placeholder
+		size = 175
+	}
+
+	artisans = {
+		culture = kazak
+		religion = placeholder
+		size = 950
+	}
+
+	soldiers = {
+		culture = kazak
+		religion = placeholder
+		size = 200
+	}
+
+	farmers = {
+		culture = kazak
+		religion = placeholder
+		size = 17325
+	}
+}
+
+2612 = {
+	aristocrats = {
+		culture = kazak
+		religion = placeholder
+		size = 325
+	}
+
+	clergymen = {
+		culture = kazak
+		religion = placeholder
+		size = 175
+	}
+
+	artisans = {
+		culture = kazak
+		religion = placeholder
+		size = 850
+	}
+
+	soldiers = {
+		culture = kazak
+		religion = placeholder
+		size = 175
+	}
+
+	farmers = {
+		culture = kazak
+		religion = placeholder
+		size = 15475
+	}
+}
+
+1187 = {
+	aristocrats = {
+		culture = kazak
+		religion = placeholder
+		size = 52
+	}
+
+	clergymen = {
+		culture = kazak
+		religion = placeholder
+		size = 30
+	}
+
+	artisans = {
+		culture = kazak
+		religion = placeholder
+		size = 165
+	}
+
+	soldiers = {
+		culture = kazak
+		religion = placeholder
+		size = 30
+	}
+
+	farmers = {
+		culture = kazak
+		religion = placeholder
+		size = 2737
+	}
+}
+
+1188 = {
+	aristocrats = {
+		culture = kazak
+		religion = placeholder
+		size = 300
+	}
+
+	clergymen = {
+		culture = kazak
+		religion = placeholder
+		size = 150
+	}
+
+	artisans = {
+		culture = kazak
+		religion = placeholder
+		size = 800
+	}
+
+	soldiers = {
+		culture = kazak
+		religion = placeholder
+		size = 175
+	}
+
+	farmers = {
+		culture = kazak
+		religion = placeholder
+		size = 14575
+	}
+
+	aristocrats = {
+		culture = uighur
+		religion = placeholder
+		size = 200
+	}
+
+	clergymen = {
+		culture = uighur
+		religion = placeholder
+		size = 100
+	}
+
+	artisans = {
+		culture = uighur
+		religion = placeholder
+		size = 550
+	}
+
+	soldiers = {
+		culture = uighur
+		religion = placeholder
+		size = 125
+	}
+
+	farmers = {
+		culture = uighur
+		religion = placeholder
+		size = 10025
+	}
+}
+
+1186 = {
+	aristocrats = {
+		culture = kirgiz
+		religion = placeholder
+		size = 100
+	}
+
+	clergymen = {
+		culture = kirgiz
+		religion = placeholder
+		size = 50
+	}
+
+	artisans = {
+		culture = kirgiz
+		religion = placeholder
+		size = 300
+	}
+
+	soldiers = {
+		culture = kirgiz
+		religion = placeholder
+		size = 75
+	}
+
+	farmers = {
+		culture = kirgiz
+		religion = placeholder
+		size = 5475
+	}
+
+	aristocrats = {
+		culture = kazak
+		religion = placeholder
+		size = 300
+	}
+
+	clergymen = {
+		culture = kazak
+		religion = placeholder
+		size = 150
+	}
+
+	artisans = {
+		culture = kazak
+		religion = placeholder
+		size = 800
+	}
+
+	soldiers = {
+		culture = kazak
+		religion = placeholder
+		size = 175
+	}
+
+	farmers = {
+		culture = kazak
+		religion = placeholder
+		size = 14575
+	}
+}
+
+1193 = {
+	aristocrats = {
+		culture = uzbek
+		religion = placeholder
+		size = 250
+	}
+
+	clergymen = {
+		culture = uzbek
+		religion = placeholder
+		size = 125
+	}
+
+	artisans = {
+		culture = uzbek
+		religion = placeholder
+		size = 700
+	}
+
+	soldiers = {
+		culture = uzbek
+		religion = placeholder
+		size = 150
+	}
+
+	farmers = {
+		culture = uzbek
+		religion = placeholder
+		size = 12775
+	}
+
+	aristocrats = {
+		culture = kazak
+		religion = placeholder
+		size = 250
+	}
+
+	clergymen = {
+		culture = kazak
+		religion = placeholder
+		size = 125
+	}
+
+	artisans = {
+		culture = kazak
+		religion = placeholder
+		size = 600
+	}
+
+	soldiers = {
+		culture = kazak
+		religion = placeholder
+		size = 125
+	}
+
+	farmers = {
+		culture = kazak
+		religion = placeholder
+		size = 11900
+	}
+}
+
+1194 = {
+	aristocrats = {
+		culture = kazak
+		religion = placeholder
+		size = 150
+	}
+
+	clergymen = {
+		culture = kazak
+		religion = placeholder
+		size = 75
+	}
+
+	artisans = {
+		culture = kazak
+		religion = placeholder
+		size = 350
+	}
+
+	soldiers = {
+		culture = kazak
+		religion = placeholder
+		size = 75
+	}
+
+	farmers = {
+		culture = kazak
+		religion = placeholder
+		size = 7350
+	}
+}
+
+2702 = {
+	aristocrats = {
+		culture = kazak
+		religion = placeholder
+		size = 25
+	}
+
+	clergymen = {
+		culture = kazak
+		religion = placeholder
+		size = 25
+	}
+
+	artisans = {
+		culture = kazak
+		religion = placeholder
+		size = 52
+	}
+
+	soldiers = {
+		culture = kazak
+		religion = placeholder
+		size = 25
+	}
+
+	farmers = {
+		culture = kazak
+		religion = placeholder
+		size = 963
+	}
+}
+
+1197 = {
+	aristocrats = {
+		culture = uzbek
+		religion = placeholder
+		size = 250
+	}
+
+	clergymen = {
+		culture = uzbek
+		religion = placeholder
+		size = 125
+	}
+
+	artisans = {
+		culture = uzbek
+		religion = placeholder
+		size = 750
+	}
+
+	soldiers = {
+		culture = uzbek
+		religion = placeholder
+		size = 150
+	}
+
+	farmers = {
+		culture = uzbek
+		religion = placeholder
+		size = 13725
+	}
+
+	aristocrats = {
+		culture = kazak
+		religion = placeholder
+		size = 550
+	}
+
+	clergymen = {
+		culture = kazak
+		religion = placeholder
+		size = 250
+	}
+
+	artisans = {
+		culture = kazak
+		religion = placeholder
+		size = 1500
+	}
+
+	soldiers = {
+		culture = kazak
+		religion = placeholder
+		size = 250
+	}
+
+	farmers = {
+		culture = kazak
+		religion = placeholder
+		size = 27450
+	}
+}

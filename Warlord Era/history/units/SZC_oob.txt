@@ -1,0 +1,96 @@
+YNN = {
+	value = -150
+}
+
+HBE = {
+	value = 150
+}
+
+XKG = {
+	value = 125
+}
+
+CQG = {
+	value = 125
+}
+
+army = {
+	name = "Sichuan First Army"
+	location = 1578
+	regiment = {
+		name = "1. Sichuan First Army"
+		type = infantry
+		home = 1580
+	}
+	regiment = {
+		name = "2. Sichuan First Army"
+		type = infantry
+		home = 3356
+	}
+	regiment = {
+		name = "3. Sichuan First Army"
+		type = infantry
+		home = 1578
+	}
+	regiment = {
+		name = "4. Sichuan First Army"
+		type = infantry
+		home = 3354
+	}
+	regiment = {
+		name = "5. Sichuan First Army"
+		type = infantry
+		home = 1585
+	}
+	regiment = {
+		name = "6. Sichuan First Army"
+		type = cavalry
+		home = 3362
+	}
+	regiment = {
+		name = "7. Sichuan First Army"
+		type = artillery
+		home = 3363
+	}
+}
+
+army = {
+	name = "Sichuan Second Army"
+	location = 3358
+	regiment = {
+		name = "1. Sichuan Second Army"
+		type = infantry
+		home = 1580
+	}
+	regiment = {
+		name = "2. Sichuan Second Army"
+		type = infantry
+		home = 3356
+	}
+	regiment = {
+		name = "3. Sichuan Second Army"
+		type = infantry
+		home = 1578
+	}
+	regiment = {
+		name = "4. Sichuan Second Army"
+		type = infantry
+		home = 3354
+	}
+	regiment = {
+		name = "5. Sichuan Second Army"
+		type = infantry
+		home = 1585
+	}
+	regiment = {
+		name = "6. Sichuan Second Army"
+		type = cavalry
+		home = 3362
+	}
+	regiment = {
+		name = "7. Sichuan Second Army"
+		type = artillery
+		home = 3363
+	}
+}
+

@@ -1,0 +1,56 @@
+FTN = {
+	value = 125
+}
+
+army = {
+	name = "Jilin First Army"
+	location = 1555
+	regiment = {
+		name = "1. Jilin First Army"
+		type = infantry
+		home = 3336
+	}
+	regiment = {
+		name = "2. Jilin First Army"
+		type = infantry
+		home = 3337
+	}
+	regiment = {
+		name = "3. Jilin First Army"
+		type = infantry
+		home = 1555
+	}
+	regiment = {
+		name = "4. Jilin First Army"
+		type = infantry
+		home = 3334
+	}
+	regiment = {
+		name = "5. Jilin First Army"
+		type = infantry
+		home = 3335
+	}
+	regiment = {
+		name = "6. Jilin First Army"
+		type = cavalry
+		home = 1554
+	}
+}
+
+navy = {
+	name = "Jilin Fleet"
+	location = 1083
+	ship = {
+		name = "Jilin Fleet 1"
+		type = frigate
+	}
+	ship = {
+		name = "Jilin Fleet 2"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Jilin Fleet 3"
+		type = clipper_transport
+	}
+}
+

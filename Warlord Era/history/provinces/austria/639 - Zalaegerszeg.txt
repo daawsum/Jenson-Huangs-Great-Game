@@ -1,0 +1,6 @@
+owner = HRE
+controller = HRE
+add_core = HRE
+add_core = HUN
+trade_goods = cattle
+life_rating = 35

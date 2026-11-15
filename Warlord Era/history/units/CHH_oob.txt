@@ -1,0 +1,39 @@
+ZHL = {
+	value = 125
+}
+
+army = {
+	name = "Chahar First Army"
+	location = 1534
+	regiment = {
+		name = "1. Chahar First Army"
+		type = infantry
+		home = 1534
+	}
+	regiment = {
+		name = "2. Chahar First Army"
+		type = infantry
+		home = 3316
+	}
+	regiment = {
+		name = "3. Chahar First Army"
+		type = infantry
+		home = 3317
+	}
+	regiment = {
+		name = "4. Chahar First Army"
+		type = infantry
+		home = 1534
+	}
+	regiment = {
+		name = "5. Chahar First Army"
+		type = infantry
+		home = 3316
+	}
+	regiment = {
+		name = "6. Chahar First Army"
+		type = cavalry
+		home = 3317
+	}
+}
+

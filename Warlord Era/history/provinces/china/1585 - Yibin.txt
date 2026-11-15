@@ -1,0 +1,17 @@
+owner = SZC
+controller = SZC
+add_core = SZC
+add_core = CHI
+trade_goods = tea
+life_rating = 32
+terrain = hills
+state_building = {
+	level = 1
+	building = furniture_factory
+	upgrade = yes
+}
+state_building = {
+	level = 1
+	building = paper_mill
+	upgrade = yes
+}

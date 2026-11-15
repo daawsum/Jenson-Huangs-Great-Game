@@ -1,0 +1,23 @@
+owner = ZHJ
+controller = ZHJ
+add_core = ZHJ
+add_core = CHI
+trade_goods = silk
+life_rating = 32
+terrain = woods
+state_building = {
+	level = 1
+	building = winery
+	upgrade = yes
+}
+state_building = {
+	level = 1
+	building = furniture_factory
+	upgrade = yes
+}
+state_building = {
+	level = 1
+	building = paper_mill
+	upgrade = yes
+}
+naval_base = 1

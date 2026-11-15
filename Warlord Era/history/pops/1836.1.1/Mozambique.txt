@@ -1,0 +1,969 @@
+2049 = {
+	aristocrats = {
+		culture = zulu
+		religion = placeholder
+		size = 97
+	}
+
+	clergymen = {
+		culture = zulu
+		religion = placeholder
+		size = 86
+	}
+
+	artisans = {
+		culture = zulu
+		religion = placeholder
+		size = 502
+	}
+
+	soldiers = {
+		culture = zulu
+		religion = placeholder
+		size = 97
+	}
+
+	farmers = {
+		culture = zulu
+		religion = placeholder
+		size = 5666
+	}
+
+	slaves = {
+		culture = zulu
+		religion = placeholder
+		size = 2700
+	}
+}
+
+2050 = {
+	aristocrats = {
+		culture = zulu
+		religion = placeholder
+		size = 105
+	}
+
+	clergymen = {
+		culture = zulu
+		religion = placeholder
+		size = 108
+	}
+
+	artisans = {
+		culture = zulu
+		religion = placeholder
+		size = 517
+	}
+
+	soldiers = {
+		culture = zulu
+		religion = placeholder
+		size = 120
+	}
+
+	farmers = {
+		culture = zulu
+		religion = placeholder
+		size = 6348
+	}
+
+	slaves = {
+		culture = zulu
+		religion = placeholder
+		size = 3150
+	}
+}
+
+2051 = {
+	aristocrats = {
+		culture = zulu
+		religion = placeholder
+		size = 67
+	}
+
+	clergymen = {
+		culture = zulu
+		religion = placeholder
+		size = 63
+	}
+
+	artisans = {
+		culture = zulu
+		religion = placeholder
+		size = 300
+	}
+
+	soldiers = {
+		culture = zulu
+		religion = placeholder
+		size = 82
+	}
+
+	farmers = {
+		culture = zulu
+		religion = placeholder
+		size = 4136
+	}
+
+	slaves = {
+		culture = zulu
+		religion = placeholder
+		size = 1950
+	}
+}
+
+2052 = {
+	aristocrats = {
+		culture = zulu
+		religion = placeholder
+		size = 400
+	}
+
+	clergymen = {
+		culture = zulu
+		religion = placeholder
+		size = 875
+	}
+
+	artisans = {
+		culture = zulu
+		religion = placeholder
+		size = 2000
+	}
+
+	soldiers = {
+		culture = zulu
+		religion = placeholder
+		size = 450
+	}
+
+	farmers = {
+		culture = zulu
+		religion = placeholder
+		size = 43025
+	}
+
+	slaves = {
+		culture = zulu
+		religion = placeholder
+		size = 22700
+	}
+}
+
+2053 = {
+	aristocrats = {
+		culture = spanish
+		religion = placeholder
+		size = 30
+	}
+
+	clergymen = {
+		culture = spanish
+		religion = placeholder
+		size = 25
+	}
+
+	artisans = {
+		culture = spanish
+		religion = placeholder
+		size = 165
+	}
+
+	soldiers = {
+		culture = spanish
+		religion = placeholder
+		size = 25
+	}
+
+	aristocrats = {
+		culture = zulu
+		religion = placeholder
+		size = 60
+	}
+
+	clergymen = {
+		culture = zulu
+		religion = placeholder
+		size = 52
+	}
+
+	artisans = {
+		culture = zulu
+		religion = placeholder
+		size = 270
+	}
+
+	soldiers = {
+		culture = zulu
+		religion = placeholder
+		size = 60
+	}
+
+	farmers = {
+		culture = zulu
+		religion = placeholder
+		size = 3382
+	}
+
+	slaves = {
+		culture = zulu
+		religion = placeholder
+		size = 1725
+	}
+
+	clergymen = {
+		culture = amhara
+		religion = placeholder
+		size = 25
+	}
+
+	artisans = {
+		culture = amhara
+		religion = placeholder
+		size = 146
+	}
+}
+
+2059 = {
+	aristocrats = {
+		culture = spanish
+		religion = placeholder
+		size = 25
+	}
+
+	clergymen = {
+		culture = spanish
+		religion = placeholder
+		size = 25
+	}
+
+	artisans = {
+		culture = spanish
+		religion = placeholder
+		size = 48
+	}
+
+	soldiers = {
+		culture = spanish
+		religion = placeholder
+		size = 25
+	}
+
+	aristocrats = {
+		culture = zulu
+		religion = placeholder
+		size = 25
+	}
+
+	clergymen = {
+		culture = zulu
+		religion = placeholder
+		size = 25
+	}
+
+	artisans = {
+		culture = zulu
+		religion = placeholder
+		size = 97
+	}
+
+	soldiers = {
+		culture = zulu
+		religion = placeholder
+		size = 25
+	}
+
+	farmers = {
+		culture = zulu
+		religion = placeholder
+		size = 1488
+	}
+
+	slaves = {
+		culture = zulu
+		religion = placeholder
+		size = 300
+	}
+
+	clergymen = {
+		culture = amhara
+		religion = placeholder
+		size = 25
+	}
+
+	artisans = {
+		culture = amhara
+		religion = placeholder
+		size = 146
+	}
+
+	aristocrats = {
+		culture = african_minor
+		religion = placeholder
+		size = 25
+	}
+
+	clergymen = {
+		culture = african_minor
+		religion = placeholder
+		size = 25
+	}
+
+	artisans = {
+		culture = african_minor
+		religion = placeholder
+		size = 52
+	}
+
+	soldiers = {
+		culture = african_minor
+		religion = placeholder
+		size = 25
+	}
+
+	farmers = {
+		culture = african_minor
+		religion = placeholder
+		size = 213
+	}
+
+	slaves = {
+		culture = african_minor
+		religion = placeholder
+		size = 750
+	}
+}
+
+2054 = {
+	aristocrats = {
+		culture = zulu
+		religion = placeholder
+		size = 175
+	}
+
+	clergymen = {
+		culture = zulu
+		religion = placeholder
+		size = 200
+	}
+
+	artisans = {
+		culture = zulu
+		religion = placeholder
+		size = 850
+	}
+
+	soldiers = {
+		culture = zulu
+		religion = placeholder
+		size = 225
+	}
+
+	farmers = {
+		culture = zulu
+		religion = placeholder
+		size = 13550
+	}
+
+	slaves = {
+		culture = zulu
+		religion = placeholder
+		size = 3000
+	}
+
+	aristocrats = {
+		culture = african_minor
+		religion = placeholder
+		size = 75
+	}
+
+	clergymen = {
+		culture = african_minor
+		religion = placeholder
+		size = 75
+	}
+
+	artisans = {
+		culture = african_minor
+		religion = placeholder
+		size = 400
+	}
+
+	soldiers = {
+		culture = african_minor
+		religion = placeholder
+		size = 100
+	}
+
+	farmers = {
+		culture = african_minor
+		religion = placeholder
+		size = 4850
+	}
+
+	slaves = {
+		culture = african_minor
+		religion = placeholder
+		size = 2500
+	}
+}
+
+2055 = {
+	aristocrats = {
+		culture = zulu
+		religion = placeholder
+		size = 450
+	}
+
+	clergymen = {
+		culture = zulu
+		religion = placeholder
+		size = 400
+	}
+
+	artisans = {
+		culture = zulu
+		religion = placeholder
+		size = 2000
+	}
+
+	soldiers = {
+		culture = zulu
+		religion = placeholder
+		size = 450
+	}
+
+	farmers = {
+		culture = zulu
+		religion = placeholder
+		size = 27700
+	}
+
+	slaves = {
+		culture = zulu
+		religion = placeholder
+		size = 10000
+	}
+}
+
+2056 = {
+	aristocrats = {
+		culture = african_minor
+		religion = placeholder
+		size = 100
+	}
+
+	clergymen = {
+		culture = african_minor
+		religion = placeholder
+		size = 100
+	}
+
+	artisans = {
+		culture = african_minor
+		religion = placeholder
+		size = 500
+	}
+
+	soldiers = {
+		culture = african_minor
+		religion = placeholder
+		size = 100
+	}
+
+	farmers = {
+		culture = african_minor
+		religion = placeholder
+		size = 7100
+	}
+
+	slaves = {
+		culture = african_minor
+		religion = placeholder
+		size = 2100
+	}
+
+	aristocrats = {
+		culture = zulu
+		religion = placeholder
+		size = 180
+	}
+
+	clergymen = {
+		culture = zulu
+		religion = placeholder
+		size = 185
+	}
+
+	artisans = {
+		culture = zulu
+		religion = placeholder
+		size = 800
+	}
+
+	soldiers = {
+		culture = zulu
+		religion = placeholder
+		size = 200
+	}
+
+	farmers = {
+		culture = zulu
+		religion = placeholder
+		size = 11635
+	}
+
+	slaves = {
+		culture = zulu
+		religion = placeholder
+		size = 3000
+	}
+}
+
+2057 = {
+	aristocrats = {
+		culture = zulu
+		religion = placeholder
+		size = 33
+	}
+
+	clergymen = {
+		culture = zulu
+		religion = placeholder
+		size = 30
+	}
+
+	artisans = {
+		culture = zulu
+		religion = placeholder
+		size = 138
+	}
+
+	soldiers = {
+		culture = zulu
+		religion = placeholder
+		size = 37
+	}
+
+	farmers = {
+		culture = zulu
+		religion = placeholder
+		size = 2385
+	}
+
+	slaves = {
+		culture = zulu
+		religion = placeholder
+		size = 375
+	}
+
+	aristocrats = {
+		culture = african_minor
+		religion = placeholder
+		size = 25
+	}
+
+	clergymen = {
+		culture = african_minor
+		religion = placeholder
+		size = 25
+	}
+
+	artisans = {
+		culture = african_minor
+		religion = placeholder
+		size = 105
+	}
+
+	soldiers = {
+		culture = african_minor
+		religion = placeholder
+		size = 25
+	}
+
+	farmers = {
+		culture = african_minor
+		religion = placeholder
+		size = 1177
+	}
+
+	slaves = {
+		culture = african_minor
+		religion = placeholder
+		size = 900
+	}
+
+	clergymen = {
+		culture = amhara
+		religion = placeholder
+		size = 25
+	}
+
+	artisans = {
+		culture = amhara
+		religion = placeholder
+		size = 146
+	}
+}
+
+2058 = {
+	aristocrats = {
+		culture = zulu
+		religion = placeholder
+		size = 350
+	}
+
+	clergymen = {
+		culture = zulu
+		religion = placeholder
+		size = 375
+	}
+
+	artisans = {
+		culture = zulu
+		religion = placeholder
+		size = 1750
+	}
+
+	soldiers = {
+		culture = zulu
+		religion = placeholder
+		size = 350
+	}
+
+	farmers = {
+		culture = zulu
+		religion = placeholder
+		size = 21275
+	}
+
+	slaves = {
+		culture = zulu
+		religion = placeholder
+		size = 10000
+	}
+}
+
+2060 = {
+	aristocrats = {
+		culture = spanish
+		religion = placeholder
+		size = 41
+	}
+
+	clergymen = {
+		culture = spanish
+		religion = placeholder
+		size = 25
+	}
+
+	artisans = {
+		culture = spanish
+		religion = placeholder
+		size = 90
+	}
+
+	soldiers = {
+		culture = spanish
+		religion = placeholder
+		size = 25
+	}
+
+	aristocrats = {
+		culture = zulu
+		religion = placeholder
+		size = 30
+	}
+
+	clergymen = {
+		culture = zulu
+		religion = placeholder
+		size = 30
+	}
+
+	artisans = {
+		culture = zulu
+		religion = placeholder
+		size = 157
+	}
+
+	soldiers = {
+		culture = zulu
+		religion = placeholder
+		size = 37
+	}
+
+	farmers = {
+		culture = zulu
+		religion = placeholder
+		size = 1995
+	}
+
+	slaves = {
+		culture = zulu
+		religion = placeholder
+		size = 900
+	}
+}
+
+2061 = {
+	aristocrats = {
+		culture = zulu
+		religion = placeholder
+		size = 37
+	}
+
+	clergymen = {
+		culture = zulu
+		religion = placeholder
+		size = 37
+	}
+
+	artisans = {
+		culture = zulu
+		religion = placeholder
+		size = 217
+	}
+
+	soldiers = {
+		culture = zulu
+		religion = placeholder
+		size = 60
+	}
+
+	farmers = {
+		culture = zulu
+		religion = placeholder
+		size = 2647
+	}
+
+	slaves = {
+		culture = zulu
+		religion = placeholder
+		size = 1350
+	}
+
+	clergymen = {
+		culture = amhara
+		religion = placeholder
+		size = 25
+	}
+
+	artisans = {
+		culture = amhara
+		religion = placeholder
+		size = 438
+	}
+}
+
+2063 = {
+	aristocrats = {
+		culture = zulu
+		religion = placeholder
+		size = 75
+	}
+
+	clergymen = {
+		culture = zulu
+		religion = placeholder
+		size = 75
+	}
+
+	artisans = {
+		culture = zulu
+		religion = placeholder
+		size = 375
+	}
+
+	soldiers = {
+		culture = zulu
+		religion = placeholder
+		size = 75
+	}
+
+	farmers = {
+		culture = zulu
+		religion = placeholder
+		size = 5400
+	}
+
+	slaves = {
+		culture = zulu
+		religion = placeholder
+		size = 1500
+	}
+
+	clergymen = {
+		culture = amhara
+		religion = placeholder
+		size = 25
+	}
+
+	artisans = {
+		culture = amhara
+		religion = placeholder
+		size = 292
+	}
+}
+
+2064 = {
+	aristocrats = {
+		culture = zulu
+		religion = placeholder
+		size = 450
+	}
+
+	clergymen = {
+		culture = zulu
+		religion = placeholder
+		size = 450
+	}
+
+	artisans = {
+		culture = zulu
+		religion = placeholder
+		size = 2150
+	}
+
+	soldiers = {
+		culture = zulu
+		religion = placeholder
+		size = 500
+	}
+
+	farmers = {
+		culture = zulu
+		religion = placeholder
+		size = 32450
+	}
+
+	slaves = {
+		culture = zulu
+		religion = placeholder
+		size = 8100
+	}
+
+	slaves = {
+		culture = african_minor
+		religion = placeholder
+		size = 8000
+	}
+}
+
+2065 = {
+	aristocrats = {
+		culture = zulu
+		religion = placeholder
+		size = 37
+	}
+
+	clergymen = {
+		culture = zulu
+		religion = placeholder
+		size = 37
+	}
+
+	artisans = {
+		culture = zulu
+		religion = placeholder
+		size = 187
+	}
+
+	soldiers = {
+		culture = zulu
+		religion = placeholder
+		size = 45
+	}
+
+	farmers = {
+		culture = zulu
+		religion = placeholder
+		size = 2767
+	}
+
+	slaves = {
+		culture = zulu
+		religion = placeholder
+		size = 525
+	}
+
+	aristocrats = {
+		culture = african_minor
+		religion = placeholder
+		size = 25
+	}
+
+	clergymen = {
+		culture = african_minor
+		religion = placeholder
+		size = 25
+	}
+
+	artisans = {
+		culture = african_minor
+		religion = placeholder
+		size = 25
+	}
+
+	soldiers = {
+		culture = african_minor
+		religion = placeholder
+		size = 25
+	}
+
+	farmers = {
+		culture = african_minor
+		religion = placeholder
+		size = 112
+	}
+
+	slaves = {
+		culture = african_minor
+		religion = placeholder
+		size = 300
+	}
+}
+
+2581 = {
+	aristocrats = {
+		culture = zulu
+		religion = placeholder
+		size = 450
+	}
+
+	clergymen = {
+		culture = zulu
+		religion = placeholder
+		size = 400
+	}
+
+	artisans = {
+		culture = zulu
+		religion = placeholder
+		size = 2100
+	}
+
+	soldiers = {
+		culture = zulu
+		religion = placeholder
+		size = 450
+	}
+
+	farmers = {
+		culture = zulu
+		religion = placeholder
+		size = 35600
+	}
+
+	slaves = {
+		culture = zulu
+		religion = placeholder
+		size = 2000
+	}
+
+	slaves = {
+		culture = african_minor
+		religion = placeholder
+		size = 15000
+	}
+}

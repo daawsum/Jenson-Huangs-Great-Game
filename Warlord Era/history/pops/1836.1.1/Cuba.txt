@@ -1,0 +1,247 @@
+2209 = {
+	aristocrats = {
+		culture = spanish
+		religion = placeholder
+		size = 52
+	}
+
+	clergymen = {
+		culture = spanish
+		religion = placeholder
+		size = 48
+	}
+
+	artisans = {
+		culture = spanish
+		religion = placeholder
+		size = 648
+	}
+
+	soldiers = {
+		culture = spanish
+		religion = placeholder
+		size = 30
+	}
+
+	aristocrats = {
+		culture = mexican
+		religion = placeholder
+		size = 97
+	}
+
+	clergymen = {
+		culture = mexican
+		religion = placeholder
+		size = 26
+	}
+
+	artisans = {
+		culture = mexican
+		religion = placeholder
+		size = 2100
+	}
+
+	soldiers = {
+		culture = mexican
+		religion = placeholder
+		size = 165
+	}
+
+	farmers = {
+		culture = mexican
+		religion = placeholder
+		size = 4293
+	}
+
+	artisans = {
+		culture = afro_american
+		religion = placeholder
+		size = 900
+	}
+
+	soldiers = {
+		culture = afro_american
+		religion = placeholder
+		size = 75
+	}
+
+	farmers = {
+		culture = afro_american
+		religion = placeholder
+		size = 375
+	}
+
+	slaves = {
+		culture = afro_american
+		religion = placeholder
+		size = 5700
+	}
+}
+
+2210 = {
+	aristocrats = {
+		culture = mexican
+		religion = placeholder
+		size = 90
+	}
+
+	clergymen = {
+		culture = mexican
+		religion = placeholder
+		size = 56
+	}
+
+	artisans = {
+		culture = mexican
+		religion = placeholder
+		size = 180
+	}
+
+	soldiers = {
+		culture = mexican
+		religion = placeholder
+		size = 37
+	}
+
+	farmers = {
+		culture = mexican
+		religion = placeholder
+		size = 3236
+	}
+
+	artisans = {
+		culture = afro_american
+		religion = placeholder
+		size = 300
+	}
+
+	soldiers = {
+		culture = afro_american
+		religion = placeholder
+		size = 25
+	}
+
+	farmers = {
+		culture = afro_american
+		religion = placeholder
+		size = 1777
+	}
+
+	slaves = {
+		culture = afro_american
+		religion = placeholder
+		size = 3750
+	}
+}
+
+2211 = {
+	aristocrats = {
+		culture = mexican
+		religion = placeholder
+		size = 67
+	}
+
+	clergymen = {
+		culture = mexican
+		religion = placeholder
+		size = 60
+	}
+
+	artisans = {
+		culture = mexican
+		religion = placeholder
+		size = 525
+	}
+
+	soldiers = {
+		culture = mexican
+		religion = placeholder
+		size = 25
+	}
+
+	farmers = {
+		culture = mexican
+		religion = placeholder
+		size = 1275
+	}
+
+	artisans = {
+		culture = afro_american
+		religion = placeholder
+		size = 225
+	}
+
+	soldiers = {
+		culture = afro_american
+		religion = placeholder
+		size = 45
+	}
+
+	farmers = {
+		culture = afro_american
+		religion = placeholder
+		size = 330
+	}
+
+	slaves = {
+		culture = afro_american
+		religion = placeholder
+		size = 3750
+	}
+}
+
+2212 = {
+	aristocrats = {
+		culture = mexican
+		religion = placeholder
+		size = 30
+	}
+
+	clergymen = {
+		culture = mexican
+		religion = placeholder
+		size = 26
+	}
+
+	artisans = {
+		culture = mexican
+		religion = placeholder
+		size = 525
+	}
+
+	soldiers = {
+		culture = mexican
+		religion = placeholder
+		size = 25
+	}
+
+	farmers = {
+		culture = mexican
+		religion = placeholder
+		size = 1346
+	}
+
+	artisans = {
+		culture = afro_american
+		religion = placeholder
+		size = 225
+	}
+
+	soldiers = {
+		culture = afro_american
+		religion = placeholder
+		size = 30
+	}
+
+	farmers = {
+		culture = afro_american
+		religion = placeholder
+		size = 495
+	}
+
+	slaves = {
+		culture = afro_american
+		religion = placeholder
+		size = 2100
+	}
+}

@@ -1,0 +1,102 @@
+GMJ = {
+	value = -150
+}
+
+HNA = {
+	value = 150
+}
+
+SYN = {
+	value = 125
+}
+
+army = {
+	name = "Shanxi First Army"
+	location = 1572
+	regiment = {
+		name = "1. Shanxi First Army"
+		type = infantry
+		home = 1572
+	}
+	regiment = {
+		name = "2. Shanxi First Army"
+		type = infantry
+		home = 3348
+	}
+	regiment = {
+		name = "3. Shanxi First Army"
+		type = infantry
+		home = 1574
+	}
+	regiment = {
+		name = "4. Shanxi First Army"
+		type = infantry
+		home = 3350
+	}
+	regiment = {
+		name = "5. Shanxi First Army"
+		type = infantry
+		home = 1573
+	}
+	regiment = {
+		name = "6. Shanxi First Army"
+		type = infantry
+		home = 3349
+	}
+	regiment = {
+		name = "7. Shanxi First Army"
+		type = artillery
+		home = 1575
+	}
+	regiment = {
+		name = "8. Shanxi First Army"
+		type = artillery
+		home = 3351
+	}
+}
+
+army = {
+	name = "Shanxi Second Army"
+	location = 3351
+	regiment = {
+		name = "1. Shanxi Second Army"
+		type = infantry
+		home = 1572
+	}
+	regiment = {
+		name = "2. Shanxi Second Army"
+		type = infantry
+		home = 3348
+	}
+	regiment = {
+		name = "3. Shanxi Second Army"
+		type = infantry
+		home = 1574
+	}
+	regiment = {
+		name = "4. Shanxi Second Army"
+		type = infantry
+		home = 3350
+	}
+	regiment = {
+		name = "5. Shanxi Second Army"
+		type = infantry
+		home = 1573
+	}
+	regiment = {
+		name = "6. Shanxi Second Army"
+		type = infantry
+		home = 3349
+	}
+	regiment = {
+		name = "7. Shanxi Second Army"
+		type = artillery
+		home = 1575
+	}
+	regiment = {
+		name = "8. Shanxi Second Army"
+		type = artillery
+		home = 3351
+	}
+}
+

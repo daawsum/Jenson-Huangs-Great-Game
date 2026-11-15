@@ -1,0 +1,6 @@
+owner = HRE
+controller = HRE
+add_core = HRE
+trade_goods = fruit
+life_rating = 35
+naval_base = 1

@@ -1,0 +1,10 @@
+army = {
+	name = "Warband of Monrovia"
+	location = 1887
+	regiment = {
+		name = "1. Warband of Monrovia"
+		type = irregular
+		home = 1887
+	}
+}
+

@@ -1,0 +1,17 @@
+owner = XBI
+controller = XBI
+add_core = XBI
+add_core = CHI
+trade_goods = cotton
+life_rating = 32
+terrain = desert
+state_building = {
+	level = 1
+	building = steel_factory
+	upgrade = yes
+}
+state_building = {
+	level = 1
+	building = lumber_mill
+	upgrade = yes
+}

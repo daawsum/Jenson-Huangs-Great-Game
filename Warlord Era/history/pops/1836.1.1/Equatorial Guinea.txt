@@ -1,0 +1,81 @@
+1955 = {
+	aristocrats = {
+		culture = spanish
+		religion = placeholder
+		size = 25
+	}
+
+	clergymen = {
+		culture = spanish
+		religion = placeholder
+		size = 25
+	}
+
+	artisans = {
+		culture = spanish
+		religion = placeholder
+		size = 25
+	}
+
+	soldiers = {
+		culture = spanish
+		religion = placeholder
+		size = 25
+	}
+
+	artisans = {
+		culture = african_minor
+		religion = placeholder
+		size = 25
+	}
+
+	soldiers = {
+		culture = african_minor
+		religion = placeholder
+		size = 25
+	}
+
+	farmers = {
+		culture = african_minor
+		religion = placeholder
+		size = 229
+	}
+
+	slaves = {
+		culture = african_minor
+		religion = placeholder
+		size = 165
+	}
+}
+
+1973 = {
+	aristocrats = {
+		culture = african_minor
+		religion = placeholder
+		size = 350
+	}
+
+	clergymen = {
+		culture = african_minor
+		religion = placeholder
+		size = 300
+	}
+
+	artisans = {
+		culture = african_minor
+		religion = placeholder
+		size = 1500
+	}
+
+	soldiers = {
+		culture = african_minor
+		religion = placeholder
+		size = 350
+	}
+
+	farmers = {
+		culture = african_minor
+		religion = placeholder
+		size = 31500
+	}
+}

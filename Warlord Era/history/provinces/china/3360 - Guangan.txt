@@ -1,0 +1,7 @@
+owner = CQG
+controller = CQG
+add_core = CQG
+add_core = CHI
+trade_goods = tea
+life_rating = 32
+terrain = plains

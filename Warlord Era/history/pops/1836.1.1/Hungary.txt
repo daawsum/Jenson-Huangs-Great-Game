@@ -1,0 +1,881 @@
+623 = {
+	aristocrats = {
+		culture = north_german
+		religion = placeholder
+		size = 125
+	}
+
+	bureaucrats = {
+		culture = north_german
+		religion = placeholder
+		size = 400
+	}
+
+	officers = {
+		culture = north_german
+		religion = placeholder
+		size = 200
+	}
+
+	clergymen = {
+		culture = north_german
+		religion = placeholder
+		size = 75
+	}
+
+	artisans = {
+		culture = north_german
+		religion = placeholder
+		size = 1500
+	}
+
+	soldiers = {
+		culture = north_german
+		religion = placeholder
+		size = 100
+	}
+
+	farmers = {
+		culture = north_german
+		religion = placeholder
+		size = 6600
+	}
+
+	aristocrats = {
+		culture = hungarian
+		religion = placeholder
+		size = 350
+	}
+
+	bureaucrats = {
+		culture = hungarian
+		religion = placeholder
+		size = 125
+	}
+
+	officers = {
+		culture = hungarian
+		religion = placeholder
+		size = 150
+	}
+
+	clergymen = {
+		culture = hungarian
+		religion = placeholder
+		size = 185
+	}
+
+	artisans = {
+		culture = hungarian
+		religion = placeholder
+		size = 2200
+	}
+
+	soldiers = {
+		culture = hungarian
+		religion = placeholder
+		size = 325
+	}
+
+	farmers = {
+		culture = hungarian
+		religion = placeholder
+		size = 12865
+	}
+}
+
+639 = {
+	aristocrats = {
+		culture = north_german
+		religion = placeholder
+		size = 450
+	}
+
+	clergymen = {
+		culture = north_german
+		religion = placeholder
+		size = 300
+	}
+
+	bureaucrats = {
+		culture = north_german
+		religion = placeholder
+		size = 400
+	}
+
+	artisans = {
+		culture = north_german
+		religion = placeholder
+		size = 1500
+	}
+
+	soldiers = {
+		culture = north_german
+		religion = placeholder
+		size = 300
+	}
+
+	farmers = {
+		culture = north_german
+		religion = placeholder
+		size = 27450
+	}
+
+	aristocrats = {
+		culture = hungarian
+		religion = placeholder
+		size = 4400
+	}
+
+	clergymen = {
+		culture = hungarian
+		religion = placeholder
+		size = 1525
+	}
+
+	artisans = {
+		culture = hungarian
+		religion = placeholder
+		size = 9750
+	}
+
+	soldiers = {
+		culture = hungarian
+		religion = placeholder
+		size = 1600
+	}
+
+	farmers = {
+		culture = hungarian
+		religion = placeholder
+		size = 145725
+	}
+
+	clergymen = {
+		culture = serb
+		religion = placeholder
+		size = 200
+	}
+
+	artisans = {
+		culture = serb
+		religion = placeholder
+		size = 1100
+	}
+
+	soldiers = {
+		culture = serb
+		religion = placeholder
+		size = 225
+	}
+
+	farmers = {
+		culture = serb
+		religion = placeholder
+		size = 20475
+	}
+}
+
+640 = {
+	aristocrats = {
+		culture = hungarian
+		religion = placeholder
+		size = 650
+	}
+
+	bureaucrats = {
+		culture = hungarian
+		religion = placeholder
+		size = 100
+	}
+
+	officers = {
+		culture = hungarian
+		religion = placeholder
+		size = 80
+	}
+
+	clergymen = {
+		culture = hungarian
+		religion = placeholder
+		size = 325
+	}
+
+	artisans = {
+		culture = hungarian
+		religion = placeholder
+		size = 1500
+	}
+
+	soldiers = {
+		culture = hungarian
+		religion = placeholder
+		size = 1150
+	}
+
+	farmers = {
+		culture = hungarian
+		religion = placeholder
+		size = 26295
+	}
+
+	aristocrats = {
+		culture = north_german
+		religion = placeholder
+		size = 500
+	}
+
+	bureaucrats = {
+		culture = north_german
+		religion = placeholder
+		size = 75
+	}
+
+	officers = {
+		culture = north_german
+		religion = placeholder
+		size = 30
+	}
+
+	clergymen = {
+		culture = north_german
+		religion = placeholder
+		size = 175
+	}
+
+	artisans = {
+		culture = north_german
+		religion = placeholder
+		size = 1100
+	}
+
+	soldiers = {
+		culture = north_german
+		religion = placeholder
+		size = 250
+	}
+
+	farmers = {
+		culture = north_german
+		religion = placeholder
+		size = 18545
+	}
+
+	officers = {
+		culture = serb
+		religion = placeholder
+		size = 15
+	}
+
+	clergymen = {
+		culture = serb
+		religion = placeholder
+		size = 75
+	}
+
+	artisans = {
+		culture = serb
+		religion = placeholder
+		size = 400
+	}
+
+	soldiers = {
+		culture = serb
+		religion = placeholder
+		size = 75
+	}
+
+	farmers = {
+		culture = serb
+		religion = placeholder
+		size = 7435
+	}
+}
+
+641 = {
+	aristocrats = {
+		culture = hungarian
+		religion = placeholder
+		size = 3250
+	}
+
+	bureaucrats = {
+		culture = hungarian
+		religion = placeholder
+		size = 600
+	}
+
+	bureaucrats = {
+		culture = north_german
+		religion = placeholder
+		size = 1100
+	}
+
+	officers = {
+		culture = hungarian
+		religion = placeholder
+		size = 325
+	}
+
+	clergymen = {
+		culture = hungarian
+		religion = placeholder
+		size = 1325
+	}
+
+	artisans = {
+		culture = hungarian
+		religion = placeholder
+		size = 21500
+	}
+
+	soldiers = {
+		culture = hungarian
+		religion = placeholder
+		size = 1675
+	}
+
+	farmers = {
+		culture = hungarian
+		religion = placeholder
+		size = 102425
+	}
+
+	aristocrats = {
+		culture = north_german
+		religion = placeholder
+		size = 800
+	}
+
+	officers = {
+		culture = north_german
+		religion = placeholder
+		size = 175
+	}
+
+	clergymen = {
+		culture = north_german
+		religion = placeholder
+		size = 250
+	}
+
+	artisans = {
+		culture = north_german
+		religion = placeholder
+		size = 7500
+	}
+
+	soldiers = {
+		culture = north_german
+		religion = placeholder
+		size = 275
+	}
+
+	farmers = {
+		culture = north_german
+		religion = placeholder
+		size = 16500
+	}
+}
+
+642 = {
+	aristocrats = {
+		culture = hungarian
+		religion = placeholder
+		size = 2250
+	}
+
+	clergymen = {
+		culture = hungarian
+		religion = placeholder
+		size = 700
+	}
+
+	artisans = {
+		culture = hungarian
+		religion = placeholder
+		size = 4200
+	}
+
+	soldiers = {
+		culture = hungarian
+		religion = placeholder
+		size = 1175
+	}
+
+	farmers = {
+		culture = hungarian
+		religion = placeholder
+		size = 53775
+	}
+
+	clergymen = {
+		culture = north_german
+		religion = placeholder
+		size = 25
+	}
+
+	artisans = {
+		culture = north_german
+		religion = placeholder
+		size = 150
+	}
+
+	soldiers = {
+		culture = north_german
+		religion = placeholder
+		size = 25
+	}
+
+	farmers = {
+		culture = north_german
+		religion = placeholder
+		size = 1800
+	}
+
+	clergymen = {
+		culture = czech
+		religion = placeholder
+		size = 275
+	}
+
+	artisans = {
+		culture = czech
+		religion = placeholder
+		size = 1500
+	}
+
+	soldiers = {
+		culture = czech
+		religion = placeholder
+		size = 300
+	}
+
+	farmers = {
+		culture = czech
+		religion = placeholder
+		size = 29925
+	}
+}
+
+643 = {
+	aristocrats = {
+		culture = hungarian
+		religion = placeholder
+		size = 2600
+	}
+
+	clergymen = {
+		culture = hungarian
+		religion = placeholder
+		size = 5150
+	}
+
+	artisans = {
+		culture = hungarian
+		religion = placeholder
+		size = 3250
+	}
+
+	soldiers = {
+		culture = hungarian
+		religion = placeholder
+		size = 1275
+	}
+
+	farmers = {
+		culture = hungarian
+		religion = placeholder
+		size = 57275
+	}
+
+	aristocrats = {
+		culture = north_german
+		religion = placeholder
+		size = 275
+	}
+
+	clergymen = {
+		culture = north_german
+		religion = placeholder
+		size = 250
+	}
+
+	artisans = {
+		culture = north_german
+		religion = placeholder
+		size = 1300
+	}
+
+	soldiers = {
+		culture = north_german
+		religion = placeholder
+		size = 275
+	}
+
+	farmers = {
+		culture = north_german
+		religion = placeholder
+		size = 23900
+	}
+}
+
+644 = {
+	aristocrats = {
+		culture = hungarian
+		religion = placeholder
+		size = 2450
+	}
+
+	clergymen = {
+		culture = hungarian
+		religion = placeholder
+		size = 925
+	}
+
+	artisans = {
+		culture = hungarian
+		religion = placeholder
+		size = 5550
+	}
+
+	soldiers = {
+		culture = hungarian
+		religion = placeholder
+		size = 1275
+	}
+
+	farmers = {
+		culture = hungarian
+		religion = placeholder
+		size = 80900
+	}
+
+	clergymen = {
+		culture = north_german
+		religion = placeholder
+		size = 50
+	}
+
+	artisans = {
+		culture = north_german
+		religion = placeholder
+		size = 350
+	}
+
+	soldiers = {
+		culture = north_german
+		religion = placeholder
+		size = 75
+	}
+
+	farmers = {
+		culture = north_german
+		religion = placeholder
+		size = 6525
+	}
+}
+
+645 = {
+	aristocrats = {
+		culture = hungarian
+		religion = placeholder
+		size = 675
+	}
+
+	clergymen = {
+		culture = hungarian
+		religion = placeholder
+		size = 250
+	}
+
+	artisans = {
+		culture = hungarian
+		religion = placeholder
+		size = 7850
+	}
+
+	soldiers = {
+		culture = hungarian
+		religion = placeholder
+		size = 275
+	}
+
+	farmers = {
+		culture = hungarian
+		religion = placeholder
+		size = 15950
+	}
+
+	clergymen = {
+		culture = north_german
+		religion = placeholder
+		size = 25
+	}
+
+	artisans = {
+		culture = north_german
+		religion = placeholder
+		size = 150
+	}
+
+	soldiers = {
+		culture = north_german
+		religion = placeholder
+		size = 25
+	}
+
+	farmers = {
+		culture = north_german
+		religion = placeholder
+		size = 800
+	}
+}
+
+646 = {
+	aristocrats = {
+		culture = hungarian
+		religion = placeholder
+		size = 1750
+	}
+
+	clergymen = {
+		culture = hungarian
+		religion = placeholder
+		size = 725
+	}
+
+	bureaucrats = {
+		culture = north_german
+		religion = placeholder
+		size = 700
+	}
+
+	artisans = {
+		culture = hungarian
+		religion = placeholder
+		size = 7800
+	}
+
+	soldiers = {
+		culture = hungarian
+		religion = placeholder
+		size = 750
+	}
+
+	farmers = {
+		culture = hungarian
+		religion = placeholder
+		size = 62075
+	}
+
+	clergymen = {
+		culture = czech
+		religion = placeholder
+		size = 50
+	}
+
+	artisans = {
+		culture = czech
+		religion = placeholder
+		size = 300
+	}
+
+	soldiers = {
+		culture = czech
+		religion = placeholder
+		size = 50
+	}
+
+	farmers = {
+		culture = czech
+		religion = placeholder
+		size = 6600
+	}
+}
+
+648 = {
+	aristocrats = {
+		culture = hungarian
+		religion = placeholder
+		size = 975
+	}
+
+	clergymen = {
+		culture = hungarian
+		religion = placeholder
+		size = 400
+	}
+
+	bureaucrats = {
+		culture = north_german
+		religion = placeholder
+		size = 500
+	}
+
+	artisans = {
+		culture = hungarian
+		religion = placeholder
+		size = 6950
+	}
+
+	soldiers = {
+		culture = hungarian
+		religion = placeholder
+		size = 1250
+	}
+
+	farmers = {
+		culture = hungarian
+		religion = placeholder
+		size = 28525
+	}
+
+	clergymen = {
+		culture = czech
+		religion = placeholder
+		size = 10
+	}
+
+	artisans = {
+		culture = czech
+		religion = placeholder
+		size = 50
+	}
+
+	soldiers = {
+		culture = czech
+		religion = placeholder
+		size = 25
+	}
+
+	farmers = {
+		culture = czech
+		religion = placeholder
+		size = 915
+	}
+}
+
+649 = {
+	aristocrats = {
+		culture = hungarian
+		religion = placeholder
+		size = 4000
+	}
+
+	bureaucrats = {
+		culture = north_german
+		religion = placeholder
+		size = 600
+	}
+
+	clergymen = {
+		culture = hungarian
+		religion = placeholder
+		size = 1525
+	}
+
+	artisans = {
+		culture = hungarian
+		religion = placeholder
+		size = 7500
+	}
+
+	soldiers = {
+		culture = hungarian
+		religion = placeholder
+		size = 2025
+	}
+
+	farmers = {
+		culture = hungarian
+		religion = placeholder
+		size = 136050
+	}
+
+	clergymen = {
+		culture = north_german
+		religion = placeholder
+		size = 50
+	}
+
+	artisans = {
+		culture = north_german
+		religion = placeholder
+		size = 500
+	}
+
+	soldiers = {
+		culture = north_german
+		religion = placeholder
+		size = 75
+	}
+
+	farmers = {
+		culture = north_german
+		religion = placeholder
+		size = 5375
+	}
+}
+
+650 = {
+	aristocrats = {
+		culture = hungarian
+		religion = placeholder
+		size = 2050
+	}
+
+	bureaucrats = {
+		culture = north_german
+		religion = placeholder
+		size = 600
+	}
+
+	clergymen = {
+		culture = hungarian
+		religion = placeholder
+		size = 775
+	}
+
+	artisans = {
+		culture = hungarian
+		religion = placeholder
+		size = 5250
+	}
+
+	soldiers = {
+		culture = hungarian
+		religion = placeholder
+		size = 800
+	}
+
+	farmers = {
+		culture = hungarian
+		religion = placeholder
+		size = 71125
+	}
+
+	clergymen = {
+		culture = north_german
+		religion = placeholder
+		size = 50
+	}
+
+	artisans = {
+		culture = north_german
+		religion = placeholder
+		size = 250
+	}
+
+	soldiers = {
+		culture = north_german
+		religion = placeholder
+		size = 25
+	}
+
+	farmers = {
+		culture = north_german
+		religion = placeholder
+		size = 1675
+	}
+}

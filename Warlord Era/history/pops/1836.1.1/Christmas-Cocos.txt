@@ -1,0 +1,21 @@
+2244 = {
+	farmers = {
+		culture = malay
+		religion = placeholder
+		size = 15
+	}
+}
+
+2406 = {
+	aristocrats = {
+		culture = british
+		religion = placeholder
+		size = 5
+	}
+
+	farmers = {
+		culture = malay
+		religion = placeholder
+		size = 120
+	}
+}

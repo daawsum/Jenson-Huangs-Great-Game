@@ -1,0 +1,1180 @@
+country_event = {
+	id = 880001
+	title = "EVTNAME880001"
+	desc = "EVTDESC880001"
+	picture = "Upperhouse"
+	trigger = {
+		OR = { tag = PAN tag = KLS }
+		NOT = { has_country_modifier = khalsa_army }
+	}
+	mean_time_to_happen = {
+		days = 1
+	}
+	option = {
+		name = "EVTOPTA880001"
+		add_country_modifier = { name = khalsa_army duration = -1 }
+	}
+}
+
+country_event = {
+	id = 880002
+	title = "EVTNAME880002"
+	desc = "EVTDESC880002"
+	picture = "Upperhouse"
+	trigger = {
+		OR = { tag = MGL tag = KHG }
+		NOT = { has_country_modifier = mongol_horde }
+	}
+	mean_time_to_happen = {
+		days = 1
+	}
+	option = {
+		name = "EVTOPTA880002"
+		add_country_modifier = { name = mongol_horde duration = -1 }
+	}
+}
+
+country_event = {
+	id = 880003
+	title = "EVTNAME880003"
+	desc = "EVTDESC880003"
+	picture = "Upperhouse"
+	trigger = {
+		OR = { tag = PER tag = PSE }
+		NOT = { has_country_modifier = qajar_nizam }
+	}
+	mean_time_to_happen = {
+		days = 1
+	}
+	option = {
+		name = "EVTOPTA880003"
+		add_country_modifier = { name = qajar_nizam duration = -1 }
+	}
+}
+
+country_event = {
+	id = 880004
+	title = "EVTNAME880004"
+	desc = "EVTDESC880004"
+	picture = "Upperhouse"
+	trigger = {
+		OR = {
+			tag = AHC
+			tag = SXI
+			tag = GMJ
+			tag = HNA
+			tag = HNC
+			tag = HBE
+			tag = JXI
+			tag = SZC
+			tag = YNN
+			tag = GZH
+			tag = XBI
+			tag = XIN
+		}
+		NOT = { has_country_modifier = inland_heartland }
+	}
+	mean_time_to_happen = {
+		days = 1
+	}
+	option = {
+		name = "EVTOPTA880004"
+		add_country_modifier = { name = inland_heartland duration = -1 }
+	}
+}
+
+country_event = {
+	id = 880005
+	title = "EVTNAME880005"
+	desc = "EVTDESC880005"
+	picture = "Upperhouse"
+	trigger = {
+		tag = ZHL
+		NOT = { has_country_modifier = trait_ZHL }
+	}
+	mean_time_to_happen = {
+		days = 1
+	}
+	option = {
+		name = "EVTOPTA880005"
+		add_country_modifier = { name = trait_ZHL duration = -1 }
+	}
+}
+
+country_event = {
+	id = 880006
+	title = "EVTNAME880006"
+	desc = "EVTDESC880006"
+	picture = "Upperhouse"
+	trigger = {
+		tag = FTN
+		NOT = { has_country_modifier = trait_FTN }
+	}
+	mean_time_to_happen = {
+		days = 1
+	}
+	option = {
+		name = "EVTOPTA880006"
+		add_country_modifier = { name = trait_FTN duration = -1 }
+	}
+}
+
+country_event = {
+	id = 880007
+	title = "EVTNAME880007"
+	desc = "EVTDESC880007"
+	picture = "Upperhouse"
+	trigger = {
+		tag = AHC
+		NOT = { has_country_modifier = trait_AHC }
+	}
+	mean_time_to_happen = {
+		days = 1
+	}
+	option = {
+		name = "EVTOPTA880007"
+		add_country_modifier = { name = trait_AHC duration = -1 }
+	}
+}
+
+country_event = {
+	id = 880008
+	title = "EVTNAME880008"
+	desc = "EVTDESC880008"
+	picture = "Upperhouse"
+	trigger = {
+		tag = SXI
+		NOT = { has_country_modifier = trait_SXI }
+	}
+	mean_time_to_happen = {
+		days = 1
+	}
+	option = {
+		name = "EVTOPTA880008"
+		add_country_modifier = { name = trait_SXI duration = -1 }
+	}
+}
+
+country_event = {
+	id = 880009
+	title = "EVTNAME880009"
+	desc = "EVTDESC880009"
+	picture = "Upperhouse"
+	trigger = {
+		tag = GMJ
+		NOT = { has_country_modifier = trait_GMJ }
+	}
+	mean_time_to_happen = {
+		days = 1
+	}
+	option = {
+		name = "EVTOPTA880009"
+		add_country_modifier = { name = trait_GMJ duration = -1 }
+	}
+}
+
+country_event = {
+	id = 880010
+	title = "EVTNAME880010"
+	desc = "EVTDESC880010"
+	picture = "Upperhouse"
+	trigger = {
+		tag = SDG
+		NOT = { has_country_modifier = trait_SDG }
+	}
+	mean_time_to_happen = {
+		days = 1
+	}
+	option = {
+		name = "EVTOPTA880010"
+		add_country_modifier = { name = trait_SDG duration = -1 }
+	}
+}
+
+country_event = {
+	id = 880011
+	title = "EVTNAME880011"
+	desc = "EVTDESC880011"
+	picture = "Upperhouse"
+	trigger = {
+		tag = HNA
+		NOT = { has_country_modifier = trait_HNA }
+	}
+	mean_time_to_happen = {
+		days = 1
+	}
+	option = {
+		name = "EVTOPTA880011"
+		add_country_modifier = { name = trait_HNA duration = -1 }
+	}
+}
+
+country_event = {
+	id = 880012
+	title = "EVTNAME880012"
+	desc = "EVTDESC880012"
+	picture = "Upperhouse"
+	trigger = {
+		tag = JSU
+		NOT = { has_country_modifier = trait_JSU }
+	}
+	mean_time_to_happen = {
+		days = 1
+	}
+	option = {
+		name = "EVTOPTA880012"
+		add_country_modifier = { name = trait_JSU duration = -1 }
+	}
+}
+
+country_event = {
+	id = 880013
+	title = "EVTNAME880013"
+	desc = "EVTDESC880013"
+	picture = "Upperhouse"
+	trigger = {
+		tag = ZHJ
+		NOT = { has_country_modifier = trait_ZHJ }
+	}
+	mean_time_to_happen = {
+		days = 1
+	}
+	option = {
+		name = "EVTOPTA880013"
+		add_country_modifier = { name = trait_ZHJ duration = -1 }
+	}
+}
+
+country_event = {
+	id = 880014
+	title = "EVTNAME880014"
+	desc = "EVTDESC880014"
+	picture = "Upperhouse"
+	trigger = {
+		tag = FUJ
+		NOT = { has_country_modifier = trait_FUJ }
+	}
+	mean_time_to_happen = {
+		days = 1
+	}
+	option = {
+		name = "EVTOPTA880014"
+		add_country_modifier = { name = trait_FUJ duration = -1 }
+	}
+}
+
+country_event = {
+	id = 880015
+	title = "EVTNAME880015"
+	desc = "EVTDESC880015"
+	picture = "Upperhouse"
+	trigger = {
+		tag = GDG
+		NOT = { has_country_modifier = trait_GDG }
+	}
+	mean_time_to_happen = {
+		days = 1
+	}
+	option = {
+		name = "EVTOPTA880015"
+		add_country_modifier = { name = trait_GDG duration = -1 }
+	}
+}
+
+country_event = {
+	id = 880016
+	title = "EVTNAME880016"
+	desc = "EVTDESC880016"
+	picture = "Upperhouse"
+	trigger = {
+		tag = GXI
+		NOT = { has_country_modifier = trait_GXI }
+	}
+	mean_time_to_happen = {
+		days = 1
+	}
+	option = {
+		name = "EVTOPTA880016"
+		add_country_modifier = { name = trait_GXI duration = -1 }
+	}
+}
+
+country_event = {
+	id = 880017
+	title = "EVTNAME880017"
+	desc = "EVTDESC880017"
+	picture = "Upperhouse"
+	trigger = {
+		tag = HNC
+		NOT = { has_country_modifier = trait_HNC }
+	}
+	mean_time_to_happen = {
+		days = 1
+	}
+	option = {
+		name = "EVTOPTA880017"
+		add_country_modifier = { name = trait_HNC duration = -1 }
+	}
+}
+
+country_event = {
+	id = 880018
+	title = "EVTNAME880018"
+	desc = "EVTDESC880018"
+	picture = "Upperhouse"
+	trigger = {
+		tag = HBE
+		NOT = { has_country_modifier = trait_HBE }
+	}
+	mean_time_to_happen = {
+		days = 1
+	}
+	option = {
+		name = "EVTOPTA880018"
+		add_country_modifier = { name = trait_HBE duration = -1 }
+	}
+}
+
+country_event = {
+	id = 880019
+	title = "EVTNAME880019"
+	desc = "EVTDESC880019"
+	picture = "Upperhouse"
+	trigger = {
+		tag = JXI
+		NOT = { has_country_modifier = trait_JXI }
+	}
+	mean_time_to_happen = {
+		days = 1
+	}
+	option = {
+		name = "EVTOPTA880019"
+		add_country_modifier = { name = trait_JXI duration = -1 }
+	}
+}
+
+country_event = {
+	id = 880020
+	title = "EVTNAME880020"
+	desc = "EVTDESC880020"
+	picture = "Upperhouse"
+	trigger = {
+		tag = SZC
+		NOT = { has_country_modifier = trait_SZC }
+	}
+	mean_time_to_happen = {
+		days = 1
+	}
+	option = {
+		name = "EVTOPTA880020"
+		add_country_modifier = { name = trait_SZC duration = -1 }
+	}
+}
+
+country_event = {
+	id = 880021
+	title = "EVTNAME880021"
+	desc = "EVTDESC880021"
+	picture = "Upperhouse"
+	trigger = {
+		tag = YNN
+		NOT = { has_country_modifier = trait_YNN }
+	}
+	mean_time_to_happen = {
+		days = 1
+	}
+	option = {
+		name = "EVTOPTA880021"
+		add_country_modifier = { name = trait_YNN duration = -1 }
+	}
+}
+
+country_event = {
+	id = 880022
+	title = "EVTNAME880022"
+	desc = "EVTDESC880022"
+	picture = "Upperhouse"
+	trigger = {
+		tag = GZH
+		NOT = { has_country_modifier = trait_GZH }
+	}
+	mean_time_to_happen = {
+		days = 1
+	}
+	option = {
+		name = "EVTOPTA880022"
+		add_country_modifier = { name = trait_GZH duration = -1 }
+	}
+}
+
+country_event = {
+	id = 880023
+	title = "EVTNAME880023"
+	desc = "EVTDESC880023"
+	picture = "Upperhouse"
+	trigger = {
+		tag = XBI
+		NOT = { has_country_modifier = trait_XBI }
+	}
+	mean_time_to_happen = {
+		days = 1
+	}
+	option = {
+		name = "EVTOPTA880023"
+		add_country_modifier = { name = trait_XBI duration = -1 }
+	}
+}
+
+country_event = {
+	id = 880024
+	title = "EVTNAME880024"
+	desc = "EVTDESC880024"
+	picture = "Upperhouse"
+	trigger = {
+		tag = XIN
+		NOT = { has_country_modifier = trait_XIN }
+	}
+	mean_time_to_happen = {
+		days = 1
+	}
+	option = {
+		name = "EVTOPTA880024"
+		add_country_modifier = { name = trait_XIN duration = -1 }
+	}
+}
+
+country_event = {
+	id = 880025
+	title = "EVTNAME880025"
+	desc = "EVTDESC880025"
+	picture = "Upperhouse"
+	trigger = {
+		has_country_flag = old_world_colony
+		has_global_flag = new_world_opened
+	}
+	mean_time_to_happen = {
+		days = 1
+	}
+	option = {
+		name = "EVTOPTA880025"
+		clr_country_flag = new_world_nation
+		clr_country_flag = old_world_colony
+		remove_country_modifier = nanyang_haven
+	}
+}
+
+country_event = {
+	id = 880026
+	title = "EVTNAME880026"
+	desc = "EVTDESC880026"
+	picture = "Upperhouse"
+	trigger = {
+		has_country_flag = chinese_warlord
+		has_global_flag = new_world_opened
+		NOT = { has_country_flag = saw_new_world }
+	}
+	mean_time_to_happen = {
+		days = 1
+	}
+	option = {
+		name = "EVTOPTA880026"
+		set_country_flag = saw_new_world
+	}
+}
+
+country_event = {
+	id = 880027
+	title = "EVTNAME880027"
+	desc = "EVTDESC880027"
+	picture = "Upperhouse"
+	trigger = {
+		has_country_flag = major_warlord
+		year = 1836
+		NOT = { has_country_flag = saw_intro }
+	}
+	mean_time_to_happen = {
+		days = 1
+	}
+	option = {
+		name = "EVTOPTA880027"
+		set_country_flag = saw_intro
+		prestige = 1
+	}
+}
+
+country_event = {
+	id = 880028
+	title = "EVTNAME880028"
+	desc = "EVTDESC880028"
+	picture = "Demonstration"
+	trigger = {
+		has_country_flag = chinese_warlord
+		war = no
+		average_militancy = 3
+	}
+	mean_time_to_happen = {
+		months = 240
+	}
+	option = {
+		name = "EVTOPTA880028"
+		treasury = -3000
+		any_pop = { limit = { type = soldiers } militancy = -1 }
+	}
+	option = {
+		name = "EVTOPTB880028"
+		any_pop = { limit = { type = farmers } militancy = 1 }
+		prestige = 1
+	}
+}
+
+country_event = {
+	id = 880029
+	title = "EVTNAME880029"
+	desc = "EVTDESC880029"
+	picture = "Upperhouse"
+	trigger = {
+		has_country_flag = chinese_warlord
+		war = yes
+		money = 20000
+	}
+	mean_time_to_happen = {
+		months = 180
+	}
+	option = {
+		name = "EVTOPTA880029"
+		treasury = -15000
+		war_exhaustion = -5
+		prestige = 2
+	}
+	option = {
+		name = "EVTOPTB880029"
+		prestige = 1
+	}
+}
+
+country_event = {
+	id = 880030
+	title = "EVTNAME880030"
+	desc = "EVTDESC880030"
+	picture = "Upperhouse"
+	trigger = {
+		has_country_flag = chinese_warlord
+		war = yes
+		war_exhaustion = 10
+	}
+	mean_time_to_happen = {
+		months = 200
+	}
+	option = {
+		name = "EVTOPTA880030"
+		treasury = -10000
+	}
+	option = {
+		name = "EVTOPTB880030"
+		war_exhaustion = 3
+		any_pop = { limit = { type = soldiers } militancy = 1 }
+	}
+}
+
+country_event = {
+	id = 880031
+	title = "EVTNAME880031"
+	desc = "EVTDESC880031"
+	picture = "Demonstration"
+	trigger = {
+		has_country_flag = chinese_warlord
+		NOT = { exists = CHI }
+		year = 1850
+	}
+	mean_time_to_happen = {
+		months = 300
+	}
+	option = {
+		name = "EVTOPTA880031"
+		any_pop = { consciousness = 1 }
+		prestige = 3
+	}
+	option = {
+		name = "EVTOPTB880031"
+		any_pop = { militancy = 1 }
+	}
+}
+
+country_event = {
+	id = 880032
+	title = "EVTNAME880032"
+	desc = "EVTDESC880032"
+	picture = "Upperhouse"
+	trigger = {
+		has_country_flag = chinese_warlord
+		NOT = { has_global_flag = new_world_opened }
+		year = 1837
+	}
+	mean_time_to_happen = {
+		months = 240
+	}
+	option = {
+		name = "EVTOPTA880032"
+		treasury = 4000
+	}
+	option = {
+		name = "EVTOPTB880032"
+		prestige = 1
+	}
+}
+
+# ------------------------------------------------------------------ World Bank control (after IGoR puir)
+country_event = {
+	id = 880101
+	title = "EVTNAME880101"
+	desc = "EVTDESC880101"
+	picture = "Upperhouse"
+	fire_only_once = yes
+	trigger = {
+		tag = WBK
+	}
+	mean_time_to_happen = {
+		days = 1
+	}
+	option = {
+		name = "EVTOPTA880101"
+		add_country_modifier = {
+			name = world_bank_rp_nerf
+			duration = -1
+		}
+	}
+}
+
+country_event = {
+	id = 880102
+	title = "EVTNAME880102"
+	desc = "EVTDESC880102"
+	picture = "Upperhouse"
+	trigger = {
+		tag = WBK
+		prestige = 1
+	}
+	mean_time_to_happen = {
+		days = 1
+	}
+	immediate = {
+		prestige = -100
+	}
+	option = {
+		name = "EVTOPTA880101"
+	}
+}
+
+country_event = {
+	id = 880103
+	title = "EVTNAME880103"
+	desc = "EVTDESC880103"
+	picture = "Upperhouse"
+	trigger = {
+		tag = WBK
+		civilized = yes
+	}
+	mean_time_to_happen = {
+		days = 1
+	}
+	immediate = {
+		civilized = no
+	}
+	option = {
+		name = "EVTOPTA880101"
+	}
+}
+
+country_event = {
+	id = 880104
+	title = "EVTNAME880104"
+	desc = "EVTDESC880104"
+	picture = "Upperhouse"
+	trigger = {
+		tag = WBK
+		part_of_sphere = yes
+	}
+	mean_time_to_happen = {
+		days = 1
+	}
+	immediate = {
+		random_country = {
+			limit = {
+				is_sphere_leader_of = WBK
+			}
+			diplomatic_influence = {
+				who = WBK
+				value = -400
+			}
+			relation = {
+				who = WBK
+				value = -200
+			}
+		}
+	}
+	option = {
+		name = "EVTOPTA880101"
+	}
+}
+
+country_event = {
+	id = 880105
+	title = "EVTNAME880105"
+	desc = "EVTDESC880105"
+	picture = "Upperhouse"
+	trigger = {
+		tag = WBK
+		war = yes
+	}
+	mean_time_to_happen = {
+		days = 1
+	}
+	immediate = {
+		any_country = {
+			limit = {
+				war_with = WBK
+			}
+			end_war = WBK
+			badboy = 5
+		}
+	}
+	option = {
+		name = "EVTOPTA880101"
+	}
+}
+
+# ------------------------------------------------------------------ State sizing (after DoD Heartbreaker)
+country_event = {
+	id = 880201
+	title = "EVTNAME880201"
+	desc = "EVTDESC880201"
+	picture = "Upperhouse"
+	trigger = {
+		tag = WBK
+		NOT = { has_country_modifier = sizing_cooldown }
+		NOT = { year = 1860 }
+	}
+	mean_time_to_happen = {
+		days = 1
+	}
+	immediate = {
+		add_country_modifier = {
+			name = sizing_cooldown
+			duration = 365
+		}
+	}
+	option = {
+		name = "EVTOPTA880201"
+		any_country = {
+			limit = {
+				war = no
+			}
+			any_owned = {
+				limit = {
+					state_scope = {
+						NOT = { total_pops = 100000 }
+					}
+				}
+				add_core = TIN
+				remove_core = SMA
+				remove_core = MED
+				remove_core = LRG
+				remove_core = HUG
+			}
+		}
+		any_country = {
+			limit = {
+				war = no
+			}
+			any_owned = {
+				limit = {
+					state_scope = {
+						total_pops = 100000
+						NOT = { total_pops = 450000 }
+					}
+				}
+				add_core = SMA
+				remove_core = TIN
+				remove_core = MED
+				remove_core = LRG
+				remove_core = HUG
+			}
+		}
+		any_country = {
+			limit = {
+				war = no
+			}
+			any_owned = {
+				limit = {
+					state_scope = {
+						total_pops = 450000
+						NOT = { total_pops = 750000 }
+					}
+				}
+				add_core = MED
+				remove_core = TIN
+				remove_core = SMA
+				remove_core = LRG
+				remove_core = HUG
+			}
+		}
+		any_country = {
+			limit = {
+				war = no
+			}
+			any_owned = {
+				limit = {
+					state_scope = {
+						total_pops = 750000
+						NOT = { total_pops = 1050000 }
+					}
+				}
+				add_core = LRG
+				remove_core = TIN
+				remove_core = SMA
+				remove_core = MED
+				remove_core = HUG
+			}
+		}
+		any_country = {
+			limit = {
+				war = no
+			}
+			any_owned = {
+				limit = {
+					state_scope = {
+						total_pops = 1050000
+					}
+				}
+				add_core = HUG
+				remove_core = TIN
+				remove_core = SMA
+				remove_core = MED
+				remove_core = LRG
+			}
+		}
+	}
+}
+
+country_event = {
+	id = 880202
+	title = "EVTNAME880201"
+	desc = "EVTDESC880201"
+	picture = "Upperhouse"
+	trigger = {
+		tag = WBK
+		NOT = { has_country_modifier = sizing_cooldown }
+		year = 1860
+		NOT = { year = 1900 }
+	}
+	mean_time_to_happen = {
+		days = 1
+	}
+	immediate = {
+		add_country_modifier = {
+			name = sizing_cooldown
+			duration = 365
+		}
+	}
+	option = {
+		name = "EVTOPTA880201"
+		any_country = {
+			limit = {
+				war = no
+			}
+			any_owned = {
+				limit = {
+					state_scope = {
+						NOT = { total_pops = 150000 }
+					}
+				}
+				add_core = TIN
+				remove_core = SMA
+				remove_core = MED
+				remove_core = LRG
+				remove_core = HUG
+			}
+		}
+		any_country = {
+			limit = {
+				war = no
+			}
+			any_owned = {
+				limit = {
+					state_scope = {
+						total_pops = 150000
+						NOT = { total_pops = 650000 }
+					}
+				}
+				add_core = SMA
+				remove_core = TIN
+				remove_core = MED
+				remove_core = LRG
+				remove_core = HUG
+			}
+		}
+		any_country = {
+			limit = {
+				war = no
+			}
+			any_owned = {
+				limit = {
+					state_scope = {
+						total_pops = 650000
+						NOT = { total_pops = 1050000 }
+					}
+				}
+				add_core = MED
+				remove_core = TIN
+				remove_core = SMA
+				remove_core = LRG
+				remove_core = HUG
+			}
+		}
+		any_country = {
+			limit = {
+				war = no
+			}
+			any_owned = {
+				limit = {
+					state_scope = {
+						total_pops = 1050000
+						NOT = { total_pops = 1500000 }
+					}
+				}
+				add_core = LRG
+				remove_core = TIN
+				remove_core = SMA
+				remove_core = MED
+				remove_core = HUG
+			}
+		}
+		any_country = {
+			limit = {
+				war = no
+			}
+			any_owned = {
+				limit = {
+					state_scope = {
+						total_pops = 1500000
+					}
+				}
+				add_core = HUG
+				remove_core = TIN
+				remove_core = SMA
+				remove_core = MED
+				remove_core = LRG
+			}
+		}
+	}
+}
+
+country_event = {
+	id = 880203
+	title = "EVTNAME880201"
+	desc = "EVTDESC880201"
+	picture = "Upperhouse"
+	trigger = {
+		tag = WBK
+		NOT = { has_country_modifier = sizing_cooldown }
+		year = 1900
+	}
+	mean_time_to_happen = {
+		days = 1
+	}
+	immediate = {
+		add_country_modifier = {
+			name = sizing_cooldown
+			duration = 365
+		}
+	}
+	option = {
+		name = "EVTOPTA880201"
+		any_country = {
+			limit = {
+				war = no
+			}
+			any_owned = {
+				limit = {
+					state_scope = {
+						NOT = { total_pops = 200000 }
+					}
+				}
+				add_core = TIN
+				remove_core = SMA
+				remove_core = MED
+				remove_core = LRG
+				remove_core = HUG
+			}
+		}
+		any_country = {
+			limit = {
+				war = no
+			}
+			any_owned = {
+				limit = {
+					state_scope = {
+						total_pops = 200000
+						NOT = { total_pops = 800000 }
+					}
+				}
+				add_core = SMA
+				remove_core = TIN
+				remove_core = MED
+				remove_core = LRG
+				remove_core = HUG
+			}
+		}
+		any_country = {
+			limit = {
+				war = no
+			}
+			any_owned = {
+				limit = {
+					state_scope = {
+						total_pops = 800000
+						NOT = { total_pops = 1400000 }
+					}
+				}
+				add_core = MED
+				remove_core = TIN
+				remove_core = SMA
+				remove_core = LRG
+				remove_core = HUG
+			}
+		}
+		any_country = {
+			limit = {
+				war = no
+			}
+			any_owned = {
+				limit = {
+					state_scope = {
+						total_pops = 1400000
+						NOT = { total_pops = 2000000 }
+					}
+				}
+				add_core = LRG
+				remove_core = TIN
+				remove_core = SMA
+				remove_core = MED
+				remove_core = HUG
+			}
+		}
+		any_country = {
+			limit = {
+				war = no
+			}
+			any_owned = {
+				limit = {
+					state_scope = {
+						total_pops = 2000000
+					}
+				}
+				add_core = HUG
+				remove_core = TIN
+				remove_core = SMA
+				remove_core = MED
+				remove_core = LRG
+			}
+		}
+	}
+}
+
+
+# ------------------------------------------------------------------ national focus tiers (after IGoR puir)
+country_event = {
+	id = 880302
+	title = "EVTNAME88032"
+	desc = "EVTDESC880300"
+	picture = "Upperhouse"
+	trigger = {
+		civilized = yes
+		year = 1845
+		NOT = { has_country_flag = tier_2 }
+	}
+	mean_time_to_happen = {
+		days = 1
+	}
+	option = {
+		name = "EVTOPTA880300"
+		set_country_flag = tier_2
+	}
+}
+
+country_event = {
+	id = 880303
+	title = "EVTNAME88033"
+	desc = "EVTDESC880300"
+	picture = "Upperhouse"
+	trigger = {
+		civilized = yes
+		year = 1855
+		NOT = { has_country_flag = tier_3 }
+	}
+	mean_time_to_happen = {
+		days = 1
+	}
+	option = {
+		name = "EVTOPTA880300"
+		set_country_flag = tier_3
+	}
+}
+
+country_event = {
+	id = 880304
+	title = "EVTNAME88034"
+	desc = "EVTDESC880300"
+	picture = "Upperhouse"
+	trigger = {
+		civilized = yes
+		year = 1865
+		NOT = { has_country_flag = tier_4 }
+	}
+	mean_time_to_happen = {
+		days = 1
+	}
+	option = {
+		name = "EVTOPTA880300"
+		set_country_flag = tier_4
+	}
+}
+
+country_event = {
+	id = 880305
+	title = "EVTNAME88035"
+	desc = "EVTDESC880300"
+	picture = "Upperhouse"
+	trigger = {
+		civilized = yes
+		year = 1880
+		NOT = { has_country_flag = tier_5 }
+	}
+	mean_time_to_happen = {
+		days = 1
+	}
+	option = {
+		name = "EVTOPTA880300"
+		set_country_flag = tier_5
+	}
+}
+
+country_event = {
+	id = 880306
+	title = "EVTNAME88036"
+	desc = "EVTDESC880300"
+	picture = "Upperhouse"
+	trigger = {
+		civilized = yes
+		year = 1895
+		NOT = { has_country_flag = tier_6 }
+	}
+	mean_time_to_happen = {
+		days = 1
+	}
+	option = {
+		name = "EVTOPTA880300"
+		set_country_flag = tier_6
+	}
+}
+

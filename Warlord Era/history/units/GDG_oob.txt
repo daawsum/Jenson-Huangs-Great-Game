@@ -1,0 +1,141 @@
+GXI = {
+	value = -150
+}
+
+FUJ = {
+	value = 150
+}
+
+HNI = {
+	value = 125
+}
+
+army = {
+	name = "Cantonese First Army"
+	location = 1493
+	regiment = {
+		name = "1. Cantonese First Army"
+		type = infantry
+		home = 1493
+	}
+	regiment = {
+		name = "2. Cantonese First Army"
+		type = infantry
+		home = 3276
+	}
+	regiment = {
+		name = "3. Cantonese First Army"
+		type = infantry
+		home = 1494
+	}
+	regiment = {
+		name = "4. Cantonese First Army"
+		type = infantry
+		home = 3277
+	}
+	regiment = {
+		name = "5. Cantonese First Army"
+		type = infantry
+		home = 1500
+	}
+	regiment = {
+		name = "6. Cantonese First Army"
+		type = cavalry
+		home = 3281
+	}
+	regiment = {
+		name = "7. Cantonese First Army"
+		type = artillery
+		home = 1497
+	}
+}
+
+army = {
+	name = "Cantonese Second Army"
+	location = 3279
+	regiment = {
+		name = "1. Cantonese Second Army"
+		type = infantry
+		home = 1493
+	}
+	regiment = {
+		name = "2. Cantonese Second Army"
+		type = infantry
+		home = 3276
+	}
+	regiment = {
+		name = "3. Cantonese Second Army"
+		type = infantry
+		home = 1494
+	}
+	regiment = {
+		name = "4. Cantonese Second Army"
+		type = infantry
+		home = 3277
+	}
+	regiment = {
+		name = "5. Cantonese Second Army"
+		type = infantry
+		home = 1500
+	}
+	regiment = {
+		name = "6. Cantonese Second Army"
+		type = cavalry
+		home = 3281
+	}
+	regiment = {
+		name = "7. Cantonese Second Army"
+		type = artillery
+		home = 1497
+	}
+}
+
+navy = {
+	name = "Cantonese Fleet"
+	location = 3276
+	ship = {
+		name = "Cantonese Fleet 1"
+		type = manowar
+	}
+	ship = {
+		name = "Cantonese Fleet 2"
+		type = manowar
+	}
+	ship = {
+		name = "Cantonese Fleet 3"
+		type = frigate
+	}
+	ship = {
+		name = "Cantonese Fleet 4"
+		type = frigate
+	}
+	ship = {
+		name = "Cantonese Fleet 5"
+		type = frigate
+	}
+	ship = {
+		name = "Cantonese Fleet 6"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Cantonese Fleet 7"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Cantonese Fleet 8"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Cantonese Fleet 9"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Cantonese Fleet 10"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Cantonese Fleet 11"
+		type = clipper_transport
+	}
+}
+

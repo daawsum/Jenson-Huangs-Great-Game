@@ -1,0 +1,56 @@
+ZHL = {
+	value = 125
+}
+
+army = {
+	name = "Rehe First Army"
+	location = 1613
+	regiment = {
+		name = "1. Rehe First Army"
+		type = infantry
+		home = 3377
+	}
+	regiment = {
+		name = "2. Rehe First Army"
+		type = infantry
+		home = 3378
+	}
+	regiment = {
+		name = "3. Rehe First Army"
+		type = infantry
+		home = 1613
+	}
+	regiment = {
+		name = "4. Rehe First Army"
+		type = infantry
+		home = 1533
+	}
+	regiment = {
+		name = "5. Rehe First Army"
+		type = infantry
+		home = 3314
+	}
+	regiment = {
+		name = "6. Rehe First Army"
+		type = cavalry
+		home = 3315
+	}
+}
+
+navy = {
+	name = "Rehe Fleet"
+	location = 3377
+	ship = {
+		name = "Rehe Fleet 1"
+		type = frigate
+	}
+	ship = {
+		name = "Rehe Fleet 2"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Rehe Fleet 3"
+		type = clipper_transport
+	}
+}
+

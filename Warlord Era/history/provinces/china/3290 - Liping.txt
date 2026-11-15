@@ -1,0 +1,7 @@
+owner = GZH
+controller = GZH
+add_core = GZH
+add_core = CHI
+trade_goods = tea
+life_rating = 32
+terrain = hills

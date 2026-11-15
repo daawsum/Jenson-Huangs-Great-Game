@@ -1,0 +1,15 @@
+2131 = {
+	bankers = {
+		culture = british
+		religion = placeholder
+		size = 100000
+	}
+}
+
+2133 = {
+	farmers = {
+		culture = british
+		religion = placeholder
+		size = 15
+	}
+}

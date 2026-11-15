@@ -1,0 +1,12 @@
+# build intermediates and caches
+tools/work/
+tools/__pycache__/
+__pycache__/
+*.pyc
+
+# the packaged copy is attached to releases, not kept in history
+Warlord Era.zip
+
+# old backups of the generator scripts
+*.bak_*
+tools/dds_info.py

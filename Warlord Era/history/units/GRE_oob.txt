@@ -1,0 +1,89 @@
+leader = {
+	name = "von Heideck"
+	type = land
+	date="1833.1.1"
+	personality = romantic
+	background = poet
+	prestige = 0.1
+}
+
+leader = {
+	name = "Demetrios Kalergis"
+	type = land
+	date="1836.1.1"
+	personality = impetuous
+	background = cavalry_school
+}
+
+leader = {
+	name = "Ioannis Kolokotronis"
+	type = land
+	date="1833.1.1"
+	personality = aweless
+	background = powerful_friends
+	prestige = 0.1
+}
+
+leader = {
+	name = "Antonios Kriezis"
+	type = sea
+	date="1836.1.1"
+	personality = audacious
+	background = expert_raider
+}
+
+army = {
+	name = "Army of Athens"
+	location = 834
+	regiment = {
+		name = "1. Army of Athens"
+		type = infantry
+		home = 834
+	}
+	regiment = {
+		name = "2. Army of Athens"
+		type = infantry
+		home = 837
+	}
+	regiment = {
+		name = "3. Army of Athens"
+		type = infantry
+		home = 824
+	}
+	regiment = {
+		name = "4. Army of Athens"
+		type = infantry
+		home = 826
+	}
+	regiment = {
+		name = "5. Army of Athens"
+		type = infantry
+		home = 835
+	}
+	regiment = {
+		name = "6. Army of Athens"
+		type = infantry
+		home = 836
+	}
+	regiment = {
+		name = "7. Army of Athens"
+		type = infantry
+		home = 838
+	}
+	regiment = {
+		name = "8. Army of Athens"
+		type = infantry
+		home = 839
+	}
+	regiment = {
+		name = "9. Army of Athens"
+		type = cavalry
+		home = 834
+	}
+	regiment = {
+		name = "10. Army of Athens"
+		type = cavalry
+		home = 837
+	}
+}
+

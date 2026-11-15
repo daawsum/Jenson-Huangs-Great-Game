@@ -1,0 +1,183 @@
+935 = {
+	aristocrats = {
+		culture = bedouin
+		religion = placeholder
+		size = 50
+	}
+
+	clergymen = {
+		culture = bedouin
+		religion = placeholder
+		size = 50
+	}
+
+	artisans = {
+		culture = bedouin
+		religion = placeholder
+		size = 150
+	}
+
+	soldiers = {
+		culture = bedouin
+		religion = placeholder
+		size = 25
+	}
+
+	farmers = {
+		culture = bedouin
+		religion = placeholder
+		size = 2725
+	}
+}
+
+1162 = {
+	aristocrats = {
+		culture = bedouin
+		religion = placeholder
+		size = 25
+	}
+
+	bureaucrats = {
+		culture = bedouin
+		religion = placeholder
+		size = 15
+	}
+
+	officers = {
+		culture = bedouin
+		religion = placeholder
+		size = 10
+	}
+
+	clergymen = {
+		culture = bedouin
+		religion = placeholder
+		size = 100
+	}
+
+	artisans = {
+		culture = bedouin
+		religion = placeholder
+		size = 250
+	}
+
+	soldiers = {
+		culture = bedouin
+		religion = placeholder
+		size = 50
+	}
+
+	farmers = {
+		culture = bedouin
+		religion = placeholder
+		size = 4650
+	}
+}
+
+1165 = {
+	aristocrats = {
+		culture = bedouin
+		religion = placeholder
+		size = 25
+	}
+
+	clergymen = {
+		culture = bedouin
+		religion = placeholder
+		size = 25
+	}
+
+	artisans = {
+		culture = bedouin
+		religion = placeholder
+		size = 100
+	}
+
+	soldiers = {
+		culture = bedouin
+		religion = placeholder
+		size = 25
+	}
+
+	farmers = {
+		culture = bedouin
+		religion = placeholder
+		size = 1825
+	}
+}
+
+1167 = {
+	aristocrats = {
+		culture = bedouin
+		religion = placeholder
+		size = 25
+	}
+
+	bureaucrats = {
+		culture = bedouin
+		religion = placeholder
+		size = 15
+	}
+
+	officers = {
+		culture = bedouin
+		religion = placeholder
+		size = 10
+	}
+
+	clergymen = {
+		culture = bedouin
+		religion = placeholder
+		size = 50
+	}
+
+	artisans = {
+		culture = bedouin
+		religion = placeholder
+		size = 250
+	}
+
+	soldiers = {
+		culture = bedouin
+		religion = placeholder
+		size = 1100
+	}
+
+	farmers = {
+		culture = bedouin
+		religion = placeholder
+		size = 3650
+	}
+}
+
+1168 = {
+	aristocrats = {
+		culture = bedouin
+		religion = placeholder
+		size = 50
+	}
+
+	clergymen = {
+		culture = bedouin
+		religion = placeholder
+		size = 75
+	}
+
+	artisans = {
+		culture = bedouin
+		religion = placeholder
+		size = 150
+	}
+
+	soldiers = {
+		culture = bedouin
+		religion = placeholder
+		size = 50
+	}
+
+	farmers = {
+		culture = bedouin
+		religion = placeholder
+		size = 3625
+	}
+}

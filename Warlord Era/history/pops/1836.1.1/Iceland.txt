@@ -1,0 +1,25 @@
+252 = {
+	bureaucrats = {
+		culture = swedish
+		religion = placeholder
+		size = 25
+	}
+
+	clergymen = {
+		culture = swedish
+		religion = placeholder
+		size = 100
+	}
+
+	artisans = {
+		culture = swedish
+		religion = placeholder
+		size = 750
+	}
+
+	farmers = {
+		culture = swedish
+		religion = placeholder
+		size = 13125
+	}
+}

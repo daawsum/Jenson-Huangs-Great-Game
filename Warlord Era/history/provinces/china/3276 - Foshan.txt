@@ -1,0 +1,8 @@
+owner = GDG
+controller = GDG
+add_core = GDG
+add_core = CHI
+trade_goods = timber
+life_rating = 32
+terrain = plains
+naval_base = 1

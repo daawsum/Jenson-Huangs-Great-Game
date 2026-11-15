@@ -1,0 +1,333 @@
+790 = {
+	aristocrats = {
+		culture = african_minor
+		religion = placeholder
+		size = 175
+	}
+
+	clergymen = {
+		culture = african_minor
+		religion = placeholder
+		size = 150
+	}
+
+	artisans = {
+		culture = african_minor
+		religion = placeholder
+		size = 475
+	}
+
+	soldiers = {
+		culture = african_minor
+		religion = placeholder
+		size = 100
+	}
+
+	farmers = {
+		culture = african_minor
+		religion = placeholder
+		size = 9075
+	}
+
+	slaves = {
+		culture = african_minor
+		religion = placeholder
+		size = 1100
+	}
+}
+
+2016 = {
+	aristocrats = {
+		culture = african_minor
+		religion = placeholder
+		size = 375
+	}
+
+	clergymen = {
+		culture = african_minor
+		religion = placeholder
+		size = 225
+	}
+
+	artisans = {
+		culture = african_minor
+		religion = placeholder
+		size = 950
+	}
+
+	soldiers = {
+		culture = african_minor
+		religion = placeholder
+		size = 225
+	}
+
+	farmers = {
+		culture = african_minor
+		religion = placeholder
+		size = 16150
+	}
+
+	slaves = {
+		culture = african_minor
+		religion = placeholder
+		size = 3000
+	}
+}
+
+2017 = {
+	aristocrats = {
+		culture = african_minor
+		religion = placeholder
+		size = 300
+	}
+
+	clergymen = {
+		culture = african_minor
+		religion = placeholder
+		size = 150
+	}
+
+	artisans = {
+		culture = african_minor
+		religion = placeholder
+		size = 800
+	}
+
+	soldiers = {
+		culture = african_minor
+		religion = placeholder
+		size = 200
+	}
+
+	farmers = {
+		culture = african_minor
+		religion = placeholder
+		size = 11550
+	}
+
+	slaves = {
+		culture = african_minor
+		religion = placeholder
+		size = 4000
+	}
+}
+
+2018 = {
+	aristocrats = {
+		culture = african_minor
+		religion = placeholder
+		size = 250
+	}
+
+	clergymen = {
+		culture = african_minor
+		religion = placeholder
+		size = 125
+	}
+
+	artisans = {
+		culture = african_minor
+		religion = placeholder
+		size = 650
+	}
+
+	soldiers = {
+		culture = african_minor
+		religion = placeholder
+		size = 150
+	}
+
+	farmers = {
+		culture = african_minor
+		religion = placeholder
+		size = 10825
+	}
+
+	slaves = {
+		culture = african_minor
+		religion = placeholder
+		size = 2000
+	}
+
+	aristocrats = {
+		culture = zulu
+		religion = placeholder
+		size = 125
+	}
+
+	clergymen = {
+		culture = zulu
+		religion = placeholder
+		size = 100
+	}
+
+	artisans = {
+		culture = zulu
+		religion = placeholder
+		size = 450
+	}
+
+	soldiers = {
+		culture = zulu
+		religion = placeholder
+		size = 100
+	}
+
+	farmers = {
+		culture = zulu
+		religion = placeholder
+		size = 8225
+	}
+}
+
+2012 = {
+	aristocrats = {
+		culture = african_minor
+		religion = placeholder
+		size = 100
+	}
+
+	clergymen = {
+		culture = african_minor
+		religion = placeholder
+		size = 100
+	}
+
+	artisans = {
+		culture = african_minor
+		religion = placeholder
+		size = 300
+	}
+
+	soldiers = {
+		culture = african_minor
+		religion = placeholder
+		size = 75
+	}
+
+	farmers = {
+		culture = african_minor
+		religion = placeholder
+		size = 3375
+	}
+
+	slaves = {
+		culture = african_minor
+		religion = placeholder
+		size = 3000
+	}
+}
+
+2013 = {
+	aristocrats = {
+		culture = african_minor
+		religion = placeholder
+		size = 235
+	}
+
+	clergymen = {
+		culture = african_minor
+		religion = placeholder
+		size = 150
+	}
+
+	artisans = {
+		culture = african_minor
+		religion = placeholder
+		size = 550
+	}
+
+	soldiers = {
+		culture = african_minor
+		religion = placeholder
+		size = 140
+	}
+
+	farmers = {
+		culture = african_minor
+		religion = placeholder
+		size = 9850
+	}
+
+	slaves = {
+		culture = african_minor
+		religion = placeholder
+		size = 2000
+	}
+}
+
+2014 = {
+	aristocrats = {
+		culture = african_minor
+		religion = placeholder
+		size = 175
+	}
+
+	clergymen = {
+		culture = african_minor
+		religion = placeholder
+		size = 125
+	}
+
+	artisans = {
+		culture = african_minor
+		religion = placeholder
+		size = 425
+	}
+
+	soldiers = {
+		culture = african_minor
+		religion = placeholder
+		size = 125
+	}
+
+	farmers = {
+		culture = african_minor
+		religion = placeholder
+		size = 6150
+	}
+
+	slaves = {
+		culture = african_minor
+		religion = placeholder
+		size = 3000
+	}
+}
+
+2015 = {
+	aristocrats = {
+		culture = african_minor
+		religion = placeholder
+		size = 500
+	}
+
+	clergymen = {
+		culture = african_minor
+		religion = placeholder
+		size = 300
+	}
+
+	artisans = {
+		culture = african_minor
+		religion = placeholder
+		size = 1200
+	}
+
+	soldiers = {
+		culture = african_minor
+		religion = placeholder
+		size = 275
+	}
+
+	farmers = {
+		culture = african_minor
+		religion = placeholder
+		size = 21825
+	}
+
+	slaves = {
+		culture = african_minor
+		religion = placeholder
+		size = 3000
+	}
+}

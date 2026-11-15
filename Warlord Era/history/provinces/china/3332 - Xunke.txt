@@ -1,0 +1,7 @@
+owner = HLJ
+controller = HLJ
+add_core = HLJ
+add_core = CHI
+trade_goods = coal
+life_rating = 32
+terrain = plains

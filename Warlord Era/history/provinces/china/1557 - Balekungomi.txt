@@ -1,0 +1,11 @@
+owner = QHI
+controller = QHI
+add_core = QHI
+add_core = CHI
+trade_goods = coal
+life_rating = 32
+state_building = {
+	level = 1
+	building = canned_food_factory
+	upgrade = yes
+}

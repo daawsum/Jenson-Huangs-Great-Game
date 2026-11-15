@@ -1,0 +1,270 @@
+army = {
+	name = "Tumen 1"
+	location = 1465
+	regiment = {
+		name = "1. Tumen 1"
+		type = cavalry
+		home = 1465
+	}
+	regiment = {
+		name = "2. Tumen 1"
+		type = cavalry
+		home = 1466
+	}
+	regiment = {
+		name = "3. Tumen 1"
+		type = cavalry
+		home = 1467
+	}
+	regiment = {
+		name = "4. Tumen 1"
+		type = cavalry
+		home = 2608
+	}
+	regiment = {
+		name = "5. Tumen 1"
+		type = cavalry
+		home = 1468
+	}
+	regiment = {
+		name = "6. Tumen 1"
+		type = cavalry
+		home = 2679
+	}
+	regiment = {
+		name = "7. Tumen 1"
+		type = cavalry
+		home = 2678
+	}
+	regiment = {
+		name = "8. Tumen 1"
+		type = infantry
+		home = 2207
+	}
+}
+
+army = {
+	name = "Tumen 2"
+	location = 1465
+	regiment = {
+		name = "1. Tumen 2"
+		type = cavalry
+		home = 1465
+	}
+	regiment = {
+		name = "2. Tumen 2"
+		type = cavalry
+		home = 1466
+	}
+	regiment = {
+		name = "3. Tumen 2"
+		type = cavalry
+		home = 1467
+	}
+	regiment = {
+		name = "4. Tumen 2"
+		type = cavalry
+		home = 2608
+	}
+	regiment = {
+		name = "5. Tumen 2"
+		type = cavalry
+		home = 1468
+	}
+	regiment = {
+		name = "6. Tumen 2"
+		type = cavalry
+		home = 2679
+	}
+	regiment = {
+		name = "7. Tumen 2"
+		type = cavalry
+		home = 2678
+	}
+	regiment = {
+		name = "8. Tumen 2"
+		type = infantry
+		home = 2207
+	}
+}
+
+army = {
+	name = "Tumen 3"
+	location = 1465
+	regiment = {
+		name = "1. Tumen 3"
+		type = cavalry
+		home = 1465
+	}
+	regiment = {
+		name = "2. Tumen 3"
+		type = cavalry
+		home = 1466
+	}
+	regiment = {
+		name = "3. Tumen 3"
+		type = cavalry
+		home = 1467
+	}
+	regiment = {
+		name = "4. Tumen 3"
+		type = cavalry
+		home = 2608
+	}
+	regiment = {
+		name = "5. Tumen 3"
+		type = cavalry
+		home = 1468
+	}
+	regiment = {
+		name = "6. Tumen 3"
+		type = cavalry
+		home = 2679
+	}
+	regiment = {
+		name = "7. Tumen 3"
+		type = cavalry
+		home = 2678
+	}
+	regiment = {
+		name = "8. Tumen 3"
+		type = infantry
+		home = 2207
+	}
+}
+
+army = {
+	name = "Tumen 4"
+	location = 2608
+	regiment = {
+		name = "1. Tumen 4"
+		type = cavalry
+		home = 1465
+	}
+	regiment = {
+		name = "2. Tumen 4"
+		type = cavalry
+		home = 1466
+	}
+	regiment = {
+		name = "3. Tumen 4"
+		type = cavalry
+		home = 1467
+	}
+	regiment = {
+		name = "4. Tumen 4"
+		type = cavalry
+		home = 2608
+	}
+	regiment = {
+		name = "5. Tumen 4"
+		type = cavalry
+		home = 1468
+	}
+	regiment = {
+		name = "6. Tumen 4"
+		type = cavalry
+		home = 2679
+	}
+	regiment = {
+		name = "7. Tumen 4"
+		type = cavalry
+		home = 2678
+	}
+	regiment = {
+		name = "8. Tumen 4"
+		type = infantry
+		home = 2207
+	}
+}
+
+army = {
+	name = "Tumen 5"
+	location = 1468
+	regiment = {
+		name = "1. Tumen 5"
+		type = cavalry
+		home = 1465
+	}
+	regiment = {
+		name = "2. Tumen 5"
+		type = cavalry
+		home = 1466
+	}
+	regiment = {
+		name = "3. Tumen 5"
+		type = cavalry
+		home = 1467
+	}
+	regiment = {
+		name = "4. Tumen 5"
+		type = cavalry
+		home = 2608
+	}
+	regiment = {
+		name = "5. Tumen 5"
+		type = cavalry
+		home = 1468
+	}
+	regiment = {
+		name = "6. Tumen 5"
+		type = cavalry
+		home = 2679
+	}
+	regiment = {
+		name = "7. Tumen 5"
+		type = cavalry
+		home = 2678
+	}
+	regiment = {
+		name = "8. Tumen 5"
+		type = infantry
+		home = 2207
+	}
+}
+
+army = {
+	name = "Tumen 6"
+	location = 2679
+	regiment = {
+		name = "1. Tumen 6"
+		type = cavalry
+		home = 1465
+	}
+	regiment = {
+		name = "2. Tumen 6"
+		type = cavalry
+		home = 1466
+	}
+	regiment = {
+		name = "3. Tumen 6"
+		type = cavalry
+		home = 1467
+	}
+	regiment = {
+		name = "4. Tumen 6"
+		type = cavalry
+		home = 2608
+	}
+	regiment = {
+		name = "5. Tumen 6"
+		type = cavalry
+		home = 1468
+	}
+	regiment = {
+		name = "6. Tumen 6"
+		type = cavalry
+		home = 2679
+	}
+	regiment = {
+		name = "7. Tumen 6"
+		type = cavalry
+		home = 2678
+	}
+	regiment = {
+		name = "8. Tumen 6"
+		type = infantry
+		home = 2207
+	}
+}
+

@@ -1,0 +1,79 @@
+2222 = {
+	aristocrats = {
+		culture = spanish
+		religion = placeholder
+		size = 37
+	}
+
+	clergymen = {
+		culture = spanish
+		religion = placeholder
+		size = 45
+	}
+
+	artisans = {
+		culture = spanish
+		religion = placeholder
+		size = 120
+	}
+
+	soldiers = {
+		culture = spanish
+		religion = placeholder
+		size = 25
+	}
+
+	aristocrats = {
+		culture = mexican
+		religion = placeholder
+		size = 165
+	}
+
+	clergymen = {
+		culture = mexican
+		religion = placeholder
+		size = 30
+	}
+
+	artisans = {
+		culture = mexican
+		religion = placeholder
+		size = 450
+	}
+
+	soldiers = {
+		culture = mexican
+		religion = placeholder
+		size = 67
+	}
+
+	farmers = {
+		culture = mexican
+		religion = placeholder
+		size = 6127
+	}
+
+	artisans = {
+		culture = afro_american
+		religion = placeholder
+		size = 165
+	}
+
+	soldiers = {
+		culture = afro_american
+		religion = placeholder
+		size = 60
+	}
+
+	farmers = {
+		culture = afro_american
+		religion = placeholder
+		size = 4590
+	}
+
+	slaves = {
+		culture = afro_american
+		religion = placeholder
+		size = 1500
+	}
+}

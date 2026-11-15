@@ -1,0 +1,7 @@
+owner = FUJ
+controller = FUJ
+add_core = FUJ
+add_core = CHI
+trade_goods = tea
+life_rating = 32
+terrain = farmlands

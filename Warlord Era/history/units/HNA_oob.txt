@@ -1,0 +1,88 @@
+SDG = {
+	value = -150
+}
+
+SXI = {
+	value = 150
+}
+
+army = {
+	name = "Henan First Army"
+	location = 1508
+	regiment = {
+		name = "1. Henan First Army"
+		type = infantry
+		home = 1511
+	}
+	regiment = {
+		name = "2. Henan First Army"
+		type = infantry
+		home = 3291
+	}
+	regiment = {
+		name = "3. Henan First Army"
+		type = infantry
+		home = 1508
+	}
+	regiment = {
+		name = "4. Henan First Army"
+		type = infantry
+		home = 1515
+	}
+	regiment = {
+		name = "5. Henan First Army"
+		type = infantry
+		home = 3296
+	}
+	regiment = {
+		name = "6. Henan First Army"
+		type = cavalry
+		home = 1510
+	}
+	regiment = {
+		name = "7. Henan First Army"
+		type = artillery
+		home = 3293
+	}
+}
+
+army = {
+	name = "Henan Second Army"
+	location = 3294
+	regiment = {
+		name = "1. Henan Second Army"
+		type = infantry
+		home = 1511
+	}
+	regiment = {
+		name = "2. Henan Second Army"
+		type = infantry
+		home = 3291
+	}
+	regiment = {
+		name = "3. Henan Second Army"
+		type = infantry
+		home = 1508
+	}
+	regiment = {
+		name = "4. Henan Second Army"
+		type = infantry
+		home = 1515
+	}
+	regiment = {
+		name = "5. Henan Second Army"
+		type = infantry
+		home = 3296
+	}
+	regiment = {
+		name = "6. Henan Second Army"
+		type = cavalry
+		home = 1510
+	}
+	regiment = {
+		name = "7. Henan Second Army"
+		type = artillery
+		home = 3293
+	}
+}
+

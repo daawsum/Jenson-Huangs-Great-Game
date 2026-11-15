@@ -1,0 +1,215 @@
+1189 = {
+	aristocrats = {
+		culture = kirgiz
+		religion = placeholder
+		size = 800
+	}
+
+	clergymen = {
+		culture = kirgiz
+		religion = placeholder
+		size = 425
+	}
+
+	artisans = {
+		culture = kirgiz
+		religion = placeholder
+		size = 2000
+	}
+
+	soldiers = {
+		culture = kirgiz
+		religion = placeholder
+		size = 7000
+	}
+
+	farmers = {
+		culture = kirgiz
+		religion = placeholder
+		size = 33775
+	}
+
+	aristocrats = {
+		culture = kazak
+		religion = placeholder
+		size = 100
+	}
+
+	clergymen = {
+		culture = kazak
+		religion = placeholder
+		size = 75
+	}
+
+	artisans = {
+		culture = kazak
+		religion = placeholder
+		size = 300
+	}
+
+	soldiers = {
+		culture = kazak
+		religion = placeholder
+		size = 75
+	}
+
+	farmers = {
+		culture = kazak
+		religion = placeholder
+		size = 6450
+	}
+
+	aristocrats = {
+		culture = uighur
+		religion = placeholder
+		size = 125
+	}
+
+	clergymen = {
+		culture = uighur
+		religion = placeholder
+		size = 75
+	}
+
+	artisans = {
+		culture = uighur
+		religion = placeholder
+		size = 350
+	}
+
+	soldiers = {
+		culture = uighur
+		religion = placeholder
+		size = 75
+	}
+
+	farmers = {
+		culture = uighur
+		religion = placeholder
+		size = 7375
+	}
+}
+
+1190 = {
+	aristocrats = {
+		culture = kirgiz
+		religion = placeholder
+		size = 150
+	}
+
+	clergymen = {
+		culture = kirgiz
+		religion = placeholder
+		size = 100
+	}
+
+	artisans = {
+		culture = kirgiz
+		religion = placeholder
+		size = 350
+	}
+
+	soldiers = {
+		culture = kirgiz
+		religion = placeholder
+		size = 1150
+	}
+
+	farmers = {
+		culture = kirgiz
+		religion = placeholder
+		size = 7350
+	}
+
+	aristocrats = {
+		culture = kazak
+		religion = placeholder
+		size = 100
+	}
+
+	clergymen = {
+		culture = kazak
+		religion = placeholder
+		size = 50
+	}
+
+	artisans = {
+		culture = kazak
+		religion = placeholder
+		size = 200
+	}
+
+	soldiers = {
+		culture = kazak
+		religion = placeholder
+		size = 50
+	}
+
+	farmers = {
+		culture = kazak
+		religion = placeholder
+		size = 4600
+	}
+}
+
+1203 = {
+	aristocrats = {
+		culture = uzbek
+		religion = placeholder
+		size = 175
+	}
+
+	clergymen = {
+		culture = uzbek
+		religion = placeholder
+		size = 75
+	}
+
+	artisans = {
+		culture = uzbek
+		religion = placeholder
+		size = 450
+	}
+
+	soldiers = {
+		culture = uzbek
+		religion = placeholder
+		size = 100
+	}
+
+	farmers = {
+		culture = uzbek
+		religion = placeholder
+		size = 8200
+	}
+
+	aristocrats = {
+		culture = kirgiz
+		religion = placeholder
+		size = 375
+	}
+
+	clergymen = {
+		culture = kirgiz
+		religion = placeholder
+		size = 175
+	}
+
+	artisans = {
+		culture = kirgiz
+		religion = placeholder
+		size = 900
+	}
+
+	soldiers = {
+		culture = kirgiz
+		religion = placeholder
+		size = 4000
+	}
+
+	farmers = {
+		culture = kirgiz
+		religion = placeholder
+		size = 13550
+	}
+}

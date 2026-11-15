@@ -1,0 +1,30 @@
+army = {
+	name = "Army of Erivan"
+	location = 1098
+	regiment = {
+		name = "1. Army of Erivan"
+		type = infantry
+		home = 887
+	}
+	regiment = {
+		name = "2. Army of Erivan"
+		type = infantry
+		home = 888
+	}
+	regiment = {
+		name = "3. Army of Erivan"
+		type = infantry
+		home = 882
+	}
+	regiment = {
+		name = "4. Army of Erivan"
+		type = infantry
+		home = 886
+	}
+	regiment = {
+		name = "5. Army of Erivan"
+		type = cavalry
+		home = 885
+	}
+}
+

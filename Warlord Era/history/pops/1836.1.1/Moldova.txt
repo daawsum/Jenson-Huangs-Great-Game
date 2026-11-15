@@ -1,0 +1,147 @@
+676 = {
+	aristocrats = {
+		culture = romanian
+		religion = placeholder
+		size = 1400
+	}
+
+	bureaucrats = {
+		culture = romanian
+		religion = placeholder
+		size = 225
+	}
+
+	officers = {
+		culture = romanian
+		religion = placeholder
+		size = 175
+	}
+
+	clergymen = {
+		culture = romanian
+		religion = placeholder
+		size = 700
+	}
+
+	artisans = {
+		culture = romanian
+		religion = placeholder
+		size = 10000
+	}
+
+	soldiers = {
+		culture = romanian
+		religion = placeholder
+		size = 750
+	}
+
+	farmers = {
+		culture = romanian
+		religion = placeholder
+		size = 56750
+	}
+
+	clergymen = {
+		culture = north_german
+		religion = placeholder
+		size = 75
+	}
+
+	artisans = {
+		culture = north_german
+		religion = placeholder
+		size = 1600
+	}
+
+	soldiers = {
+		culture = north_german
+		religion = placeholder
+		size = 75
+	}
+
+	farmers = {
+		culture = north_german
+		religion = placeholder
+		size = 6250
+	}
+
+	clergymen = {
+		culture = turkish
+		religion = placeholder
+		size = 75
+	}
+
+	artisans = {
+		culture = turkish
+		religion = placeholder
+		size = 250
+	}
+
+	soldiers = {
+		culture = turkish
+		religion = placeholder
+		size = 50
+	}
+
+	farmers = {
+		culture = turkish
+		religion = placeholder
+		size = 4625
+	}
+}
+
+677 = {
+	aristocrats = {
+		culture = romanian
+		religion = placeholder
+		size = 1300
+	}
+
+	clergymen = {
+		culture = romanian
+		religion = placeholder
+		size = 700
+	}
+
+	artisans = {
+		culture = romanian
+		religion = placeholder
+		size = 3600
+	}
+
+	soldiers = {
+		culture = romanian
+		religion = placeholder
+		size = 725
+	}
+
+	farmers = {
+		culture = romanian
+		religion = placeholder
+		size = 65675
+	}
+
+	clergymen = {
+		culture = north_german
+		religion = placeholder
+		size = 75
+	}
+
+	artisans = {
+		culture = north_german
+		religion = placeholder
+		size = 1800
+	}
+
+	soldiers = {
+		culture = north_german
+		religion = placeholder
+		size = 75
+	}
+
+	farmers = {
+		culture = north_german
+		religion = placeholder
+		size = 7050
+	}
+}

@@ -1,0 +1,15 @@
+army = {
+	name = "Army of Petrozavorsk"
+	location = 995
+	regiment = {
+		name = "1. Army of Petrozavorsk"
+		type = infantry
+		home = 995
+	}
+	regiment = {
+		name = "2. Army of Petrozavorsk"
+		type = infantry
+		home = 993
+	}
+}
+

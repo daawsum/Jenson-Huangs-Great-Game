@@ -1,0 +1,39 @@
+XBI = {
+	value = 125
+}
+
+army = {
+	name = "Kokonor First Army"
+	location = 1557
+	regiment = {
+		name = "1. Kokonor First Army"
+		type = infantry
+		home = 1556
+	}
+	regiment = {
+		name = "2. Kokonor First Army"
+		type = infantry
+		home = 1558
+	}
+	regiment = {
+		name = "3. Kokonor First Army"
+		type = infantry
+		home = 1557
+	}
+	regiment = {
+		name = "4. Kokonor First Army"
+		type = infantry
+		home = 1556
+	}
+	regiment = {
+		name = "5. Kokonor First Army"
+		type = infantry
+		home = 1558
+	}
+	regiment = {
+		name = "6. Kokonor First Army"
+		type = cavalry
+		home = 1557
+	}
+}
+

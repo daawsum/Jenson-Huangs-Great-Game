@@ -1,0 +1,206 @@
+leader = {
+	name = "Prince Vasilchikov"
+	date = 1801.1.1
+	type = land
+	personality = competent
+	background = powerful_friends
+	prestige = 0.4
+}
+
+leader = {
+	name = "Prince Mikhail Vorontsov"
+	date = 1814.1.1
+	type = land
+	personality = daring
+	background = gifted_administrator
+	prestige = 0.3
+}
+
+leader = {
+	name = "Pyotr Chicherin"
+	date = 1835.1.1
+	type = land
+	personality = earnest
+	background = cavalry_school
+	prestige = 0.1
+}
+
+leader = {
+	name = "Alexander Chernyshev"
+	date = 1821.1.1
+	type = land
+	personality = intelligent
+	background = diplomat
+	prestige = 0.1
+}
+
+leader = {
+	name = "Prince Menshikov"
+	date = 1833.1.1
+	type = sea
+	personality = lackluster
+	background = clueless
+	prestige = 0.1
+}
+
+leader = {
+	name = " Ivan Paskevich"
+	date = 1812.1.1
+	type = land
+	personality = merciless
+	background = school_of_offense
+	prestige = 0.3
+}
+
+leader = {
+	name = "Matvey Khrapovitsky"
+	date = 1835.1.1
+	type = land
+	personality = able
+	background = war_college
+	prestige = 0.1
+}
+
+leader = {
+	name = "Mikhail Lazarev"
+	date = 1827.1.1
+	type = sea
+	personality = au_fait
+	background = innovative_tactician
+	prestige = 0.2
+}
+
+leader = {
+	name = "Muraviev-Karsky"
+	date = 1832.1.1
+	type = land
+	personality = defiant
+	background = natural_born_leader
+	prestige = 0.1
+}
+
+leader = {
+	name = "Pyotr Volkonsky"
+	date = 1812.1.1
+	type = land
+	personality = intelligent
+	background = elderly
+	prestige = 0.3
+}
+
+leader = {
+	name = "Pavel Grabbe"
+	date = 1836.1.1
+	type = land
+	personality = keen
+	background = school_of_firepower
+	prestige = 0.0
+}
+
+leader = {
+	name = "Vasily Bebutov"
+	date = 1825.1.1
+	type = land
+	personality = stout
+	background = generals_aide
+	prestige = 0.1
+}
+
+leader = {
+	name = "Fedor von Berg"
+	date = 1836.1.1
+	type = land
+	personality = sharp
+	background = cartographer
+	prestige = 0.1
+}
+
+leader = {
+	name = "Ferdinand Wrangel"
+	date = 1836.1.1
+	type = sea
+	personality = active_p
+	background = cartographer
+	prestige = 0.0
+}
+
+army = {
+	name = "Army of St Petersburg"
+	location = 994
+	regiment = {
+		name = "1. Army of St Petersburg"
+		type = infantry
+		home = 994
+	}
+	regiment = {
+		name = "2. Army of St Petersburg"
+		type = infantry
+		home = 1008
+	}
+	regiment = {
+		name = "3. Army of St Petersburg"
+		type = infantry
+		home = 1025
+	}
+	regiment = {
+		name = "4. Army of St Petersburg"
+		type = infantry
+		home = 1011
+	}
+	regiment = {
+		name = "5. Army of St Petersburg"
+		type = infantry
+		home = 1012
+	}
+	regiment = {
+		name = "6. Army of St Petersburg"
+		type = infantry
+		home = 977
+	}
+	regiment = {
+		name = "7. Army of St Petersburg"
+		type = infantry
+		home = 1010
+	}
+	regiment = {
+		name = "8. Army of St Petersburg"
+		type = infantry
+		home = 989
+	}
+	regiment = {
+		name = "9. Army of St Petersburg"
+		type = infantry
+		home = 994
+	}
+	regiment = {
+		name = "10. Army of St Petersburg"
+		type = infantry
+		home = 1008
+	}
+	regiment = {
+		name = "11. Army of St Petersburg"
+		type = infantry
+		home = 1025
+	}
+	regiment = {
+		name = "12. Army of St Petersburg"
+		type = infantry
+		home = 1011
+	}
+	regiment = {
+		name = "13. Army of St Petersburg"
+		type = cavalry
+		home = 1012
+	}
+	regiment = {
+		name = "14. Army of St Petersburg"
+		type = cavalry
+		home = 977
+	}
+	regiment = {
+		name = "15. Army of St Petersburg"
+		type = cavalry
+		home = 1010
+	}
+}
+

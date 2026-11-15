@@ -1,0 +1,117 @@
+leader = {
+	name = "Resid Mehmed Pasha"
+	date = 1809.1.1
+	type = land
+	personality = inefficient
+	background = elderly
+	prestige = 0.2
+}
+
+leader = {
+	name = "Wojciech Chrzanowski"
+	date = 1836.1.1
+	type = land
+	personality = romantic
+	background = cartographer
+	prestige = 0.1
+}
+
+leader = {
+	name = "Helmuth von Moltke"
+	date = 1833.1.1
+	type = land
+	personality = calm
+	background = debutante
+	prestige = 0.0
+}
+
+leader = {
+	name = "Abdi Pasha"
+	date = 1836.1.1
+	type = land
+	personality = merciless
+	background = old_school
+	prestige = 0.0
+}
+
+leader = {
+	name = "Hafiz Osman Pasha"
+	date = 1836.1.1
+	type = land
+	personality = inept
+	background = yesman
+	prestige = 0.0
+}
+
+leader = {
+	name = "Namik Pasha"
+	date = 1836.1.1
+	type = land
+	personality = expert
+	background = diplomat
+	prestige = 0.0
+}
+
+leader = {
+	name = "Abdülkerim Pasha"
+	date = 1836.1.1
+	type = land
+	personality = active_p
+	background = war_college
+	prestige = 0.0
+}
+
+leader = {
+	name = "Yaver Pasha"
+	date = 1836.1.1
+	type = sea
+	personality = diplomatic
+	background = gifted_administrator
+	prestige = 0.1
+}
+
+army = {
+	name = "Army of Istanbul"
+	location = 860
+	regiment = {
+		name = "1. Army of Istanbul"
+		type = infantry
+		home = 860
+	}
+	regiment = {
+		name = "2. Army of Istanbul"
+		type = infantry
+		home = 869
+	}
+	regiment = {
+		name = "3. Army of Istanbul"
+		type = infantry
+		home = 876
+	}
+	regiment = {
+		name = "4. Army of Istanbul"
+		type = infantry
+		home = 828
+	}
+	regiment = {
+		name = "5. Army of Istanbul"
+		type = infantry
+		home = 859
+	}
+	regiment = {
+		name = "6. Army of Istanbul"
+		type = infantry
+		home = 861
+	}
+	regiment = {
+		name = "7. Army of Istanbul"
+		type = infantry
+		home = 863
+	}
+	regiment = {
+		name = "8. Army of Istanbul"
+		type = cavalry
+		home = 873
+	}
+}
+

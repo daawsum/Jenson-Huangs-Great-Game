@@ -1,0 +1,35 @@
+army = {
+	name = "Host of Constantine"
+	location = 1708
+	regiment = {
+		name = "1. Host of Constantine"
+		type = irregular
+		home = 1702
+	}
+	regiment = {
+		name = "2. Host of Constantine"
+		type = irregular
+		home = 1705
+	}
+	regiment = {
+		name = "3. Host of Constantine"
+		type = irregular
+		home = 1700
+	}
+	regiment = {
+		name = "4. Host of Constantine"
+		type = irregular
+		home = 1703
+	}
+	regiment = {
+		name = "5. Host of Constantine"
+		type = irregular
+		home = 1708
+	}
+	regiment = {
+		name = "6. Host of Constantine"
+		type = cavalry
+		home = 1701
+	}
+}
+

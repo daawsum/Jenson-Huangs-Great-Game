@@ -1,0 +1,6 @@
+owner = KSG
+controller = KSG
+add_core = KSG
+add_core = CHI
+trade_goods = sulphur
+life_rating = 32

@@ -1,0 +1,39 @@
+XIN = {
+	value = 125
+}
+
+army = {
+	name = "Tibetan First Army"
+	location = 1587
+	regiment = {
+		name = "1. Tibetan First Army"
+		type = infantry
+		home = 1587
+	}
+	regiment = {
+		name = "2. Tibetan First Army"
+		type = infantry
+		home = 1593
+	}
+	regiment = {
+		name = "3. Tibetan First Army"
+		type = infantry
+		home = 1590
+	}
+	regiment = {
+		name = "4. Tibetan First Army"
+		type = infantry
+		home = 1589
+	}
+	regiment = {
+		name = "5. Tibetan First Army"
+		type = infantry
+		home = 1592
+	}
+	regiment = {
+		name = "6. Tibetan First Army"
+		type = cavalry
+		home = 1591
+	}
+}
+

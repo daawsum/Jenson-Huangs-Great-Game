@@ -1,0 +1,6 @@
+owner = XAM
+controller = XAM
+add_core = XAM
+add_core = TUR
+trade_goods = iron
+life_rating = 35

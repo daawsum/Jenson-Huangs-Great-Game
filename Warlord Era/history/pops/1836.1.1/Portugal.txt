@@ -1,0 +1,419 @@
+518 = {
+	aristocrats = {
+		culture = spanish
+		religion = placeholder
+		size = 1500
+	}
+
+	officers = {
+		culture = spanish
+		religion = placeholder
+		size = 500
+	}
+
+	bureaucrats = {
+		culture = spanish
+		religion = placeholder
+		size = 800
+	}
+
+	clergymen = {
+		culture = spanish
+		religion = placeholder
+		size = 1100
+	}
+
+	artisans = {
+		culture = spanish
+		religion = placeholder
+		size = 15500
+	}
+
+	soldiers = {
+		culture = spanish
+		religion = placeholder
+		size = 2500
+	}
+
+	farmers = {
+		culture = spanish
+		religion = placeholder
+		size = 170200
+	}
+}
+
+519 = {
+	aristocrats = {
+		culture = spanish
+		religion = placeholder
+		size = 850
+	}
+
+	clergymen = {
+		culture = spanish
+		religion = placeholder
+		size = 625
+	}
+
+	artisans = {
+		culture = spanish
+		religion = placeholder
+		size = 4250
+	}
+
+	soldiers = {
+		culture = spanish
+		religion = placeholder
+		size = 1100
+	}
+
+	farmers = {
+		culture = spanish
+		religion = placeholder
+		size = 74275
+	}
+}
+
+520 = {
+	aristocrats = {
+		culture = spanish
+		religion = placeholder
+		size = 1250
+	}
+
+	clergymen = {
+		culture = spanish
+		religion = placeholder
+		size = 1500
+	}
+
+	artisans = {
+		culture = spanish
+		religion = placeholder
+		size = 7250
+	}
+
+	soldiers = {
+		culture = spanish
+		religion = placeholder
+		size = 1500
+	}
+
+	farmers = {
+		culture = spanish
+		religion = placeholder
+		size = 130500
+	}
+}
+
+521 = {
+	aristocrats = {
+		culture = spanish
+		religion = placeholder
+		size = 1100
+	}
+
+	officers = {
+		culture = spanish
+		religion = placeholder
+		size = 350
+	}
+
+	bureaucrats = {
+		culture = spanish
+		religion = placeholder
+		size = 650
+	}
+
+	clergymen = {
+		culture = spanish
+		religion = placeholder
+		size = 1100
+	}
+
+	artisans = {
+		culture = spanish
+		religion = placeholder
+		size = 58500
+	}
+
+	soldiers = {
+		culture = spanish
+		religion = placeholder
+		size = 3000
+	}
+
+	farmers = {
+		culture = spanish
+		religion = placeholder
+		size = 22500
+	}
+}
+
+522 = {
+	aristocrats = {
+		culture = spanish
+		religion = placeholder
+		size = 1200
+	}
+
+	clergymen = {
+		culture = spanish
+		religion = placeholder
+		size = 1200
+	}
+
+	artisans = {
+		culture = spanish
+		religion = placeholder
+		size = 5800
+	}
+
+	soldiers = {
+		culture = spanish
+		religion = placeholder
+		size = 2000
+	}
+
+	farmers = {
+		culture = spanish
+		religion = placeholder
+		size = 104800
+	}
+}
+
+523 = {
+	aristocrats = {
+		culture = spanish
+		religion = placeholder
+		size = 450
+	}
+
+	clergymen = {
+		culture = spanish
+		religion = placeholder
+		size = 350
+	}
+
+	artisans = {
+		culture = spanish
+		religion = placeholder
+		size = 2250
+	}
+
+	soldiers = {
+		culture = spanish
+		religion = placeholder
+		size = 400
+	}
+
+	farmers = {
+		culture = spanish
+		religion = placeholder
+		size = 31550
+	}
+}
+
+524 = {
+	aristocrats = {
+		culture = spanish
+		religion = placeholder
+		size = 400
+	}
+
+	clergymen = {
+		culture = spanish
+		religion = placeholder
+		size = 300
+	}
+
+	artisans = {
+		culture = spanish
+		religion = placeholder
+		size = 3000
+	}
+
+	soldiers = {
+		culture = spanish
+		religion = placeholder
+		size = 1500
+	}
+
+	farmers = {
+		culture = spanish
+		religion = placeholder
+		size = 22800
+	}
+}
+
+525 = {
+	aristocrats = {
+		culture = spanish
+		religion = placeholder
+		size = 850
+	}
+
+	officers = {
+		culture = spanish
+		religion = placeholder
+		size = 100
+	}
+
+	bureaucrats = {
+		culture = spanish
+		religion = placeholder
+		size = 150
+	}
+
+	clergymen = {
+		culture = spanish
+		religion = placeholder
+		size = 425
+	}
+
+	artisans = {
+		culture = spanish
+		religion = placeholder
+		size = 2250
+	}
+
+	soldiers = {
+		culture = spanish
+		religion = placeholder
+		size = 1100
+	}
+
+	farmers = {
+		culture = spanish
+		religion = placeholder
+		size = 34250
+	}
+}
+
+526 = {
+	aristocrats = {
+		culture = spanish
+		religion = placeholder
+		size = 500
+	}
+
+	clergymen = {
+		culture = spanish
+		religion = placeholder
+		size = 250
+	}
+
+	artisans = {
+		culture = spanish
+		religion = placeholder
+		size = 1250
+	}
+
+	soldiers = {
+		culture = spanish
+		religion = placeholder
+		size = 250
+	}
+
+	farmers = {
+		culture = spanish
+		religion = placeholder
+		size = 21750
+	}
+}
+
+527 = {
+	aristocrats = {
+		culture = spanish
+		religion = placeholder
+		size = 550
+	}
+
+	clergymen = {
+		culture = spanish
+		religion = placeholder
+		size = 325
+	}
+
+	artisans = {
+		culture = spanish
+		religion = placeholder
+		size = 1750
+	}
+
+	soldiers = {
+		culture = spanish
+		religion = placeholder
+		size = 350
+	}
+
+	farmers = {
+		culture = spanish
+		religion = placeholder
+		size = 27025
+	}
+}
+
+2134 = {
+	aristocrats = {
+		culture = spanish
+		religion = placeholder
+		size = 75
+	}
+
+	clergymen = {
+		culture = spanish
+		religion = placeholder
+		size = 56
+	}
+
+	artisans = {
+		culture = spanish
+		religion = placeholder
+		size = 450
+	}
+
+	soldiers = {
+		culture = spanish
+		religion = placeholder
+		size = 165
+	}
+
+	farmers = {
+		culture = spanish
+		religion = placeholder
+		size = 6896
+	}
+}
+
+2135 = {
+	aristocrats = {
+		culture = spanish
+		religion = placeholder
+		size = 37
+	}
+
+	clergymen = {
+		culture = spanish
+		religion = placeholder
+		size = 26
+	}
+
+	artisans = {
+		culture = spanish
+		religion = placeholder
+		size = 225
+	}
+
+	soldiers = {
+		culture = spanish
+		religion = placeholder
+		size = 37
+	}
+
+	farmers = {
+		culture = spanish
+		religion = placeholder
+		size = 3573
+	}
+}

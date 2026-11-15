@@ -1,0 +1,20 @@
+army = {
+	name = "Warband of Pretoria"
+	location = 2105
+	regiment = {
+		name = "1. Warband of Pretoria"
+		type = irregular
+		home = 2113
+	}
+	regiment = {
+		name = "2. Warband of Pretoria"
+		type = irregular
+		home = 2112
+	}
+	regiment = {
+		name = "3. Warband of Pretoria"
+		type = irregular
+		home = 2105
+	}
+}
+

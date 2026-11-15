@@ -1,0 +1,98 @@
+JXI = {
+	value = -150
+}
+
+SZC = {
+	value = 150
+}
+
+army = {
+	name = "Hubei First Army"
+	location = 1522
+	regiment = {
+		name = "1. Hubei First Army"
+		type = infantry
+		home = 1517
+	}
+	regiment = {
+		name = "2. Hubei First Army"
+		type = infantry
+		home = 3298
+	}
+	regiment = {
+		name = "3. Hubei First Army"
+		type = infantry
+		home = 1516
+	}
+	regiment = {
+		name = "4. Hubei First Army"
+		type = infantry
+		home = 3297
+	}
+	regiment = {
+		name = "5. Hubei First Army"
+		type = infantry
+		home = 1523
+	}
+	regiment = {
+		name = "6. Hubei First Army"
+		type = infantry
+		home = 3304
+	}
+	regiment = {
+		name = "7. Hubei First Army"
+		type = artillery
+		home = 3300
+	}
+	regiment = {
+		name = "8. Hubei First Army"
+		type = artillery
+		home = 1519
+	}
+}
+
+army = {
+	name = "Hubei Second Army"
+	location = 1519
+	regiment = {
+		name = "1. Hubei Second Army"
+		type = infantry
+		home = 1517
+	}
+	regiment = {
+		name = "2. Hubei Second Army"
+		type = infantry
+		home = 3298
+	}
+	regiment = {
+		name = "3. Hubei Second Army"
+		type = infantry
+		home = 1516
+	}
+	regiment = {
+		name = "4. Hubei Second Army"
+		type = infantry
+		home = 3297
+	}
+	regiment = {
+		name = "5. Hubei Second Army"
+		type = infantry
+		home = 1523
+	}
+	regiment = {
+		name = "6. Hubei Second Army"
+		type = infantry
+		home = 3304
+	}
+	regiment = {
+		name = "7. Hubei Second Army"
+		type = artillery
+		home = 3300
+	}
+	regiment = {
+		name = "8. Hubei Second Army"
+		type = artillery
+		home = 1519
+	}
+}
+

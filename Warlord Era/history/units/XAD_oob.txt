@@ -1,0 +1,15 @@
+army = {
+	name = "Army of Khartoum"
+	location = 1827
+	regiment = {
+		name = "1. Army of Khartoum"
+		type = infantry
+		home = 1827
+	}
+	regiment = {
+		name = "2. Army of Khartoum"
+		type = infantry
+		home = 1830
+	}
+}
+

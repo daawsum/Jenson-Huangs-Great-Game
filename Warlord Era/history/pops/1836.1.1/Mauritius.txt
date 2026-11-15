@@ -1,0 +1,81 @@
+2125 = {
+	clergymen = {
+		culture = british
+		religion = placeholder
+		size = 25
+	}
+
+	artisans = {
+		culture = british
+		religion = placeholder
+		size = 25
+	}
+
+	soldiers = {
+		culture = british
+		religion = placeholder
+		size = 25
+	}
+
+	aristocrats = {
+		culture = french
+		religion = placeholder
+		size = 25
+	}
+
+	artisans = {
+		culture = french
+		religion = placeholder
+		size = 27
+	}
+
+	clergymen = {
+		culture = french
+		religion = placeholder
+		size = 25
+	}
+
+	soldiers = {
+		culture = french
+		religion = placeholder
+		size = 25
+	}
+
+	farmers = {
+		culture = french
+		religion = placeholder
+		size = 30
+	}
+
+	clergymen = {
+		culture = african_minor
+		religion = placeholder
+		size = 25
+	}
+
+	artisans = {
+		culture = african_minor
+		religion = placeholder
+		size = 165
+	}
+
+	soldiers = {
+		culture = african_minor
+		religion = placeholder
+		size = 37
+	}
+
+	farmers = {
+		culture = african_minor
+		religion = placeholder
+		size = 3356
+	}
+}
+
+2128 = {
+	farmers = {
+		culture = african_minor
+		religion = placeholder
+		size = 175
+	}
+}

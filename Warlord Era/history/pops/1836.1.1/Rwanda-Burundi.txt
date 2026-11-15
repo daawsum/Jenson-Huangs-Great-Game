@@ -1,0 +1,63 @@
+2034 = {
+	aristocrats = {
+		culture = amhara
+		religion = placeholder
+		size = 2450
+	}
+
+	clergymen = {
+		culture = amhara
+		religion = placeholder
+		size = 1750
+	}
+
+	artisans = {
+		culture = amhara
+		religion = placeholder
+		size = 6200
+	}
+
+	soldiers = {
+		culture = amhara
+		religion = placeholder
+		size = 1250
+	}
+
+	farmers = {
+		culture = amhara
+		religion = placeholder
+		size = 113200
+	}
+}
+
+2035 = {
+	aristocrats = {
+		culture = amhara
+		religion = placeholder
+		size = 2175
+	}
+
+	clergymen = {
+		culture = amhara
+		religion = placeholder
+		size = 1125
+	}
+
+	artisans = {
+		culture = amhara
+		religion = placeholder
+		size = 5600
+	}
+
+	soldiers = {
+		culture = amhara
+		religion = placeholder
+		size = 1125
+	}
+
+	farmers = {
+		culture = amhara
+		religion = placeholder
+		size = 101850
+	}
+}

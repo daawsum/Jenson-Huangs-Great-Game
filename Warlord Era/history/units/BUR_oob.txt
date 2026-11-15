@@ -1,0 +1,35 @@
+army = {
+	name = "Host of Ava"
+	location = 1334
+	regiment = {
+		name = "1. Host of Ava"
+		type = irregular
+		home = 1332
+	}
+	regiment = {
+		name = "2. Host of Ava"
+		type = irregular
+		home = 1342
+	}
+	regiment = {
+		name = "3. Host of Ava"
+		type = irregular
+		home = 1330
+	}
+	regiment = {
+		name = "4. Host of Ava"
+		type = irregular
+		home = 1333
+	}
+	regiment = {
+		name = "5. Host of Ava"
+		type = irregular
+		home = 1334
+	}
+	regiment = {
+		name = "6. Host of Ava"
+		type = cavalry
+		home = 1335
+	}
+}
+

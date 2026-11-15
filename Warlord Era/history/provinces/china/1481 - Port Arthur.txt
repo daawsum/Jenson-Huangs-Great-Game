@@ -1,0 +1,6 @@
+owner = FTN
+controller = FTN
+add_core = FTN
+add_core = CHI
+trade_goods = timber
+life_rating = 32

@@ -1,0 +1,199 @@
+ZHL = {
+	value = -150
+}
+
+AHC = {
+	value = 150
+}
+
+JLN = {
+	value = 125
+}
+
+HLJ = {
+	value = 125
+}
+
+army = {
+	name = "Fengtian First Army"
+	location = 1479
+	regiment = {
+		name = "1. Fengtian First Army"
+		type = infantry
+		home = 1479
+	}
+	regiment = {
+		name = "2. Fengtian First Army"
+		type = infantry
+		home = 3260
+	}
+	regiment = {
+		name = "3. Fengtian First Army"
+		type = infantry
+		home = 3259
+	}
+	regiment = {
+		name = "4. Fengtian First Army"
+		type = infantry
+		home = 3261
+	}
+	regiment = {
+		name = "5. Fengtian First Army"
+		type = infantry
+		home = 1480
+	}
+	regiment = {
+		name = "6. Fengtian First Army"
+		type = infantry
+		home = 1481
+	}
+	regiment = {
+		name = "7. Fengtian First Army"
+		type = cavalry
+		home = 1479
+	}
+	regiment = {
+		name = "8. Fengtian First Army"
+		type = artillery
+		home = 3260
+	}
+	regiment = {
+		name = "9. Fengtian First Army"
+		type = artillery
+		home = 3259
+	}
+}
+
+army = {
+	name = "Fengtian Second Army"
+	location = 1481
+	regiment = {
+		name = "1. Fengtian Second Army"
+		type = infantry
+		home = 1479
+	}
+	regiment = {
+		name = "2. Fengtian Second Army"
+		type = infantry
+		home = 3260
+	}
+	regiment = {
+		name = "3. Fengtian Second Army"
+		type = infantry
+		home = 3259
+	}
+	regiment = {
+		name = "4. Fengtian Second Army"
+		type = infantry
+		home = 3261
+	}
+	regiment = {
+		name = "5. Fengtian Second Army"
+		type = infantry
+		home = 1480
+	}
+	regiment = {
+		name = "6. Fengtian Second Army"
+		type = infantry
+		home = 1481
+	}
+	regiment = {
+		name = "7. Fengtian Second Army"
+		type = cavalry
+		home = 1479
+	}
+	regiment = {
+		name = "8. Fengtian Second Army"
+		type = artillery
+		home = 3260
+	}
+	regiment = {
+		name = "9. Fengtian Second Army"
+		type = artillery
+		home = 3259
+	}
+}
+
+army = {
+	name = "Fengtian Third Army"
+	location = 1480
+	regiment = {
+		name = "1. Fengtian Third Army"
+		type = infantry
+		home = 1479
+	}
+	regiment = {
+		name = "2. Fengtian Third Army"
+		type = infantry
+		home = 3260
+	}
+	regiment = {
+		name = "3. Fengtian Third Army"
+		type = infantry
+		home = 3259
+	}
+	regiment = {
+		name = "4. Fengtian Third Army"
+		type = infantry
+		home = 3261
+	}
+	regiment = {
+		name = "5. Fengtian Third Army"
+		type = infantry
+		home = 1480
+	}
+	regiment = {
+		name = "6. Fengtian Third Army"
+		type = infantry
+		home = 1481
+	}
+	regiment = {
+		name = "7. Fengtian Third Army"
+		type = cavalry
+		home = 1479
+	}
+	regiment = {
+		name = "8. Fengtian Third Army"
+		type = artillery
+		home = 3260
+	}
+	regiment = {
+		name = "9. Fengtian Third Army"
+		type = artillery
+		home = 3259
+	}
+}
+
+navy = {
+	name = "Fengtian Fleet"
+	location = 1479
+	ship = {
+		name = "Fengtian Fleet 1"
+		type = manowar
+	}
+	ship = {
+		name = "Fengtian Fleet 2"
+		type = frigate
+	}
+	ship = {
+		name = "Fengtian Fleet 3"
+		type = frigate
+	}
+	ship = {
+		name = "Fengtian Fleet 4"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Fengtian Fleet 5"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Fengtian Fleet 6"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Fengtian Fleet 7"
+		type = clipper_transport
+	}
+}
+

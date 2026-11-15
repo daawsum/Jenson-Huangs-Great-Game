@@ -1,0 +1,20 @@
+army = {
+	name = "Army of Kayseri"
+	location = 878
+	regiment = {
+		name = "1. Army of Kayseri"
+		type = infantry
+		home = 879
+	}
+	regiment = {
+		name = "2. Army of Kayseri"
+		type = infantry
+		home = 883
+	}
+	regiment = {
+		name = "3. Army of Kayseri"
+		type = infantry
+		home = 884
+	}
+}
+

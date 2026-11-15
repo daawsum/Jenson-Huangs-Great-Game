@@ -1,0 +1,40 @@
+army = {
+	name = "Host of Hanoi"
+	location = 1369
+	regiment = {
+		name = "1. Host of Hanoi"
+		type = irregular
+		home = 1364
+	}
+	regiment = {
+		name = "2. Host of Hanoi"
+		type = irregular
+		home = 1375
+	}
+	regiment = {
+		name = "3. Host of Hanoi"
+		type = irregular
+		home = 1380
+	}
+	regiment = {
+		name = "4. Host of Hanoi"
+		type = irregular
+		home = 1369
+	}
+	regiment = {
+		name = "5. Host of Hanoi"
+		type = irregular
+		home = 1370
+	}
+	regiment = {
+		name = "6. Host of Hanoi"
+		type = irregular
+		home = 1377
+	}
+	regiment = {
+		name = "7. Host of Hanoi"
+		type = cavalry
+		home = 1356
+	}
+}
+

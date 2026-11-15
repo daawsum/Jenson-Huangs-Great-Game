@@ -1,0 +1,189 @@
+849 = {
+	aristocrats = {
+		culture = serb
+		religion = placeholder
+		size = 1500
+	}
+
+	bureaucrats = {
+		culture = serb
+		religion = placeholder
+		size = 350
+	}
+
+	officers = {
+		culture = serb
+		religion = placeholder
+		size = 300
+	}
+
+	clergymen = {
+		culture = serb
+		religion = placeholder
+		size = 700
+	}
+
+	artisans = {
+		culture = serb
+		religion = placeholder
+		size = 3700
+	}
+
+	soldiers = {
+		culture = serb
+		religion = placeholder
+		size = 2000
+	}
+
+	farmers = {
+		culture = serb
+		religion = placeholder
+		size = 65450
+	}
+}
+
+850 = {
+	aristocrats = {
+		culture = serb
+		religion = placeholder
+		size = 2150
+	}
+
+	clergymen = {
+		culture = serb
+		religion = placeholder
+		size = 975
+	}
+
+	artisans = {
+		culture = serb
+		religion = placeholder
+		size = 4850
+	}
+
+	soldiers = {
+		culture = serb
+		religion = placeholder
+		size = 2000
+	}
+
+	farmers = {
+		culture = serb
+		religion = placeholder
+		size = 92025
+	}
+}
+
+851 = {
+	aristocrats = {
+		culture = serb
+		religion = placeholder
+		size = 600
+	}
+
+	clergymen = {
+		culture = serb
+		religion = placeholder
+		size = 275
+	}
+
+	artisans = {
+		culture = serb
+		religion = placeholder
+		size = 1500
+	}
+
+	soldiers = {
+		culture = serb
+		religion = placeholder
+		size = 1100
+	}
+
+	farmers = {
+		culture = serb
+		religion = placeholder
+		size = 26525
+	}
+}
+
+852 = {
+	aristocrats = {
+		culture = serb
+		religion = placeholder
+		size = 1400
+	}
+
+	clergymen = {
+		culture = serb
+		religion = placeholder
+		size = 675
+	}
+
+	artisans = {
+		culture = serb
+		religion = placeholder
+		size = 3550
+	}
+
+	soldiers = {
+		culture = serb
+		religion = placeholder
+		size = 700
+	}
+
+	farmers = {
+		culture = serb
+		religion = placeholder
+		size = 61475
+	}
+}
+
+853 = {
+	aristocrats = {
+		culture = serb
+		religion = placeholder
+		size = 750
+	}
+
+	clergymen = {
+		culture = serb
+		religion = placeholder
+		size = 300
+	}
+
+	artisans = {
+		culture = serb
+		religion = placeholder
+		size = 1000
+	}
+
+	soldiers = {
+		culture = serb
+		religion = placeholder
+		size = 425
+	}
+
+	farmers = {
+		culture = serb
+		religion = placeholder
+		size = 29525
+	}
+
+	clergymen = {
+		culture = greek
+		religion = placeholder
+		size = 125
+	}
+
+	artisans = {
+		culture = greek
+		religion = placeholder
+		size = 1100
+	}
+
+	farmers = {
+		culture = greek
+		religion = placeholder
+		size = 8775
+	}
+}

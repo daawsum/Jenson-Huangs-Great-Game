@@ -1,0 +1,199 @@
+FTN = {
+	value = -150
+}
+
+SDG = {
+	value = 150
+}
+
+RHE = {
+	value = 125
+}
+
+CHH = {
+	value = 125
+}
+
+army = {
+	name = "Zhili First Army"
+	location = 1612
+	regiment = {
+		name = "1. Zhili First Army"
+		type = infantry
+		home = 1612
+	}
+	regiment = {
+		name = "2. Zhili First Army"
+		type = infantry
+		home = 3376
+	}
+	regiment = {
+		name = "3. Zhili First Army"
+		type = infantry
+		home = 1615
+	}
+	regiment = {
+		name = "4. Zhili First Army"
+		type = infantry
+		home = 1617
+	}
+	regiment = {
+		name = "5. Zhili First Army"
+		type = infantry
+		home = 3382
+	}
+	regiment = {
+		name = "6. Zhili First Army"
+		type = infantry
+		home = 1618
+	}
+	regiment = {
+		name = "7. Zhili First Army"
+		type = cavalry
+		home = 3383
+	}
+	regiment = {
+		name = "8. Zhili First Army"
+		type = artillery
+		home = 1614
+	}
+	regiment = {
+		name = "9. Zhili First Army"
+		type = artillery
+		home = 1612
+	}
+}
+
+army = {
+	name = "Zhili Second Army"
+	location = 1614
+	regiment = {
+		name = "1. Zhili Second Army"
+		type = infantry
+		home = 1612
+	}
+	regiment = {
+		name = "2. Zhili Second Army"
+		type = infantry
+		home = 3376
+	}
+	regiment = {
+		name = "3. Zhili Second Army"
+		type = infantry
+		home = 1615
+	}
+	regiment = {
+		name = "4. Zhili Second Army"
+		type = infantry
+		home = 1617
+	}
+	regiment = {
+		name = "5. Zhili Second Army"
+		type = infantry
+		home = 3382
+	}
+	regiment = {
+		name = "6. Zhili Second Army"
+		type = infantry
+		home = 1618
+	}
+	regiment = {
+		name = "7. Zhili Second Army"
+		type = cavalry
+		home = 3383
+	}
+	regiment = {
+		name = "8. Zhili Second Army"
+		type = artillery
+		home = 1614
+	}
+	regiment = {
+		name = "9. Zhili Second Army"
+		type = artillery
+		home = 1612
+	}
+}
+
+army = {
+	name = "Zhili Third Army"
+	location = 3383
+	regiment = {
+		name = "1. Zhili Third Army"
+		type = infantry
+		home = 1612
+	}
+	regiment = {
+		name = "2. Zhili Third Army"
+		type = infantry
+		home = 3376
+	}
+	regiment = {
+		name = "3. Zhili Third Army"
+		type = infantry
+		home = 1615
+	}
+	regiment = {
+		name = "4. Zhili Third Army"
+		type = infantry
+		home = 1617
+	}
+	regiment = {
+		name = "5. Zhili Third Army"
+		type = infantry
+		home = 3382
+	}
+	regiment = {
+		name = "6. Zhili Third Army"
+		type = infantry
+		home = 1618
+	}
+	regiment = {
+		name = "7. Zhili Third Army"
+		type = cavalry
+		home = 3383
+	}
+	regiment = {
+		name = "8. Zhili Third Army"
+		type = artillery
+		home = 1614
+	}
+	regiment = {
+		name = "9. Zhili Third Army"
+		type = artillery
+		home = 1612
+	}
+}
+
+navy = {
+	name = "Zhili Fleet"
+	location = 1617
+	ship = {
+		name = "Zhili Fleet 1"
+		type = manowar
+	}
+	ship = {
+		name = "Zhili Fleet 2"
+		type = frigate
+	}
+	ship = {
+		name = "Zhili Fleet 3"
+		type = frigate
+	}
+	ship = {
+		name = "Zhili Fleet 4"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Zhili Fleet 5"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Zhili Fleet 6"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Zhili Fleet 7"
+		type = clipper_transport
+	}
+}
+

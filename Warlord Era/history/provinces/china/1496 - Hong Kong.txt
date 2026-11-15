@@ -1,0 +1,6 @@
+owner = GDG
+controller = GDG
+add_core = GDG
+add_core = CHI
+trade_goods = tea
+life_rating = 32

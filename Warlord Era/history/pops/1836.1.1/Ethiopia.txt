@@ -1,0 +1,817 @@
+1852 = {
+	aristocrats = {
+		culture = amhara
+		religion = placeholder
+		size = 2100
+	}
+
+	bureaucrats = {
+		culture = amhara
+		religion = placeholder
+		size = 325
+	}
+
+	officers = {
+		culture = amhara
+		religion = placeholder
+		size = 550
+	}
+
+	clergymen = {
+		culture = amhara
+		religion = placeholder
+		size = 1175
+	}
+
+	artisans = {
+		culture = amhara
+		religion = placeholder
+		size = 5475
+	}
+
+	soldiers = {
+		culture = amhara
+		religion = placeholder
+		size = 1425
+	}
+
+	farmers = {
+		culture = amhara
+		religion = placeholder
+		size = 92050
+	}
+
+	slaves = {
+		culture = amhara
+		religion = placeholder
+		size = 10000
+	}
+}
+
+1853 = {
+	aristocrats = {
+		culture = amhara
+		religion = placeholder
+		size = 2400
+	}
+
+	clergymen = {
+		culture = amhara
+		religion = placeholder
+		size = 1175
+	}
+
+	artisans = {
+		culture = amhara
+		religion = placeholder
+		size = 4800
+	}
+
+	soldiers = {
+		culture = amhara
+		religion = placeholder
+		size = 1775
+	}
+
+	farmers = {
+		culture = amhara
+		religion = placeholder
+		size = 88050
+	}
+
+	slaves = {
+		culture = amhara
+		religion = placeholder
+		size = 19000
+	}
+}
+
+1854 = {
+	aristocrats = {
+		culture = amhara
+		religion = placeholder
+		size = 1125
+	}
+
+	clergymen = {
+		culture = amhara
+		religion = placeholder
+		size = 600
+	}
+
+	artisans = {
+		culture = amhara
+		religion = placeholder
+		size = 2650
+	}
+
+	soldiers = {
+		culture = amhara
+		religion = placeholder
+		size = 1200
+	}
+
+	farmers = {
+		culture = amhara
+		religion = placeholder
+		size = 51525
+	}
+
+	slaves = {
+		culture = amhara
+		religion = placeholder
+		size = 4000
+	}
+
+	aristocrats = {
+		culture = african_minor
+		religion = placeholder
+		size = 1050
+	}
+
+	clergymen = {
+		culture = african_minor
+		religion = placeholder
+		size = 550
+	}
+
+	artisans = {
+		culture = african_minor
+		religion = placeholder
+		size = 2225
+	}
+
+	soldiers = {
+		culture = african_minor
+		religion = placeholder
+		size = 550
+	}
+
+	farmers = {
+		culture = african_minor
+		religion = placeholder
+		size = 46600
+	}
+
+	slaves = {
+		culture = african_minor
+		religion = placeholder
+		size = 4000
+	}
+}
+
+1855 = {
+	aristocrats = {
+		culture = amhara
+		religion = placeholder
+		size = 3850
+	}
+
+	clergymen = {
+		culture = amhara
+		religion = placeholder
+		size = 1975
+	}
+
+	artisans = {
+		culture = amhara
+		religion = placeholder
+		size = 7925
+	}
+
+	soldiers = {
+		culture = amhara
+		religion = placeholder
+		size = 5125
+	}
+
+	farmers = {
+		culture = amhara
+		religion = placeholder
+		size = 166225
+	}
+
+	slaves = {
+		culture = amhara
+		religion = placeholder
+		size = 12000
+	}
+}
+
+1856 = {
+	aristocrats = {
+		culture = amhara
+		religion = placeholder
+		size = 625
+	}
+
+	bureaucrats = {
+		culture = amhara
+		religion = placeholder
+		size = 50
+	}
+
+	officers = {
+		culture = amhara
+		religion = placeholder
+		size = 75
+	}
+
+	clergymen = {
+		culture = amhara
+		religion = placeholder
+		size = 350
+	}
+
+	artisans = {
+		culture = amhara
+		religion = placeholder
+		size = 1450
+	}
+
+	soldiers = {
+		culture = amhara
+		religion = placeholder
+		size = 1150
+	}
+
+	farmers = {
+		culture = amhara
+		religion = placeholder
+		size = 25400
+	}
+
+	slaves = {
+		culture = amhara
+		religion = placeholder
+		size = 6100
+	}
+}
+
+1857 = {
+	aristocrats = {
+		culture = amhara
+		religion = placeholder
+		size = 500
+	}
+
+	clergymen = {
+		culture = amhara
+		religion = placeholder
+		size = 250
+	}
+
+	artisans = {
+		culture = amhara
+		religion = placeholder
+		size = 1050
+	}
+
+	soldiers = {
+		culture = amhara
+		religion = placeholder
+		size = 1100
+	}
+
+	farmers = {
+		culture = amhara
+		religion = placeholder
+		size = 18200
+	}
+
+	slaves = {
+		culture = amhara
+		religion = placeholder
+		size = 5000
+	}
+
+	aristocrats = {
+		culture = african_minor
+		religion = placeholder
+		size = 100
+	}
+
+	clergymen = {
+		culture = african_minor
+		religion = placeholder
+		size = 75
+	}
+
+	artisans = {
+		culture = african_minor
+		religion = placeholder
+		size = 300
+	}
+
+	soldiers = {
+		culture = african_minor
+		religion = placeholder
+		size = 50
+	}
+
+	farmers = {
+		culture = african_minor
+		religion = placeholder
+		size = 5475
+	}
+}
+
+1858 = {
+	aristocrats = {
+		culture = amhara
+		religion = placeholder
+		size = 225
+	}
+
+	clergymen = {
+		culture = amhara
+		religion = placeholder
+		size = 125
+	}
+
+	artisans = {
+		culture = amhara
+		religion = placeholder
+		size = 500
+	}
+
+	soldiers = {
+		culture = amhara
+		religion = placeholder
+		size = 125
+	}
+
+	farmers = {
+		culture = amhara
+		religion = placeholder
+		size = 9025
+	}
+
+	slaves = {
+		culture = african_minor
+		religion = placeholder
+		size = 2000
+	}
+}
+
+1859 = {
+	aristocrats = {
+		culture = amhara
+		religion = placeholder
+		size = 6000
+	}
+
+	bureaucrats = {
+		culture = amhara
+		religion = placeholder
+		size = 300
+	}
+
+	officers = {
+		culture = amhara
+		religion = placeholder
+		size = 525
+	}
+
+	clergymen = {
+		culture = amhara
+		religion = placeholder
+		size = 3100
+	}
+
+	artisans = {
+		culture = amhara
+		religion = placeholder
+		size = 12375
+	}
+
+	soldiers = {
+		culture = amhara
+		religion = placeholder
+		size = 10725
+	}
+
+	farmers = {
+		culture = amhara
+		religion = placeholder
+		size = 63050
+	}
+
+	slaves = {
+		culture = amhara
+		religion = placeholder
+		size = 33000
+	}
+}
+
+1860 = {
+	aristocrats = {
+		culture = amhara
+		religion = placeholder
+		size = 2250
+	}
+
+	clergymen = {
+		culture = amhara
+		religion = placeholder
+		size = 1150
+	}
+
+	artisans = {
+		culture = amhara
+		religion = placeholder
+		size = 4625
+	}
+
+	soldiers = {
+		culture = amhara
+		religion = placeholder
+		size = 1550
+	}
+
+	farmers = {
+		culture = amhara
+		religion = placeholder
+		size = 93525
+	}
+
+	slaves = {
+		culture = amhara
+		religion = placeholder
+		size = 12000
+	}
+}
+
+1861 = {
+	aristocrats = {
+		culture = amhara
+		religion = placeholder
+		size = 1850
+	}
+
+	clergymen = {
+		culture = amhara
+		religion = placeholder
+		size = 950
+	}
+
+	artisans = {
+		culture = amhara
+		religion = placeholder
+		size = 3900
+	}
+
+	soldiers = {
+		culture = amhara
+		religion = placeholder
+		size = 975
+	}
+
+	farmers = {
+		culture = amhara
+		religion = placeholder
+		size = 76325
+	}
+
+	slaves = {
+		culture = amhara
+		religion = placeholder
+		size = 12000
+	}
+}
+
+1862 = {
+	aristocrats = {
+		culture = african_minor
+		religion = placeholder
+		size = 1800
+	}
+
+	clergymen = {
+		culture = african_minor
+		religion = placeholder
+		size = 925
+	}
+
+	artisans = {
+		culture = african_minor
+		religion = placeholder
+		size = 3650
+	}
+
+	soldiers = {
+		culture = african_minor
+		religion = placeholder
+		size = 925
+	}
+
+	farmers = {
+		culture = african_minor
+		religion = placeholder
+		size = 71700
+	}
+
+	slaves = {
+		culture = african_minor
+		religion = placeholder
+		size = 13000
+	}
+}
+
+1863 = {
+	aristocrats = {
+		culture = amhara
+		religion = placeholder
+		size = 1800
+	}
+
+	clergymen = {
+		culture = amhara
+		religion = placeholder
+		size = 975
+	}
+
+	artisans = {
+		culture = amhara
+		religion = placeholder
+		size = 3975
+	}
+
+	soldiers = {
+		culture = amhara
+		religion = placeholder
+		size = 975
+	}
+
+	farmers = {
+		culture = amhara
+		religion = placeholder
+		size = 67775
+	}
+
+	slaves = {
+		culture = amhara
+		religion = placeholder
+		size = 47600
+	}
+
+	aristocrats = {
+		culture = african_minor
+		religion = placeholder
+		size = 750
+	}
+
+	clergymen = {
+		culture = african_minor
+		religion = placeholder
+		size = 375
+	}
+
+	artisans = {
+		culture = african_minor
+		religion = placeholder
+		size = 1900
+	}
+
+	soldiers = {
+		culture = african_minor
+		religion = placeholder
+		size = 375
+	}
+
+	farmers = {
+		culture = african_minor
+		religion = placeholder
+		size = 34600
+	}
+}
+
+1864 = {
+	aristocrats = {
+		culture = amhara
+		religion = placeholder
+		size = 3500
+	}
+
+	clergymen = {
+		culture = amhara
+		religion = placeholder
+		size = 1275
+	}
+
+	artisans = {
+		culture = amhara
+		religion = placeholder
+		size = 7200
+	}
+
+	soldiers = {
+		culture = amhara
+		religion = placeholder
+		size = 1800
+	}
+
+	farmers = {
+		culture = amhara
+		religion = placeholder
+		size = 139225
+	}
+
+	slaves = {
+		culture = amhara
+		religion = placeholder
+		size = 7000
+	}
+
+	slaves = {
+		culture = african_minor
+		religion = placeholder
+		size = 19000
+	}
+}
+
+1865 = {
+	aristocrats = {
+		culture = african_minor
+		religion = placeholder
+		size = 800
+	}
+
+	bureaucrats = {
+		culture = african_minor
+		religion = placeholder
+		size = 15
+	}
+
+	officers = {
+		culture = african_minor
+		religion = placeholder
+		size = 10
+	}
+
+	clergymen = {
+		culture = african_minor
+		religion = placeholder
+		size = 425
+	}
+
+	artisans = {
+		culture = african_minor
+		religion = placeholder
+		size = 1675
+	}
+
+	soldiers = {
+		culture = african_minor
+		religion = placeholder
+		size = 400
+	}
+
+	farmers = {
+		culture = african_minor
+		religion = placeholder
+		size = 25675
+	}
+
+	aristocrats = {
+		culture = amhara
+		religion = placeholder
+		size = 1075
+	}
+
+	clergymen = {
+		culture = amhara
+		religion = placeholder
+		size = 550
+	}
+
+	artisans = {
+		culture = amhara
+		religion = placeholder
+		size = 2675
+	}
+
+	soldiers = {
+		culture = amhara
+		religion = placeholder
+		size = 550
+	}
+
+	farmers = {
+		culture = amhara
+		religion = placeholder
+		size = 40550
+	}
+
+	slaves = {
+		culture = african_minor
+		religion = placeholder
+		size = 11000
+	}
+}
+
+1866 = {
+	aristocrats = {
+		culture = african_minor
+		religion = placeholder
+		size = 500
+	}
+
+	clergymen = {
+		culture = african_minor
+		religion = placeholder
+		size = 275
+	}
+
+	artisans = {
+		culture = african_minor
+		religion = placeholder
+		size = 1075
+	}
+
+	soldiers = {
+		culture = african_minor
+		religion = placeholder
+		size = 275
+	}
+
+	farmers = {
+		culture = african_minor
+		religion = placeholder
+		size = 19875
+	}
+
+	slaves = {
+		culture = african_minor
+		religion = placeholder
+		size = 5000
+	}
+
+	aristocrats = {
+		culture = amhara
+		religion = placeholder
+		size = 900
+	}
+
+	clergymen = {
+		culture = amhara
+		religion = placeholder
+		size = 475
+	}
+
+	artisans = {
+		culture = amhara
+		religion = placeholder
+		size = 2350
+	}
+
+	soldiers = {
+		culture = amhara
+		religion = placeholder
+		size = 475
+	}
+
+	farmers = {
+		culture = amhara
+		religion = placeholder
+		size = 42900
+	}
+}
+
+1867 = {
+	aristocrats = {
+		culture = amhara
+		religion = placeholder
+		size = 1575
+	}
+
+	clergymen = {
+		culture = amhara
+		religion = placeholder
+		size = 925
+	}
+
+	artisans = {
+		culture = amhara
+		religion = placeholder
+		size = 3425
+	}
+
+	soldiers = {
+		culture = amhara
+		religion = placeholder
+		size = 825
+	}
+
+	farmers = {
+		culture = amhara
+		religion = placeholder
+		size = 71450
+	}
+
+	slaves = {
+		culture = african_minor
+		religion = placeholder
+		size = 4000
+	}
+}

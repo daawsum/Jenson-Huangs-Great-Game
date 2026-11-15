@@ -1,0 +1,17 @@
+owner = AHC
+controller = AHC
+add_core = AHC
+add_core = CHI
+trade_goods = tea
+life_rating = 32
+terrain = woods
+state_building = {
+	level = 1
+	building = winery
+	upgrade = yes
+}
+state_building = {
+	level = 1
+	building = furniture_factory
+	upgrade = yes
+}

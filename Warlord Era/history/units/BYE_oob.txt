@@ -1,0 +1,20 @@
+army = {
+	name = "Army of Minsk"
+	location = 718
+	regiment = {
+		name = "1. Army of Minsk"
+		type = infantry
+		home = 946
+	}
+	regiment = {
+		name = "2. Army of Minsk"
+		type = infantry
+		home = 718
+	}
+	regiment = {
+		name = "3. Army of Minsk"
+		type = infantry
+		home = 949
+	}
+}
+

@@ -1,0 +1,17 @@
+owner = GDG
+controller = GDG
+add_core = GDG
+add_core = CHI
+trade_goods = silk
+life_rating = 32
+terrain = hills
+state_building = {
+	level = 1
+	building = canned_food_factory
+	upgrade = yes
+}
+state_building = {
+	level = 1
+	building = glass_factory
+	upgrade = yes
+}

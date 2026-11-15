@@ -1,0 +1,61 @@
+1876 = {
+	aristocrats = {
+		culture = spanish
+		religion = placeholder
+		size = 25
+	}
+
+	clergymen = {
+		culture = spanish
+		religion = placeholder
+		size = 25
+	}
+
+	artisans = {
+		culture = spanish
+		religion = placeholder
+		size = 37
+	}
+
+	soldiers = {
+		culture = spanish
+		religion = placeholder
+		size = 25
+	}
+
+	farmers = {
+		culture = spanish
+		religion = placeholder
+		size = 25
+	}
+
+	clergymen = {
+		culture = african_minor
+		religion = placeholder
+		size = 25
+	}
+
+	artisans = {
+		culture = african_minor
+		religion = placeholder
+		size = 105
+	}
+
+	soldiers = {
+		culture = african_minor
+		religion = placeholder
+		size = 25
+	}
+
+	farmers = {
+		culture = african_minor
+		religion = placeholder
+		size = 2025
+	}
+
+	slaves = {
+		culture = african_minor
+		religion = placeholder
+		size = 600
+	}
+}

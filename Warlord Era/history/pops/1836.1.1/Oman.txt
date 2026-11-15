@@ -1,0 +1,281 @@
+1166 = {
+	aristocrats = {
+		culture = bedouin
+		religion = placeholder
+		size = 150
+	}
+
+	bureaucrats = {
+		culture = bedouin
+		religion = placeholder
+		size = 25
+	}
+
+	officers = {
+		culture = bedouin
+		religion = placeholder
+		size = 50
+	}
+
+	clergymen = {
+		culture = bedouin
+		religion = placeholder
+		size = 75
+	}
+
+	artisans = {
+		culture = bedouin
+		religion = placeholder
+		size = 200
+	}
+
+	soldiers = {
+		culture = bedouin
+		religion = placeholder
+		size = 1125
+	}
+
+	farmers = {
+		culture = bedouin
+		religion = placeholder
+		size = 2475
+	}
+
+	artisans = {
+		culture = baluchi
+		religion = placeholder
+		size = 50
+	}
+
+	soldiers = {
+		culture = baluchi
+		religion = placeholder
+		size = 25
+	}
+
+	farmers = {
+		culture = baluchi
+		religion = placeholder
+		size = 925
+	}
+
+	clergymen = {
+		culture = persian
+		religion = placeholder
+		size = 25
+	}
+
+	artisans = {
+		culture = persian
+		religion = placeholder
+		size = 50
+	}
+
+	farmers = {
+		culture = persian
+		religion = placeholder
+		size = 925
+	}
+
+	slaves = {
+		culture = african_minor
+		religion = placeholder
+		size = 2000
+	}
+}
+
+1169 = {
+	aristocrats = {
+		culture = bedouin
+		religion = placeholder
+		size = 50
+	}
+
+	clergymen = {
+		culture = bedouin
+		religion = placeholder
+		size = 75
+	}
+
+	artisans = {
+		culture = bedouin
+		religion = placeholder
+		size = 200
+	}
+
+	soldiers = {
+		culture = bedouin
+		religion = placeholder
+		size = 50
+	}
+
+	farmers = {
+		culture = bedouin
+		religion = placeholder
+		size = 3625
+	}
+}
+
+1170 = {
+	aristocrats = {
+		culture = bedouin
+		religion = placeholder
+		size = 75
+	}
+
+	clergymen = {
+		culture = bedouin
+		religion = placeholder
+		size = 65
+	}
+
+	artisans = {
+		culture = bedouin
+		religion = placeholder
+		size = 300
+	}
+
+	soldiers = {
+		culture = bedouin
+		religion = placeholder
+		size = 60
+	}
+
+	farmers = {
+		culture = bedouin
+		religion = placeholder
+		size = 5500
+	}
+}
+
+1171 = {
+	aristocrats = {
+		culture = bedouin
+		religion = placeholder
+		size = 25
+	}
+
+	clergymen = {
+		culture = bedouin
+		religion = placeholder
+		size = 75
+	}
+
+	artisans = {
+		culture = bedouin
+		religion = placeholder
+		size = 200
+	}
+
+	soldiers = {
+		culture = bedouin
+		religion = placeholder
+		size = 50
+	}
+
+	farmers = {
+		culture = bedouin
+		religion = placeholder
+		size = 3650
+	}
+
+	artisans = {
+		culture = baluchi
+		religion = placeholder
+		size = 50
+	}
+
+	soldiers = {
+		culture = baluchi
+		religion = placeholder
+		size = 25
+	}
+
+	farmers = {
+		culture = baluchi
+		religion = placeholder
+		size = 925
+	}
+
+	slaves = {
+		culture = african_minor
+		religion = placeholder
+		size = 1100
+	}
+}
+
+1172 = {
+	aristocrats = {
+		culture = bedouin
+		religion = placeholder
+		size = 75
+	}
+
+	clergymen = {
+		culture = bedouin
+		religion = placeholder
+		size = 100
+	}
+
+	artisans = {
+		culture = bedouin
+		religion = placeholder
+		size = 250
+	}
+
+	soldiers = {
+		culture = bedouin
+		religion = placeholder
+		size = 50
+	}
+
+	farmers = {
+		culture = bedouin
+		religion = placeholder
+		size = 4525
+	}
+}
+
+1174 = {
+	aristocrats = {
+		culture = bedouin
+		religion = placeholder
+		size = 65
+	}
+
+	bureaucrats = {
+		culture = bedouin
+		religion = placeholder
+		size = 5
+	}
+
+	officers = {
+		culture = bedouin
+		religion = placeholder
+		size = 5
+	}
+
+	clergymen = {
+		culture = bedouin
+		religion = placeholder
+		size = 100
+	}
+
+	artisans = {
+		culture = bedouin
+		religion = placeholder
+		size = 250
+	}
+
+	soldiers = {
+		culture = bedouin
+		religion = placeholder
+		size = 50
+	}
+
+	farmers = {
+		culture = bedouin
+		religion = placeholder
+		size = 4525
+	}
+}

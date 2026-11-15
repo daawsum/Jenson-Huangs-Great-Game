@@ -1,0 +1,39 @@
+SXI = {
+	value = 125
+}
+
+army = {
+	name = "Suiyuan First Army"
+	location = 1532
+	regiment = {
+		name = "1. Suiyuan First Army"
+		type = infantry
+		home = 1532
+	}
+	regiment = {
+		name = "2. Suiyuan First Army"
+		type = infantry
+		home = 3312
+	}
+	regiment = {
+		name = "3. Suiyuan First Army"
+		type = infantry
+		home = 3313
+	}
+	regiment = {
+		name = "4. Suiyuan First Army"
+		type = infantry
+		home = 1535
+	}
+	regiment = {
+		name = "5. Suiyuan First Army"
+		type = infantry
+		home = 3318
+	}
+	regiment = {
+		name = "6. Suiyuan First Army"
+		type = cavalry
+		home = 3319
+	}
+}
+

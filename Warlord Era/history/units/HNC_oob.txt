@@ -1,0 +1,158 @@
+GZH = {
+	value = -150
+}
+
+GXI = {
+	value = 150
+}
+
+army = {
+	name = "Hunanese First Army"
+	location = 1524
+	regiment = {
+		name = "1. Hunanese First Army"
+		type = infantry
+		home = 1524
+	}
+	regiment = {
+		name = "2. Hunanese First Army"
+		type = infantry
+		home = 3305
+	}
+	regiment = {
+		name = "3. Hunanese First Army"
+		type = infantry
+		home = 1526
+	}
+	regiment = {
+		name = "4. Hunanese First Army"
+		type = infantry
+		home = 3307
+	}
+	regiment = {
+		name = "5. Hunanese First Army"
+		type = infantry
+		home = 1527
+	}
+	regiment = {
+		name = "6. Hunanese First Army"
+		type = infantry
+		home = 3308
+	}
+	regiment = {
+		name = "7. Hunanese First Army"
+		type = cavalry
+		home = 1529
+	}
+	regiment = {
+		name = "8. Hunanese First Army"
+		type = artillery
+		home = 3310
+	}
+	regiment = {
+		name = "9. Hunanese First Army"
+		type = artillery
+		home = 1524
+	}
+}
+
+army = {
+	name = "Hunanese Second Army"
+	location = 3310
+	regiment = {
+		name = "1. Hunanese Second Army"
+		type = infantry
+		home = 1524
+	}
+	regiment = {
+		name = "2. Hunanese Second Army"
+		type = infantry
+		home = 3305
+	}
+	regiment = {
+		name = "3. Hunanese Second Army"
+		type = infantry
+		home = 1526
+	}
+	regiment = {
+		name = "4. Hunanese Second Army"
+		type = infantry
+		home = 3307
+	}
+	regiment = {
+		name = "5. Hunanese Second Army"
+		type = infantry
+		home = 1527
+	}
+	regiment = {
+		name = "6. Hunanese Second Army"
+		type = infantry
+		home = 3308
+	}
+	regiment = {
+		name = "7. Hunanese Second Army"
+		type = cavalry
+		home = 1529
+	}
+	regiment = {
+		name = "8. Hunanese Second Army"
+		type = artillery
+		home = 3310
+	}
+	regiment = {
+		name = "9. Hunanese Second Army"
+		type = artillery
+		home = 1524
+	}
+}
+
+army = {
+	name = "Hunanese Third Army"
+	location = 1529
+	regiment = {
+		name = "1. Hunanese Third Army"
+		type = infantry
+		home = 1524
+	}
+	regiment = {
+		name = "2. Hunanese Third Army"
+		type = infantry
+		home = 3305
+	}
+	regiment = {
+		name = "3. Hunanese Third Army"
+		type = infantry
+		home = 1526
+	}
+	regiment = {
+		name = "4. Hunanese Third Army"
+		type = infantry
+		home = 3307
+	}
+	regiment = {
+		name = "5. Hunanese Third Army"
+		type = infantry
+		home = 1527
+	}
+	regiment = {
+		name = "6. Hunanese Third Army"
+		type = infantry
+		home = 3308
+	}
+	regiment = {
+		name = "7. Hunanese Third Army"
+		type = cavalry
+		home = 1529
+	}
+	regiment = {
+		name = "8. Hunanese Third Army"
+		type = artillery
+		home = 3310
+	}
+	regiment = {
+		name = "9. Hunanese Third Army"
+		type = artillery
+		home = 1524
+	}
+}
+

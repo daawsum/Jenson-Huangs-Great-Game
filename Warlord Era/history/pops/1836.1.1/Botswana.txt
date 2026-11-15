@@ -1,0 +1,159 @@
+2074 = {
+	aristocrats = {
+		culture = zulu
+		religion = placeholder
+		size = 125
+	}
+
+	clergymen = {
+		culture = zulu
+		religion = placeholder
+		size = 75
+	}
+
+	artisans = {
+		culture = zulu
+		religion = placeholder
+		size = 350
+	}
+
+	soldiers = {
+		culture = zulu
+		religion = placeholder
+		size = 75
+	}
+
+	farmers = {
+		culture = zulu
+		religion = placeholder
+		size = 6375
+	}
+}
+
+2076 = {
+	aristocrats = {
+		culture = zulu
+		religion = placeholder
+		size = 40
+	}
+
+	clergymen = {
+		culture = zulu
+		religion = placeholder
+		size = 75
+	}
+
+	artisans = {
+		culture = zulu
+		religion = placeholder
+		size = 150
+	}
+
+	soldiers = {
+		culture = zulu
+		religion = placeholder
+		size = 35
+	}
+
+	farmers = {
+		culture = zulu
+		religion = placeholder
+		size = 2700
+	}
+}
+
+2077 = {
+	aristocrats = {
+		culture = zulu
+		religion = placeholder
+		size = 40
+	}
+
+	clergymen = {
+		culture = zulu
+		religion = placeholder
+		size = 75
+	}
+
+	artisans = {
+		culture = zulu
+		religion = placeholder
+		size = 150
+	}
+
+	soldiers = {
+		culture = zulu
+		religion = placeholder
+		size = 35
+	}
+
+	farmers = {
+		culture = zulu
+		religion = placeholder
+		size = 2700
+	}
+}
+
+2574 = {
+	aristocrats = {
+		culture = zulu
+		religion = placeholder
+		size = 50
+	}
+
+	clergymen = {
+		culture = zulu
+		religion = placeholder
+		size = 50
+	}
+
+	artisans = {
+		culture = zulu
+		religion = placeholder
+		size = 200
+	}
+
+	soldiers = {
+		culture = zulu
+		religion = placeholder
+		size = 50
+	}
+
+	farmers = {
+		culture = zulu
+		religion = placeholder
+		size = 3650
+	}
+}
+
+2075 = {
+	aristocrats = {
+		culture = zulu
+		religion = placeholder
+		size = 30
+	}
+
+	clergymen = {
+		culture = zulu
+		religion = placeholder
+		size = 40
+	}
+
+	artisans = {
+		culture = zulu
+		religion = placeholder
+		size = 100
+	}
+
+	soldiers = {
+		culture = zulu
+		religion = placeholder
+		size = 30
+	}
+
+	farmers = {
+		culture = zulu
+		religion = placeholder
+		size = 1800
+	}
+}

@@ -1,0 +1,111 @@
+2214 = {
+	aristocrats = {
+		culture = mexican
+		religion = placeholder
+		size = 300
+	}
+
+	clergymen = {
+		culture = mexican
+		religion = placeholder
+		size = 125
+	}
+
+	artisans = {
+		culture = mexican
+		religion = placeholder
+		size = 350
+	}
+
+	soldiers = {
+		culture = mexican
+		religion = placeholder
+		size = 75
+	}
+
+	farmers = {
+		culture = mexican
+		religion = placeholder
+		size = 6150
+	}
+
+	clergymen = {
+		culture = afro_american
+		religion = placeholder
+		size = 50
+	}
+
+	artisans = {
+		culture = afro_american
+		religion = placeholder
+		size = 500
+	}
+
+	soldiers = {
+		culture = afro_american
+		religion = placeholder
+		size = 100
+	}
+
+	farmers = {
+		culture = afro_american
+		religion = placeholder
+		size = 9350
+	}
+}
+
+2216 = {
+	aristocrats = {
+		culture = mexican
+		religion = placeholder
+		size = 250
+	}
+
+	clergymen = {
+		culture = mexican
+		religion = placeholder
+		size = 100
+	}
+
+	artisans = {
+		culture = mexican
+		religion = placeholder
+		size = 400
+	}
+
+	soldiers = {
+		culture = mexican
+		religion = placeholder
+		size = 75
+	}
+
+	farmers = {
+		culture = mexican
+		religion = placeholder
+		size = 7175
+	}
+
+	clergymen = {
+		culture = afro_american
+		religion = placeholder
+		size = 50
+	}
+
+	artisans = {
+		culture = afro_american
+		religion = placeholder
+		size = 300
+	}
+
+	soldiers = {
+		culture = afro_american
+		religion = placeholder
+		size = 75
+	}
+
+	farmers = {
+		culture = afro_american
+		religion = placeholder
+		size = 5575
+	}
+}

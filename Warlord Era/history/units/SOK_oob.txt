@@ -1,0 +1,20 @@
+army = {
+	name = "Warband of Sokoto"
+	location = 1948
+	regiment = {
+		name = "1. Warband of Sokoto"
+		type = irregular
+		home = 1948
+	}
+	regiment = {
+		name = "2. Warband of Sokoto"
+		type = irregular
+		home = 1945
+	}
+	regiment = {
+		name = "3. Warband of Sokoto"
+		type = irregular
+		home = 1947
+	}
+}
+

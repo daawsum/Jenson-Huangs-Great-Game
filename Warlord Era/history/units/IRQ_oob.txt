@@ -1,0 +1,30 @@
+army = {
+	name = "Host of Baghdad"
+	location = 926
+	regiment = {
+		name = "1. Host of Baghdad"
+		type = irregular
+		home = 923
+	}
+	regiment = {
+		name = "2. Host of Baghdad"
+		type = irregular
+		home = 925
+	}
+	regiment = {
+		name = "3. Host of Baghdad"
+		type = irregular
+		home = 926
+	}
+	regiment = {
+		name = "4. Host of Baghdad"
+		type = irregular
+		home = 924
+	}
+	regiment = {
+		name = "5. Host of Baghdad"
+		type = cavalry
+		home = 927
+	}
+}
+

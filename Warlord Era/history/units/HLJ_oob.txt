@@ -1,0 +1,56 @@
+FTN = {
+	value = 125
+}
+
+army = {
+	name = "Heilongjiang First Army"
+	location = 1552
+	regiment = {
+		name = "1. Heilongjiang First Army"
+		type = infantry
+		home = 3330
+	}
+	regiment = {
+		name = "2. Heilongjiang First Army"
+		type = infantry
+		home = 3331
+	}
+	regiment = {
+		name = "3. Heilongjiang First Army"
+		type = infantry
+		home = 1552
+	}
+	regiment = {
+		name = "4. Heilongjiang First Army"
+		type = infantry
+		home = 3332
+	}
+	regiment = {
+		name = "5. Heilongjiang First Army"
+		type = infantry
+		home = 3333
+	}
+	regiment = {
+		name = "6. Heilongjiang First Army"
+		type = cavalry
+		home = 1553
+	}
+}
+
+navy = {
+	name = "Heilongjiang Fleet"
+	location = 1084
+	ship = {
+		name = "Heilongjiang Fleet 1"
+		type = frigate
+	}
+	ship = {
+		name = "Heilongjiang Fleet 2"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Heilongjiang Fleet 3"
+		type = clipper_transport
+	}
+}
+

@@ -1,0 +1,20 @@
+army = {
+	name = "Host of Tumlong"
+	location = 1328
+	regiment = {
+		name = "1. Host of Tumlong"
+		type = irregular
+		home = 1254
+	}
+	regiment = {
+		name = "2. Host of Tumlong"
+		type = irregular
+		home = 1252
+	}
+	regiment = {
+		name = "3. Host of Tumlong"
+		type = irregular
+		home = 1255
+	}
+}
+

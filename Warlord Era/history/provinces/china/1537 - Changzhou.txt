@@ -1,0 +1,16 @@
+owner = JSU
+controller = JSU
+add_core = JSU
+add_core = CHI
+trade_goods = tea
+life_rating = 32
+state_building = {
+	level = 1
+	building = steel_factory
+	upgrade = yes
+}
+state_building = {
+	level = 1
+	building = lumber_mill
+	upgrade = yes
+}

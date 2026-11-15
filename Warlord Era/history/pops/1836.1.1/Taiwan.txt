@@ -1,0 +1,241 @@
+1485 = {
+	aristocrats = {
+		culture = min
+		religion = placeholder
+		size = 2255
+	}
+
+	bureaucrats = {
+		culture = min
+		religion = placeholder
+		size = 200
+	}
+
+	officers = {
+		culture = min
+		religion = placeholder
+		size = 363
+	}
+
+	clergymen = {
+		culture = min
+		religion = placeholder
+		size = 1817
+	}
+
+	artisans = {
+		culture = min
+		religion = placeholder
+		size = 9098
+	}
+
+	soldiers = {
+		culture = min
+		religion = placeholder
+		size = 1829
+	}
+
+	farmers = {
+		culture = min
+		religion = placeholder
+		size = 163244
+	}
+
+	bureaucrats = {
+		culture = manchu
+		religion = placeholder
+		size = 25
+	}
+
+	officers = {
+		culture = manchu
+		religion = placeholder
+		size = 25
+	}
+
+	soldiers = {
+		culture = manchu
+		religion = placeholder
+		size = 25
+	}
+
+	craftsmen = {
+		culture = min
+		religion = placeholder
+		size = 2073
+	}
+
+	clerks = {
+		culture = min
+		religion = placeholder
+		size = 366
+	}
+
+	capitalists = {
+		culture = min
+		religion = placeholder
+		size = 150
+	}
+}
+
+3265 = {
+	aristocrats = {
+		culture = min
+		religion = placeholder
+		size = 2244
+	}
+
+	bureaucrats = {
+		culture = min
+		religion = placeholder
+		size = 199
+	}
+
+	officers = {
+		culture = min
+		religion = placeholder
+		size = 361
+	}
+
+	clergymen = {
+		culture = min
+		religion = placeholder
+		size = 1807
+	}
+
+	artisans = {
+		culture = min
+		religion = placeholder
+		size = 9051
+	}
+
+	soldiers = {
+		culture = min
+		religion = placeholder
+		size = 1820
+	}
+
+	farmers = {
+		culture = min
+		religion = placeholder
+		size = 162565
+	}
+
+	bureaucrats = {
+		culture = manchu
+		religion = placeholder
+		size = 25
+	}
+
+	officers = {
+		culture = manchu
+		religion = placeholder
+		size = 25
+	}
+
+	soldiers = {
+		culture = manchu
+		religion = placeholder
+		size = 25
+	}
+
+	craftsmen = {
+		culture = min
+		religion = placeholder
+		size = 2062
+	}
+
+	clerks = {
+		culture = min
+		religion = placeholder
+		size = 364
+	}
+}
+
+2562 = {
+	aristocrats = {
+		culture = min
+		religion = placeholder
+		size = 2507
+	}
+
+	clergymen = {
+		culture = min
+		religion = placeholder
+		size = 1908
+	}
+
+	artisans = {
+		culture = min
+		religion = placeholder
+		size = 9529
+	}
+
+	soldiers = {
+		culture = min
+		religion = placeholder
+		size = 1908
+	}
+
+	farmers = {
+		culture = min
+		religion = placeholder
+		size = 172178
+	}
+
+	craftsmen = {
+		culture = min
+		religion = placeholder
+		size = 2176
+	}
+
+	clerks = {
+		culture = min
+		religion = placeholder
+		size = 385
+	}
+}
+
+3385 = {
+	aristocrats = {
+		culture = min
+		religion = placeholder
+		size = 2517
+	}
+
+	clergymen = {
+		culture = min
+		religion = placeholder
+		size = 1916
+	}
+
+	artisans = {
+		culture = min
+		religion = placeholder
+		size = 9570
+	}
+
+	soldiers = {
+		culture = min
+		religion = placeholder
+		size = 1916
+	}
+
+	farmers = {
+		culture = min
+		religion = placeholder
+		size = 172913
+	}
+
+	craftsmen = {
+		culture = min
+		religion = placeholder
+		size = 2186
+	}
+
+	clerks = {
+		culture = min
+		religion = placeholder
+		size = 386
+	}
+}

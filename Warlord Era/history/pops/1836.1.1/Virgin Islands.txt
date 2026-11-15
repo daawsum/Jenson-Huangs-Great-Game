@@ -1,0 +1,37 @@
+2223 = {
+	aristocrats = {
+		culture = swedish
+		religion = placeholder
+		size = 30
+	}
+
+	artisans = {
+		culture = swedish
+		religion = placeholder
+		size = 56
+	}
+
+	farmers = {
+		culture = swedish
+		religion = placeholder
+		size = 60
+	}
+
+	artisans = {
+		culture = afro_american
+		religion = placeholder
+		size = 25
+	}
+
+	farmers = {
+		culture = afro_american
+		religion = placeholder
+		size = 502
+	}
+
+	slaves = {
+		culture = afro_american
+		religion = placeholder
+		size = 975
+	}
+}

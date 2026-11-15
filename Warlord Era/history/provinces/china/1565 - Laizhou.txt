@@ -1,0 +1,7 @@
+owner = SDG
+controller = SDG
+add_core = SDG
+add_core = CHI
+trade_goods = cotton
+life_rating = 32
+terrain = plains

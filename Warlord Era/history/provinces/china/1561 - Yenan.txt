@@ -1,0 +1,17 @@
+owner = GMJ
+controller = GMJ
+add_core = GMJ
+add_core = CHI
+trade_goods = coal
+life_rating = 32
+terrain = plains
+state_building = {
+	level = 1
+	building = furniture_factory
+	upgrade = yes
+}
+state_building = {
+	level = 1
+	building = paper_mill
+	upgrade = yes
+}

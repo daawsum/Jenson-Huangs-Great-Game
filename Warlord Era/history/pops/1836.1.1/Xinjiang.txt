@@ -1,0 +1,681 @@
+1594 = {
+	aristocrats = {
+		culture = uighur
+		religion = placeholder
+		size = 1604
+	}
+
+	bureaucrats = {
+		culture = uighur
+		religion = placeholder
+		size = 364
+	}
+
+	officers = {
+		culture = uighur
+		religion = placeholder
+		size = 474
+	}
+
+	clergymen = {
+		culture = uighur
+		religion = placeholder
+		size = 765
+	}
+
+	artisans = {
+		culture = uighur
+		religion = placeholder
+		size = 3792
+	}
+
+	soldiers = {
+		culture = uighur
+		religion = placeholder
+		size = 765
+	}
+
+	farmers = {
+		culture = uighur
+		religion = placeholder
+		size = 63190
+	}
+
+	aristocrats = {
+		culture = kirgiz
+		religion = placeholder
+		size = 328
+	}
+
+	clergymen = {
+		culture = kirgiz
+		religion = placeholder
+		size = 182
+	}
+
+	artisans = {
+		culture = kirgiz
+		religion = placeholder
+		size = 838
+	}
+
+	soldiers = {
+		culture = kirgiz
+		religion = placeholder
+		size = 145
+	}
+
+	farmers = {
+		culture = kirgiz
+		religion = placeholder
+		size = 16010
+	}
+
+	clergymen = {
+		culture = tajik
+		religion = placeholder
+		size = 72
+	}
+
+	artisans = {
+		culture = tajik
+		religion = placeholder
+		size = 729
+	}
+
+	farmers = {
+		culture = tajik
+		religion = placeholder
+		size = 2115
+	}
+
+	clergymen = {
+		culture = uzbek
+		religion = placeholder
+		size = 36
+	}
+
+	artisans = {
+		culture = uzbek
+		religion = placeholder
+		size = 1422
+	}
+
+	craftsmen = {
+		culture = uighur
+		religion = placeholder
+		size = 4159
+	}
+
+	clerks = {
+		culture = uighur
+		religion = placeholder
+		size = 735
+	}
+
+	capitalists = {
+		culture = uighur
+		religion = placeholder
+		size = 150
+	}
+}
+
+1595 = {
+	aristocrats = {
+		culture = uighur
+		religion = placeholder
+		size = 10019
+	}
+
+	clergymen = {
+		culture = uighur
+		religion = placeholder
+		size = 5195
+	}
+
+	artisans = {
+		culture = uighur
+		religion = placeholder
+		size = 26719
+	}
+
+	soldiers = {
+		culture = uighur
+		religion = placeholder
+		size = 5566
+	}
+
+	farmers = {
+		culture = uighur
+		religion = placeholder
+		size = 482731
+	}
+
+	aristocrats = {
+		culture = guanzhong
+		religion = placeholder
+		size = 296
+	}
+
+	clergymen = {
+		culture = guanzhong
+		religion = placeholder
+		size = 296
+	}
+
+	artisans = {
+		culture = guanzhong
+		religion = placeholder
+		size = 742
+	}
+
+	soldiers = {
+		culture = guanzhong
+		religion = placeholder
+		size = 148
+	}
+
+	farmers = {
+		culture = guanzhong
+		religion = placeholder
+		size = 13359
+	}
+
+	aristocrats = {
+		culture = mongol
+		religion = placeholder
+		size = 1484
+	}
+
+	clergymen = {
+		culture = mongol
+		religion = placeholder
+		size = 742
+	}
+
+	artisans = {
+		culture = mongol
+		religion = placeholder
+		size = 3711
+	}
+
+	soldiers = {
+		culture = mongol
+		religion = placeholder
+		size = 742
+	}
+
+	farmers = {
+		culture = mongol
+		religion = placeholder
+		size = 67540
+	}
+
+	craftsmen = {
+		culture = uighur
+		religion = placeholder
+		size = 3532
+	}
+
+	clerks = {
+		culture = uighur
+		religion = placeholder
+		size = 624
+	}
+}
+
+1596 = {
+	aristocrats = {
+		culture = uighur
+		religion = placeholder
+		size = 3711
+	}
+
+	clergymen = {
+		culture = uighur
+		religion = placeholder
+		size = 2226
+	}
+
+	artisans = {
+		culture = uighur
+		religion = placeholder
+		size = 10390
+	}
+
+	soldiers = {
+		culture = uighur
+		religion = placeholder
+		size = 2226
+	}
+
+	farmers = {
+		culture = uighur
+		religion = placeholder
+		size = 187085
+	}
+
+	aristocrats = {
+		culture = guanzhong
+		religion = placeholder
+		size = 296
+	}
+
+	clergymen = {
+		culture = guanzhong
+		religion = placeholder
+		size = 296
+	}
+
+	artisans = {
+		culture = guanzhong
+		religion = placeholder
+		size = 742
+	}
+
+	soldiers = {
+		culture = guanzhong
+		religion = placeholder
+		size = 148
+	}
+
+	farmers = {
+		culture = guanzhong
+		religion = placeholder
+		size = 13359
+	}
+
+	aristocrats = {
+		culture = mongol
+		religion = placeholder
+		size = 1855
+	}
+
+	clergymen = {
+		culture = mongol
+		religion = placeholder
+		size = 1113
+	}
+
+	artisans = {
+		culture = mongol
+		religion = placeholder
+		size = 5195
+	}
+
+	soldiers = {
+		culture = mongol
+		religion = placeholder
+		size = 1113
+	}
+
+	farmers = {
+		culture = mongol
+		religion = placeholder
+		size = 94631
+	}
+
+	craftsmen = {
+		culture = uighur
+		religion = placeholder
+		size = 1850
+	}
+
+	clerks = {
+		culture = uighur
+		religion = placeholder
+		size = 327
+	}
+}
+
+1597 = {
+	aristocrats = {
+		culture = uighur
+		religion = placeholder
+		size = 1385
+	}
+
+	clergymen = {
+		culture = uighur
+		religion = placeholder
+		size = 729
+	}
+
+	artisans = {
+		culture = uighur
+		religion = placeholder
+		size = 3501
+	}
+
+	soldiers = {
+		culture = uighur
+		religion = placeholder
+		size = 729
+	}
+
+	farmers = {
+		culture = uighur
+		religion = placeholder
+		size = 60175
+	}
+
+	craftsmen = {
+		culture = uighur
+		religion = placeholder
+		size = 2975
+	}
+
+	clerks = {
+		culture = uighur
+		religion = placeholder
+		size = 526
+	}
+}
+
+1598 = {
+	aristocrats = {
+		culture = uighur
+		religion = placeholder
+		size = 619
+	}
+
+	clergymen = {
+		culture = uighur
+		religion = placeholder
+		size = 328
+	}
+
+	artisans = {
+		culture = uighur
+		religion = placeholder
+		size = 1604
+	}
+
+	soldiers = {
+		culture = uighur
+		religion = placeholder
+		size = 328
+	}
+
+	farmers = {
+		culture = uighur
+		religion = placeholder
+		size = 27608
+	}
+
+	craftsmen = {
+		culture = uighur
+		religion = placeholder
+		size = 1363
+	}
+
+	clerks = {
+		culture = uighur
+		religion = placeholder
+		size = 241
+	}
+}
+
+1599 = {
+	aristocrats = {
+		culture = uighur
+		religion = placeholder
+		size = 12617
+	}
+
+	clergymen = {
+		culture = uighur
+		religion = placeholder
+		size = 6308
+	}
+
+	artisans = {
+		culture = uighur
+		religion = placeholder
+		size = 31914
+	}
+
+	soldiers = {
+		culture = uighur
+		religion = placeholder
+		size = 6308
+	}
+
+	farmers = {
+		culture = uighur
+		religion = placeholder
+		size = 577234
+	}
+
+	aristocrats = {
+		culture = guanzhong
+		religion = placeholder
+		size = 742
+	}
+
+	clergymen = {
+		culture = guanzhong
+		religion = placeholder
+		size = 1484
+	}
+
+	artisans = {
+		culture = guanzhong
+		religion = placeholder
+		size = 2968
+	}
+
+	soldiers = {
+		culture = guanzhong
+		religion = placeholder
+		size = 742
+	}
+
+	farmers = {
+		culture = guanzhong
+		religion = placeholder
+		size = 53438
+	}
+
+	craftsmen = {
+		culture = uighur
+		religion = placeholder
+		size = 3957
+	}
+
+	clerks = {
+		culture = uighur
+		religion = placeholder
+		size = 699
+	}
+}
+
+1600 = {
+	aristocrats = {
+		culture = uighur
+		religion = placeholder
+		size = 18926
+	}
+
+	clergymen = {
+		culture = uighur
+		religion = placeholder
+		size = 10019
+	}
+
+	artisans = {
+		culture = uighur
+		religion = placeholder
+		size = 51954
+	}
+
+	soldiers = {
+		culture = uighur
+		religion = placeholder
+		size = 10761
+	}
+
+	farmers = {
+		culture = uighur
+		religion = placeholder
+		size = 938909
+	}
+
+	aristocrats = {
+		culture = guanzhong
+		religion = placeholder
+		size = 1855
+	}
+
+	clergymen = {
+		culture = guanzhong
+		religion = placeholder
+		size = 1855
+	}
+
+	artisans = {
+		culture = guanzhong
+		religion = placeholder
+		size = 8164
+	}
+
+	soldiers = {
+		culture = guanzhong
+		religion = placeholder
+		size = 1855
+	}
+
+	farmers = {
+		culture = guanzhong
+		religion = placeholder
+		size = 149554
+	}
+
+	bureaucrats = {
+		culture = guanzhong
+		religion = placeholder
+		size = 742
+	}
+
+	aristocrats = {
+		culture = mongol
+		religion = placeholder
+		size = 371
+	}
+
+	clergymen = {
+		culture = mongol
+		religion = placeholder
+		size = 742
+	}
+
+	artisans = {
+		culture = mongol
+		religion = placeholder
+		size = 1484
+	}
+
+	soldiers = {
+		culture = mongol
+		religion = placeholder
+		size = 371
+	}
+
+	farmers = {
+		culture = mongol
+		religion = placeholder
+		size = 26719
+	}
+
+	craftsmen = {
+		culture = uighur
+		religion = placeholder
+		size = 6985
+	}
+
+	clerks = {
+		culture = uighur
+		religion = placeholder
+		size = 1233
+	}
+
+	capitalists = {
+		culture = uighur
+		religion = placeholder
+		size = 300
+	}
+}
+
+2607 = {
+	aristocrats = {
+		culture = uighur
+		religion = placeholder
+		size = 1113
+	}
+
+	clergymen = {
+		culture = uighur
+		religion = placeholder
+		size = 742
+	}
+
+	artisans = {
+		culture = uighur
+		religion = placeholder
+		size = 3711
+	}
+
+	soldiers = {
+		culture = uighur
+		religion = placeholder
+		size = 742
+	}
+
+	farmers = {
+		culture = uighur
+		religion = placeholder
+		size = 67120
+	}
+
+	aristocrats = {
+		culture = mongol
+		religion = placeholder
+		size = 742
+	}
+
+	clergymen = {
+		culture = mongol
+		religion = placeholder
+		size = 1113
+	}
+
+	artisans = {
+		culture = mongol
+		religion = placeholder
+		size = 2226
+	}
+
+	soldiers = {
+		culture = mongol
+		religion = placeholder
+		size = 371
+	}
+
+	farmers = {
+		culture = mongol
+		religion = placeholder
+		size = 40079
+	}
+
+	craftsmen = {
+		culture = uighur
+		religion = placeholder
+		size = 672
+	}
+
+	clerks = {
+		culture = uighur
+		religion = placeholder
+		size = 119
+	}
+}

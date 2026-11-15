@@ -1,0 +1,15 @@
+army = {
+	name = "Army of Sendai"
+	location = 1668
+	regiment = {
+		name = "1. Army of Sendai"
+		type = infantry
+		home = 1668
+	}
+	regiment = {
+		name = "2. Army of Sendai"
+		type = infantry
+		home = 1673
+	}
+}
+

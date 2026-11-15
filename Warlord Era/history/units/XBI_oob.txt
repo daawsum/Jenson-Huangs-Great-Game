@@ -1,0 +1,96 @@
+XIN = {
+	value = -150
+}
+
+GMJ = {
+	value = 150
+}
+
+NXA = {
+	value = 125
+}
+
+QHI = {
+	value = 125
+}
+
+army = {
+	name = "Ma First Army"
+	location = 1490
+	regiment = {
+		name = "1. Ma First Army"
+		type = cavalry
+		home = 3268
+	}
+	regiment = {
+		name = "2. Ma First Army"
+		type = cavalry
+		home = 1488
+	}
+	regiment = {
+		name = "3. Ma First Army"
+		type = cavalry
+		home = 3269
+	}
+	regiment = {
+		name = "4. Ma First Army"
+		type = cavalry
+		home = 3275
+	}
+	regiment = {
+		name = "5. Ma First Army"
+		type = infantry
+		home = 1492
+	}
+	regiment = {
+		name = "6. Ma First Army"
+		type = infantry
+		home = 3272
+	}
+	regiment = {
+		name = "7. Ma First Army"
+		type = infantry
+		home = 1490
+	}
+}
+
+army = {
+	name = "Ma Second Army"
+	location = 3273
+	regiment = {
+		name = "1. Ma Second Army"
+		type = cavalry
+		home = 3268
+	}
+	regiment = {
+		name = "2. Ma Second Army"
+		type = cavalry
+		home = 1488
+	}
+	regiment = {
+		name = "3. Ma Second Army"
+		type = cavalry
+		home = 3269
+	}
+	regiment = {
+		name = "4. Ma Second Army"
+		type = cavalry
+		home = 3275
+	}
+	regiment = {
+		name = "5. Ma Second Army"
+		type = infantry
+		home = 1492
+	}
+	regiment = {
+		name = "6. Ma Second Army"
+		type = infantry
+		home = 3272
+	}
+	regiment = {
+		name = "7. Ma Second Army"
+		type = infantry
+		home = 1490
+	}
+}
+

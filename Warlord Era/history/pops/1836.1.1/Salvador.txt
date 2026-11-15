@@ -1,0 +1,63 @@
+2191 = {
+	aristocrats = {
+		culture = mexican
+		religion = placeholder
+		size = 213
+	}
+
+	clergymen = {
+		culture = mexican
+		religion = placeholder
+		size = 97
+	}
+
+	artisans = {
+		culture = mexican
+		religion = placeholder
+		size = 487
+	}
+
+	soldiers = {
+		culture = mexican
+		religion = placeholder
+		size = 165
+	}
+
+	farmers = {
+		culture = mexican
+		religion = placeholder
+		size = 8752
+	}
+}
+
+2192 = {
+	aristocrats = {
+		culture = mexican
+		religion = placeholder
+		size = 142
+	}
+
+	clergymen = {
+		culture = mexican
+		religion = placeholder
+		size = 67
+	}
+
+	artisans = {
+		culture = mexican
+		religion = placeholder
+		size = 330
+	}
+
+	soldiers = {
+		culture = mexican
+		religion = placeholder
+		size = 67
+	}
+
+	farmers = {
+		culture = mexican
+		religion = placeholder
+		size = 5992
+	}
+}

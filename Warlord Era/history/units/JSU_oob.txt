@@ -1,0 +1,135 @@
+AHC = {
+	value = -150
+}
+
+ZHJ = {
+	value = 150
+}
+
+SHG = {
+	value = 125
+}
+
+army = {
+	name = "League First Army"
+	location = 2221
+	regiment = {
+		name = "1. League First Army"
+		type = infantry
+		home = 1537
+	}
+	regiment = {
+		name = "2. League First Army"
+		type = infantry
+		home = 1541
+	}
+	regiment = {
+		name = "3. League First Army"
+		type = infantry
+		home = 1539
+	}
+	regiment = {
+		name = "4. League First Army"
+		type = infantry
+		home = 2221
+	}
+	regiment = {
+		name = "5. League First Army"
+		type = infantry
+		home = 1544
+	}
+	regiment = {
+		name = "6. League First Army"
+		type = infantry
+		home = 3322
+	}
+	regiment = {
+		name = "7. League First Army"
+		type = artillery
+		home = 1543
+	}
+	regiment = {
+		name = "8. League First Army"
+		type = artillery
+		home = 1537
+	}
+}
+
+army = {
+	name = "League Second Army"
+	location = 1543
+	regiment = {
+		name = "1. League Second Army"
+		type = infantry
+		home = 1537
+	}
+	regiment = {
+		name = "2. League Second Army"
+		type = infantry
+		home = 1541
+	}
+	regiment = {
+		name = "3. League Second Army"
+		type = infantry
+		home = 1539
+	}
+	regiment = {
+		name = "4. League Second Army"
+		type = infantry
+		home = 2221
+	}
+	regiment = {
+		name = "5. League Second Army"
+		type = infantry
+		home = 1544
+	}
+	regiment = {
+		name = "6. League Second Army"
+		type = infantry
+		home = 3322
+	}
+	regiment = {
+		name = "7. League Second Army"
+		type = artillery
+		home = 1543
+	}
+	regiment = {
+		name = "8. League Second Army"
+		type = artillery
+		home = 1537
+	}
+}
+
+navy = {
+	name = "League Fleet"
+	location = 1541
+	ship = {
+		name = "League Fleet 1"
+		type = manowar
+	}
+	ship = {
+		name = "League Fleet 2"
+		type = frigate
+	}
+	ship = {
+		name = "League Fleet 3"
+		type = frigate
+	}
+	ship = {
+		name = "League Fleet 4"
+		type = clipper_transport
+	}
+	ship = {
+		name = "League Fleet 5"
+		type = clipper_transport
+	}
+	ship = {
+		name = "League Fleet 6"
+		type = clipper_transport
+	}
+	ship = {
+		name = "League Fleet 7"
+		type = clipper_transport
+	}
+}
+

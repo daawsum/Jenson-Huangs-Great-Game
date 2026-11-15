@@ -1,0 +1,1209 @@
+2286 = {
+	aristocrats = {
+		culture = mexican
+		religion = placeholder
+		size = 25
+	}
+
+	clergymen = {
+		culture = mexican
+		religion = placeholder
+		size = 25
+	}
+
+	artisans = {
+		culture = mexican
+		religion = placeholder
+		size = 25
+	}
+
+	soldiers = {
+		culture = mexican
+		religion = placeholder
+		size = 25
+	}
+
+	farmers = {
+		culture = mexican
+		religion = placeholder
+		size = 399
+	}
+
+	clergymen = {
+		culture = native_american_minor
+		religion = placeholder
+		size = 25
+	}
+
+	artisans = {
+		culture = native_american_minor
+		religion = placeholder
+		size = 90
+	}
+
+	soldiers = {
+		culture = native_american_minor
+		religion = placeholder
+		size = 25
+	}
+
+	farmers = {
+		culture = native_american_minor
+		religion = placeholder
+		size = 1496
+	}
+
+	aristocrats = {
+		culture = native_american_minor
+		religion = placeholder
+		size = 26
+	}
+}
+
+2287 = {
+	aristocrats = {
+		culture = native_american_minor
+		religion = placeholder
+		size = 25
+	}
+
+	clergymen = {
+		culture = native_american_minor
+		religion = placeholder
+		size = 25
+	}
+
+	artisans = {
+		culture = native_american_minor
+		religion = placeholder
+		size = 25
+	}
+
+	soldiers = {
+		culture = native_american_minor
+		religion = placeholder
+		size = 25
+	}
+
+	farmers = {
+		culture = native_american_minor
+		religion = placeholder
+		size = 405
+	}
+}
+
+2288 = {
+	aristocrats = {
+		culture = native_american_minor
+		religion = placeholder
+		size = 25
+	}
+
+	clergymen = {
+		culture = native_american_minor
+		religion = placeholder
+		size = 25
+	}
+
+	artisans = {
+		culture = native_american_minor
+		religion = placeholder
+		size = 25
+	}
+
+	soldiers = {
+		culture = native_american_minor
+		religion = placeholder
+		size = 25
+	}
+
+	farmers = {
+		culture = native_american_minor
+		religion = placeholder
+		size = 405
+	}
+}
+
+2289 = {
+	aristocrats = {
+		culture = native_american_minor
+		religion = placeholder
+		size = 25
+	}
+
+	clergymen = {
+		culture = native_american_minor
+		religion = placeholder
+		size = 25
+	}
+
+	artisans = {
+		culture = native_american_minor
+		religion = placeholder
+		size = 25
+	}
+
+	soldiers = {
+		culture = native_american_minor
+		religion = placeholder
+		size = 25
+	}
+
+	farmers = {
+		culture = native_american_minor
+		religion = placeholder
+		size = 405
+	}
+}
+
+2290 = {
+	aristocrats = {
+		culture = mexican
+		religion = placeholder
+		size = 120
+	}
+
+	clergymen = {
+		culture = mexican
+		religion = placeholder
+		size = 37
+	}
+
+	artisans = {
+		culture = mexican
+		religion = placeholder
+		size = 90
+	}
+
+	soldiers = {
+		culture = mexican
+		religion = placeholder
+		size = 25
+	}
+
+	farmers = {
+		culture = mexican
+		religion = placeholder
+		size = 1507
+	}
+
+	clergymen = {
+		culture = native_american_minor
+		religion = placeholder
+		size = 25
+	}
+
+	artisans = {
+		culture = native_american_minor
+		religion = placeholder
+		size = 195
+	}
+
+	soldiers = {
+		culture = native_american_minor
+		religion = placeholder
+		size = 37
+	}
+
+	farmers = {
+		culture = native_american_minor
+		religion = placeholder
+		size = 3648
+	}
+}
+
+2291 = {
+	aristocrats = {
+		culture = mexican
+		religion = placeholder
+		size = 48
+	}
+
+	clergymen = {
+		culture = mexican
+		religion = placeholder
+		size = 25
+	}
+
+	artisans = {
+		culture = mexican
+		religion = placeholder
+		size = 25
+	}
+
+	soldiers = {
+		culture = mexican
+		religion = placeholder
+		size = 25
+	}
+
+	farmers = {
+		culture = mexican
+		religion = placeholder
+		size = 356
+	}
+
+	clergymen = {
+		culture = native_american_minor
+		religion = placeholder
+		size = 25
+	}
+
+	artisans = {
+		culture = native_american_minor
+		religion = placeholder
+		size = 75
+	}
+
+	soldiers = {
+		culture = native_american_minor
+		religion = placeholder
+		size = 25
+	}
+
+	farmers = {
+		culture = native_american_minor
+		religion = placeholder
+		size = 1500
+	}
+
+	clergymen = {
+		culture = afro_american
+		religion = placeholder
+		size = 25
+	}
+
+	artisans = {
+		culture = afro_american
+		religion = placeholder
+		size = 25
+	}
+
+	soldiers = {
+		culture = afro_american
+		religion = placeholder
+		size = 25
+	}
+
+	farmers = {
+		culture = afro_american
+		religion = placeholder
+		size = 165
+	}
+
+	slaves = {
+		culture = afro_american
+		religion = placeholder
+		size = 112
+	}
+}
+
+2292 = {
+	aristocrats = {
+		culture = mexican
+		religion = placeholder
+		size = 56
+	}
+
+	clergymen = {
+		culture = mexican
+		religion = placeholder
+		size = 25
+	}
+
+	artisans = {
+		culture = mexican
+		religion = placeholder
+		size = 45
+	}
+
+	soldiers = {
+		culture = mexican
+		religion = placeholder
+		size = 25
+	}
+
+	farmers = {
+		culture = mexican
+		religion = placeholder
+		size = 761
+	}
+
+	clergymen = {
+		culture = native_american_minor
+		religion = placeholder
+		size = 25
+	}
+
+	artisans = {
+		culture = native_american_minor
+		religion = placeholder
+		size = 67
+	}
+
+	soldiers = {
+		culture = native_american_minor
+		religion = placeholder
+		size = 25
+	}
+
+	farmers = {
+		culture = native_american_minor
+		religion = placeholder
+		size = 1256
+	}
+
+	clergymen = {
+		culture = afro_american
+		religion = placeholder
+		size = 25
+	}
+
+	artisans = {
+		culture = afro_american
+		religion = placeholder
+		size = 25
+	}
+
+	soldiers = {
+		culture = afro_american
+		religion = placeholder
+		size = 25
+	}
+
+	farmers = {
+		culture = afro_american
+		religion = placeholder
+		size = 165
+	}
+
+	slaves = {
+		culture = afro_american
+		religion = placeholder
+		size = 112
+	}
+}
+
+2294 = {
+	aristocrats = {
+		culture = mexican
+		religion = placeholder
+		size = 25
+	}
+
+	clergymen = {
+		culture = mexican
+		religion = placeholder
+		size = 25
+	}
+
+	artisans = {
+		culture = mexican
+		religion = placeholder
+		size = 25
+	}
+
+	soldiers = {
+		culture = mexican
+		religion = placeholder
+		size = 25
+	}
+
+	farmers = {
+		culture = mexican
+		religion = placeholder
+		size = 262
+	}
+
+	clergymen = {
+		culture = native_american_minor
+		religion = placeholder
+		size = 25
+	}
+
+	artisans = {
+		culture = native_american_minor
+		religion = placeholder
+		size = 30
+	}
+
+	soldiers = {
+		culture = native_american_minor
+		religion = placeholder
+		size = 25
+	}
+
+	farmers = {
+		culture = native_american_minor
+		religion = placeholder
+		size = 542
+	}
+
+	aristocrats = {
+		culture = native_american_minor
+		religion = placeholder
+		size = 25
+	}
+}
+
+2293 = {
+	aristocrats = {
+		culture = mexican
+		religion = placeholder
+		size = 200
+	}
+
+	clergymen = {
+		culture = mexican
+		religion = placeholder
+		size = 50
+	}
+
+	artisans = {
+		culture = mexican
+		religion = placeholder
+		size = 100
+	}
+
+	soldiers = {
+		culture = mexican
+		religion = placeholder
+		size = 25
+	}
+
+	farmers = {
+		culture = mexican
+		religion = placeholder
+		size = 1625
+	}
+
+	clergymen = {
+		culture = native_american_minor
+		religion = placeholder
+		size = 75
+	}
+
+	artisans = {
+		culture = native_american_minor
+		religion = placeholder
+		size = 350
+	}
+
+	soldiers = {
+		culture = native_american_minor
+		religion = placeholder
+		size = 75
+	}
+
+	farmers = {
+		culture = native_american_minor
+		religion = placeholder
+		size = 6500
+	}
+}
+
+2296 = {
+	aristocrats = {
+		culture = mexican
+		religion = placeholder
+		size = 325
+	}
+
+	clergymen = {
+		culture = mexican
+		religion = placeholder
+		size = 75
+	}
+
+	artisans = {
+		culture = mexican
+		religion = placeholder
+		size = 100
+	}
+
+	soldiers = {
+		culture = mexican
+		religion = placeholder
+		size = 25
+	}
+
+	farmers = {
+		culture = mexican
+		religion = placeholder
+		size = 1475
+	}
+
+	clergymen = {
+		culture = native_american_minor
+		religion = placeholder
+		size = 50
+	}
+
+	artisans = {
+		culture = native_american_minor
+		religion = placeholder
+		size = 650
+	}
+
+	soldiers = {
+		culture = native_american_minor
+		religion = placeholder
+		size = 125
+	}
+
+	farmers = {
+		culture = native_american_minor
+		religion = placeholder
+		size = 12175
+	}
+}
+
+2299 = {
+	aristocrats = {
+		culture = mexican
+		religion = placeholder
+		size = 86
+	}
+
+	clergymen = {
+		culture = mexican
+		religion = placeholder
+		size = 26
+	}
+
+	artisans = {
+		culture = mexican
+		religion = placeholder
+		size = 30
+	}
+
+	soldiers = {
+		culture = mexican
+		religion = placeholder
+		size = 25
+	}
+
+	farmers = {
+		culture = mexican
+		religion = placeholder
+		size = 431
+	}
+
+	clergymen = {
+		culture = native_american_minor
+		religion = placeholder
+		size = 25
+	}
+
+	artisans = {
+		culture = native_american_minor
+		religion = placeholder
+		size = 172
+	}
+
+	soldiers = {
+		culture = native_american_minor
+		religion = placeholder
+		size = 33
+	}
+
+	farmers = {
+		culture = native_american_minor
+		religion = placeholder
+		size = 3228
+	}
+}
+
+2295 = {
+	aristocrats = {
+		culture = mexican
+		religion = placeholder
+		size = 1675
+	}
+
+	bureaucrats = {
+		culture = mexican
+		religion = placeholder
+		size = 200
+	}
+
+	officers = {
+		culture = mexican
+		religion = placeholder
+		size = 150
+	}
+
+	clergymen = {
+		culture = mexican
+		religion = placeholder
+		size = 700
+	}
+
+	artisans = {
+		culture = mexican
+		religion = placeholder
+		size = 12200
+	}
+
+	soldiers = {
+		culture = mexican
+		religion = placeholder
+		size = 4000
+	}
+
+	farmers = {
+		culture = mexican
+		religion = placeholder
+		size = 42075
+	}
+
+	clergymen = {
+		culture = native_american_minor
+		religion = placeholder
+		size = 75
+	}
+
+	artisans = {
+		culture = native_american_minor
+		religion = placeholder
+		size = 800
+	}
+
+	soldiers = {
+		culture = native_american_minor
+		religion = placeholder
+		size = 175
+	}
+
+	farmers = {
+		culture = native_american_minor
+		religion = placeholder
+		size = 14950
+	}
+
+	clergymen = {
+		culture = afro_american
+		religion = placeholder
+		size = 50
+	}
+
+	artisans = {
+		culture = afro_american
+		religion = placeholder
+		size = 2000
+	}
+
+	soldiers = {
+		culture = afro_american
+		religion = placeholder
+		size = 50
+	}
+
+	farmers = {
+		culture = afro_american
+		religion = placeholder
+		size = 1400
+	}
+
+	slaves = {
+		culture = afro_american
+		religion = placeholder
+		size = 1500
+	}
+}
+
+2297 = {
+	aristocrats = {
+		culture = mexican
+		religion = placeholder
+		size = 48
+	}
+
+	clergymen = {
+		culture = mexican
+		religion = placeholder
+		size = 25
+	}
+
+	artisans = {
+		culture = mexican
+		religion = placeholder
+		size = 30
+	}
+
+	soldiers = {
+		culture = mexican
+		religion = placeholder
+		size = 25
+	}
+
+	farmers = {
+		culture = mexican
+		religion = placeholder
+		size = 502
+	}
+
+	clergymen = {
+		culture = native_american_minor
+		religion = placeholder
+		size = 25
+	}
+
+	artisans = {
+		culture = native_american_minor
+		religion = placeholder
+		size = 75
+	}
+
+	soldiers = {
+		culture = native_american_minor
+		religion = placeholder
+		size = 25
+	}
+
+	farmers = {
+		culture = native_american_minor
+		religion = placeholder
+		size = 1507
+	}
+
+	clergymen = {
+		culture = afro_american
+		religion = placeholder
+		size = 25
+	}
+
+	artisans = {
+		culture = afro_american
+		religion = placeholder
+		size = 25
+	}
+
+	soldiers = {
+		culture = afro_american
+		religion = placeholder
+		size = 25
+	}
+
+	farmers = {
+		culture = afro_american
+		religion = placeholder
+		size = 75
+	}
+
+	slaves = {
+		culture = afro_american
+		religion = placeholder
+		size = 60
+	}
+}
+
+2298 = {
+	aristocrats = {
+		culture = mexican
+		religion = placeholder
+		size = 525
+	}
+
+	clergymen = {
+		culture = mexican
+		religion = placeholder
+		size = 150
+	}
+
+	artisans = {
+		culture = mexican
+		religion = placeholder
+		size = 300
+	}
+
+	soldiers = {
+		culture = mexican
+		religion = placeholder
+		size = 75
+	}
+
+	farmers = {
+		culture = mexican
+		religion = placeholder
+		size = 4950
+	}
+
+	clergymen = {
+		culture = native_american_minor
+		religion = placeholder
+		size = 75
+	}
+
+	artisans = {
+		culture = native_american_minor
+		religion = placeholder
+		size = 850
+	}
+
+	soldiers = {
+		culture = native_american_minor
+		religion = placeholder
+		size = 175
+	}
+
+	farmers = {
+		culture = native_american_minor
+		religion = placeholder
+		size = 15900
+	}
+
+	clergymen = {
+		culture = afro_american
+		religion = placeholder
+		size = 25
+	}
+
+	artisans = {
+		culture = afro_american
+		religion = placeholder
+		size = 100
+	}
+
+	soldiers = {
+		culture = afro_american
+		religion = placeholder
+		size = 25
+	}
+
+	farmers = {
+		culture = afro_american
+		religion = placeholder
+		size = 1100
+	}
+
+	slaves = {
+		culture = afro_american
+		religion = placeholder
+		size = 750
+	}
+}
+
+2300 = {
+	aristocrats = {
+		culture = mexican
+		religion = placeholder
+		size = 14
+	}
+
+	bureaucrats = {
+		culture = mexican
+		religion = placeholder
+		size = 1
+	}
+
+	clergymen = {
+		culture = mexican
+		religion = placeholder
+		size = 25
+	}
+
+	artisans = {
+		culture = mexican
+		religion = placeholder
+		size = 50
+	}
+
+	soldiers = {
+		culture = mexican
+		religion = placeholder
+		size = 10
+	}
+
+	farmers = {
+		culture = mexican
+		religion = placeholder
+		size = 900
+	}
+
+	aristocrats = {
+		culture = native_american_minor
+		religion = placeholder
+		size = 75
+	}
+
+	clergymen = {
+		culture = native_american_minor
+		religion = placeholder
+		size = 50
+	}
+
+	artisans = {
+		culture = native_american_minor
+		religion = placeholder
+		size = 200
+	}
+
+	soldiers = {
+		culture = native_american_minor
+		religion = placeholder
+		size = 50
+	}
+
+	farmers = {
+		culture = native_american_minor
+		religion = placeholder
+		size = 3625
+	}
+}
+
+2301 = {
+	aristocrats = {
+		culture = native_american_minor
+		religion = placeholder
+		size = 25
+	}
+
+	clergymen = {
+		culture = native_american_minor
+		religion = placeholder
+		size = 25
+	}
+
+	artisans = {
+		culture = native_american_minor
+		religion = placeholder
+		size = 25
+	}
+
+	soldiers = {
+		culture = native_american_minor
+		religion = placeholder
+		size = 25
+	}
+
+	farmers = {
+		culture = native_american_minor
+		religion = placeholder
+		size = 405
+	}
+}
+
+2302 = {
+	aristocrats = {
+		culture = mexican
+		religion = placeholder
+		size = 172
+	}
+
+	clergymen = {
+		culture = mexican
+		religion = placeholder
+		size = 56
+	}
+
+	artisans = {
+		culture = mexican
+		religion = placeholder
+		size = 112
+	}
+
+	soldiers = {
+		culture = mexican
+		religion = placeholder
+		size = 165
+	}
+
+	farmers = {
+		culture = mexican
+		religion = placeholder
+		size = 1743
+	}
+
+	clergymen = {
+		culture = native_american_minor
+		religion = placeholder
+		size = 30
+	}
+
+	artisans = {
+		culture = native_american_minor
+		religion = placeholder
+		size = 315
+	}
+
+	soldiers = {
+		culture = native_american_minor
+		religion = placeholder
+		size = 63
+	}
+
+	farmers = {
+		culture = native_american_minor
+		religion = placeholder
+		size = 5891
+	}
+}
+
+2303 = {
+	aristocrats = {
+		culture = mexican
+		religion = placeholder
+		size = 86
+	}
+
+	clergymen = {
+		culture = mexican
+		religion = placeholder
+		size = 25
+	}
+
+	artisans = {
+		culture = mexican
+		religion = placeholder
+		size = 25
+	}
+
+	soldiers = {
+		culture = mexican
+		religion = placeholder
+		size = 25
+	}
+
+	farmers = {
+		culture = mexican
+		religion = placeholder
+		size = 311
+	}
+
+	clergymen = {
+		culture = native_american_minor
+		religion = placeholder
+		size = 25
+	}
+
+	artisans = {
+		culture = native_american_minor
+		religion = placeholder
+		size = 172
+	}
+
+	soldiers = {
+		culture = native_american_minor
+		religion = placeholder
+		size = 37
+	}
+
+	farmers = {
+		culture = native_american_minor
+		religion = placeholder
+		size = 3225
+	}
+}
+
+2304 = {
+	aristocrats = {
+		culture = mexican
+		religion = placeholder
+		size = 56
+	}
+
+	clergymen = {
+		culture = mexican
+		religion = placeholder
+		size = 25
+	}
+
+	artisans = {
+		culture = mexican
+		religion = placeholder
+		size = 30
+	}
+
+	soldiers = {
+		culture = mexican
+		religion = placeholder
+		size = 25
+	}
+
+	farmers = {
+		culture = mexican
+		religion = placeholder
+		size = 487
+	}
+
+	clergymen = {
+		culture = native_american_minor
+		religion = placeholder
+		size = 25
+	}
+
+	artisans = {
+		culture = native_american_minor
+		religion = placeholder
+		size = 105
+	}
+
+	soldiers = {
+		culture = native_american_minor
+		religion = placeholder
+		size = 25
+	}
+
+	farmers = {
+		culture = native_american_minor
+		religion = placeholder
+		size = 1965
+	}
+}
+
+2578 = {
+	aristocrats = {
+		culture = mexican
+		religion = placeholder
+		size = 82
+	}
+
+	clergymen = {
+		culture = mexican
+		religion = placeholder
+		size = 25
+	}
+
+	artisans = {
+		culture = mexican
+		religion = placeholder
+		size = 37
+	}
+
+	soldiers = {
+		culture = mexican
+		religion = placeholder
+		size = 25
+	}
+
+	farmers = {
+		culture = mexican
+		religion = placeholder
+		size = 588
+	}
+
+	clergymen = {
+		culture = native_american_minor
+		religion = placeholder
+		size = 25
+	}
+
+	artisans = {
+		culture = native_american_minor
+		religion = placeholder
+		size = 165
+	}
+
+	soldiers = {
+		culture = native_american_minor
+		religion = placeholder
+		size = 30
+	}
+
+	farmers = {
+		culture = native_american_minor
+		religion = placeholder
+		size = 2805
+	}
+}

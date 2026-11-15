@@ -1,0 +1,85 @@
+251 = {
+	bureaucrats = {
+		culture = swedish
+		religion = placeholder
+		size = 25
+	}
+
+	clergymen = {
+		culture = swedish
+		religion = placeholder
+		size = 15
+	}
+
+	artisans = {
+		culture = swedish
+		religion = placeholder
+		size = 15
+	}
+
+	farmers = {
+		culture = native_american_minor
+		religion = placeholder
+		size = 1100
+	}
+}
+
+2591 = {
+	clergymen = {
+		culture = swedish
+		religion = placeholder
+		size = 4
+	}
+
+	artisans = {
+		culture = swedish
+		religion = placeholder
+		size = 4
+	}
+
+	farmers = {
+		culture = native_american_minor
+		religion = placeholder
+		size = 300
+	}
+}
+
+2632 = {
+	clergymen = {
+		culture = swedish
+		religion = placeholder
+		size = 4
+	}
+
+	artisans = {
+		culture = swedish
+		religion = placeholder
+		size = 4
+	}
+
+	farmers = {
+		culture = native_american_minor
+		religion = placeholder
+		size = 300
+	}
+}
+
+2636 = {
+	clergymen = {
+		culture = swedish
+		religion = placeholder
+		size = 2
+	}
+
+	artisans = {
+		culture = swedish
+		religion = placeholder
+		size = 2
+	}
+
+	farmers = {
+		culture = native_american_minor
+		religion = placeholder
+		size = 200
+	}
+}

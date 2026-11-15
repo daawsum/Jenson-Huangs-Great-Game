@@ -1,0 +1,1247 @@
+ZHL;Zhili Clique;;;;;;;;;;;;;x
+ZHL_ADJ;Zhili;;;;;;;;;;;;;x
+FTN;Fengtian Regency;;;;;;;;;;;;;x
+FTN_ADJ;Fengtian;;;;;;;;;;;;;x
+AHC;Anhui Clique;;;;;;;;;;;;;x
+AHC_ADJ;Anhui;;;;;;;;;;;;;x
+SXI;Shanxi Model Province;;;;;;;;;;;;;x
+SXI_ADJ;Shanxi;;;;;;;;;;;;;x
+GMJ;Guominjun;;;;;;;;;;;;;x
+GMJ_ADJ;Guominjun;;;;;;;;;;;;;x
+SDG;Shandong Military Government;;;;;;;;;;;;;x
+SDG_ADJ;Shandong;;;;;;;;;;;;;x
+HNA;Henan Pacification Zone;;;;;;;;;;;;;x
+HNA_ADJ;Henan;;;;;;;;;;;;;x
+JSU;League of Five Provinces;;;;;;;;;;;;;x
+JSU_ADJ;League;;;;;;;;;;;;;x
+ZHJ;Zhejiang Republic;;;;;;;;;;;;;x
+ZHJ_ADJ;Zhejiang;;;;;;;;;;;;;x
+FUJ;Fujian People's Government;;;;;;;;;;;;;x
+FUJ_ADJ;Fujian;;;;;;;;;;;;;x
+GDG;Canton Government;;;;;;;;;;;;;x
+GDG_ADJ;Cantonese;;;;;;;;;;;;;x
+GXI;Guangxi Clique;;;;;;;;;;;;;x
+GXI_ADJ;Guangxi;;;;;;;;;;;;;x
+HNC;Hunan Federation;;;;;;;;;;;;;x
+HNC_ADJ;Hunanese;;;;;;;;;;;;;x
+HBE;Hubei Military Government;;;;;;;;;;;;;x
+HBE_ADJ;Hubei;;;;;;;;;;;;;x
+JXI;Jiangxi Garrison Command;;;;;;;;;;;;;x
+JXI_ADJ;Jiangxi;;;;;;;;;;;;;x
+SZC;Sichuan Clique;;;;;;;;;;;;;x
+SZC_ADJ;Sichuan;;;;;;;;;;;;;x
+YNN;Yunnan Protection Army;;;;;;;;;;;;;x
+YNN_ADJ;Yunnan;;;;;;;;;;;;;x
+GZH;Guizhou Clique;;;;;;;;;;;;;x
+GZH_ADJ;Guizhou;;;;;;;;;;;;;x
+XBI;Ma Clique;;;;;;;;;;;;;x
+XBI_ADJ;Ma;;;;;;;;;;;;;x
+XIN;Xinjiang Governorate;;;;;;;;;;;;;x
+XIN_ADJ;Xinjiang;;;;;;;;;;;;;x
+JLN;Jilin Banner Lands;;;;;;;;;;;;;x
+JLN_ADJ;Jilin;;;;;;;;;;;;;x
+HLJ;Heilongjiang Frontier;;;;;;;;;;;;;x
+HLJ_ADJ;Heilongjiang;;;;;;;;;;;;;x
+RHE;Rehe League;;;;;;;;;;;;;x
+RHE_ADJ;Rehe;;;;;;;;;;;;;x
+CHH;Chahar League;;;;;;;;;;;;;x
+CHH_ADJ;Chahar;;;;;;;;;;;;;x
+SYN;Suiyuan Command;;;;;;;;;;;;;x
+SYN_ADJ;Suiyuan;;;;;;;;;;;;;x
+NXA;Ningxia Command;;;;;;;;;;;;;x
+NXA_ADJ;Ningxia;;;;;;;;;;;;;x
+QHI;Kokonor Command;;;;;;;;;;;;;x
+QHI_ADJ;Kokonor;;;;;;;;;;;;;x
+XKG;Xikang Marches;;;;;;;;;;;;;x
+XKG_ADJ;Xikang;;;;;;;;;;;;;x
+CQG;Chongqing Arsenal State;;;;;;;;;;;;;x
+CQG_ADJ;Chongqing;;;;;;;;;;;;;x
+TIB;Tibet;;;;;;;;;;;;;x
+TIB_ADJ;Tibetan;;;;;;;;;;;;;x
+HNI;Hainan Garrison;;;;;;;;;;;;;x
+HNI_ADJ;Hainan;;;;;;;;;;;;;x
+TWN;Republic of Formosa;;;;;;;;;;;;;x
+TWN_ADJ;Formosan;;;;;;;;;;;;;x
+SHG;Shanghai Free City;;;;;;;;;;;;;x
+SHG_ADJ;Shanghai;;;;;;;;;;;;;x
+XZC;Xuzhou Pigtail Army;;;;;;;;;;;;;x
+XZC_ADJ;Xuzhou;;;;;;;;;;;;;x
+KSG;Kashgaria;;;;;;;;;;;;;x
+KSG_ADJ;Kashgar;;;;;;;;;;;;;x
+DFS;Fusang;;;;;;;;;;;;;x
+DFS_ADJ;Fusang;;;;;;;;;;;;;x
+DJS;Jinshan;;;;;;;;;;;;;x
+DJS_ADJ;Jinshan;;;;;;;;;;;;;x
+DBZ;Beizhou;;;;;;;;;;;;;x
+DBZ_ADJ;Beizhou;;;;;;;;;;;;;x
+DMX;Moxige;;;;;;;;;;;;;x
+DMX_ADJ;Moxige;;;;;;;;;;;;;x
+DJL;Jialebi;;;;;;;;;;;;;x
+DJL_ADJ;Jialebi;;;;;;;;;;;;;x
+DAD;Andisi;;;;;;;;;;;;;x
+DAD_ADJ;Andisi;;;;;;;;;;;;;x
+DBX;Baxi;;;;;;;;;;;;;x
+DBX_ADJ;Baxi;;;;;;;;;;;;;x
+DYH;Yinhe;;;;;;;;;;;;;x
+DYH_ADJ;Yinhe;;;;;;;;;;;;;x
+DNZ;Nanzhou;;;;;;;;;;;;;x
+DNZ_ADJ;Nanzhou;;;;;;;;;;;;;x
+DXL;Xinxilan;;;;;;;;;;;;;x
+DXL_ADJ;Xinxilan;;;;;;;;;;;;;x
+DXF;Xifei;;;;;;;;;;;;;x
+DXF_ADJ;Xifei;;;;;;;;;;;;;x
+DZF;Zhongfei;;;;;;;;;;;;;x
+DZF_ADJ;Zhongfei;;;;;;;;;;;;;x
+DDF;Dongfei;;;;;;;;;;;;;x
+DDF_ADJ;Dongfei;;;;;;;;;;;;;x
+DNF;Nanfei;;;;;;;;;;;;;x
+DNF_ADJ;Nanfei;;;;;;;;;;;;;x
+DBH;Beihai;;;;;;;;;;;;;x
+DBH_ADJ;Beihai;;;;;;;;;;;;;x
+DXY;Xiyu;;;;;;;;;;;;;x
+DXY_ADJ;Xiyu;;;;;;;;;;;;;x
+DNY;Nanyang;;;;;;;;;;;;;x
+DNY_ADJ;Nanyang;;;;;;;;;;;;;x
+BYG;Beiyang Government;;;;;;;;;;;;;x
+BYG_ADJ;Beiyang;;;;;;;;;;;;;x
+LGG;Liangguang;;;;;;;;;;;;;x
+LGG_ADJ;Liangguang;;;;;;;;;;;;;x
+SHU;Shu;;;;;;;;;;;;;x
+SHU_ADJ;Shu;;;;;;;;;;;;;x
+WUU;Wu;;;;;;;;;;;;;x
+WUU_ADJ;Wu;;;;;;;;;;;;;x
+CHU;Chu;;;;;;;;;;;;;x
+CHU_ADJ;Chu;;;;;;;;;;;;;x
+DIA;Dian;;;;;;;;;;;;;x
+DIA_ADJ;Dian;;;;;;;;;;;;;x
+NWF;Northwest Federation;;;;;;;;;;;;;x
+NWF_ADJ;Northwestern;;;;;;;;;;;;;x
+MZG;Manchuria;;;;;;;;;;;;;x
+MZG_ADJ;Manchurian;;;;;;;;;;;;;x
+KHG;Mongol Empire;;;;;;;;;;;;;x
+KHG_ADJ;Mongol;;;;;;;;;;;;;x
+KLS;Khalsa Raj;;;;;;;;;;;;;x
+KLS_ADJ;Khalsa;;;;;;;;;;;;;x
+PSE;Persian Empire;;;;;;;;;;;;;x
+PSE_ADJ;Persian;;;;;;;;;;;;;x
+ZHL_conservative;Old Guard;;;;;;;;;;;;;x
+ZHL_conservative_2;Old Guard;;;;;;;;;;;;;x
+ZHL_liberal;Reform Society;;;;;;;;;;;;;x
+ZHL_reactionary;Military Clique;;;;;;;;;;;;;x
+ZHL_anarcho_liberal;Free Association;;;;;;;;;;;;;x
+ZHL_conservative_3;Old Guard;;;;;;;;;;;;;x
+ZHL_liberal_2;Reform Society;;;;;;;;;;;;;x
+ZHL_liberal_3;Reform Society;;;;;;;;;;;;;x
+ZHL_socialist;Labour Union;;;;;;;;;;;;;x
+ZHL_communist;Soviet Committee;;;;;;;;;;;;;x
+ZHL_fascist;Blue Shirts;;;;;;;;;;;;;x
+ZHL_conservative_4;Old Guard;;;;;;;;;;;;;x
+ZHL_reactionary_2;Military Clique;;;;;;;;;;;;;x
+FTN_conservative;Old Guard;;;;;;;;;;;;;x
+FTN_conservative_2;Old Guard;;;;;;;;;;;;;x
+FTN_liberal;Reform Society;;;;;;;;;;;;;x
+FTN_reactionary;Military Clique;;;;;;;;;;;;;x
+FTN_anarcho_liberal;Free Association;;;;;;;;;;;;;x
+FTN_conservative_3;Old Guard;;;;;;;;;;;;;x
+FTN_liberal_2;Reform Society;;;;;;;;;;;;;x
+FTN_liberal_3;Reform Society;;;;;;;;;;;;;x
+FTN_socialist;Labour Union;;;;;;;;;;;;;x
+FTN_communist;Soviet Committee;;;;;;;;;;;;;x
+FTN_fascist;Blue Shirts;;;;;;;;;;;;;x
+FTN_conservative_4;Old Guard;;;;;;;;;;;;;x
+FTN_reactionary_2;Military Clique;;;;;;;;;;;;;x
+AHC_conservative;Old Guard;;;;;;;;;;;;;x
+AHC_conservative_2;Old Guard;;;;;;;;;;;;;x
+AHC_liberal;Reform Society;;;;;;;;;;;;;x
+AHC_reactionary;Military Clique;;;;;;;;;;;;;x
+AHC_anarcho_liberal;Free Association;;;;;;;;;;;;;x
+AHC_conservative_3;Old Guard;;;;;;;;;;;;;x
+AHC_liberal_2;Reform Society;;;;;;;;;;;;;x
+AHC_liberal_3;Reform Society;;;;;;;;;;;;;x
+AHC_socialist;Labour Union;;;;;;;;;;;;;x
+AHC_communist;Soviet Committee;;;;;;;;;;;;;x
+AHC_fascist;Blue Shirts;;;;;;;;;;;;;x
+AHC_conservative_4;Old Guard;;;;;;;;;;;;;x
+AHC_reactionary_2;Military Clique;;;;;;;;;;;;;x
+SXI_conservative;Old Guard;;;;;;;;;;;;;x
+SXI_conservative_2;Old Guard;;;;;;;;;;;;;x
+SXI_liberal;Reform Society;;;;;;;;;;;;;x
+SXI_reactionary;Military Clique;;;;;;;;;;;;;x
+SXI_anarcho_liberal;Free Association;;;;;;;;;;;;;x
+SXI_conservative_3;Old Guard;;;;;;;;;;;;;x
+SXI_liberal_2;Reform Society;;;;;;;;;;;;;x
+SXI_liberal_3;Reform Society;;;;;;;;;;;;;x
+SXI_socialist;Labour Union;;;;;;;;;;;;;x
+SXI_communist;Soviet Committee;;;;;;;;;;;;;x
+SXI_fascist;Blue Shirts;;;;;;;;;;;;;x
+SXI_conservative_4;Old Guard;;;;;;;;;;;;;x
+SXI_reactionary_2;Military Clique;;;;;;;;;;;;;x
+GMJ_conservative;Old Guard;;;;;;;;;;;;;x
+GMJ_conservative_2;Old Guard;;;;;;;;;;;;;x
+GMJ_liberal;Reform Society;;;;;;;;;;;;;x
+GMJ_reactionary;Military Clique;;;;;;;;;;;;;x
+GMJ_anarcho_liberal;Free Association;;;;;;;;;;;;;x
+GMJ_conservative_3;Old Guard;;;;;;;;;;;;;x
+GMJ_liberal_2;Reform Society;;;;;;;;;;;;;x
+GMJ_liberal_3;Reform Society;;;;;;;;;;;;;x
+GMJ_socialist;Labour Union;;;;;;;;;;;;;x
+GMJ_communist;Soviet Committee;;;;;;;;;;;;;x
+GMJ_fascist;Blue Shirts;;;;;;;;;;;;;x
+GMJ_conservative_4;Old Guard;;;;;;;;;;;;;x
+GMJ_reactionary_2;Military Clique;;;;;;;;;;;;;x
+SDG_conservative;Old Guard;;;;;;;;;;;;;x
+SDG_conservative_2;Old Guard;;;;;;;;;;;;;x
+SDG_liberal;Reform Society;;;;;;;;;;;;;x
+SDG_reactionary;Military Clique;;;;;;;;;;;;;x
+SDG_anarcho_liberal;Free Association;;;;;;;;;;;;;x
+SDG_conservative_3;Old Guard;;;;;;;;;;;;;x
+SDG_liberal_2;Reform Society;;;;;;;;;;;;;x
+SDG_liberal_3;Reform Society;;;;;;;;;;;;;x
+SDG_socialist;Labour Union;;;;;;;;;;;;;x
+SDG_communist;Soviet Committee;;;;;;;;;;;;;x
+SDG_fascist;Blue Shirts;;;;;;;;;;;;;x
+SDG_conservative_4;Old Guard;;;;;;;;;;;;;x
+SDG_reactionary_2;Military Clique;;;;;;;;;;;;;x
+HNA_conservative;Old Guard;;;;;;;;;;;;;x
+HNA_conservative_2;Old Guard;;;;;;;;;;;;;x
+HNA_liberal;Reform Society;;;;;;;;;;;;;x
+HNA_reactionary;Military Clique;;;;;;;;;;;;;x
+HNA_anarcho_liberal;Free Association;;;;;;;;;;;;;x
+HNA_conservative_3;Old Guard;;;;;;;;;;;;;x
+HNA_liberal_2;Reform Society;;;;;;;;;;;;;x
+HNA_liberal_3;Reform Society;;;;;;;;;;;;;x
+HNA_socialist;Labour Union;;;;;;;;;;;;;x
+HNA_communist;Soviet Committee;;;;;;;;;;;;;x
+HNA_fascist;Blue Shirts;;;;;;;;;;;;;x
+HNA_conservative_4;Old Guard;;;;;;;;;;;;;x
+HNA_reactionary_2;Military Clique;;;;;;;;;;;;;x
+JSU_conservative;Old Guard;;;;;;;;;;;;;x
+JSU_conservative_2;Old Guard;;;;;;;;;;;;;x
+JSU_liberal;Reform Society;;;;;;;;;;;;;x
+JSU_reactionary;Military Clique;;;;;;;;;;;;;x
+JSU_anarcho_liberal;Free Association;;;;;;;;;;;;;x
+JSU_conservative_3;Old Guard;;;;;;;;;;;;;x
+JSU_liberal_2;Reform Society;;;;;;;;;;;;;x
+JSU_liberal_3;Reform Society;;;;;;;;;;;;;x
+JSU_socialist;Labour Union;;;;;;;;;;;;;x
+JSU_communist;Soviet Committee;;;;;;;;;;;;;x
+JSU_fascist;Blue Shirts;;;;;;;;;;;;;x
+JSU_conservative_4;Old Guard;;;;;;;;;;;;;x
+JSU_reactionary_2;Military Clique;;;;;;;;;;;;;x
+ZHJ_conservative;Old Guard;;;;;;;;;;;;;x
+ZHJ_conservative_2;Old Guard;;;;;;;;;;;;;x
+ZHJ_liberal;Reform Society;;;;;;;;;;;;;x
+ZHJ_reactionary;Military Clique;;;;;;;;;;;;;x
+ZHJ_anarcho_liberal;Free Association;;;;;;;;;;;;;x
+ZHJ_conservative_3;Old Guard;;;;;;;;;;;;;x
+ZHJ_liberal_2;Reform Society;;;;;;;;;;;;;x
+ZHJ_liberal_3;Reform Society;;;;;;;;;;;;;x
+ZHJ_socialist;Labour Union;;;;;;;;;;;;;x
+ZHJ_communist;Soviet Committee;;;;;;;;;;;;;x
+ZHJ_fascist;Blue Shirts;;;;;;;;;;;;;x
+ZHJ_conservative_4;Old Guard;;;;;;;;;;;;;x
+ZHJ_reactionary_2;Military Clique;;;;;;;;;;;;;x
+FUJ_conservative;Old Guard;;;;;;;;;;;;;x
+FUJ_conservative_2;Old Guard;;;;;;;;;;;;;x
+FUJ_liberal;Reform Society;;;;;;;;;;;;;x
+FUJ_reactionary;Military Clique;;;;;;;;;;;;;x
+FUJ_anarcho_liberal;Free Association;;;;;;;;;;;;;x
+FUJ_conservative_3;Old Guard;;;;;;;;;;;;;x
+FUJ_liberal_2;Reform Society;;;;;;;;;;;;;x
+FUJ_liberal_3;Reform Society;;;;;;;;;;;;;x
+FUJ_socialist;Labour Union;;;;;;;;;;;;;x
+FUJ_communist;Soviet Committee;;;;;;;;;;;;;x
+FUJ_fascist;Blue Shirts;;;;;;;;;;;;;x
+FUJ_conservative_4;Old Guard;;;;;;;;;;;;;x
+FUJ_reactionary_2;Military Clique;;;;;;;;;;;;;x
+GDG_conservative;Old Guard;;;;;;;;;;;;;x
+GDG_conservative_2;Old Guard;;;;;;;;;;;;;x
+GDG_liberal;Reform Society;;;;;;;;;;;;;x
+GDG_reactionary;Military Clique;;;;;;;;;;;;;x
+GDG_anarcho_liberal;Free Association;;;;;;;;;;;;;x
+GDG_conservative_3;Old Guard;;;;;;;;;;;;;x
+GDG_liberal_2;Reform Society;;;;;;;;;;;;;x
+GDG_liberal_3;Reform Society;;;;;;;;;;;;;x
+GDG_socialist;Labour Union;;;;;;;;;;;;;x
+GDG_communist;Soviet Committee;;;;;;;;;;;;;x
+GDG_fascist;Blue Shirts;;;;;;;;;;;;;x
+GDG_conservative_4;Old Guard;;;;;;;;;;;;;x
+GDG_reactionary_2;Military Clique;;;;;;;;;;;;;x
+GXI_conservative;Old Guard;;;;;;;;;;;;;x
+GXI_conservative_2;Old Guard;;;;;;;;;;;;;x
+GXI_liberal;Reform Society;;;;;;;;;;;;;x
+GXI_reactionary;Military Clique;;;;;;;;;;;;;x
+GXI_anarcho_liberal;Free Association;;;;;;;;;;;;;x
+GXI_conservative_3;Old Guard;;;;;;;;;;;;;x
+GXI_liberal_2;Reform Society;;;;;;;;;;;;;x
+GXI_liberal_3;Reform Society;;;;;;;;;;;;;x
+GXI_socialist;Labour Union;;;;;;;;;;;;;x
+GXI_communist;Soviet Committee;;;;;;;;;;;;;x
+GXI_fascist;Blue Shirts;;;;;;;;;;;;;x
+GXI_conservative_4;Old Guard;;;;;;;;;;;;;x
+GXI_reactionary_2;Military Clique;;;;;;;;;;;;;x
+HNC_conservative;Old Guard;;;;;;;;;;;;;x
+HNC_conservative_2;Old Guard;;;;;;;;;;;;;x
+HNC_liberal;Reform Society;;;;;;;;;;;;;x
+HNC_reactionary;Military Clique;;;;;;;;;;;;;x
+HNC_anarcho_liberal;Free Association;;;;;;;;;;;;;x
+HNC_conservative_3;Old Guard;;;;;;;;;;;;;x
+HNC_liberal_2;Reform Society;;;;;;;;;;;;;x
+HNC_liberal_3;Reform Society;;;;;;;;;;;;;x
+HNC_socialist;Labour Union;;;;;;;;;;;;;x
+HNC_communist;Soviet Committee;;;;;;;;;;;;;x
+HNC_fascist;Blue Shirts;;;;;;;;;;;;;x
+HNC_conservative_4;Old Guard;;;;;;;;;;;;;x
+HNC_reactionary_2;Military Clique;;;;;;;;;;;;;x
+HBE_conservative;Old Guard;;;;;;;;;;;;;x
+HBE_conservative_2;Old Guard;;;;;;;;;;;;;x
+HBE_liberal;Reform Society;;;;;;;;;;;;;x
+HBE_reactionary;Military Clique;;;;;;;;;;;;;x
+HBE_anarcho_liberal;Free Association;;;;;;;;;;;;;x
+HBE_conservative_3;Old Guard;;;;;;;;;;;;;x
+HBE_liberal_2;Reform Society;;;;;;;;;;;;;x
+HBE_liberal_3;Reform Society;;;;;;;;;;;;;x
+HBE_socialist;Labour Union;;;;;;;;;;;;;x
+HBE_communist;Soviet Committee;;;;;;;;;;;;;x
+HBE_fascist;Blue Shirts;;;;;;;;;;;;;x
+HBE_conservative_4;Old Guard;;;;;;;;;;;;;x
+HBE_reactionary_2;Military Clique;;;;;;;;;;;;;x
+JXI_conservative;Old Guard;;;;;;;;;;;;;x
+JXI_conservative_2;Old Guard;;;;;;;;;;;;;x
+JXI_liberal;Reform Society;;;;;;;;;;;;;x
+JXI_reactionary;Military Clique;;;;;;;;;;;;;x
+JXI_anarcho_liberal;Free Association;;;;;;;;;;;;;x
+JXI_conservative_3;Old Guard;;;;;;;;;;;;;x
+JXI_liberal_2;Reform Society;;;;;;;;;;;;;x
+JXI_liberal_3;Reform Society;;;;;;;;;;;;;x
+JXI_socialist;Labour Union;;;;;;;;;;;;;x
+JXI_communist;Soviet Committee;;;;;;;;;;;;;x
+JXI_fascist;Blue Shirts;;;;;;;;;;;;;x
+JXI_conservative_4;Old Guard;;;;;;;;;;;;;x
+JXI_reactionary_2;Military Clique;;;;;;;;;;;;;x
+SZC_conservative;Old Guard;;;;;;;;;;;;;x
+SZC_conservative_2;Old Guard;;;;;;;;;;;;;x
+SZC_liberal;Reform Society;;;;;;;;;;;;;x
+SZC_reactionary;Military Clique;;;;;;;;;;;;;x
+SZC_anarcho_liberal;Free Association;;;;;;;;;;;;;x
+SZC_conservative_3;Old Guard;;;;;;;;;;;;;x
+SZC_liberal_2;Reform Society;;;;;;;;;;;;;x
+SZC_liberal_3;Reform Society;;;;;;;;;;;;;x
+SZC_socialist;Labour Union;;;;;;;;;;;;;x
+SZC_communist;Soviet Committee;;;;;;;;;;;;;x
+SZC_fascist;Blue Shirts;;;;;;;;;;;;;x
+SZC_conservative_4;Old Guard;;;;;;;;;;;;;x
+SZC_reactionary_2;Military Clique;;;;;;;;;;;;;x
+YNN_conservative;Old Guard;;;;;;;;;;;;;x
+YNN_conservative_2;Old Guard;;;;;;;;;;;;;x
+YNN_liberal;Reform Society;;;;;;;;;;;;;x
+YNN_reactionary;Military Clique;;;;;;;;;;;;;x
+YNN_anarcho_liberal;Free Association;;;;;;;;;;;;;x
+YNN_conservative_3;Old Guard;;;;;;;;;;;;;x
+YNN_liberal_2;Reform Society;;;;;;;;;;;;;x
+YNN_liberal_3;Reform Society;;;;;;;;;;;;;x
+YNN_socialist;Labour Union;;;;;;;;;;;;;x
+YNN_communist;Soviet Committee;;;;;;;;;;;;;x
+YNN_fascist;Blue Shirts;;;;;;;;;;;;;x
+YNN_conservative_4;Old Guard;;;;;;;;;;;;;x
+YNN_reactionary_2;Military Clique;;;;;;;;;;;;;x
+GZH_conservative;Old Guard;;;;;;;;;;;;;x
+GZH_conservative_2;Old Guard;;;;;;;;;;;;;x
+GZH_liberal;Reform Society;;;;;;;;;;;;;x
+GZH_reactionary;Military Clique;;;;;;;;;;;;;x
+GZH_anarcho_liberal;Free Association;;;;;;;;;;;;;x
+GZH_conservative_3;Old Guard;;;;;;;;;;;;;x
+GZH_liberal_2;Reform Society;;;;;;;;;;;;;x
+GZH_liberal_3;Reform Society;;;;;;;;;;;;;x
+GZH_socialist;Labour Union;;;;;;;;;;;;;x
+GZH_communist;Soviet Committee;;;;;;;;;;;;;x
+GZH_fascist;Blue Shirts;;;;;;;;;;;;;x
+GZH_conservative_4;Old Guard;;;;;;;;;;;;;x
+GZH_reactionary_2;Military Clique;;;;;;;;;;;;;x
+XBI_conservative;Old Guard;;;;;;;;;;;;;x
+XBI_conservative_2;Old Guard;;;;;;;;;;;;;x
+XBI_liberal;Reform Society;;;;;;;;;;;;;x
+XBI_reactionary;Military Clique;;;;;;;;;;;;;x
+XBI_anarcho_liberal;Free Association;;;;;;;;;;;;;x
+XBI_conservative_3;Old Guard;;;;;;;;;;;;;x
+XBI_liberal_2;Reform Society;;;;;;;;;;;;;x
+XBI_liberal_3;Reform Society;;;;;;;;;;;;;x
+XBI_socialist;Labour Union;;;;;;;;;;;;;x
+XBI_communist;Soviet Committee;;;;;;;;;;;;;x
+XBI_fascist;Blue Shirts;;;;;;;;;;;;;x
+XBI_conservative_4;Old Guard;;;;;;;;;;;;;x
+XBI_reactionary_2;Military Clique;;;;;;;;;;;;;x
+XIN_conservative;Old Guard;;;;;;;;;;;;;x
+XIN_conservative_2;Old Guard;;;;;;;;;;;;;x
+XIN_liberal;Reform Society;;;;;;;;;;;;;x
+XIN_reactionary;Military Clique;;;;;;;;;;;;;x
+XIN_anarcho_liberal;Free Association;;;;;;;;;;;;;x
+XIN_conservative_3;Old Guard;;;;;;;;;;;;;x
+XIN_liberal_2;Reform Society;;;;;;;;;;;;;x
+XIN_liberal_3;Reform Society;;;;;;;;;;;;;x
+XIN_socialist;Labour Union;;;;;;;;;;;;;x
+XIN_communist;Soviet Committee;;;;;;;;;;;;;x
+XIN_fascist;Blue Shirts;;;;;;;;;;;;;x
+XIN_conservative_4;Old Guard;;;;;;;;;;;;;x
+XIN_reactionary_2;Military Clique;;;;;;;;;;;;;x
+JLN_conservative;Old Guard;;;;;;;;;;;;;x
+JLN_conservative_2;Old Guard;;;;;;;;;;;;;x
+JLN_liberal;Reform Society;;;;;;;;;;;;;x
+JLN_reactionary;Military Clique;;;;;;;;;;;;;x
+JLN_anarcho_liberal;Free Association;;;;;;;;;;;;;x
+JLN_conservative_3;Old Guard;;;;;;;;;;;;;x
+JLN_liberal_2;Reform Society;;;;;;;;;;;;;x
+JLN_liberal_3;Reform Society;;;;;;;;;;;;;x
+JLN_socialist;Labour Union;;;;;;;;;;;;;x
+JLN_communist;Soviet Committee;;;;;;;;;;;;;x
+JLN_fascist;Blue Shirts;;;;;;;;;;;;;x
+JLN_conservative_4;Old Guard;;;;;;;;;;;;;x
+JLN_reactionary_2;Military Clique;;;;;;;;;;;;;x
+HLJ_conservative;Old Guard;;;;;;;;;;;;;x
+HLJ_conservative_2;Old Guard;;;;;;;;;;;;;x
+HLJ_liberal;Reform Society;;;;;;;;;;;;;x
+HLJ_reactionary;Military Clique;;;;;;;;;;;;;x
+HLJ_anarcho_liberal;Free Association;;;;;;;;;;;;;x
+HLJ_conservative_3;Old Guard;;;;;;;;;;;;;x
+HLJ_liberal_2;Reform Society;;;;;;;;;;;;;x
+HLJ_liberal_3;Reform Society;;;;;;;;;;;;;x
+HLJ_socialist;Labour Union;;;;;;;;;;;;;x
+HLJ_communist;Soviet Committee;;;;;;;;;;;;;x
+HLJ_fascist;Blue Shirts;;;;;;;;;;;;;x
+HLJ_conservative_4;Old Guard;;;;;;;;;;;;;x
+HLJ_reactionary_2;Military Clique;;;;;;;;;;;;;x
+RHE_conservative;Old Guard;;;;;;;;;;;;;x
+RHE_conservative_2;Old Guard;;;;;;;;;;;;;x
+RHE_liberal;Reform Society;;;;;;;;;;;;;x
+RHE_reactionary;Military Clique;;;;;;;;;;;;;x
+RHE_anarcho_liberal;Free Association;;;;;;;;;;;;;x
+RHE_conservative_3;Old Guard;;;;;;;;;;;;;x
+RHE_liberal_2;Reform Society;;;;;;;;;;;;;x
+RHE_liberal_3;Reform Society;;;;;;;;;;;;;x
+RHE_socialist;Labour Union;;;;;;;;;;;;;x
+RHE_communist;Soviet Committee;;;;;;;;;;;;;x
+RHE_fascist;Blue Shirts;;;;;;;;;;;;;x
+RHE_conservative_4;Old Guard;;;;;;;;;;;;;x
+RHE_reactionary_2;Military Clique;;;;;;;;;;;;;x
+CHH_conservative;Old Guard;;;;;;;;;;;;;x
+CHH_conservative_2;Old Guard;;;;;;;;;;;;;x
+CHH_liberal;Reform Society;;;;;;;;;;;;;x
+CHH_reactionary;Military Clique;;;;;;;;;;;;;x
+CHH_anarcho_liberal;Free Association;;;;;;;;;;;;;x
+CHH_conservative_3;Old Guard;;;;;;;;;;;;;x
+CHH_liberal_2;Reform Society;;;;;;;;;;;;;x
+CHH_liberal_3;Reform Society;;;;;;;;;;;;;x
+CHH_socialist;Labour Union;;;;;;;;;;;;;x
+CHH_communist;Soviet Committee;;;;;;;;;;;;;x
+CHH_fascist;Blue Shirts;;;;;;;;;;;;;x
+CHH_conservative_4;Old Guard;;;;;;;;;;;;;x
+CHH_reactionary_2;Military Clique;;;;;;;;;;;;;x
+SYN_conservative;Old Guard;;;;;;;;;;;;;x
+SYN_conservative_2;Old Guard;;;;;;;;;;;;;x
+SYN_liberal;Reform Society;;;;;;;;;;;;;x
+SYN_reactionary;Military Clique;;;;;;;;;;;;;x
+SYN_anarcho_liberal;Free Association;;;;;;;;;;;;;x
+SYN_conservative_3;Old Guard;;;;;;;;;;;;;x
+SYN_liberal_2;Reform Society;;;;;;;;;;;;;x
+SYN_liberal_3;Reform Society;;;;;;;;;;;;;x
+SYN_socialist;Labour Union;;;;;;;;;;;;;x
+SYN_communist;Soviet Committee;;;;;;;;;;;;;x
+SYN_fascist;Blue Shirts;;;;;;;;;;;;;x
+SYN_conservative_4;Old Guard;;;;;;;;;;;;;x
+SYN_reactionary_2;Military Clique;;;;;;;;;;;;;x
+NXA_conservative;Old Guard;;;;;;;;;;;;;x
+NXA_conservative_2;Old Guard;;;;;;;;;;;;;x
+NXA_liberal;Reform Society;;;;;;;;;;;;;x
+NXA_reactionary;Military Clique;;;;;;;;;;;;;x
+NXA_anarcho_liberal;Free Association;;;;;;;;;;;;;x
+NXA_conservative_3;Old Guard;;;;;;;;;;;;;x
+NXA_liberal_2;Reform Society;;;;;;;;;;;;;x
+NXA_liberal_3;Reform Society;;;;;;;;;;;;;x
+NXA_socialist;Labour Union;;;;;;;;;;;;;x
+NXA_communist;Soviet Committee;;;;;;;;;;;;;x
+NXA_fascist;Blue Shirts;;;;;;;;;;;;;x
+NXA_conservative_4;Old Guard;;;;;;;;;;;;;x
+NXA_reactionary_2;Military Clique;;;;;;;;;;;;;x
+QHI_conservative;Old Guard;;;;;;;;;;;;;x
+QHI_conservative_2;Old Guard;;;;;;;;;;;;;x
+QHI_liberal;Reform Society;;;;;;;;;;;;;x
+QHI_reactionary;Military Clique;;;;;;;;;;;;;x
+QHI_anarcho_liberal;Free Association;;;;;;;;;;;;;x
+QHI_conservative_3;Old Guard;;;;;;;;;;;;;x
+QHI_liberal_2;Reform Society;;;;;;;;;;;;;x
+QHI_liberal_3;Reform Society;;;;;;;;;;;;;x
+QHI_socialist;Labour Union;;;;;;;;;;;;;x
+QHI_communist;Soviet Committee;;;;;;;;;;;;;x
+QHI_fascist;Blue Shirts;;;;;;;;;;;;;x
+QHI_conservative_4;Old Guard;;;;;;;;;;;;;x
+QHI_reactionary_2;Military Clique;;;;;;;;;;;;;x
+XKG_conservative;Old Guard;;;;;;;;;;;;;x
+XKG_conservative_2;Old Guard;;;;;;;;;;;;;x
+XKG_liberal;Reform Society;;;;;;;;;;;;;x
+XKG_reactionary;Military Clique;;;;;;;;;;;;;x
+XKG_anarcho_liberal;Free Association;;;;;;;;;;;;;x
+XKG_conservative_3;Old Guard;;;;;;;;;;;;;x
+XKG_liberal_2;Reform Society;;;;;;;;;;;;;x
+XKG_liberal_3;Reform Society;;;;;;;;;;;;;x
+XKG_socialist;Labour Union;;;;;;;;;;;;;x
+XKG_communist;Soviet Committee;;;;;;;;;;;;;x
+XKG_fascist;Blue Shirts;;;;;;;;;;;;;x
+XKG_conservative_4;Old Guard;;;;;;;;;;;;;x
+XKG_reactionary_2;Military Clique;;;;;;;;;;;;;x
+CQG_conservative;Old Guard;;;;;;;;;;;;;x
+CQG_conservative_2;Old Guard;;;;;;;;;;;;;x
+CQG_liberal;Reform Society;;;;;;;;;;;;;x
+CQG_reactionary;Military Clique;;;;;;;;;;;;;x
+CQG_anarcho_liberal;Free Association;;;;;;;;;;;;;x
+CQG_conservative_3;Old Guard;;;;;;;;;;;;;x
+CQG_liberal_2;Reform Society;;;;;;;;;;;;;x
+CQG_liberal_3;Reform Society;;;;;;;;;;;;;x
+CQG_socialist;Labour Union;;;;;;;;;;;;;x
+CQG_communist;Soviet Committee;;;;;;;;;;;;;x
+CQG_fascist;Blue Shirts;;;;;;;;;;;;;x
+CQG_conservative_4;Old Guard;;;;;;;;;;;;;x
+CQG_reactionary_2;Military Clique;;;;;;;;;;;;;x
+TIB_conservative;Old Guard;;;;;;;;;;;;;x
+TIB_conservative_2;Old Guard;;;;;;;;;;;;;x
+TIB_liberal;Reform Society;;;;;;;;;;;;;x
+TIB_reactionary;Military Clique;;;;;;;;;;;;;x
+TIB_anarcho_liberal;Free Association;;;;;;;;;;;;;x
+TIB_conservative_3;Old Guard;;;;;;;;;;;;;x
+TIB_liberal_2;Reform Society;;;;;;;;;;;;;x
+TIB_liberal_3;Reform Society;;;;;;;;;;;;;x
+TIB_socialist;Labour Union;;;;;;;;;;;;;x
+TIB_communist;Soviet Committee;;;;;;;;;;;;;x
+TIB_fascist;Blue Shirts;;;;;;;;;;;;;x
+TIB_conservative_4;Old Guard;;;;;;;;;;;;;x
+TIB_reactionary_2;Military Clique;;;;;;;;;;;;;x
+HNI_conservative;Old Guard;;;;;;;;;;;;;x
+HNI_conservative_2;Old Guard;;;;;;;;;;;;;x
+HNI_liberal;Reform Society;;;;;;;;;;;;;x
+HNI_reactionary;Military Clique;;;;;;;;;;;;;x
+HNI_anarcho_liberal;Free Association;;;;;;;;;;;;;x
+HNI_conservative_3;Old Guard;;;;;;;;;;;;;x
+HNI_liberal_2;Reform Society;;;;;;;;;;;;;x
+HNI_liberal_3;Reform Society;;;;;;;;;;;;;x
+HNI_socialist;Labour Union;;;;;;;;;;;;;x
+HNI_communist;Soviet Committee;;;;;;;;;;;;;x
+HNI_fascist;Blue Shirts;;;;;;;;;;;;;x
+HNI_conservative_4;Old Guard;;;;;;;;;;;;;x
+HNI_reactionary_2;Military Clique;;;;;;;;;;;;;x
+TWN_conservative;Old Guard;;;;;;;;;;;;;x
+TWN_conservative_2;Old Guard;;;;;;;;;;;;;x
+TWN_liberal;Reform Society;;;;;;;;;;;;;x
+TWN_reactionary;Military Clique;;;;;;;;;;;;;x
+TWN_anarcho_liberal;Free Association;;;;;;;;;;;;;x
+TWN_conservative_3;Old Guard;;;;;;;;;;;;;x
+TWN_liberal_2;Reform Society;;;;;;;;;;;;;x
+TWN_liberal_3;Reform Society;;;;;;;;;;;;;x
+TWN_socialist;Labour Union;;;;;;;;;;;;;x
+TWN_communist;Soviet Committee;;;;;;;;;;;;;x
+TWN_fascist;Blue Shirts;;;;;;;;;;;;;x
+TWN_conservative_4;Old Guard;;;;;;;;;;;;;x
+TWN_reactionary_2;Military Clique;;;;;;;;;;;;;x
+SHG_conservative;Old Guard;;;;;;;;;;;;;x
+SHG_conservative_2;Old Guard;;;;;;;;;;;;;x
+SHG_liberal;Reform Society;;;;;;;;;;;;;x
+SHG_reactionary;Military Clique;;;;;;;;;;;;;x
+SHG_anarcho_liberal;Free Association;;;;;;;;;;;;;x
+SHG_conservative_3;Old Guard;;;;;;;;;;;;;x
+SHG_liberal_2;Reform Society;;;;;;;;;;;;;x
+SHG_liberal_3;Reform Society;;;;;;;;;;;;;x
+SHG_socialist;Labour Union;;;;;;;;;;;;;x
+SHG_communist;Soviet Committee;;;;;;;;;;;;;x
+SHG_fascist;Blue Shirts;;;;;;;;;;;;;x
+SHG_conservative_4;Old Guard;;;;;;;;;;;;;x
+SHG_reactionary_2;Military Clique;;;;;;;;;;;;;x
+XZC_conservative;Old Guard;;;;;;;;;;;;;x
+XZC_conservative_2;Old Guard;;;;;;;;;;;;;x
+XZC_liberal;Reform Society;;;;;;;;;;;;;x
+XZC_reactionary;Military Clique;;;;;;;;;;;;;x
+XZC_anarcho_liberal;Free Association;;;;;;;;;;;;;x
+XZC_conservative_3;Old Guard;;;;;;;;;;;;;x
+XZC_liberal_2;Reform Society;;;;;;;;;;;;;x
+XZC_liberal_3;Reform Society;;;;;;;;;;;;;x
+XZC_socialist;Labour Union;;;;;;;;;;;;;x
+XZC_communist;Soviet Committee;;;;;;;;;;;;;x
+XZC_fascist;Blue Shirts;;;;;;;;;;;;;x
+XZC_conservative_4;Old Guard;;;;;;;;;;;;;x
+XZC_reactionary_2;Military Clique;;;;;;;;;;;;;x
+KSG_conservative;Old Guard;;;;;;;;;;;;;x
+KSG_conservative_2;Old Guard;;;;;;;;;;;;;x
+KSG_liberal;Reform Society;;;;;;;;;;;;;x
+KSG_reactionary;Military Clique;;;;;;;;;;;;;x
+KSG_anarcho_liberal;Free Association;;;;;;;;;;;;;x
+KSG_conservative_3;Old Guard;;;;;;;;;;;;;x
+KSG_liberal_2;Reform Society;;;;;;;;;;;;;x
+KSG_liberal_3;Reform Society;;;;;;;;;;;;;x
+KSG_socialist;Labour Union;;;;;;;;;;;;;x
+KSG_communist;Soviet Committee;;;;;;;;;;;;;x
+KSG_fascist;Blue Shirts;;;;;;;;;;;;;x
+KSG_conservative_4;Old Guard;;;;;;;;;;;;;x
+KSG_reactionary_2;Military Clique;;;;;;;;;;;;;x
+DFS_conservative;Old Guard;;;;;;;;;;;;;x
+DFS_conservative_2;Old Guard;;;;;;;;;;;;;x
+DFS_liberal;Reform Society;;;;;;;;;;;;;x
+DFS_reactionary;Military Clique;;;;;;;;;;;;;x
+DFS_anarcho_liberal;Free Association;;;;;;;;;;;;;x
+DFS_conservative_3;Old Guard;;;;;;;;;;;;;x
+DFS_liberal_2;Reform Society;;;;;;;;;;;;;x
+DFS_liberal_3;Reform Society;;;;;;;;;;;;;x
+DFS_socialist;Labour Union;;;;;;;;;;;;;x
+DFS_communist;Soviet Committee;;;;;;;;;;;;;x
+DFS_fascist;Blue Shirts;;;;;;;;;;;;;x
+DFS_conservative_4;Old Guard;;;;;;;;;;;;;x
+DFS_reactionary_2;Military Clique;;;;;;;;;;;;;x
+DJS_conservative;Old Guard;;;;;;;;;;;;;x
+DJS_conservative_2;Old Guard;;;;;;;;;;;;;x
+DJS_liberal;Reform Society;;;;;;;;;;;;;x
+DJS_reactionary;Military Clique;;;;;;;;;;;;;x
+DJS_anarcho_liberal;Free Association;;;;;;;;;;;;;x
+DJS_conservative_3;Old Guard;;;;;;;;;;;;;x
+DJS_liberal_2;Reform Society;;;;;;;;;;;;;x
+DJS_liberal_3;Reform Society;;;;;;;;;;;;;x
+DJS_socialist;Labour Union;;;;;;;;;;;;;x
+DJS_communist;Soviet Committee;;;;;;;;;;;;;x
+DJS_fascist;Blue Shirts;;;;;;;;;;;;;x
+DJS_conservative_4;Old Guard;;;;;;;;;;;;;x
+DJS_reactionary_2;Military Clique;;;;;;;;;;;;;x
+DBZ_conservative;Old Guard;;;;;;;;;;;;;x
+DBZ_conservative_2;Old Guard;;;;;;;;;;;;;x
+DBZ_liberal;Reform Society;;;;;;;;;;;;;x
+DBZ_reactionary;Military Clique;;;;;;;;;;;;;x
+DBZ_anarcho_liberal;Free Association;;;;;;;;;;;;;x
+DBZ_conservative_3;Old Guard;;;;;;;;;;;;;x
+DBZ_liberal_2;Reform Society;;;;;;;;;;;;;x
+DBZ_liberal_3;Reform Society;;;;;;;;;;;;;x
+DBZ_socialist;Labour Union;;;;;;;;;;;;;x
+DBZ_communist;Soviet Committee;;;;;;;;;;;;;x
+DBZ_fascist;Blue Shirts;;;;;;;;;;;;;x
+DBZ_conservative_4;Old Guard;;;;;;;;;;;;;x
+DBZ_reactionary_2;Military Clique;;;;;;;;;;;;;x
+DMX_conservative;Old Guard;;;;;;;;;;;;;x
+DMX_conservative_2;Old Guard;;;;;;;;;;;;;x
+DMX_liberal;Reform Society;;;;;;;;;;;;;x
+DMX_reactionary;Military Clique;;;;;;;;;;;;;x
+DMX_anarcho_liberal;Free Association;;;;;;;;;;;;;x
+DMX_conservative_3;Old Guard;;;;;;;;;;;;;x
+DMX_liberal_2;Reform Society;;;;;;;;;;;;;x
+DMX_liberal_3;Reform Society;;;;;;;;;;;;;x
+DMX_socialist;Labour Union;;;;;;;;;;;;;x
+DMX_communist;Soviet Committee;;;;;;;;;;;;;x
+DMX_fascist;Blue Shirts;;;;;;;;;;;;;x
+DMX_conservative_4;Old Guard;;;;;;;;;;;;;x
+DMX_reactionary_2;Military Clique;;;;;;;;;;;;;x
+DJL_conservative;Old Guard;;;;;;;;;;;;;x
+DJL_conservative_2;Old Guard;;;;;;;;;;;;;x
+DJL_liberal;Reform Society;;;;;;;;;;;;;x
+DJL_reactionary;Military Clique;;;;;;;;;;;;;x
+DJL_anarcho_liberal;Free Association;;;;;;;;;;;;;x
+DJL_conservative_3;Old Guard;;;;;;;;;;;;;x
+DJL_liberal_2;Reform Society;;;;;;;;;;;;;x
+DJL_liberal_3;Reform Society;;;;;;;;;;;;;x
+DJL_socialist;Labour Union;;;;;;;;;;;;;x
+DJL_communist;Soviet Committee;;;;;;;;;;;;;x
+DJL_fascist;Blue Shirts;;;;;;;;;;;;;x
+DJL_conservative_4;Old Guard;;;;;;;;;;;;;x
+DJL_reactionary_2;Military Clique;;;;;;;;;;;;;x
+DAD_conservative;Old Guard;;;;;;;;;;;;;x
+DAD_conservative_2;Old Guard;;;;;;;;;;;;;x
+DAD_liberal;Reform Society;;;;;;;;;;;;;x
+DAD_reactionary;Military Clique;;;;;;;;;;;;;x
+DAD_anarcho_liberal;Free Association;;;;;;;;;;;;;x
+DAD_conservative_3;Old Guard;;;;;;;;;;;;;x
+DAD_liberal_2;Reform Society;;;;;;;;;;;;;x
+DAD_liberal_3;Reform Society;;;;;;;;;;;;;x
+DAD_socialist;Labour Union;;;;;;;;;;;;;x
+DAD_communist;Soviet Committee;;;;;;;;;;;;;x
+DAD_fascist;Blue Shirts;;;;;;;;;;;;;x
+DAD_conservative_4;Old Guard;;;;;;;;;;;;;x
+DAD_reactionary_2;Military Clique;;;;;;;;;;;;;x
+DBX_conservative;Old Guard;;;;;;;;;;;;;x
+DBX_conservative_2;Old Guard;;;;;;;;;;;;;x
+DBX_liberal;Reform Society;;;;;;;;;;;;;x
+DBX_reactionary;Military Clique;;;;;;;;;;;;;x
+DBX_anarcho_liberal;Free Association;;;;;;;;;;;;;x
+DBX_conservative_3;Old Guard;;;;;;;;;;;;;x
+DBX_liberal_2;Reform Society;;;;;;;;;;;;;x
+DBX_liberal_3;Reform Society;;;;;;;;;;;;;x
+DBX_socialist;Labour Union;;;;;;;;;;;;;x
+DBX_communist;Soviet Committee;;;;;;;;;;;;;x
+DBX_fascist;Blue Shirts;;;;;;;;;;;;;x
+DBX_conservative_4;Old Guard;;;;;;;;;;;;;x
+DBX_reactionary_2;Military Clique;;;;;;;;;;;;;x
+DYH_conservative;Old Guard;;;;;;;;;;;;;x
+DYH_conservative_2;Old Guard;;;;;;;;;;;;;x
+DYH_liberal;Reform Society;;;;;;;;;;;;;x
+DYH_reactionary;Military Clique;;;;;;;;;;;;;x
+DYH_anarcho_liberal;Free Association;;;;;;;;;;;;;x
+DYH_conservative_3;Old Guard;;;;;;;;;;;;;x
+DYH_liberal_2;Reform Society;;;;;;;;;;;;;x
+DYH_liberal_3;Reform Society;;;;;;;;;;;;;x
+DYH_socialist;Labour Union;;;;;;;;;;;;;x
+DYH_communist;Soviet Committee;;;;;;;;;;;;;x
+DYH_fascist;Blue Shirts;;;;;;;;;;;;;x
+DYH_conservative_4;Old Guard;;;;;;;;;;;;;x
+DYH_reactionary_2;Military Clique;;;;;;;;;;;;;x
+DNZ_conservative;Old Guard;;;;;;;;;;;;;x
+DNZ_conservative_2;Old Guard;;;;;;;;;;;;;x
+DNZ_liberal;Reform Society;;;;;;;;;;;;;x
+DNZ_reactionary;Military Clique;;;;;;;;;;;;;x
+DNZ_anarcho_liberal;Free Association;;;;;;;;;;;;;x
+DNZ_conservative_3;Old Guard;;;;;;;;;;;;;x
+DNZ_liberal_2;Reform Society;;;;;;;;;;;;;x
+DNZ_liberal_3;Reform Society;;;;;;;;;;;;;x
+DNZ_socialist;Labour Union;;;;;;;;;;;;;x
+DNZ_communist;Soviet Committee;;;;;;;;;;;;;x
+DNZ_fascist;Blue Shirts;;;;;;;;;;;;;x
+DNZ_conservative_4;Old Guard;;;;;;;;;;;;;x
+DNZ_reactionary_2;Military Clique;;;;;;;;;;;;;x
+DXL_conservative;Old Guard;;;;;;;;;;;;;x
+DXL_conservative_2;Old Guard;;;;;;;;;;;;;x
+DXL_liberal;Reform Society;;;;;;;;;;;;;x
+DXL_reactionary;Military Clique;;;;;;;;;;;;;x
+DXL_anarcho_liberal;Free Association;;;;;;;;;;;;;x
+DXL_conservative_3;Old Guard;;;;;;;;;;;;;x
+DXL_liberal_2;Reform Society;;;;;;;;;;;;;x
+DXL_liberal_3;Reform Society;;;;;;;;;;;;;x
+DXL_socialist;Labour Union;;;;;;;;;;;;;x
+DXL_communist;Soviet Committee;;;;;;;;;;;;;x
+DXL_fascist;Blue Shirts;;;;;;;;;;;;;x
+DXL_conservative_4;Old Guard;;;;;;;;;;;;;x
+DXL_reactionary_2;Military Clique;;;;;;;;;;;;;x
+DXF_conservative;Old Guard;;;;;;;;;;;;;x
+DXF_conservative_2;Old Guard;;;;;;;;;;;;;x
+DXF_liberal;Reform Society;;;;;;;;;;;;;x
+DXF_reactionary;Military Clique;;;;;;;;;;;;;x
+DXF_anarcho_liberal;Free Association;;;;;;;;;;;;;x
+DXF_conservative_3;Old Guard;;;;;;;;;;;;;x
+DXF_liberal_2;Reform Society;;;;;;;;;;;;;x
+DXF_liberal_3;Reform Society;;;;;;;;;;;;;x
+DXF_socialist;Labour Union;;;;;;;;;;;;;x
+DXF_communist;Soviet Committee;;;;;;;;;;;;;x
+DXF_fascist;Blue Shirts;;;;;;;;;;;;;x
+DXF_conservative_4;Old Guard;;;;;;;;;;;;;x
+DXF_reactionary_2;Military Clique;;;;;;;;;;;;;x
+DZF_conservative;Old Guard;;;;;;;;;;;;;x
+DZF_conservative_2;Old Guard;;;;;;;;;;;;;x
+DZF_liberal;Reform Society;;;;;;;;;;;;;x
+DZF_reactionary;Military Clique;;;;;;;;;;;;;x
+DZF_anarcho_liberal;Free Association;;;;;;;;;;;;;x
+DZF_conservative_3;Old Guard;;;;;;;;;;;;;x
+DZF_liberal_2;Reform Society;;;;;;;;;;;;;x
+DZF_liberal_3;Reform Society;;;;;;;;;;;;;x
+DZF_socialist;Labour Union;;;;;;;;;;;;;x
+DZF_communist;Soviet Committee;;;;;;;;;;;;;x
+DZF_fascist;Blue Shirts;;;;;;;;;;;;;x
+DZF_conservative_4;Old Guard;;;;;;;;;;;;;x
+DZF_reactionary_2;Military Clique;;;;;;;;;;;;;x
+DDF_conservative;Old Guard;;;;;;;;;;;;;x
+DDF_conservative_2;Old Guard;;;;;;;;;;;;;x
+DDF_liberal;Reform Society;;;;;;;;;;;;;x
+DDF_reactionary;Military Clique;;;;;;;;;;;;;x
+DDF_anarcho_liberal;Free Association;;;;;;;;;;;;;x
+DDF_conservative_3;Old Guard;;;;;;;;;;;;;x
+DDF_liberal_2;Reform Society;;;;;;;;;;;;;x
+DDF_liberal_3;Reform Society;;;;;;;;;;;;;x
+DDF_socialist;Labour Union;;;;;;;;;;;;;x
+DDF_communist;Soviet Committee;;;;;;;;;;;;;x
+DDF_fascist;Blue Shirts;;;;;;;;;;;;;x
+DDF_conservative_4;Old Guard;;;;;;;;;;;;;x
+DDF_reactionary_2;Military Clique;;;;;;;;;;;;;x
+DNF_conservative;Old Guard;;;;;;;;;;;;;x
+DNF_conservative_2;Old Guard;;;;;;;;;;;;;x
+DNF_liberal;Reform Society;;;;;;;;;;;;;x
+DNF_reactionary;Military Clique;;;;;;;;;;;;;x
+DNF_anarcho_liberal;Free Association;;;;;;;;;;;;;x
+DNF_conservative_3;Old Guard;;;;;;;;;;;;;x
+DNF_liberal_2;Reform Society;;;;;;;;;;;;;x
+DNF_liberal_3;Reform Society;;;;;;;;;;;;;x
+DNF_socialist;Labour Union;;;;;;;;;;;;;x
+DNF_communist;Soviet Committee;;;;;;;;;;;;;x
+DNF_fascist;Blue Shirts;;;;;;;;;;;;;x
+DNF_conservative_4;Old Guard;;;;;;;;;;;;;x
+DNF_reactionary_2;Military Clique;;;;;;;;;;;;;x
+DBH_conservative;Old Guard;;;;;;;;;;;;;x
+DBH_conservative_2;Old Guard;;;;;;;;;;;;;x
+DBH_liberal;Reform Society;;;;;;;;;;;;;x
+DBH_reactionary;Military Clique;;;;;;;;;;;;;x
+DBH_anarcho_liberal;Free Association;;;;;;;;;;;;;x
+DBH_conservative_3;Old Guard;;;;;;;;;;;;;x
+DBH_liberal_2;Reform Society;;;;;;;;;;;;;x
+DBH_liberal_3;Reform Society;;;;;;;;;;;;;x
+DBH_socialist;Labour Union;;;;;;;;;;;;;x
+DBH_communist;Soviet Committee;;;;;;;;;;;;;x
+DBH_fascist;Blue Shirts;;;;;;;;;;;;;x
+DBH_conservative_4;Old Guard;;;;;;;;;;;;;x
+DBH_reactionary_2;Military Clique;;;;;;;;;;;;;x
+DXY_conservative;Old Guard;;;;;;;;;;;;;x
+DXY_conservative_2;Old Guard;;;;;;;;;;;;;x
+DXY_liberal;Reform Society;;;;;;;;;;;;;x
+DXY_reactionary;Military Clique;;;;;;;;;;;;;x
+DXY_anarcho_liberal;Free Association;;;;;;;;;;;;;x
+DXY_conservative_3;Old Guard;;;;;;;;;;;;;x
+DXY_liberal_2;Reform Society;;;;;;;;;;;;;x
+DXY_liberal_3;Reform Society;;;;;;;;;;;;;x
+DXY_socialist;Labour Union;;;;;;;;;;;;;x
+DXY_communist;Soviet Committee;;;;;;;;;;;;;x
+DXY_fascist;Blue Shirts;;;;;;;;;;;;;x
+DXY_conservative_4;Old Guard;;;;;;;;;;;;;x
+DXY_reactionary_2;Military Clique;;;;;;;;;;;;;x
+DNY_conservative;Old Guard;;;;;;;;;;;;;x
+DNY_conservative_2;Old Guard;;;;;;;;;;;;;x
+DNY_liberal;Reform Society;;;;;;;;;;;;;x
+DNY_reactionary;Military Clique;;;;;;;;;;;;;x
+DNY_anarcho_liberal;Free Association;;;;;;;;;;;;;x
+DNY_conservative_3;Old Guard;;;;;;;;;;;;;x
+DNY_liberal_2;Reform Society;;;;;;;;;;;;;x
+DNY_liberal_3;Reform Society;;;;;;;;;;;;;x
+DNY_socialist;Labour Union;;;;;;;;;;;;;x
+DNY_communist;Soviet Committee;;;;;;;;;;;;;x
+DNY_fascist;Blue Shirts;;;;;;;;;;;;;x
+DNY_conservative_4;Old Guard;;;;;;;;;;;;;x
+DNY_reactionary_2;Military Clique;;;;;;;;;;;;;x
+BYG_conservative;Old Guard;;;;;;;;;;;;;x
+BYG_conservative_2;Old Guard;;;;;;;;;;;;;x
+BYG_liberal;Reform Society;;;;;;;;;;;;;x
+BYG_reactionary;Military Clique;;;;;;;;;;;;;x
+BYG_anarcho_liberal;Free Association;;;;;;;;;;;;;x
+BYG_conservative_3;Old Guard;;;;;;;;;;;;;x
+BYG_liberal_2;Reform Society;;;;;;;;;;;;;x
+BYG_liberal_3;Reform Society;;;;;;;;;;;;;x
+BYG_socialist;Labour Union;;;;;;;;;;;;;x
+BYG_communist;Soviet Committee;;;;;;;;;;;;;x
+BYG_fascist;Blue Shirts;;;;;;;;;;;;;x
+BYG_conservative_4;Old Guard;;;;;;;;;;;;;x
+BYG_reactionary_2;Military Clique;;;;;;;;;;;;;x
+LGG_conservative;Old Guard;;;;;;;;;;;;;x
+LGG_conservative_2;Old Guard;;;;;;;;;;;;;x
+LGG_liberal;Reform Society;;;;;;;;;;;;;x
+LGG_reactionary;Military Clique;;;;;;;;;;;;;x
+LGG_anarcho_liberal;Free Association;;;;;;;;;;;;;x
+LGG_conservative_3;Old Guard;;;;;;;;;;;;;x
+LGG_liberal_2;Reform Society;;;;;;;;;;;;;x
+LGG_liberal_3;Reform Society;;;;;;;;;;;;;x
+LGG_socialist;Labour Union;;;;;;;;;;;;;x
+LGG_communist;Soviet Committee;;;;;;;;;;;;;x
+LGG_fascist;Blue Shirts;;;;;;;;;;;;;x
+LGG_conservative_4;Old Guard;;;;;;;;;;;;;x
+LGG_reactionary_2;Military Clique;;;;;;;;;;;;;x
+SHU_conservative;Old Guard;;;;;;;;;;;;;x
+SHU_conservative_2;Old Guard;;;;;;;;;;;;;x
+SHU_liberal;Reform Society;;;;;;;;;;;;;x
+SHU_reactionary;Military Clique;;;;;;;;;;;;;x
+SHU_anarcho_liberal;Free Association;;;;;;;;;;;;;x
+SHU_conservative_3;Old Guard;;;;;;;;;;;;;x
+SHU_liberal_2;Reform Society;;;;;;;;;;;;;x
+SHU_liberal_3;Reform Society;;;;;;;;;;;;;x
+SHU_socialist;Labour Union;;;;;;;;;;;;;x
+SHU_communist;Soviet Committee;;;;;;;;;;;;;x
+SHU_fascist;Blue Shirts;;;;;;;;;;;;;x
+SHU_conservative_4;Old Guard;;;;;;;;;;;;;x
+SHU_reactionary_2;Military Clique;;;;;;;;;;;;;x
+WUU_conservative;Old Guard;;;;;;;;;;;;;x
+WUU_conservative_2;Old Guard;;;;;;;;;;;;;x
+WUU_liberal;Reform Society;;;;;;;;;;;;;x
+WUU_reactionary;Military Clique;;;;;;;;;;;;;x
+WUU_anarcho_liberal;Free Association;;;;;;;;;;;;;x
+WUU_conservative_3;Old Guard;;;;;;;;;;;;;x
+WUU_liberal_2;Reform Society;;;;;;;;;;;;;x
+WUU_liberal_3;Reform Society;;;;;;;;;;;;;x
+WUU_socialist;Labour Union;;;;;;;;;;;;;x
+WUU_communist;Soviet Committee;;;;;;;;;;;;;x
+WUU_fascist;Blue Shirts;;;;;;;;;;;;;x
+WUU_conservative_4;Old Guard;;;;;;;;;;;;;x
+WUU_reactionary_2;Military Clique;;;;;;;;;;;;;x
+CHU_conservative;Old Guard;;;;;;;;;;;;;x
+CHU_conservative_2;Old Guard;;;;;;;;;;;;;x
+CHU_liberal;Reform Society;;;;;;;;;;;;;x
+CHU_reactionary;Military Clique;;;;;;;;;;;;;x
+CHU_anarcho_liberal;Free Association;;;;;;;;;;;;;x
+CHU_conservative_3;Old Guard;;;;;;;;;;;;;x
+CHU_liberal_2;Reform Society;;;;;;;;;;;;;x
+CHU_liberal_3;Reform Society;;;;;;;;;;;;;x
+CHU_socialist;Labour Union;;;;;;;;;;;;;x
+CHU_communist;Soviet Committee;;;;;;;;;;;;;x
+CHU_fascist;Blue Shirts;;;;;;;;;;;;;x
+CHU_conservative_4;Old Guard;;;;;;;;;;;;;x
+CHU_reactionary_2;Military Clique;;;;;;;;;;;;;x
+DIA_conservative;Old Guard;;;;;;;;;;;;;x
+DIA_conservative_2;Old Guard;;;;;;;;;;;;;x
+DIA_liberal;Reform Society;;;;;;;;;;;;;x
+DIA_reactionary;Military Clique;;;;;;;;;;;;;x
+DIA_anarcho_liberal;Free Association;;;;;;;;;;;;;x
+DIA_conservative_3;Old Guard;;;;;;;;;;;;;x
+DIA_liberal_2;Reform Society;;;;;;;;;;;;;x
+DIA_liberal_3;Reform Society;;;;;;;;;;;;;x
+DIA_socialist;Labour Union;;;;;;;;;;;;;x
+DIA_communist;Soviet Committee;;;;;;;;;;;;;x
+DIA_fascist;Blue Shirts;;;;;;;;;;;;;x
+DIA_conservative_4;Old Guard;;;;;;;;;;;;;x
+DIA_reactionary_2;Military Clique;;;;;;;;;;;;;x
+NWF_conservative;Old Guard;;;;;;;;;;;;;x
+NWF_conservative_2;Old Guard;;;;;;;;;;;;;x
+NWF_liberal;Reform Society;;;;;;;;;;;;;x
+NWF_reactionary;Military Clique;;;;;;;;;;;;;x
+NWF_anarcho_liberal;Free Association;;;;;;;;;;;;;x
+NWF_conservative_3;Old Guard;;;;;;;;;;;;;x
+NWF_liberal_2;Reform Society;;;;;;;;;;;;;x
+NWF_liberal_3;Reform Society;;;;;;;;;;;;;x
+NWF_socialist;Labour Union;;;;;;;;;;;;;x
+NWF_communist;Soviet Committee;;;;;;;;;;;;;x
+NWF_fascist;Blue Shirts;;;;;;;;;;;;;x
+NWF_conservative_4;Old Guard;;;;;;;;;;;;;x
+NWF_reactionary_2;Military Clique;;;;;;;;;;;;;x
+MZG_conservative;Old Guard;;;;;;;;;;;;;x
+MZG_conservative_2;Old Guard;;;;;;;;;;;;;x
+MZG_liberal;Reform Society;;;;;;;;;;;;;x
+MZG_reactionary;Military Clique;;;;;;;;;;;;;x
+MZG_anarcho_liberal;Free Association;;;;;;;;;;;;;x
+MZG_conservative_3;Old Guard;;;;;;;;;;;;;x
+MZG_liberal_2;Reform Society;;;;;;;;;;;;;x
+MZG_liberal_3;Reform Society;;;;;;;;;;;;;x
+MZG_socialist;Labour Union;;;;;;;;;;;;;x
+MZG_communist;Soviet Committee;;;;;;;;;;;;;x
+MZG_fascist;Blue Shirts;;;;;;;;;;;;;x
+MZG_conservative_4;Old Guard;;;;;;;;;;;;;x
+MZG_reactionary_2;Military Clique;;;;;;;;;;;;;x
+KHG_conservative;Old Guard;;;;;;;;;;;;;x
+KHG_conservative_2;Old Guard;;;;;;;;;;;;;x
+KHG_liberal;Reform Society;;;;;;;;;;;;;x
+KHG_reactionary;Military Clique;;;;;;;;;;;;;x
+KHG_anarcho_liberal;Free Association;;;;;;;;;;;;;x
+KHG_conservative_3;Old Guard;;;;;;;;;;;;;x
+KHG_liberal_2;Reform Society;;;;;;;;;;;;;x
+KHG_liberal_3;Reform Society;;;;;;;;;;;;;x
+KHG_socialist;Labour Union;;;;;;;;;;;;;x
+KHG_communist;Soviet Committee;;;;;;;;;;;;;x
+KHG_fascist;Blue Shirts;;;;;;;;;;;;;x
+KHG_conservative_4;Old Guard;;;;;;;;;;;;;x
+KHG_reactionary_2;Military Clique;;;;;;;;;;;;;x
+KLS_conservative;Old Guard;;;;;;;;;;;;;x
+KLS_conservative_2;Old Guard;;;;;;;;;;;;;x
+KLS_liberal;Reform Society;;;;;;;;;;;;;x
+KLS_reactionary;Military Clique;;;;;;;;;;;;;x
+KLS_anarcho_liberal;Free Association;;;;;;;;;;;;;x
+KLS_conservative_3;Old Guard;;;;;;;;;;;;;x
+KLS_liberal_2;Reform Society;;;;;;;;;;;;;x
+KLS_liberal_3;Reform Society;;;;;;;;;;;;;x
+KLS_socialist;Labour Union;;;;;;;;;;;;;x
+KLS_communist;Soviet Committee;;;;;;;;;;;;;x
+KLS_fascist;Blue Shirts;;;;;;;;;;;;;x
+KLS_conservative_4;Old Guard;;;;;;;;;;;;;x
+KLS_reactionary_2;Military Clique;;;;;;;;;;;;;x
+PSE_conservative;Old Guard;;;;;;;;;;;;;x
+PSE_conservative_2;Old Guard;;;;;;;;;;;;;x
+PSE_liberal;Reform Society;;;;;;;;;;;;;x
+PSE_reactionary;Military Clique;;;;;;;;;;;;;x
+PSE_anarcho_liberal;Free Association;;;;;;;;;;;;;x
+PSE_conservative_3;Old Guard;;;;;;;;;;;;;x
+PSE_liberal_2;Reform Society;;;;;;;;;;;;;x
+PSE_liberal_3;Reform Society;;;;;;;;;;;;;x
+PSE_socialist;Labour Union;;;;;;;;;;;;;x
+PSE_communist;Soviet Committee;;;;;;;;;;;;;x
+PSE_fascist;Blue Shirts;;;;;;;;;;;;;x
+PSE_conservative_4;Old Guard;;;;;;;;;;;;;x
+PSE_reactionary_2;Military Clique;;;;;;;;;;;;;x
+HRE;Holy Roman Empire;;;;;;;;;;;;;x
+HRE_ADJ;Holy Roman Empire;;;;;;;;;;;;;x
+XAA;Alexandria;;;;;;;;;;;;;x
+XAA_ADJ;Alexandria;;;;;;;;;;;;;x
+XAB;Kassala;;;;;;;;;;;;;x
+XAB_ADJ;Kassala;;;;;;;;;;;;;x
+XAC;Asyut;;;;;;;;;;;;;x
+XAC_ADJ;Asyut;;;;;;;;;;;;;x
+XAD;Khartoum;;;;;;;;;;;;;x
+XAD_ADJ;Khartoum;;;;;;;;;;;;;x
+XAE;Damascus;;;;;;;;;;;;;x
+XAE_ADJ;Damascus;;;;;;;;;;;;;x
+XAF;Sendai;;;;;;;;;;;;;x
+XAF_ADJ;Sendai;;;;;;;;;;;;;x
+XAG;Nagasaki;;;;;;;;;;;;;x
+XAG_ADJ;Nagasaki;;;;;;;;;;;;;x
+XAH;Ufa;;;;;;;;;;;;;x
+XAH_ADJ;Ufa;;;;;;;;;;;;;x
+XAJ;Petrozavorsk;;;;;;;;;;;;;x
+XAJ_ADJ;Petrozavorsk;;;;;;;;;;;;;x
+XAK;Voronets;;;;;;;;;;;;;x
+XAK_ADJ;Voronets;;;;;;;;;;;;;x
+XAL;Uglich;;;;;;;;;;;;;x
+XAL_ADJ;Uglich;;;;;;;;;;;;;x
+XAM;Kayseri;;;;;;;;;;;;;x
+XAM_ADJ;Kayseri;;;;;;;;;;;;;x
+placeholder;Customary Faith;;;;;;;;;;;;;x
+jilu;Jilu;;;;;;;;;;;;;x
+zhongyuan;Zhongyuan;;;;;;;;;;;;;x
+jin;Jin;;;;;;;;;;;;;x
+guanzhong;Guanzhong;;;;;;;;;;;;;x
+dongbei;Dongbei;;;;;;;;;;;;;x
+jianghuai;Jianghuai;;;;;;;;;;;;;x
+wu;Wu;;;;;;;;;;;;;x
+chu;Chu;;;;;;;;;;;;;x
+xiang;Xiang;;;;;;;;;;;;;x
+gan;Gan;;;;;;;;;;;;;x
+bashu;Ba-Shu;;;;;;;;;;;;;x
+dian;Dian;;;;;;;;;;;;;x
+north_german;German;;;;;;;;;;;;;x
+dutch;Netherlandish;;;;;;;;;;;;;x
+swedish;Scandinavian;;;;;;;;;;;;;x
+north_italian;Italian;;;;;;;;;;;;;x
+spanish;Iberian;;;;;;;;;;;;;x
+serb;South Slav;;;;;;;;;;;;;x
+russian;East Slav;;;;;;;;;;;;;x
+latvian;Baltic;;;;;;;;;;;;;x
+greek;Levantine;;;;;;;;;;;;;x
+czech;Czechoslovak;;;;;;;;;;;;;x
+native_american_minor;Native American;;;;;;;;;;;;;x
+yankee;American;;;;;;;;;;;;;x
+anglo_canadian;Colonial European;;;;;;;;;;;;;x
+mexican;Latin American;;;;;;;;;;;;;x
+afro_american;Afro-American;;;;;;;;;;;;;x
+hausa;West African;;;;;;;;;;;;;x
+african_minor;Central African;;;;;;;;;;;;;x
+amhara;East African;;;;;;;;;;;;;x
+zulu;Southern African;;;;;;;;;;;;;x
+polynesian;Oceanian;;;;;;;;;;;;;x
+beifaren;Northern Han;;;;;;;;;;;;;x
+nanfaren;Yangtze Han;;;;;;;;;;;;;x
+yue;Cantonese;;;;;;;;;;;;;x
+min;Hokkien;;;;;;;;;;;;;x
+WBK;World Bank;;;;;;;;;;;;;x
+WBK_ADJ;World Bank;;;;;;;;;;;;;x
+WBK_exclusive;Board of Governors;;;;;;;;;;;;;x
+PAN;Sikh Empire;;;;;;;;;;;;;x
+PAN_ADJ;Sikh;;;;;;;;;;;;;x
+MGL;Mongolia;;;;;;;;;;;;;x
+PER;Persia;;;;;;;;;;;;;x
+PROV3249;Hailar;;;;;;;;;;;;;x
+PROV3250;Zhalantun;;;;;;;;;;;;;x
+PROV3251;Liuan;;;;;;;;;;;;;x
+PROV3252;Tongling;;;;;;;;;;;;;x
+PROV3253;Bengbu;;;;;;;;;;;;;x
+PROV3254;Qimen;;;;;;;;;;;;;x
+PROV3255;Chaohu;;;;;;;;;;;;;x
+PROV3256;Guangde;;;;;;;;;;;;;x
+PROV3257;Wuhu;;;;;;;;;;;;;x
+PROV3258;Bozhou;;;;;;;;;;;;;x
+PROV3259;Liaoyang;;;;;;;;;;;;;x
+PROV3260;Tieling;;;;;;;;;;;;;x
+PROV3261;Xingcheng;;;;;;;;;;;;;x
+PROV3262;Funing;;;;;;;;;;;;;x
+PROV3263;Yanping;;;;;;;;;;;;;x
+PROV3264;Xinghua;;;;;;;;;;;;;x
+PROV3265;Xinzhu;;;;;;;;;;;;;x
+PROV3266;Yongan;;;;;;;;;;;;;x
+PROV3267;Longyan;;;;;;;;;;;;;x
+PROV3268;Jiuquan;;;;;;;;;;;;;x
+PROV3269;West Gansu;;;;;;;;;;;;;x
+PROV3270;Qinzhou;;;;;;;;;;;;;x
+PROV3271;West Gongchang;;;;;;;;;;;;;x
+PROV3272;Liangzhou;;;;;;;;;;;;;x
+PROV3273;North Lanzhou;;;;;;;;;;;;;x
+PROV3274;Lingzhou;;;;;;;;;;;;;x
+PROV3275;Qingyang;;;;;;;;;;;;;x
+PROV3276;Foshan;;;;;;;;;;;;;x
+PROV3277;Jiaying;;;;;;;;;;;;;x
+PROV3278;Leizhou;;;;;;;;;;;;;x
+PROV3279;Haifeng;;;;;;;;;;;;;x
+PROV3280;Qiongzhou;;;;;;;;;;;;;x
+PROV3281;Nanxiong;;;;;;;;;;;;;x
+PROV3282;Luoding;;;;;;;;;;;;;x
+PROV3283;Longzhou;;;;;;;;;;;;;x
+PROV3284;Baise;;;;;;;;;;;;;x
+PROV3285;Liuzhou;;;;;;;;;;;;;x
+PROV3286;Qingyuan;;;;;;;;;;;;;x
+PROV3287;Wuzhou;;;;;;;;;;;;;x
+PROV3288;Zunyi;;;;;;;;;;;;;x
+PROV3289;Xingyi;;;;;;;;;;;;;x
+PROV3290;Liping;;;;;;;;;;;;;x
+PROV3291;Zhengzhou;;;;;;;;;;;;;x
+PROV3292;Shangqiu;;;;;;;;;;;;;x
+PROV3293;Shanzhou;;;;;;;;;;;;;x
+PROV3294;Xichuan;;;;;;;;;;;;;x
+PROV3295;Xinyang;;;;;;;;;;;;;x
+PROV3296;Xinxiang;;;;;;;;;;;;;x
+PROV3297;Hankou;;;;;;;;;;;;;x
+PROV3298;Suizhou;;;;;;;;;;;;;x
+PROV3299;Qizhou;;;;;;;;;;;;;x
+PROV3300;Jingmen;;;;;;;;;;;;;x
+PROV3301;Shashi;;;;;;;;;;;;;x
+PROV3302;Yichang;;;;;;;;;;;;;x
+PROV3303;Xianning;;;;;;;;;;;;;x
+PROV3304;Yunyang;;;;;;;;;;;;;x
+PROV3305;Xiangtan;;;;;;;;;;;;;x
+PROV3306;Lizhou;;;;;;;;;;;;;x
+PROV3307;Wugang;;;;;;;;;;;;;x
+PROV3308;Chenxian;;;;;;;;;;;;;x
+PROV3309;Pingjiang;;;;;;;;;;;;;x
+PROV3310;Fenghuang;;;;;;;;;;;;;x
+PROV3311;Daozhou;;;;;;;;;;;;;x
+PROV3312;Baotou;;;;;;;;;;;;;x
+PROV3313;Fengzhen;;;;;;;;;;;;;x
+PROV3314;Tongliao;;;;;;;;;;;;;x
+PROV3315;Taonan;;;;;;;;;;;;;x
+PROV3316;Dolonnur;;;;;;;;;;;;;x
+PROV3317;Zhangjiakou;;;;;;;;;;;;;x
+PROV3318;Dongsheng;;;;;;;;;;;;;x
+PROV3319;Dingbian;;;;;;;;;;;;;x
+PROV3320;Haizhou;;;;;;;;;;;;;x
+PROV3321;Pizhou;;;;;;;;;;;;;x
+PROV3322;Gaoyou;;;;;;;;;;;;;x
+PROV3323;Ruizhou;;;;;;;;;;;;;x
+PROV3324;Yushan;;;;;;;;;;;;;x
+PROV3325;Yuanzhou;;;;;;;;;;;;;x
+PROV3326;Linchuan;;;;;;;;;;;;;x
+PROV3327;Nankang;;;;;;;;;;;;;x
+PROV3328;Nanan;;;;;;;;;;;;;x
+PROV3329;Jingdezhen;;;;;;;;;;;;;x
+PROV3330;Hulan;;;;;;;;;;;;;x
+PROV3331;Mergen;;;;;;;;;;;;;x
+PROV3332;Xunke;;;;;;;;;;;;;x
+PROV3333;Huma;;;;;;;;;;;;;x
+PROV3334;Sanxing;;;;;;;;;;;;;x
+PROV3335;Hunchun;;;;;;;;;;;;;x
+PROV3336;Changchun;;;;;;;;;;;;;x
+PROV3337;Yanji;;;;;;;;;;;;;x
+PROV3338;Fengxiang;;;;;;;;;;;;;x
+PROV3339;Yulin;;;;;;;;;;;;;x
+PROV3340;Ningqiang;;;;;;;;;;;;;x
+PROV3341;Dongchang;;;;;;;;;;;;;x
+PROV3342;Jining;;;;;;;;;;;;;x
+PROV3343;Pingdu;;;;;;;;;;;;;x
+PROV3344;Weixian;;;;;;;;;;;;;x
+PROV3345;Yanzhou;;;;;;;;;;;;;x
+PROV3346;Binzhou;;;;;;;;;;;;;x
+PROV3347;Rizhao;;;;;;;;;;;;;x
+PROV3348;Xinzhou;;;;;;;;;;;;;x
+PROV3349;Pingding;;;;;;;;;;;;;x
+PROV3350;Zezhou;;;;;;;;;;;;;x
+PROV3351;Puzhou;;;;;;;;;;;;;x
+PROV3352;Shuoping;;;;;;;;;;;;;x
+PROV3353;Fuling;;;;;;;;;;;;;x
+PROV3354;Mianzhou;;;;;;;;;;;;;x
+PROV3355;Guangyuan;;;;;;;;;;;;;x
+PROV3356;Meizhou;;;;;;;;;;;;;x
+PROV3357;Wanxian;;;;;;;;;;;;;x
+PROV3358;Songpan;;;;;;;;;;;;;x
+PROV3359;Maozhou;;;;;;;;;;;;;x
+PROV3360;Guangan;;;;;;;;;;;;;x
+PROV3361;Suining;;;;;;;;;;;;;x
+PROV3362;Xuyong;;;;;;;;;;;;;x
+PROV3363;East Yibin;;;;;;;;;;;;;x
+PROV3364;Dajianlu;;;;;;;;;;;;;x
+PROV3365;North Yazhou;;;;;;;;;;;;;x
+PROV3366;Qujing;;;;;;;;;;;;;x
+PROV3367;Zhaotong;;;;;;;;;;;;;x
+PROV3368;Lijiang;;;;;;;;;;;;;x
+PROV3369;Yongchang;;;;;;;;;;;;;x
+PROV3370;Linan;;;;;;;;;;;;;x
+PROV3371;Kaihua;;;;;;;;;;;;;x
+PROV3372;Chunan;;;;;;;;;;;;;x
+PROV3373;Quzhou;;;;;;;;;;;;;x
+PROV3374;Tiantai;;;;;;;;;;;;;x
+PROV3375;Chuzhou;;;;;;;;;;;;;x
+PROV3376;Changping;;;;;;;;;;;;;x
+PROV3377;Chaoyang;;;;;;;;;;;;;x
+PROV3378;Chifeng;;;;;;;;;;;;;x
+PROV3379;Guangping;;;;;;;;;;;;;x
+PROV3380;Langfang;;;;;;;;;;;;;x
+PROV3381;North Shuntian;;;;;;;;;;;;;x
+PROV3382;Cangzhou;;;;;;;;;;;;;x
+PROV3383;Baoding;;;;;;;;;;;;;x
+PROV3384;Xingan;;;;;;;;;;;;;x
+PROV3385;Fengshan;;;;;;;;;;;;;x
+WE_1465;Urga;;;;;;;;;;;;;x
+WE_1468;Khatgal;;;;;;;;;;;;;x
+WE_1587;Tawang;;;;;;;;;;;;;x
+WE_1591;Ngari;;;;;;;;;;;;;x
+WE_1588;Chamdo;;;;;;;;;;;;;x
+WE_1595;Urumqi;;;;;;;;;;;;;x
+WE_1594;Kashgar;;;;;;;;;;;;;x
+WE_1578;Jiading;;;;;;;;;;;;;x
+WE_1582;Songpan;;;;;;;;;;;;;x
+WE_1585;Yibin;;;;;;;;;;;;;x
+WE_1586;Dajianlu;;;;;;;;;;;;;x
+WE_1601;Qujing;;;;;;;;;;;;;x
+WE_1603;Linan;;;;;;;;;;;;;x
+WE_1602;Dali;;;;;;;;;;;;;x
+WE_1505;Xingyi;;;;;;;;;;;;;x
+WE_1507;Zhenyuan;;;;;;;;;;;;;x
+WE_1494;Chaozhou;;;;;;;;;;;;;x
+WE_1500;Shaozhou;;;;;;;;;;;;;x
+WE_1496;Macao;;;;;;;;;;;;;x
+WE_1532;Yeke Juu Chuulghan;;;;;;;;;;;;;x
+WE_3318;Dongsheng;;;;;;;;;;;;;x
+WE_1534;Ulaan Chab Chuulghan;;;;;;;;;;;;;x
+WE_1502;Qingyuan;;;;;;;;;;;;;x
+WE_1503;Guilin;;;;;;;;;;;;;x
+WE_1527;Hengzhou;;;;;;;;;;;;;x
+WE_1002;Mergen;;;;;;;;;;;;;x
+WE_1552;Hulan;;;;;;;;;;;;;x
+WE_1553;Huma;;;;;;;;;;;;;x
+WE_1533;Tongliao;;;;;;;;;;;;;x
+WE_1554;Yanji;;;;;;;;;;;;;x
+WE_1555;Changchun;;;;;;;;;;;;;x
+WE_1479;Mukden;;;;;;;;;;;;;x
+WE_1480;Tieling;;;;;;;;;;;;;x
+WE_1565;Pingdu;;;;;;;;;;;;;x
+WE_1567;Qingzhou;;;;;;;;;;;;;x
+WE_1612;Jizhou;;;;;;;;;;;;;x
+WE_3380;North Shuntian;;;;;;;;;;;;;x
+WE_1617;Tianjin;;;;;;;;;;;;;x
+WE_1613;Chaoyang;;;;;;;;;;;;;x
+WE_1572;Taiyuan;;;;;;;;;;;;;x
+WE_1573;Luan;;;;;;;;;;;;;x
+WE_1576;Shuoping;;;;;;;;;;;;;x
+WE_1559;Hanzhong;;;;;;;;;;;;;x
+WE_1561;Yenan;;;;;;;;;;;;;x
+WE_1488;Jiuquan;;;;;;;;;;;;;x
+WE_1489;Qingyang;;;;;;;;;;;;;x
+WE_1490;Liangzhou;;;;;;;;;;;;;x
+WE_1491;Lingzhou;;;;;;;;;;;;;x
+WE_1556;Makhai;;;;;;;;;;;;;x
+WE_1577;Chongqing;;;;;;;;;;;;;x
+WE_1583;Guangyuan;;;;;;;;;;;;;x
+WE_1579;Baotung;;;;;;;;;;;;;x
+WE_1493;Canton;;;;;;;;;;;;;x
+WE_1495;Gauzhou;;;;;;;;;;;;;x
+WE_1499;Hainan;;;;;;;;;;;;;x
+WE_1482;Funing;;;;;;;;;;;;;x
+WE_1484;Tingzhou;;;;;;;;;;;;;x
+WE_1483;Yongan;;;;;;;;;;;;;x
+WE_1604;Shaoxing;;;;;;;;;;;;;x
+WE_1607;Jinhua;;;;;;;;;;;;;x
+WE_1608;Ningbo;;;;;;;;;;;;;x
+WE_3372;Quzhou;;;;;;;;;;;;;x
+WE_1537;Changzhou;;;;;;;;;;;;;x
+WE_1538;Taicangzhou;;;;;;;;;;;;;x
+WE_1476;Sizhou;;;;;;;;;;;;;x
+WE_1477;Wuhu;;;;;;;;;;;;;x
+WE_1543;Nanjing;;;;;;;;;;;;;x
+WE_1508;Huaiqing;;;;;;;;;;;;;x
+WE_1514;Runing;;;;;;;;;;;;;x
+WE_1510;Henan;;;;;;;;;;;;;x
+WE_1614;Daming;;;;;;;;;;;;;x
+WE_1563;Jinan;;;;;;;;;;;;;x
+WE_1564;Caozhou;;;;;;;;;;;;;x
+WE_1545;Yuanzhou;;;;;;;;;;;;;x
+WE_1547;Jian;;;;;;;;;;;;;x
+WE_1546;Yushan;;;;;;;;;;;;;x
+WE_1549;Jiujiang;;;;;;;;;;;;;x
+WE_1470;Liuan;;;;;;;;;;;;;x
+WE_1475;Ningguo;;;;;;;;;;;;;x
+WE_1473;Tongling;;;;;;;;;;;;;x
+WE_1472;Bozhou;;;;;;;;;;;;;x
+WE_1478;Chenzhou;;;;;;;;;;;;;x
+WE_1519;Xiangyang;;;;;;;;;;;;;x
+WE_1521;Shinan;;;;;;;;;;;;;x
+WE_1516;Hanyang;;;;;;;;;;;;;x
+WE_1517;Dean;;;;;;;;;;;;;x
+WE_1524;Changsha;;;;;;;;;;;;;x
+WE_1526;Baoqing;;;;;;;;;;;;;x
+WE_1525;Yongshun;;;;;;;;;;;;;x
+WE_1485;Fengshan;;;;;;;;;;;;;x
+WE_1082;Boli;;;;;;;;;;;;;x
+WE_1084;Ulusamudan;;;;;;;;;;;;;x
+southeast_asia;South East Asia;;;;;;;;;;;;;x
+GC_NAME;Jenson Huang's Great Game;;;;;;;;;;;;;x
+GC_DESC;China is shattered between thirty-five warlord cliques, the only modern states on Earth. The rest of the world lies divided, backward and open for the taking.;;;;;;;;;;;;;x

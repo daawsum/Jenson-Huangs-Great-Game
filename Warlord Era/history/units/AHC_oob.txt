@@ -1,0 +1,102 @@
+JSU = {
+	value = -150
+}
+
+FTN = {
+	value = 150
+}
+
+XZC = {
+	value = 125
+}
+
+army = {
+	name = "Anhui First Army"
+	location = 1470
+	regiment = {
+		name = "1. Anhui First Army"
+		type = infantry
+		home = 1512
+	}
+	regiment = {
+		name = "2. Anhui First Army"
+		type = infantry
+		home = 3251
+	}
+	regiment = {
+		name = "3. Anhui First Army"
+		type = infantry
+		home = 1470
+	}
+	regiment = {
+		name = "4. Anhui First Army"
+		type = infantry
+		home = 3252
+	}
+	regiment = {
+		name = "5. Anhui First Army"
+		type = infantry
+		home = 1471
+	}
+	regiment = {
+		name = "6. Anhui First Army"
+		type = infantry
+		home = 3254
+	}
+	regiment = {
+		name = "7. Anhui First Army"
+		type = artillery
+		home = 3255
+	}
+	regiment = {
+		name = "8. Anhui First Army"
+		type = artillery
+		home = 1474
+	}
+}
+
+army = {
+	name = "Anhui Second Army"
+	location = 1474
+	regiment = {
+		name = "1. Anhui Second Army"
+		type = infantry
+		home = 1512
+	}
+	regiment = {
+		name = "2. Anhui Second Army"
+		type = infantry
+		home = 3251
+	}
+	regiment = {
+		name = "3. Anhui Second Army"
+		type = infantry
+		home = 1470
+	}
+	regiment = {
+		name = "4. Anhui Second Army"
+		type = infantry
+		home = 3252
+	}
+	regiment = {
+		name = "5. Anhui Second Army"
+		type = infantry
+		home = 1471
+	}
+	regiment = {
+		name = "6. Anhui Second Army"
+		type = infantry
+		home = 3254
+	}
+	regiment = {
+		name = "7. Anhui Second Army"
+		type = artillery
+		home = 3255
+	}
+	regiment = {
+		name = "8. Anhui Second Army"
+		type = artillery
+		home = 1474
+	}
+}
+

@@ -1,0 +1,5 @@
+owner = WBK
+controller = WBK
+add_core = WBK
+trade_goods = fish
+life_rating = 30

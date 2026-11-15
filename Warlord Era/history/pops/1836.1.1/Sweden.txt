@@ -1,0 +1,637 @@
+317 = {
+	aristocrats = {
+		culture = swedish
+		religion = placeholder
+		size = 150
+	}
+
+	bureaucrats = {
+		culture = swedish
+		religion = placeholder
+		size = 300
+	}
+
+	officers = {
+		culture = swedish
+		religion = placeholder
+		size = 100
+	}
+
+	clergymen = {
+		culture = swedish
+		religion = placeholder
+		size = 175
+	}
+
+	artisans = {
+		culture = swedish
+		religion = placeholder
+		size = 2000
+	}
+
+	soldiers = {
+		culture = swedish
+		religion = placeholder
+		size = 1100
+	}
+
+	farmers = {
+		culture = swedish
+		religion = placeholder
+		size = 22125
+	}
+}
+
+318 = {
+	aristocrats = {
+		culture = swedish
+		religion = placeholder
+		size = 50
+	}
+
+	clergymen = {
+		culture = swedish
+		religion = placeholder
+		size = 100
+	}
+
+	artisans = {
+		culture = swedish
+		religion = placeholder
+		size = 1100
+	}
+
+	soldiers = {
+		culture = swedish
+		religion = placeholder
+		size = 250
+	}
+
+	farmers = {
+		culture = swedish
+		religion = placeholder
+		size = 19100
+	}
+}
+
+319 = {
+	clergymen = {
+		culture = swedish
+		religion = placeholder
+		size = 50
+	}
+
+	artisans = {
+		culture = swedish
+		religion = placeholder
+		size = 500
+	}
+
+	soldiers = {
+		culture = swedish
+		religion = placeholder
+		size = 100
+	}
+
+	labourers = {
+		culture = swedish
+		religion = placeholder
+		size = 10450
+	}
+}
+
+320 = {
+	clergymen = {
+		culture = swedish
+		religion = placeholder
+		size = 75
+	}
+
+	artisans = {
+		culture = swedish
+		religion = placeholder
+		size = 750
+	}
+
+	soldiers = {
+		culture = swedish
+		religion = placeholder
+		size = 250
+	}
+
+	labourers = {
+		culture = swedish
+		religion = placeholder
+		size = 11925
+	}
+
+	farmers = {
+		culture = swedish
+		religion = placeholder
+		size = 1100
+	}
+}
+
+321 = {
+	clergymen = {
+		culture = swedish
+		religion = placeholder
+		size = 50
+	}
+
+	artisans = {
+		culture = swedish
+		religion = placeholder
+		size = 500
+	}
+
+	soldiers = {
+		culture = swedish
+		religion = placeholder
+		size = 1100
+	}
+
+	labourers = {
+		culture = swedish
+		religion = placeholder
+		size = 6250
+	}
+
+	farmers = {
+		culture = swedish
+		religion = placeholder
+		size = 3100
+	}
+}
+
+322 = {
+	aristocrats = {
+		culture = swedish
+		religion = placeholder
+		size = 250
+	}
+
+	bureaucrats = {
+		culture = swedish
+		religion = placeholder
+		size = 750
+	}
+
+	officers = {
+		culture = swedish
+		religion = placeholder
+		size = 500
+	}
+
+	clergymen = {
+		culture = swedish
+		religion = placeholder
+		size = 250
+	}
+
+	artisans = {
+		culture = swedish
+		religion = placeholder
+		size = 21100
+	}
+
+	soldiers = {
+		culture = swedish
+		religion = placeholder
+		size = 4000
+	}
+
+	farmers = {
+		culture = swedish
+		religion = placeholder
+		size = 25250
+	}
+}
+
+323 = {
+	aristocrats = {
+		culture = swedish
+		religion = placeholder
+		size = 250
+	}
+
+	clergymen = {
+		culture = swedish
+		religion = placeholder
+		size = 250
+	}
+
+	artisans = {
+		culture = swedish
+		religion = placeholder
+		size = 1750
+	}
+
+	soldiers = {
+		culture = swedish
+		religion = placeholder
+		size = 1100
+	}
+
+	farmers = {
+		culture = swedish
+		religion = placeholder
+		size = 32750
+	}
+}
+
+324 = {
+	aristocrats = {
+		culture = swedish
+		religion = placeholder
+		size = 100
+	}
+
+	clergymen = {
+		culture = swedish
+		religion = placeholder
+		size = 125
+	}
+
+	artisans = {
+		culture = swedish
+		religion = placeholder
+		size = 1250
+	}
+
+	soldiers = {
+		culture = swedish
+		religion = placeholder
+		size = 1100
+	}
+
+	farmers = {
+		culture = swedish
+		religion = placeholder
+		size = 19525
+	}
+}
+
+325 = {
+	aristocrats = {
+		culture = swedish
+		religion = placeholder
+		size = 250
+	}
+
+	clergymen = {
+		culture = swedish
+		religion = placeholder
+		size = 250
+	}
+
+	artisans = {
+		culture = swedish
+		religion = placeholder
+		size = 3000
+	}
+
+	soldiers = {
+		culture = swedish
+		religion = placeholder
+		size = 1100
+	}
+
+	farmers = {
+		culture = swedish
+		religion = placeholder
+		size = 50750
+	}
+}
+
+326 = {
+	aristocrats = {
+		culture = swedish
+		religion = placeholder
+		size = 250
+	}
+
+	clergymen = {
+		culture = swedish
+		religion = placeholder
+		size = 250
+	}
+
+	artisans = {
+		culture = swedish
+		religion = placeholder
+		size = 2750
+	}
+
+	soldiers = {
+		culture = swedish
+		religion = placeholder
+		size = 1100
+	}
+
+	farmers = {
+		culture = swedish
+		religion = placeholder
+		size = 48750
+	}
+}
+
+327 = {
+	aristocrats = {
+		culture = swedish
+		religion = placeholder
+		size = 250
+	}
+
+	clergymen = {
+		culture = swedish
+		religion = placeholder
+		size = 125
+	}
+
+	artisans = {
+		culture = swedish
+		religion = placeholder
+		size = 1500
+	}
+
+	soldiers = {
+		culture = swedish
+		religion = placeholder
+		size = 1100
+	}
+
+	farmers = {
+		culture = swedish
+		religion = placeholder
+		size = 28975
+	}
+}
+
+328 = {
+	aristocrats = {
+		culture = swedish
+		religion = placeholder
+		size = 400
+	}
+
+	clergymen = {
+		culture = swedish
+		religion = placeholder
+		size = 300
+	}
+
+	artisans = {
+		culture = swedish
+		religion = placeholder
+		size = 2500
+	}
+
+	soldiers = {
+		culture = swedish
+		religion = placeholder
+		size = 1100
+	}
+
+	farmers = {
+		culture = swedish
+		religion = placeholder
+		size = 43300
+	}
+}
+
+329 = {
+	aristocrats = {
+		culture = swedish
+		religion = placeholder
+		size = 250
+	}
+
+	bureaucrats = {
+		culture = swedish
+		religion = placeholder
+		size = 150
+	}
+
+	officers = {
+		culture = swedish
+		religion = placeholder
+		size = 250
+	}
+
+	clergymen = {
+		culture = swedish
+		religion = placeholder
+		size = 250
+	}
+
+	artisans = {
+		culture = swedish
+		religion = placeholder
+		size = 5000
+	}
+
+	soldiers = {
+		culture = swedish
+		religion = placeholder
+		size = 1100
+	}
+
+	farmers = {
+		culture = swedish
+		religion = placeholder
+		size = 33750
+	}
+}
+
+330 = {
+	aristocrats = {
+		culture = swedish
+		religion = placeholder
+		size = 500
+	}
+
+	clergymen = {
+		culture = swedish
+		religion = placeholder
+		size = 250
+	}
+
+	artisans = {
+		culture = swedish
+		religion = placeholder
+		size = 2500
+	}
+
+	soldiers = {
+		culture = swedish
+		religion = placeholder
+		size = 1100
+	}
+
+	farmers = {
+		culture = swedish
+		religion = placeholder
+		size = 50750
+	}
+}
+
+331 = {
+	aristocrats = {
+		culture = swedish
+		religion = placeholder
+		size = 100
+	}
+
+	clergymen = {
+		culture = swedish
+		religion = placeholder
+		size = 50
+	}
+
+	artisans = {
+		culture = swedish
+		religion = placeholder
+		size = 700
+	}
+
+	soldiers = {
+		culture = swedish
+		religion = placeholder
+		size = 100
+	}
+
+	farmers = {
+		culture = swedish
+		religion = placeholder
+		size = 9050
+	}
+}
+
+332 = {
+	aristocrats = {
+		culture = swedish
+		religion = placeholder
+		size = 300
+	}
+
+	clergymen = {
+		culture = swedish
+		religion = placeholder
+		size = 225
+	}
+
+	artisans = {
+		culture = swedish
+		religion = placeholder
+		size = 2500
+	}
+
+	soldiers = {
+		culture = swedish
+		religion = placeholder
+		size = 1100
+	}
+
+	farmers = {
+		culture = swedish
+		religion = placeholder
+		size = 41475
+	}
+}
+
+333 = {
+	aristocrats = {
+		culture = swedish
+		religion = placeholder
+		size = 500
+	}
+
+	clergymen = {
+		culture = swedish
+		religion = placeholder
+		size = 375
+	}
+
+	artisans = {
+		culture = swedish
+		religion = placeholder
+		size = 3500
+	}
+
+	soldiers = {
+		culture = swedish
+		religion = placeholder
+		size = 1100
+	}
+
+	farmers = {
+		culture = swedish
+		religion = placeholder
+		size = 63625
+	}
+}
+
+334 = {
+	aristocrats = {
+		culture = swedish
+		religion = placeholder
+		size = 750
+	}
+
+	clergymen = {
+		culture = swedish
+		religion = placeholder
+		size = 375
+	}
+
+	artisans = {
+		culture = swedish
+		religion = placeholder
+		size = 3750
+	}
+
+	soldiers = {
+		culture = swedish
+		religion = placeholder
+		size = 1100
+	}
+
+	farmers = {
+		culture = swedish
+		religion = placeholder
+		size = 69125
+	}
+}
+
+335 = {
+	aristocrats = {
+		culture = swedish
+		religion = placeholder
+		size = 625
+	}
+
+	clergymen = {
+		culture = swedish
+		religion = placeholder
+		size = 375
+	}
+
+	artisans = {
+		culture = swedish
+		religion = placeholder
+		size = 3125
+	}
+
+	soldiers = {
+		culture = swedish
+		religion = placeholder
+		size = 1100
+	}
+
+	farmers = {
+		culture = swedish
+		religion = placeholder
+		size = 60625
+	}
+}

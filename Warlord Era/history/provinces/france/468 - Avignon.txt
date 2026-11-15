@@ -1,0 +1,5 @@
+owner = HRE
+controller = HRE
+add_core = HRE
+trade_goods = sulphur
+life_rating = 32

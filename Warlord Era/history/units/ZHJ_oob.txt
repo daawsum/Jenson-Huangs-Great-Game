@@ -1,0 +1,137 @@
+FUJ = {
+	value = -150
+}
+
+JSU = {
+	value = 150
+}
+
+army = {
+	name = "Zhejiang First Army"
+	location = 1604
+	regiment = {
+		name = "1. Zhejiang First Army"
+		type = infantry
+		home = 1608
+	}
+	regiment = {
+		name = "2. Zhejiang First Army"
+		type = infantry
+		home = 1607
+	}
+	regiment = {
+		name = "3. Zhejiang First Army"
+		type = infantry
+		home = 3373
+	}
+	regiment = {
+		name = "4. Zhejiang First Army"
+		type = infantry
+		home = 1604
+	}
+	regiment = {
+		name = "5. Zhejiang First Army"
+		type = infantry
+		home = 3372
+	}
+	regiment = {
+		name = "6. Zhejiang First Army"
+		type = cavalry
+		home = 3375
+	}
+	regiment = {
+		name = "7. Zhejiang First Army"
+		type = artillery
+		home = 1611
+	}
+}
+
+army = {
+	name = "Zhejiang Second Army"
+	location = 1609
+	regiment = {
+		name = "1. Zhejiang Second Army"
+		type = infantry
+		home = 1608
+	}
+	regiment = {
+		name = "2. Zhejiang Second Army"
+		type = infantry
+		home = 1607
+	}
+	regiment = {
+		name = "3. Zhejiang Second Army"
+		type = infantry
+		home = 3373
+	}
+	regiment = {
+		name = "4. Zhejiang Second Army"
+		type = infantry
+		home = 1604
+	}
+	regiment = {
+		name = "5. Zhejiang Second Army"
+		type = infantry
+		home = 3372
+	}
+	regiment = {
+		name = "6. Zhejiang Second Army"
+		type = cavalry
+		home = 3375
+	}
+	regiment = {
+		name = "7. Zhejiang Second Army"
+		type = artillery
+		home = 1611
+	}
+}
+
+navy = {
+	name = "Zhejiang Fleet"
+	location = 1604
+	ship = {
+		name = "Zhejiang Fleet 1"
+		type = manowar
+	}
+	ship = {
+		name = "Zhejiang Fleet 2"
+		type = manowar
+	}
+	ship = {
+		name = "Zhejiang Fleet 3"
+		type = frigate
+	}
+	ship = {
+		name = "Zhejiang Fleet 4"
+		type = frigate
+	}
+	ship = {
+		name = "Zhejiang Fleet 5"
+		type = frigate
+	}
+	ship = {
+		name = "Zhejiang Fleet 6"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Zhejiang Fleet 7"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Zhejiang Fleet 8"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Zhejiang Fleet 9"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Zhejiang Fleet 10"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Zhejiang Fleet 11"
+		type = clipper_transport
+	}
+}
+

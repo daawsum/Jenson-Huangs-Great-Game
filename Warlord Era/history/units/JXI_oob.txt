@@ -1,0 +1,88 @@
+HBE = {
+	value = -150
+}
+
+XIN = {
+	value = 150
+}
+
+army = {
+	name = "Jiangxi First Army"
+	location = 1545
+	regiment = {
+		name = "1. Jiangxi First Army"
+		type = infantry
+		home = 1547
+	}
+	regiment = {
+		name = "2. Jiangxi First Army"
+		type = infantry
+		home = 3325
+	}
+	regiment = {
+		name = "3. Jiangxi First Army"
+		type = infantry
+		home = 1550
+	}
+	regiment = {
+		name = "4. Jiangxi First Army"
+		type = infantry
+		home = 3328
+	}
+	regiment = {
+		name = "5. Jiangxi First Army"
+		type = infantry
+		home = 1549
+	}
+	regiment = {
+		name = "6. Jiangxi First Army"
+		type = cavalry
+		home = 3327
+	}
+	regiment = {
+		name = "7. Jiangxi First Army"
+		type = artillery
+		home = 1545
+	}
+}
+
+army = {
+	name = "Jiangxi Second Army"
+	location = 3323
+	regiment = {
+		name = "1. Jiangxi Second Army"
+		type = infantry
+		home = 1547
+	}
+	regiment = {
+		name = "2. Jiangxi Second Army"
+		type = infantry
+		home = 3325
+	}
+	regiment = {
+		name = "3. Jiangxi Second Army"
+		type = infantry
+		home = 1550
+	}
+	regiment = {
+		name = "4. Jiangxi Second Army"
+		type = infantry
+		home = 3328
+	}
+	regiment = {
+		name = "5. Jiangxi Second Army"
+		type = infantry
+		home = 1549
+	}
+	regiment = {
+		name = "6. Jiangxi Second Army"
+		type = cavalry
+		home = 3327
+	}
+	regiment = {
+		name = "7. Jiangxi Second Army"
+		type = artillery
+		home = 1545
+	}
+}
+

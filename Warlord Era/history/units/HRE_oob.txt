@@ -1,0 +1,440 @@
+army = {
+	name = "Reichsarmee 1"
+	location = 619
+	regiment = {
+		name = "1. Reichsarmee 1"
+		type = infantry
+		home = 372
+	}
+	regiment = {
+		name = "2. Reichsarmee 1"
+		type = infantry
+		home = 300
+	}
+	regiment = {
+		name = "3. Reichsarmee 1"
+		type = infantry
+		home = 589
+	}
+	regiment = {
+		name = "4. Reichsarmee 1"
+		type = infantry
+		home = 366
+	}
+	regiment = {
+		name = "5. Reichsarmee 1"
+		type = infantry
+		home = 373
+	}
+	regiment = {
+		name = "6. Reichsarmee 1"
+		type = infantry
+		home = 682
+	}
+	regiment = {
+		name = "7. Reichsarmee 1"
+		type = infantry
+		home = 487
+	}
+	regiment = {
+		name = "8. Reichsarmee 1"
+		type = infantry
+		home = 549
+	}
+	regiment = {
+		name = "9. Reichsarmee 1"
+		type = cavalry
+		home = 372
+	}
+	regiment = {
+		name = "10. Reichsarmee 1"
+		type = cavalry
+		home = 300
+	}
+}
+
+army = {
+	name = "Reichsarmee 2"
+	location = 300
+	regiment = {
+		name = "1. Reichsarmee 2"
+		type = infantry
+		home = 372
+	}
+	regiment = {
+		name = "2. Reichsarmee 2"
+		type = infantry
+		home = 300
+	}
+	regiment = {
+		name = "3. Reichsarmee 2"
+		type = infantry
+		home = 589
+	}
+	regiment = {
+		name = "4. Reichsarmee 2"
+		type = infantry
+		home = 366
+	}
+	regiment = {
+		name = "5. Reichsarmee 2"
+		type = infantry
+		home = 373
+	}
+	regiment = {
+		name = "6. Reichsarmee 2"
+		type = infantry
+		home = 682
+	}
+	regiment = {
+		name = "7. Reichsarmee 2"
+		type = infantry
+		home = 487
+	}
+	regiment = {
+		name = "8. Reichsarmee 2"
+		type = infantry
+		home = 549
+	}
+	regiment = {
+		name = "9. Reichsarmee 2"
+		type = cavalry
+		home = 372
+	}
+	regiment = {
+		name = "10. Reichsarmee 2"
+		type = cavalry
+		home = 300
+	}
+}
+
+army = {
+	name = "Reichsarmee 3"
+	location = 589
+	regiment = {
+		name = "1. Reichsarmee 3"
+		type = infantry
+		home = 372
+	}
+	regiment = {
+		name = "2. Reichsarmee 3"
+		type = infantry
+		home = 300
+	}
+	regiment = {
+		name = "3. Reichsarmee 3"
+		type = infantry
+		home = 589
+	}
+	regiment = {
+		name = "4. Reichsarmee 3"
+		type = infantry
+		home = 366
+	}
+	regiment = {
+		name = "5. Reichsarmee 3"
+		type = infantry
+		home = 373
+	}
+	regiment = {
+		name = "6. Reichsarmee 3"
+		type = infantry
+		home = 682
+	}
+	regiment = {
+		name = "7. Reichsarmee 3"
+		type = infantry
+		home = 487
+	}
+	regiment = {
+		name = "8. Reichsarmee 3"
+		type = infantry
+		home = 549
+	}
+	regiment = {
+		name = "9. Reichsarmee 3"
+		type = cavalry
+		home = 372
+	}
+	regiment = {
+		name = "10. Reichsarmee 3"
+		type = cavalry
+		home = 300
+	}
+}
+
+army = {
+	name = "Reichsarmee 4"
+	location = 366
+	regiment = {
+		name = "1. Reichsarmee 4"
+		type = infantry
+		home = 372
+	}
+	regiment = {
+		name = "2. Reichsarmee 4"
+		type = infantry
+		home = 300
+	}
+	regiment = {
+		name = "3. Reichsarmee 4"
+		type = infantry
+		home = 589
+	}
+	regiment = {
+		name = "4. Reichsarmee 4"
+		type = infantry
+		home = 366
+	}
+	regiment = {
+		name = "5. Reichsarmee 4"
+		type = infantry
+		home = 373
+	}
+	regiment = {
+		name = "6. Reichsarmee 4"
+		type = infantry
+		home = 682
+	}
+	regiment = {
+		name = "7. Reichsarmee 4"
+		type = infantry
+		home = 487
+	}
+	regiment = {
+		name = "8. Reichsarmee 4"
+		type = infantry
+		home = 549
+	}
+	regiment = {
+		name = "9. Reichsarmee 4"
+		type = cavalry
+		home = 372
+	}
+	regiment = {
+		name = "10. Reichsarmee 4"
+		type = cavalry
+		home = 300
+	}
+}
+
+army = {
+	name = "Reichsarmee 5"
+	location = 373
+	regiment = {
+		name = "1. Reichsarmee 5"
+		type = infantry
+		home = 372
+	}
+	regiment = {
+		name = "2. Reichsarmee 5"
+		type = infantry
+		home = 300
+	}
+	regiment = {
+		name = "3. Reichsarmee 5"
+		type = infantry
+		home = 589
+	}
+	regiment = {
+		name = "4. Reichsarmee 5"
+		type = infantry
+		home = 366
+	}
+	regiment = {
+		name = "5. Reichsarmee 5"
+		type = infantry
+		home = 373
+	}
+	regiment = {
+		name = "6. Reichsarmee 5"
+		type = infantry
+		home = 682
+	}
+	regiment = {
+		name = "7. Reichsarmee 5"
+		type = infantry
+		home = 487
+	}
+	regiment = {
+		name = "8. Reichsarmee 5"
+		type = infantry
+		home = 549
+	}
+	regiment = {
+		name = "9. Reichsarmee 5"
+		type = cavalry
+		home = 372
+	}
+	regiment = {
+		name = "10. Reichsarmee 5"
+		type = cavalry
+		home = 300
+	}
+}
+
+army = {
+	name = "Reichsarmee 6"
+	location = 682
+	regiment = {
+		name = "1. Reichsarmee 6"
+		type = infantry
+		home = 372
+	}
+	regiment = {
+		name = "2. Reichsarmee 6"
+		type = infantry
+		home = 300
+	}
+	regiment = {
+		name = "3. Reichsarmee 6"
+		type = infantry
+		home = 589
+	}
+	regiment = {
+		name = "4. Reichsarmee 6"
+		type = infantry
+		home = 366
+	}
+	regiment = {
+		name = "5. Reichsarmee 6"
+		type = infantry
+		home = 373
+	}
+	regiment = {
+		name = "6. Reichsarmee 6"
+		type = infantry
+		home = 682
+	}
+	regiment = {
+		name = "7. Reichsarmee 6"
+		type = infantry
+		home = 487
+	}
+	regiment = {
+		name = "8. Reichsarmee 6"
+		type = infantry
+		home = 549
+	}
+	regiment = {
+		name = "9. Reichsarmee 6"
+		type = cavalry
+		home = 372
+	}
+	regiment = {
+		name = "10. Reichsarmee 6"
+		type = cavalry
+		home = 300
+	}
+}
+
+army = {
+	name = "Reichsarmee 7"
+	location = 487
+	regiment = {
+		name = "1. Reichsarmee 7"
+		type = infantry
+		home = 372
+	}
+	regiment = {
+		name = "2. Reichsarmee 7"
+		type = infantry
+		home = 300
+	}
+	regiment = {
+		name = "3. Reichsarmee 7"
+		type = infantry
+		home = 589
+	}
+	regiment = {
+		name = "4. Reichsarmee 7"
+		type = infantry
+		home = 366
+	}
+	regiment = {
+		name = "5. Reichsarmee 7"
+		type = infantry
+		home = 373
+	}
+	regiment = {
+		name = "6. Reichsarmee 7"
+		type = infantry
+		home = 682
+	}
+	regiment = {
+		name = "7. Reichsarmee 7"
+		type = infantry
+		home = 487
+	}
+	regiment = {
+		name = "8. Reichsarmee 7"
+		type = infantry
+		home = 549
+	}
+	regiment = {
+		name = "9. Reichsarmee 7"
+		type = cavalry
+		home = 372
+	}
+	regiment = {
+		name = "10. Reichsarmee 7"
+		type = cavalry
+		home = 300
+	}
+}
+
+army = {
+	name = "Reichsarmee 8"
+	location = 549
+	regiment = {
+		name = "1. Reichsarmee 8"
+		type = infantry
+		home = 372
+	}
+	regiment = {
+		name = "2. Reichsarmee 8"
+		type = infantry
+		home = 300
+	}
+	regiment = {
+		name = "3. Reichsarmee 8"
+		type = infantry
+		home = 589
+	}
+	regiment = {
+		name = "4. Reichsarmee 8"
+		type = infantry
+		home = 366
+	}
+	regiment = {
+		name = "5. Reichsarmee 8"
+		type = infantry
+		home = 373
+	}
+	regiment = {
+		name = "6. Reichsarmee 8"
+		type = infantry
+		home = 682
+	}
+	regiment = {
+		name = "7. Reichsarmee 8"
+		type = infantry
+		home = 487
+	}
+	regiment = {
+		name = "8. Reichsarmee 8"
+		type = infantry
+		home = 549
+	}
+	regiment = {
+		name = "9. Reichsarmee 8"
+		type = cavalry
+		home = 372
+	}
+	regiment = {
+		name = "10. Reichsarmee 8"
+		type = cavalry
+		home = 300
+	}
+}
+

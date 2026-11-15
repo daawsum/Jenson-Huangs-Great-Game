@@ -1,0 +1,96 @@
+XBI = {
+	value = -150
+}
+
+JXI = {
+	value = 150
+}
+
+KSG = {
+	value = 125
+}
+
+TIB = {
+	value = 125
+}
+
+army = {
+	name = "Xinjiang First Army"
+	location = 1600
+	regiment = {
+		name = "1. Xinjiang First Army"
+		type = cavalry
+		home = 1600
+	}
+	regiment = {
+		name = "2. Xinjiang First Army"
+		type = cavalry
+		home = 1599
+	}
+	regiment = {
+		name = "3. Xinjiang First Army"
+		type = cavalry
+		home = 1595
+	}
+	regiment = {
+		name = "4. Xinjiang First Army"
+		type = cavalry
+		home = 1596
+	}
+	regiment = {
+		name = "5. Xinjiang First Army"
+		type = infantry
+		home = 2607
+	}
+	regiment = {
+		name = "6. Xinjiang First Army"
+		type = infantry
+		home = 1600
+	}
+	regiment = {
+		name = "7. Xinjiang First Army"
+		type = infantry
+		home = 1599
+	}
+}
+
+army = {
+	name = "Xinjiang Second Army"
+	location = 2607
+	regiment = {
+		name = "1. Xinjiang Second Army"
+		type = cavalry
+		home = 1600
+	}
+	regiment = {
+		name = "2. Xinjiang Second Army"
+		type = cavalry
+		home = 1599
+	}
+	regiment = {
+		name = "3. Xinjiang Second Army"
+		type = cavalry
+		home = 1595
+	}
+	regiment = {
+		name = "4. Xinjiang Second Army"
+		type = cavalry
+		home = 1596
+	}
+	regiment = {
+		name = "5. Xinjiang Second Army"
+		type = infantry
+		home = 2607
+	}
+	regiment = {
+		name = "6. Xinjiang Second Army"
+		type = infantry
+		home = 1600
+	}
+	regiment = {
+		name = "7. Xinjiang Second Army"
+		type = infantry
+		home = 1599
+	}
+}
+

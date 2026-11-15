@@ -1,0 +1,9 @@
+owner = HRE
+controller = HRE
+add_core = HRE
+add_core = SCH
+add_core = GER
+add_core = SCA
+trade_goods = cattle
+life_rating = 35
+fort = 1

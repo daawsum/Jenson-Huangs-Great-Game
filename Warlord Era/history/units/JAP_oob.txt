@@ -1,0 +1,40 @@
+army = {
+	name = "Army of Edo"
+	location = 1649
+	regiment = {
+		name = "1. Army of Edo"
+		type = infantry
+		home = 1657
+	}
+	regiment = {
+		name = "2. Army of Edo"
+		type = infantry
+		home = 1655
+	}
+	regiment = {
+		name = "3. Army of Edo"
+		type = infantry
+		home = 1649
+	}
+	regiment = {
+		name = "4. Army of Edo"
+		type = infantry
+		home = 1675
+	}
+	regiment = {
+		name = "5. Army of Edo"
+		type = infantry
+		home = 1677
+	}
+	regiment = {
+		name = "6. Army of Edo"
+		type = infantry
+		home = 1658
+	}
+	regiment = {
+		name = "7. Army of Edo"
+		type = cavalry
+		home = 1652
+	}
+}
+

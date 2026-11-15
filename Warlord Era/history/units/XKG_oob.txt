@@ -1,0 +1,39 @@
+SZC = {
+	value = 125
+}
+
+army = {
+	name = "Xikang First Army"
+	location = 1586
+	regiment = {
+		name = "1. Xikang First Army"
+		type = infantry
+		home = 1586
+	}
+	regiment = {
+		name = "2. Xikang First Army"
+		type = infantry
+		home = 3364
+	}
+	regiment = {
+		name = "3. Xikang First Army"
+		type = infantry
+		home = 3365
+	}
+	regiment = {
+		name = "4. Xikang First Army"
+		type = infantry
+		home = 1588
+	}
+	regiment = {
+		name = "5. Xikang First Army"
+		type = infantry
+		home = 1586
+	}
+	regiment = {
+		name = "6. Xikang First Army"
+		type = cavalry
+		home = 3364
+	}
+}
+

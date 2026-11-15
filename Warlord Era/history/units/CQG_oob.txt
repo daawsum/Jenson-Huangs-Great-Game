@@ -1,0 +1,39 @@
+SZC = {
+	value = 125
+}
+
+army = {
+	name = "Chongqing First Army"
+	location = 1577
+	regiment = {
+		name = "1. Chongqing First Army"
+		type = infantry
+		home = 1583
+	}
+	regiment = {
+		name = "2. Chongqing First Army"
+		type = infantry
+		home = 3360
+	}
+	regiment = {
+		name = "3. Chongqing First Army"
+		type = infantry
+		home = 1581
+	}
+	regiment = {
+		name = "4. Chongqing First Army"
+		type = infantry
+		home = 3357
+	}
+	regiment = {
+		name = "5. Chongqing First Army"
+		type = infantry
+		home = 3355
+	}
+	regiment = {
+		name = "6. Chongqing First Army"
+		type = cavalry
+		home = 1579
+	}
+}
+

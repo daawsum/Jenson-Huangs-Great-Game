@@ -1,0 +1,88 @@
+SZC = {
+	value = -150
+}
+
+GZH = {
+	value = 150
+}
+
+army = {
+	name = "Yunnan First Army"
+	location = 1601
+	regiment = {
+		name = "1. Yunnan First Army"
+		type = cavalry
+		home = 3366
+	}
+	regiment = {
+		name = "2. Yunnan First Army"
+		type = cavalry
+		home = 1601
+	}
+	regiment = {
+		name = "3. Yunnan First Army"
+		type = cavalry
+		home = 3367
+	}
+	regiment = {
+		name = "4. Yunnan First Army"
+		type = cavalry
+		home = 3370
+	}
+	regiment = {
+		name = "5. Yunnan First Army"
+		type = infantry
+		home = 3371
+	}
+	regiment = {
+		name = "6. Yunnan First Army"
+		type = infantry
+		home = 1603
+	}
+	regiment = {
+		name = "7. Yunnan First Army"
+		type = infantry
+		home = 1602
+	}
+}
+
+army = {
+	name = "Yunnan Second Army"
+	location = 3368
+	regiment = {
+		name = "1. Yunnan Second Army"
+		type = cavalry
+		home = 3366
+	}
+	regiment = {
+		name = "2. Yunnan Second Army"
+		type = cavalry
+		home = 1601
+	}
+	regiment = {
+		name = "3. Yunnan Second Army"
+		type = cavalry
+		home = 3367
+	}
+	regiment = {
+		name = "4. Yunnan Second Army"
+		type = cavalry
+		home = 3370
+	}
+	regiment = {
+		name = "5. Yunnan Second Army"
+		type = infantry
+		home = 3371
+	}
+	regiment = {
+		name = "6. Yunnan Second Army"
+		type = infantry
+		home = 1603
+	}
+	regiment = {
+		name = "7. Yunnan Second Army"
+		type = infantry
+		home = 1602
+	}
+}
+

@@ -1,0 +1,56 @@
+AHC = {
+	value = 125
+}
+
+army = {
+	name = "Xuzhou First Army"
+	location = 1542
+	regiment = {
+		name = "1. Xuzhou First Army"
+		type = infantry
+		home = 1476
+	}
+	regiment = {
+		name = "2. Xuzhou First Army"
+		type = infantry
+		home = 1536
+	}
+	regiment = {
+		name = "3. Xuzhou First Army"
+		type = infantry
+		home = 3320
+	}
+	regiment = {
+		name = "4. Xuzhou First Army"
+		type = infantry
+		home = 1542
+	}
+	regiment = {
+		name = "5. Xuzhou First Army"
+		type = infantry
+		home = 3321
+	}
+	regiment = {
+		name = "6. Xuzhou First Army"
+		type = cavalry
+		home = 1476
+	}
+}
+
+navy = {
+	name = "Xuzhou Fleet"
+	location = 1542
+	ship = {
+		name = "Xuzhou Fleet 1"
+		type = frigate
+	}
+	ship = {
+		name = "Xuzhou Fleet 2"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Xuzhou Fleet 3"
+		type = clipper_transport
+	}
+}
+

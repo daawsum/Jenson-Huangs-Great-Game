@@ -1,0 +1,7 @@
+owner = JLN
+controller = JLN
+add_core = JLN
+add_core = CHI
+trade_goods = coal
+life_rating = 32
+naval_base = 1

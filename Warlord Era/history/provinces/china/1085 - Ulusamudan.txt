@@ -1,0 +1,6 @@
+owner = HLJ
+controller = HLJ
+add_core = HLJ
+add_core = CHI
+trade_goods = grain
+life_rating = 32

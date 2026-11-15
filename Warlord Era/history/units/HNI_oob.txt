@@ -1,0 +1,56 @@
+GDG = {
+	value = 125
+}
+
+army = {
+	name = "Hainan First Army"
+	location = 1499
+	regiment = {
+		name = "1. Hainan First Army"
+		type = infantry
+		home = 1499
+	}
+	regiment = {
+		name = "2. Hainan First Army"
+		type = infantry
+		home = 3280
+	}
+	regiment = {
+		name = "3. Hainan First Army"
+		type = infantry
+		home = 1499
+	}
+	regiment = {
+		name = "4. Hainan First Army"
+		type = infantry
+		home = 3280
+	}
+	regiment = {
+		name = "5. Hainan First Army"
+		type = infantry
+		home = 1499
+	}
+	regiment = {
+		name = "6. Hainan First Army"
+		type = cavalry
+		home = 3280
+	}
+}
+
+navy = {
+	name = "Hainan Fleet"
+	location = 1499
+	ship = {
+		name = "Hainan Fleet 1"
+		type = frigate
+	}
+	ship = {
+		name = "Hainan Fleet 2"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Hainan Fleet 3"
+		type = clipper_transport
+	}
+}
+

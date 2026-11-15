@@ -1,0 +1,1177 @@
+1330 = {
+	aristocrats = {
+		culture = karen
+		religion = placeholder
+		size = 200
+	}
+
+	clergymen = {
+		culture = karen
+		religion = placeholder
+		size = 250
+	}
+
+	artisans = {
+		culture = karen
+		religion = placeholder
+		size = 1200
+	}
+
+	soldiers = {
+		culture = karen
+		religion = placeholder
+		size = 250
+	}
+
+	farmers = {
+		culture = karen
+		religion = placeholder
+		size = 22000
+	}
+
+	aristocrats = {
+		culture = asian_minor
+		religion = placeholder
+		size = 100
+	}
+
+	clergymen = {
+		culture = asian_minor
+		religion = placeholder
+		size = 150
+	}
+
+	artisans = {
+		culture = asian_minor
+		religion = placeholder
+		size = 1100
+	}
+
+	soldiers = {
+		culture = asian_minor
+		religion = placeholder
+		size = 150
+	}
+
+	aristocrats = {
+		culture = burmese
+		religion = placeholder
+		size = 500
+	}
+
+	clergymen = {
+		culture = burmese
+		religion = placeholder
+		size = 475
+	}
+
+	artisans = {
+		culture = burmese
+		religion = placeholder
+		size = 2350
+	}
+
+	soldiers = {
+		culture = burmese
+		religion = placeholder
+		size = 4000
+	}
+
+	farmers = {
+		culture = burmese
+		religion = placeholder
+		size = 38700
+	}
+}
+
+1331 = {
+	aristocrats = {
+		culture = burmese
+		religion = placeholder
+		size = 300
+	}
+
+	clergymen = {
+		culture = burmese
+		religion = placeholder
+		size = 275
+	}
+
+	artisans = {
+		culture = burmese
+		religion = placeholder
+		size = 1350
+	}
+
+	soldiers = {
+		culture = burmese
+		religion = placeholder
+		size = 300
+	}
+
+	farmers = {
+		culture = burmese
+		religion = placeholder
+		size = 24775
+	}
+
+	aristocrats = {
+		culture = asian_minor
+		religion = placeholder
+		size = 25
+	}
+
+	clergymen = {
+		culture = asian_minor
+		religion = placeholder
+		size = 75
+	}
+
+	artisans = {
+		culture = asian_minor
+		religion = placeholder
+		size = 200
+	}
+
+	soldiers = {
+		culture = asian_minor
+		religion = placeholder
+		size = 50
+	}
+}
+
+1332 = {
+	aristocrats = {
+		culture = karen
+		religion = placeholder
+		size = 400
+	}
+
+	clergymen = {
+		culture = karen
+		religion = placeholder
+		size = 500
+	}
+
+	artisans = {
+		culture = karen
+		religion = placeholder
+		size = 2400
+	}
+
+	soldiers = {
+		culture = karen
+		religion = placeholder
+		size = 500
+	}
+
+	farmers = {
+		culture = karen
+		religion = placeholder
+		size = 44200
+	}
+
+	aristocrats = {
+		culture = asian_minor
+		religion = placeholder
+		size = 100
+	}
+
+	clergymen = {
+		culture = asian_minor
+		religion = placeholder
+		size = 150
+	}
+
+	artisans = {
+		culture = asian_minor
+		religion = placeholder
+		size = 850
+	}
+
+	soldiers = {
+		culture = asian_minor
+		religion = placeholder
+		size = 150
+	}
+
+	aristocrats = {
+		culture = burmese
+		religion = placeholder
+		size = 850
+	}
+
+	bureaucrats = {
+		culture = burmese
+		religion = placeholder
+		size = 600
+	}
+
+	officers = {
+		culture = burmese
+		religion = placeholder
+		size = 400
+	}
+
+	clergymen = {
+		culture = burmese
+		religion = placeholder
+		size = 800
+	}
+
+	artisans = {
+		culture = burmese
+		religion = placeholder
+		size = 4000
+	}
+
+	soldiers = {
+		culture = burmese
+		religion = placeholder
+		size = 4000
+	}
+
+	farmers = {
+		culture = burmese
+		religion = placeholder
+		size = 67300
+	}
+}
+
+1333 = {
+	aristocrats = {
+		culture = karen
+		religion = placeholder
+		size = 300
+	}
+
+	clergymen = {
+		culture = karen
+		religion = placeholder
+		size = 325
+	}
+
+	artisans = {
+		culture = karen
+		religion = placeholder
+		size = 1600
+	}
+
+	soldiers = {
+		culture = karen
+		religion = placeholder
+		size = 350
+	}
+
+	farmers = {
+		culture = karen
+		religion = placeholder
+		size = 29425
+	}
+
+	aristocrats = {
+		culture = burmese
+		religion = placeholder
+		size = 500
+	}
+
+	clergymen = {
+		culture = burmese
+		religion = placeholder
+		size = 500
+	}
+
+	artisans = {
+		culture = burmese
+		religion = placeholder
+		size = 2250
+	}
+
+	soldiers = {
+		culture = burmese
+		religion = placeholder
+		size = 4000
+	}
+
+	farmers = {
+		culture = burmese
+		religion = placeholder
+		size = 38750
+	}
+}
+
+1334 = {
+	aristocrats = {
+		culture = burmese
+		religion = placeholder
+		size = 500
+	}
+
+	clergymen = {
+		culture = burmese
+		religion = placeholder
+		size = 500
+	}
+
+	artisans = {
+		culture = burmese
+		religion = placeholder
+		size = 2400
+	}
+
+	soldiers = {
+		culture = burmese
+		religion = placeholder
+		size = 4000
+	}
+
+	farmers = {
+		culture = burmese
+		religion = placeholder
+		size = 39600
+	}
+
+	aristocrats = {
+		culture = kachin
+		religion = placeholder
+		size = 50
+	}
+
+	clergymen = {
+		culture = kachin
+		religion = placeholder
+		size = 50
+	}
+
+	artisans = {
+		culture = kachin
+		religion = placeholder
+		size = 250
+	}
+
+	soldiers = {
+		culture = kachin
+		religion = placeholder
+		size = 50
+	}
+
+	farmers = {
+		culture = kachin
+		religion = placeholder
+		size = 5600
+	}
+
+	aristocrats = {
+		culture = shan
+		religion = placeholder
+		size = 75
+	}
+
+	clergymen = {
+		culture = shan
+		religion = placeholder
+		size = 75
+	}
+
+	artisans = {
+		culture = shan
+		religion = placeholder
+		size = 350
+	}
+
+	soldiers = {
+		culture = shan
+		religion = placeholder
+		size = 75
+	}
+
+	farmers = {
+		culture = shan
+		religion = placeholder
+		size = 6425
+	}
+}
+
+1335 = {
+	aristocrats = {
+		culture = burmese
+		religion = placeholder
+		size = 1150
+	}
+
+	bureaucrats = {
+		culture = burmese
+		religion = placeholder
+		size = 425
+	}
+
+	officers = {
+		culture = burmese
+		religion = placeholder
+		size = 300
+	}
+
+	clergymen = {
+		culture = burmese
+		religion = placeholder
+		size = 1125
+	}
+
+	artisans = {
+		culture = burmese
+		religion = placeholder
+		size = 5500
+	}
+
+	soldiers = {
+		culture = burmese
+		religion = placeholder
+		size = 4000
+	}
+
+	farmers = {
+		culture = burmese
+		religion = placeholder
+		size = 100500
+	}
+
+	aristocrats = {
+		culture = shan
+		religion = placeholder
+		size = 50
+	}
+
+	clergymen = {
+		culture = shan
+		religion = placeholder
+		size = 50
+	}
+
+	artisans = {
+		culture = shan
+		religion = placeholder
+		size = 250
+	}
+
+	soldiers = {
+		culture = shan
+		religion = placeholder
+		size = 50
+	}
+
+	farmers = {
+		culture = shan
+		religion = placeholder
+		size = 4600
+	}
+}
+
+1336 = {
+	aristocrats = {
+		culture = burmese
+		religion = placeholder
+		size = 325
+	}
+
+	clergymen = {
+		culture = burmese
+		religion = placeholder
+		size = 300
+	}
+
+	artisans = {
+		culture = burmese
+		religion = placeholder
+		size = 1500
+	}
+
+	soldiers = {
+		culture = burmese
+		religion = placeholder
+		size = 1100
+	}
+
+	farmers = {
+		culture = burmese
+		religion = placeholder
+		size = 26875
+	}
+}
+
+1337 = {
+	aristocrats = {
+		culture = burmese
+		religion = placeholder
+		size = 625
+	}
+
+	clergymen = {
+		culture = burmese
+		religion = placeholder
+		size = 625
+	}
+
+	artisans = {
+		culture = burmese
+		religion = placeholder
+		size = 3000
+	}
+
+	soldiers = {
+		culture = burmese
+		religion = placeholder
+		size = 1100
+	}
+
+	farmers = {
+		culture = burmese
+		religion = placeholder
+		size = 54850
+	}
+}
+
+1338 = {
+	aristocrats = {
+		culture = shan
+		religion = placeholder
+		size = 900
+	}
+
+	bureaucrats = {
+		culture = shan
+		religion = placeholder
+		size = 225
+	}
+
+	officers = {
+		culture = shan
+		religion = placeholder
+		size = 175
+	}
+
+	clergymen = {
+		culture = shan
+		religion = placeholder
+		size = 850
+	}
+
+	artisans = {
+		culture = shan
+		religion = placeholder
+		size = 4250
+	}
+
+	soldiers = {
+		culture = shan
+		religion = placeholder
+		size = 850
+	}
+
+	farmers = {
+		culture = shan
+		religion = placeholder
+		size = 76750
+	}
+
+	aristocrats = {
+		culture = burmese
+		religion = placeholder
+		size = 150
+	}
+
+	bureaucrats = {
+		culture = burmese
+		religion = placeholder
+		size = 100
+	}
+
+	officers = {
+		culture = burmese
+		religion = placeholder
+		size = 25
+	}
+
+	clergymen = {
+		culture = burmese
+		religion = placeholder
+		size = 200
+	}
+
+	artisans = {
+		culture = burmese
+		religion = placeholder
+		size = 1100
+	}
+
+	soldiers = {
+		culture = burmese
+		religion = placeholder
+		size = 225
+	}
+
+	farmers = {
+		culture = burmese
+		religion = placeholder
+		size = 18300
+	}
+}
+
+1340 = {
+	aristocrats = {
+		culture = shan
+		religion = placeholder
+		size = 500
+	}
+
+	clergymen = {
+		culture = shan
+		religion = placeholder
+		size = 500
+	}
+
+	artisans = {
+		culture = shan
+		religion = placeholder
+		size = 2500
+	}
+
+	soldiers = {
+		culture = shan
+		religion = placeholder
+		size = 500
+	}
+
+	farmers = {
+		culture = shan
+		religion = placeholder
+		size = 46000
+	}
+
+	aristocrats = {
+		culture = kachin
+		religion = placeholder
+		size = 100
+	}
+
+	clergymen = {
+		culture = kachin
+		religion = placeholder
+		size = 100
+	}
+
+	artisans = {
+		culture = kachin
+		religion = placeholder
+		size = 550
+	}
+
+	soldiers = {
+		culture = kachin
+		religion = placeholder
+		size = 150
+	}
+
+	farmers = {
+		culture = kachin
+		religion = placeholder
+		size = 10100
+	}
+
+	clergymen = {
+		culture = burmese
+		religion = placeholder
+		size = 75
+	}
+
+	artisans = {
+		culture = burmese
+		religion = placeholder
+		size = 350
+	}
+
+	soldiers = {
+		culture = burmese
+		religion = placeholder
+		size = 100
+	}
+
+	farmers = {
+		culture = burmese
+		religion = placeholder
+		size = 6475
+	}
+}
+
+1339 = {
+	aristocrats = {
+		culture = burmese
+		religion = placeholder
+		size = 50
+	}
+
+	clergymen = {
+		culture = burmese
+		religion = placeholder
+		size = 50
+	}
+
+	artisans = {
+		culture = burmese
+		religion = placeholder
+		size = 250
+	}
+
+	soldiers = {
+		culture = burmese
+		religion = placeholder
+		size = 1100
+	}
+
+	farmers = {
+		culture = burmese
+		religion = placeholder
+		size = 3650
+	}
+
+	aristocrats = {
+		culture = asian_minor
+		religion = placeholder
+		size = 500
+	}
+
+	clergymen = {
+		culture = asian_minor
+		religion = placeholder
+		size = 500
+	}
+
+	artisans = {
+		culture = asian_minor
+		religion = placeholder
+		size = 3000
+	}
+
+	soldiers = {
+		culture = asian_minor
+		religion = placeholder
+		size = 500
+	}
+
+	aristocrats = {
+		culture = kachin
+		religion = placeholder
+		size = 75
+	}
+
+	clergymen = {
+		culture = kachin
+		religion = placeholder
+		size = 350
+	}
+
+	artisans = {
+		culture = kachin
+		religion = placeholder
+		size = 800
+	}
+
+	soldiers = {
+		culture = kachin
+		religion = placeholder
+		size = 200
+	}
+
+	farmers = {
+		culture = kachin
+		religion = placeholder
+		size = 15575
+	}
+}
+
+1341 = {
+	aristocrats = {
+		culture = kachin
+		religion = placeholder
+		size = 550
+	}
+
+	clergymen = {
+		culture = kachin
+		religion = placeholder
+		size = 550
+	}
+
+	artisans = {
+		culture = kachin
+		religion = placeholder
+		size = 2500
+	}
+
+	soldiers = {
+		culture = kachin
+		religion = placeholder
+		size = 550
+	}
+
+	farmers = {
+		culture = kachin
+		religion = placeholder
+		size = 49850
+	}
+}
+
+1342 = {
+	aristocrats = {
+		culture = kachin
+		religion = placeholder
+		size = 400
+	}
+
+	clergymen = {
+		culture = kachin
+		religion = placeholder
+		size = 400
+	}
+
+	artisans = {
+		culture = kachin
+		religion = placeholder
+		size = 2000
+	}
+
+	soldiers = {
+		culture = kachin
+		religion = placeholder
+		size = 400
+	}
+
+	farmers = {
+		culture = kachin
+		religion = placeholder
+		size = 37800
+	}
+
+	aristocrats = {
+		culture = shan
+		religion = placeholder
+		size = 250
+	}
+
+	clergymen = {
+		culture = shan
+		religion = placeholder
+		size = 250
+	}
+
+	artisans = {
+		culture = shan
+		religion = placeholder
+		size = 1200
+	}
+
+	soldiers = {
+		culture = shan
+		religion = placeholder
+		size = 250
+	}
+
+	farmers = {
+		culture = shan
+		religion = placeholder
+		size = 21050
+	}
+
+	aristocrats = {
+		culture = burmese
+		religion = placeholder
+		size = 300
+	}
+
+	clergymen = {
+		culture = burmese
+		religion = placeholder
+		size = 300
+	}
+
+	artisans = {
+		culture = burmese
+		religion = placeholder
+		size = 1350
+	}
+
+	bureaucrats = {
+		culture = burmese
+		religion = placeholder
+		size = 100
+	}
+
+	soldiers = {
+		culture = burmese
+		religion = placeholder
+		size = 4000
+	}
+
+	farmers = {
+		culture = burmese
+		religion = placeholder
+		size = 20950
+	}
+}
+
+1343 = {
+	aristocrats = {
+		culture = karen
+		religion = placeholder
+		size = 400
+	}
+
+	clergymen = {
+		culture = karen
+		religion = placeholder
+		size = 350
+	}
+
+	artisans = {
+		culture = karen
+		religion = placeholder
+		size = 1100
+	}
+
+	soldiers = {
+		culture = karen
+		religion = placeholder
+		size = 300
+	}
+
+	farmers = {
+		culture = karen
+		religion = placeholder
+		size = 30950
+	}
+
+	aristocrats = {
+		culture = asian_minor
+		religion = placeholder
+		size = 200
+	}
+
+	clergymen = {
+		culture = asian_minor
+		religion = placeholder
+		size = 375
+	}
+
+	artisans = {
+		culture = asian_minor
+		religion = placeholder
+		size = 1375
+	}
+
+	soldiers = {
+		culture = asian_minor
+		religion = placeholder
+		size = 250
+	}
+
+	aristocrats = {
+		culture = burmese
+		religion = placeholder
+		size = 100
+	}
+
+	clergymen = {
+		culture = burmese
+		religion = placeholder
+		size = 75
+	}
+
+	artisans = {
+		culture = burmese
+		religion = placeholder
+		size = 1500
+	}
+
+	bureaucrats = {
+		culture = burmese
+		religion = placeholder
+		size = 100
+	}
+
+	soldiers = {
+		culture = burmese
+		religion = placeholder
+		size = 150
+	}
+
+	farmers = {
+		culture = burmese
+		religion = placeholder
+		size = 5075
+	}
+
+	bureaucrats = {
+		culture = british
+		religion = placeholder
+		size = 25
+	}
+}
+
+1344 = {
+	aristocrats = {
+		culture = karen
+		religion = placeholder
+		size = 400
+	}
+
+	clergymen = {
+		culture = karen
+		religion = placeholder
+		size = 375
+	}
+
+	artisans = {
+		culture = karen
+		religion = placeholder
+		size = 1100
+	}
+
+	soldiers = {
+		culture = karen
+		religion = placeholder
+		size = 400
+	}
+
+	farmers = {
+		culture = karen
+		religion = placeholder
+		size = 34825
+	}
+
+	aristocrats = {
+		culture = thai
+		religion = placeholder
+		size = 100
+	}
+
+	clergymen = {
+		culture = thai
+		religion = placeholder
+		size = 200
+	}
+
+	artisans = {
+		culture = thai
+		religion = placeholder
+		size = 1250
+	}
+
+	soldiers = {
+		culture = thai
+		religion = placeholder
+		size = 200
+	}
+
+	farmers = {
+		culture = thai
+		religion = placeholder
+		size = 17250
+	}
+
+	aristocrats = {
+		culture = burmese
+		religion = placeholder
+		size = 350
+	}
+
+	clergymen = {
+		culture = burmese
+		religion = placeholder
+		size = 300
+	}
+
+	artisans = {
+		culture = burmese
+		religion = placeholder
+		size = 2000
+	}
+
+	soldiers = {
+		culture = burmese
+		religion = placeholder
+		size = 300
+	}
+
+	farmers = {
+		culture = burmese
+		religion = placeholder
+		size = 24050
+	}
+}
+
+1345 = {
+	bureaucrats = {
+		culture = british
+		religion = placeholder
+		size = 10
+	}
+
+	aristocrats = {
+		culture = burmese
+		religion = placeholder
+		size = 350
+	}
+
+	clergymen = {
+		culture = burmese
+		religion = placeholder
+		size = 500
+	}
+
+	artisans = {
+		culture = burmese
+		religion = placeholder
+		size = 9000
+	}
+
+	soldiers = {
+		culture = burmese
+		religion = placeholder
+		size = 400
+	}
+
+	farmers = {
+		culture = burmese
+		religion = placeholder
+		size = 30700
+	}
+
+	bureaucrats = {
+		culture = burmese
+		religion = placeholder
+		size = 50
+	}
+
+	clergymen = {
+		culture = asian_minor
+		religion = placeholder
+		size = 25
+	}
+
+	farmers = {
+		culture = asian_minor
+		religion = placeholder
+		size = 950
+	}
+
+	clergymen = {
+		culture = bengali
+		religion = placeholder
+		size = 50
+	}
+
+	farmers = {
+		culture = bengali
+		religion = placeholder
+		size = 1950
+	}
+}

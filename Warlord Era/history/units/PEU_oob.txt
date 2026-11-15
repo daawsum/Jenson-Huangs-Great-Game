@@ -1,0 +1,18 @@
+leader = {
+	name = "Andres de Santa Cruz"
+	type = land
+	date = 1836.1.1
+	personality = arrogant
+	background = old_school
+}
+
+army = {
+	name = "Warband of Lima"
+	location = 2295
+	regiment = {
+		name = "1. Warband of Lima"
+		type = irregular
+		home = 2295
+	}
+}
+

@@ -1,0 +1,215 @@
+1884 = {
+	artisans = {
+		culture = afro_american
+		religion = placeholder
+		size = 37
+	}
+
+	soldiers = {
+		culture = afro_american
+		religion = placeholder
+		size = 25
+	}
+
+	farmers = {
+		culture = afro_american
+		religion = placeholder
+		size = 705
+	}
+
+	aristocrats = {
+		culture = hausa
+		religion = placeholder
+		size = 101
+	}
+
+	clergymen = {
+		culture = hausa
+		religion = placeholder
+		size = 52
+	}
+
+	artisans = {
+		culture = hausa
+		religion = placeholder
+		size = 247
+	}
+
+	soldiers = {
+		culture = hausa
+		religion = placeholder
+		size = 52
+	}
+
+	farmers = {
+		culture = hausa
+		religion = placeholder
+		size = 4796
+	}
+
+	aristocrats = {
+		culture = african_minor
+		religion = placeholder
+		size = 168
+	}
+
+	clergymen = {
+		culture = african_minor
+		religion = placeholder
+		size = 90
+	}
+
+	artisans = {
+		culture = african_minor
+		religion = placeholder
+		size = 450
+	}
+
+	soldiers = {
+		culture = african_minor
+		religion = placeholder
+		size = 90
+	}
+
+	farmers = {
+		culture = african_minor
+		religion = placeholder
+		size = 8216
+	}
+}
+
+1886 = {
+	aristocrats = {
+		culture = hausa
+		religion = placeholder
+		size = 900
+	}
+
+	clergymen = {
+		culture = hausa
+		religion = placeholder
+		size = 475
+	}
+
+	artisans = {
+		culture = hausa
+		religion = placeholder
+		size = 1875
+	}
+
+	soldiers = {
+		culture = hausa
+		religion = placeholder
+		size = 475
+	}
+
+	farmers = {
+		culture = hausa
+		religion = placeholder
+		size = 36275
+	}
+
+	aristocrats = {
+		culture = african_minor
+		religion = placeholder
+		size = 800
+	}
+
+	clergymen = {
+		culture = african_minor
+		religion = placeholder
+		size = 400
+	}
+
+	artisans = {
+		culture = african_minor
+		religion = placeholder
+		size = 2000
+	}
+
+	soldiers = {
+		culture = african_minor
+		religion = placeholder
+		size = 425
+	}
+
+	farmers = {
+		culture = african_minor
+		religion = placeholder
+		size = 37375
+	}
+
+	slaves = {
+		culture = african_minor
+		religion = placeholder
+		size = 7000
+	}
+}
+
+1885 = {
+	aristocrats = {
+		culture = hausa
+		religion = placeholder
+		size = 925
+	}
+
+	clergymen = {
+		culture = hausa
+		religion = placeholder
+		size = 475
+	}
+
+	artisans = {
+		culture = hausa
+		religion = placeholder
+		size = 1900
+	}
+
+	soldiers = {
+		culture = hausa
+		religion = placeholder
+		size = 475
+	}
+
+	farmers = {
+		culture = hausa
+		religion = placeholder
+		size = 36225
+	}
+
+	aristocrats = {
+		culture = african_minor
+		religion = placeholder
+		size = 925
+	}
+
+	clergymen = {
+		culture = african_minor
+		religion = placeholder
+		size = 475
+	}
+
+	artisans = {
+		culture = african_minor
+		religion = placeholder
+		size = 2050
+	}
+
+	soldiers = {
+		culture = african_minor
+		religion = placeholder
+		size = 525
+	}
+
+	farmers = {
+		culture = african_minor
+		religion = placeholder
+		size = 39025
+	}
+
+	slaves = {
+		culture = african_minor
+		religion = placeholder
+		size = 13000
+	}
+}

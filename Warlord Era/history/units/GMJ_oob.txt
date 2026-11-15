@@ -1,0 +1,158 @@
+SXI = {
+	value = -150
+}
+
+XBI = {
+	value = 150
+}
+
+army = {
+	name = "Guominjun First Army"
+	location = 1559
+	regiment = {
+		name = "1. Guominjun First Army"
+		type = infantry
+		home = 1562
+	}
+	regiment = {
+		name = "2. Guominjun First Army"
+		type = infantry
+		home = 3340
+	}
+	regiment = {
+		name = "3. Guominjun First Army"
+		type = infantry
+		home = 1559
+	}
+	regiment = {
+		name = "4. Guominjun First Army"
+		type = infantry
+		home = 3338
+	}
+	regiment = {
+		name = "5. Guominjun First Army"
+		type = infantry
+		home = 2062
+	}
+	regiment = {
+		name = "6. Guominjun First Army"
+		type = infantry
+		home = 3384
+	}
+	regiment = {
+		name = "7. Guominjun First Army"
+		type = cavalry
+		home = 1561
+	}
+	regiment = {
+		name = "8. Guominjun First Army"
+		type = artillery
+		home = 3339
+	}
+	regiment = {
+		name = "9. Guominjun First Army"
+		type = artillery
+		home = 1562
+	}
+}
+
+army = {
+	name = "Guominjun Second Army"
+	location = 3339
+	regiment = {
+		name = "1. Guominjun Second Army"
+		type = infantry
+		home = 1562
+	}
+	regiment = {
+		name = "2. Guominjun Second Army"
+		type = infantry
+		home = 3340
+	}
+	regiment = {
+		name = "3. Guominjun Second Army"
+		type = infantry
+		home = 1559
+	}
+	regiment = {
+		name = "4. Guominjun Second Army"
+		type = infantry
+		home = 3338
+	}
+	regiment = {
+		name = "5. Guominjun Second Army"
+		type = infantry
+		home = 2062
+	}
+	regiment = {
+		name = "6. Guominjun Second Army"
+		type = infantry
+		home = 3384
+	}
+	regiment = {
+		name = "7. Guominjun Second Army"
+		type = cavalry
+		home = 1561
+	}
+	regiment = {
+		name = "8. Guominjun Second Army"
+		type = artillery
+		home = 3339
+	}
+	regiment = {
+		name = "9. Guominjun Second Army"
+		type = artillery
+		home = 1562
+	}
+}
+
+army = {
+	name = "Guominjun Third Army"
+	location = 1561
+	regiment = {
+		name = "1. Guominjun Third Army"
+		type = infantry
+		home = 1562
+	}
+	regiment = {
+		name = "2. Guominjun Third Army"
+		type = infantry
+		home = 3340
+	}
+	regiment = {
+		name = "3. Guominjun Third Army"
+		type = infantry
+		home = 1559
+	}
+	regiment = {
+		name = "4. Guominjun Third Army"
+		type = infantry
+		home = 3338
+	}
+	regiment = {
+		name = "5. Guominjun Third Army"
+		type = infantry
+		home = 2062
+	}
+	regiment = {
+		name = "6. Guominjun Third Army"
+		type = infantry
+		home = 3384
+	}
+	regiment = {
+		name = "7. Guominjun Third Army"
+		type = cavalry
+		home = 1561
+	}
+	regiment = {
+		name = "8. Guominjun Third Army"
+		type = artillery
+		home = 3339
+	}
+	regiment = {
+		name = "9. Guominjun Third Army"
+		type = artillery
+		home = 1562
+	}
+}
+

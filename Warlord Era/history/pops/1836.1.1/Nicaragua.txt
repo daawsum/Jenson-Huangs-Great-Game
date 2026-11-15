@@ -1,0 +1,151 @@
+2197 = {
+	aristocrats = {
+		culture = mexican
+		religion = placeholder
+		size = 157
+	}
+
+	clergymen = {
+		culture = mexican
+		religion = placeholder
+		size = 71
+	}
+
+	artisans = {
+		culture = mexican
+		religion = placeholder
+		size = 360
+	}
+
+	soldiers = {
+		culture = mexican
+		religion = placeholder
+		size = 71
+	}
+
+	farmers = {
+		culture = mexican
+		religion = placeholder
+		size = 6513
+	}
+}
+
+2198 = {
+	aristocrats = {
+		culture = mexican
+		religion = placeholder
+		size = 41
+	}
+
+	clergymen = {
+		culture = mexican
+		religion = placeholder
+		size = 25
+	}
+
+	artisans = {
+		culture = mexican
+		religion = placeholder
+		size = 75
+	}
+
+	soldiers = {
+		culture = mexican
+		religion = placeholder
+		size = 25
+	}
+
+	farmers = {
+		culture = mexican
+		religion = placeholder
+		size = 1353
+	}
+}
+
+2199 = {
+	aristocrats = {
+		culture = mexican
+		religion = placeholder
+		size = 48
+	}
+
+	clergymen = {
+		culture = mexican
+		religion = placeholder
+		size = 25
+	}
+
+	artisans = {
+		culture = mexican
+		religion = placeholder
+		size = 90
+	}
+
+	soldiers = {
+		culture = mexican
+		religion = placeholder
+		size = 25
+	}
+
+	farmers = {
+		culture = mexican
+		religion = placeholder
+		size = 1773
+	}
+}
+
+2200 = {
+	aristocrats = {
+		culture = mexican
+		religion = placeholder
+		size = 25
+	}
+
+	clergymen = {
+		culture = mexican
+		religion = placeholder
+		size = 25
+	}
+
+	artisans = {
+		culture = mexican
+		religion = placeholder
+		size = 25
+	}
+
+	soldiers = {
+		culture = mexican
+		religion = placeholder
+		size = 25
+	}
+
+	farmers = {
+		culture = mexican
+		religion = placeholder
+		size = 135
+	}
+
+	clergymen = {
+		culture = afro_american
+		religion = placeholder
+		size = 25
+	}
+
+	artisans = {
+		culture = afro_american
+		religion = placeholder
+		size = 25
+	}
+
+	soldiers = {
+		culture = afro_american
+		religion = placeholder
+		size = 25
+	}
+
+	farmers = {
+		culture = afro_american
+		religion = placeholder
+		size = 270
+	}
+}

@@ -1,0 +1,7 @@
+owner = HNI
+controller = HNI
+add_core = HNI
+add_core = CHI
+trade_goods = timber
+life_rating = 32
+terrain = plains

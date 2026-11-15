@@ -1,0 +1,40 @@
+army = {
+	name = "Host of Seoul"
+	location = 1624
+	regiment = {
+		name = "1. Host of Seoul"
+		type = irregular
+		home = 1624
+	}
+	regiment = {
+		name = "2. Host of Seoul"
+		type = irregular
+		home = 1619
+	}
+	regiment = {
+		name = "3. Host of Seoul"
+		type = irregular
+		home = 1620
+	}
+	regiment = {
+		name = "4. Host of Seoul"
+		type = irregular
+		home = 1628
+	}
+	regiment = {
+		name = "5. Host of Seoul"
+		type = irregular
+		home = 1632
+	}
+	regiment = {
+		name = "6. Host of Seoul"
+		type = irregular
+		home = 1634
+	}
+	regiment = {
+		name = "7. Host of Seoul"
+		type = cavalry
+		home = 1635
+	}
+}
+

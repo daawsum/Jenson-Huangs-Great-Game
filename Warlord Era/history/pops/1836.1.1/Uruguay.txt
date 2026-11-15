@@ -1,0 +1,157 @@
+2344 = {
+	aristocrats = {
+		culture = mexican
+		religion = placeholder
+		size = 86
+	}
+
+	clergymen = {
+		culture = mexican
+		religion = placeholder
+		size = 37
+	}
+
+	artisans = {
+		culture = mexican
+		religion = placeholder
+		size = 147
+	}
+
+	soldiers = {
+		culture = mexican
+		religion = placeholder
+		size = 165
+	}
+
+	farmers = {
+		culture = mexican
+		religion = placeholder
+		size = 3014
+	}
+
+	clergymen = {
+		culture = afro_american
+		religion = placeholder
+		size = 25
+	}
+
+	artisans = {
+		culture = afro_american
+		religion = placeholder
+		size = 37
+	}
+
+	soldiers = {
+		culture = afro_american
+		religion = placeholder
+		size = 25
+	}
+
+	farmers = {
+		culture = afro_american
+		religion = placeholder
+		size = 472
+	}
+
+	slaves = {
+		culture = afro_american
+		religion = placeholder
+		size = 225
+	}
+}
+
+2345 = {
+	aristocrats = {
+		culture = mexican
+		religion = placeholder
+		size = 30
+	}
+
+	clergymen = {
+		culture = mexican
+		religion = placeholder
+		size = 25
+	}
+
+	artisans = {
+		culture = mexican
+		religion = placeholder
+		size = 67
+	}
+
+	soldiers = {
+		culture = mexican
+		religion = placeholder
+		size = 165
+	}
+
+	farmers = {
+		culture = mexican
+		religion = placeholder
+		size = 1091
+	}
+}
+
+2346 = {
+	aristocrats = {
+		culture = mexican
+		religion = placeholder
+		size = 25
+	}
+
+	clergymen = {
+		culture = mexican
+		religion = placeholder
+		size = 25
+	}
+
+	artisans = {
+		culture = mexican
+		religion = placeholder
+		size = 25
+	}
+
+	soldiers = {
+		culture = mexican
+		religion = placeholder
+		size = 25
+	}
+
+	farmers = {
+		culture = mexican
+		religion = placeholder
+		size = 408
+	}
+}
+
+2347 = {
+	aristocrats = {
+		culture = mexican
+		religion = placeholder
+		size = 25
+	}
+
+	clergymen = {
+		culture = mexican
+		religion = placeholder
+		size = 25
+	}
+
+	artisans = {
+		culture = mexican
+		religion = placeholder
+		size = 75
+	}
+
+	soldiers = {
+		culture = mexican
+		religion = placeholder
+		size = 168
+	}
+
+	farmers = {
+		culture = mexican
+		religion = placeholder
+		size = 1233
+	}
+}

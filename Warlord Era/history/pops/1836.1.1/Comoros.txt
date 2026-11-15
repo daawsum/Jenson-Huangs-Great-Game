@@ -1,0 +1,75 @@
+2123 = {
+	aristocrats = {
+		culture = african_minor
+		religion = placeholder
+		size = 250
+	}
+
+	clergymen = {
+		culture = african_minor
+		religion = placeholder
+		size = 100
+	}
+
+	artisans = {
+		culture = african_minor
+		religion = placeholder
+		size = 625
+	}
+
+	soldiers = {
+		culture = african_minor
+		religion = placeholder
+		size = 1150
+	}
+
+	farmers = {
+		culture = african_minor
+		religion = placeholder
+		size = 8925
+	}
+
+	slaves = {
+		culture = african_minor
+		religion = placeholder
+		size = 3000
+	}
+}
+
+2124 = {
+	aristocrats = {
+		culture = african_minor
+		religion = placeholder
+		size = 30
+	}
+
+	clergymen = {
+		culture = african_minor
+		religion = placeholder
+		size = 50
+	}
+
+	artisans = {
+		culture = african_minor
+		religion = placeholder
+		size = 100
+	}
+
+	soldiers = {
+		culture = african_minor
+		religion = placeholder
+		size = 20
+	}
+
+	farmers = {
+		culture = african_minor
+		religion = placeholder
+		size = 1300
+	}
+
+	slaves = {
+		culture = african_minor
+		religion = placeholder
+		size = 500
+	}
+}

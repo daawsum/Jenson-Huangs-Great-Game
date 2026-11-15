@@ -1,0 +1,17 @@
+owner = FUJ
+controller = FUJ
+add_core = FUJ
+add_core = CHI
+trade_goods = tea
+life_rating = 32
+terrain = plains
+state_building = {
+	level = 1
+	building = ammunition_factory
+	upgrade = yes
+}
+state_building = {
+	level = 1
+	building = small_arms_factory
+	upgrade = yes
+}

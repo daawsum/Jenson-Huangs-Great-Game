@@ -1,0 +1,6 @@
+owner = XAE
+controller = XAE
+add_core = XAE
+add_core = EGY
+trade_goods = fruit
+life_rating = 35

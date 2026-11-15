@@ -1,0 +1,6 @@
+owner = XAL
+controller = XAL
+add_core = XAL
+add_core = RUS
+trade_goods = timber
+life_rating = 35

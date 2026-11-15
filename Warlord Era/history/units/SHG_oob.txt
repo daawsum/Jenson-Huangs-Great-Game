@@ -1,0 +1,56 @@
+JSU = {
+	value = 125
+}
+
+army = {
+	name = "Shanghai First Army"
+	location = 1538
+	regiment = {
+		name = "1. Shanghai First Army"
+		type = infantry
+		home = 1540
+	}
+	regiment = {
+		name = "2. Shanghai First Army"
+		type = infantry
+		home = 1538
+	}
+	regiment = {
+		name = "3. Shanghai First Army"
+		type = infantry
+		home = 1540
+	}
+	regiment = {
+		name = "4. Shanghai First Army"
+		type = infantry
+		home = 1538
+	}
+	regiment = {
+		name = "5. Shanghai First Army"
+		type = infantry
+		home = 1540
+	}
+	regiment = {
+		name = "6. Shanghai First Army"
+		type = cavalry
+		home = 1538
+	}
+}
+
+navy = {
+	name = "Shanghai Fleet"
+	location = 1538
+	ship = {
+		name = "Shanghai Fleet 1"
+		type = frigate
+	}
+	ship = {
+		name = "Shanghai Fleet 2"
+		type = clipper_transport
+	}
+	ship = {
+		name = "Shanghai Fleet 3"
+		type = clipper_transport
+	}
+}
+

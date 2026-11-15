@@ -1,0 +1,6 @@
+owner = XAG
+controller = XAG
+add_core = XAG
+add_core = JAP
+trade_goods = grain
+life_rating = 35

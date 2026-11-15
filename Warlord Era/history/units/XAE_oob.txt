@@ -1,0 +1,40 @@
+army = {
+	name = "Army of Damascus"
+	location = 902
+	regiment = {
+		name = "1. Army of Damascus"
+		type = infantry
+		home = 902
+	}
+	regiment = {
+		name = "2. Army of Damascus"
+		type = infantry
+		home = 897
+	}
+	regiment = {
+		name = "3. Army of Damascus"
+		type = infantry
+		home = 894
+	}
+	regiment = {
+		name = "4. Army of Damascus"
+		type = infantry
+		home = 898
+	}
+	regiment = {
+		name = "5. Army of Damascus"
+		type = infantry
+		home = 896
+	}
+	regiment = {
+		name = "6. Army of Damascus"
+		type = infantry
+		home = 900
+	}
+	regiment = {
+		name = "7. Army of Damascus"
+		type = cavalry
+		home = 913
+	}
+}
+

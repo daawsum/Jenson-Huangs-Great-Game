@@ -1,0 +1,15 @@
+army = {
+	name = "Army of Tirana"
+	location = 849
+	regiment = {
+		name = "1. Army of Tirana"
+		type = infantry
+		home = 849
+	}
+	regiment = {
+		name = "2. Army of Tirana"
+		type = infantry
+		home = 850
+	}
+}
+

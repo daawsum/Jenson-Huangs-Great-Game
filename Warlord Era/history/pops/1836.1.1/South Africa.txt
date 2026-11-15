@@ -1,0 +1,1551 @@
+2087 = {
+	clergymen = {
+		culture = zulu
+		religion = placeholder
+		size = 25
+	}
+
+	artisans = {
+		culture = zulu
+		religion = placeholder
+		size = 225
+	}
+
+	soldiers = {
+		culture = zulu
+		religion = placeholder
+		size = 45
+	}
+
+	farmers = {
+		culture = zulu
+		religion = placeholder
+		size = 3165
+	}
+
+	aristocrats = {
+		culture = british
+		religion = placeholder
+		size = 25
+	}
+
+	clergymen = {
+		culture = british
+		religion = placeholder
+		size = 25
+	}
+
+	artisans = {
+		culture = british
+		religion = placeholder
+		size = 375
+	}
+
+	soldiers = {
+		culture = british
+		religion = placeholder
+		size = 25
+	}
+
+	farmers = {
+		culture = british
+		religion = placeholder
+		size = 637
+	}
+
+	clergymen = {
+		culture = anglo_canadian
+		religion = placeholder
+		size = 25
+	}
+
+	artisans = {
+		culture = anglo_canadian
+		religion = placeholder
+		size = 165
+	}
+
+	soldiers = {
+		culture = anglo_canadian
+		religion = placeholder
+		size = 165
+	}
+
+	farmers = {
+		culture = anglo_canadian
+		religion = placeholder
+		size = 1671
+	}
+}
+
+2089 = {
+	clergymen = {
+		culture = zulu
+		religion = placeholder
+		size = 26
+	}
+
+	artisans = {
+		culture = zulu
+		religion = placeholder
+		size = 75
+	}
+
+	soldiers = {
+		culture = zulu
+		religion = placeholder
+		size = 41
+	}
+
+	farmers = {
+		culture = zulu
+		religion = placeholder
+		size = 3592
+	}
+
+	clergymen = {
+		culture = anglo_canadian
+		religion = placeholder
+		size = 25
+	}
+
+	artisans = {
+		culture = anglo_canadian
+		religion = placeholder
+		size = 105
+	}
+
+	soldiers = {
+		culture = anglo_canadian
+		religion = placeholder
+		size = 25
+	}
+
+	farmers = {
+		culture = anglo_canadian
+		religion = placeholder
+		size = 513
+	}
+
+	aristocrats = {
+		culture = zulu
+		religion = placeholder
+		size = 25
+	}
+
+	clergymen = {
+		culture = british
+		religion = placeholder
+		size = 25
+	}
+
+	artisans = {
+		culture = british
+		religion = placeholder
+		size = 45
+	}
+
+	soldiers = {
+		culture = british
+		religion = placeholder
+		size = 25
+	}
+
+	farmers = {
+		culture = british
+		religion = placeholder
+		size = 99
+	}
+}
+
+2090 = {
+	clergymen = {
+		culture = zulu
+		religion = placeholder
+		size = 25
+	}
+
+	artisans = {
+		culture = zulu
+		religion = placeholder
+		size = 45
+	}
+
+	soldiers = {
+		culture = zulu
+		religion = placeholder
+		size = 37
+	}
+
+	farmers = {
+		culture = zulu
+		religion = placeholder
+		size = 3195
+	}
+
+	clergymen = {
+		culture = anglo_canadian
+		religion = placeholder
+		size = 25
+	}
+
+	artisans = {
+		culture = anglo_canadian
+		religion = placeholder
+		size = 45
+	}
+
+	soldiers = {
+		culture = anglo_canadian
+		religion = placeholder
+		size = 25
+	}
+
+	farmers = {
+		culture = anglo_canadian
+		religion = placeholder
+		size = 603
+	}
+
+	clergymen = {
+		culture = british
+		religion = placeholder
+		size = 25
+	}
+
+	artisans = {
+		culture = british
+		religion = placeholder
+		size = 45
+	}
+
+	soldiers = {
+		culture = british
+		religion = placeholder
+		size = 25
+	}
+
+	farmers = {
+		culture = british
+		religion = placeholder
+		size = 99
+	}
+}
+
+2091 = {
+	clergymen = {
+		culture = anglo_canadian
+		religion = placeholder
+		size = 25
+	}
+
+	artisans = {
+		culture = anglo_canadian
+		religion = placeholder
+		size = 25
+	}
+
+	soldiers = {
+		culture = anglo_canadian
+		religion = placeholder
+		size = 25
+	}
+
+	farmers = {
+		culture = anglo_canadian
+		religion = placeholder
+		size = 236
+	}
+
+	clergymen = {
+		culture = british
+		religion = placeholder
+		size = 25
+	}
+
+	artisans = {
+		culture = british
+		religion = placeholder
+		size = 25
+	}
+
+	soldiers = {
+		culture = british
+		religion = placeholder
+		size = 25
+	}
+
+	farmers = {
+		culture = british
+		religion = placeholder
+		size = 270
+	}
+
+	clergymen = {
+		culture = zulu
+		religion = placeholder
+		size = 25
+	}
+
+	artisans = {
+		culture = zulu
+		religion = placeholder
+		size = 25
+	}
+
+	soldiers = {
+		culture = zulu
+		religion = placeholder
+		size = 25
+	}
+
+	farmers = {
+		culture = zulu
+		religion = placeholder
+		size = 711
+	}
+}
+
+2088 = {
+	aristocrats = {
+		culture = zulu
+		religion = placeholder
+		size = 25
+	}
+
+	clergymen = {
+		culture = zulu
+		religion = placeholder
+		size = 50
+	}
+
+	artisans = {
+		culture = zulu
+		religion = placeholder
+		size = 150
+	}
+
+	soldiers = {
+		culture = zulu
+		religion = placeholder
+		size = 25
+	}
+
+	farmers = {
+		culture = zulu
+		religion = placeholder
+		size = 2750
+	}
+}
+
+2092 = {
+	clergymen = {
+		culture = anglo_canadian
+		religion = placeholder
+		size = 25
+	}
+
+	artisans = {
+		culture = anglo_canadian
+		religion = placeholder
+		size = 25
+	}
+
+	soldiers = {
+		culture = anglo_canadian
+		religion = placeholder
+		size = 25
+	}
+
+	farmers = {
+		culture = anglo_canadian
+		religion = placeholder
+		size = 367
+	}
+
+	clergymen = {
+		culture = british
+		religion = placeholder
+		size = 25
+	}
+
+	artisans = {
+		culture = british
+		religion = placeholder
+		size = 30
+	}
+
+	soldiers = {
+		culture = british
+		religion = placeholder
+		size = 25
+	}
+
+	farmers = {
+		culture = british
+		religion = placeholder
+		size = 116
+	}
+
+	clergymen = {
+		culture = zulu
+		religion = placeholder
+		size = 25
+	}
+
+	artisans = {
+		culture = zulu
+		religion = placeholder
+		size = 25
+	}
+
+	soldiers = {
+		culture = zulu
+		religion = placeholder
+		size = 25
+	}
+
+	farmers = {
+		culture = zulu
+		religion = placeholder
+		size = 720
+	}
+}
+
+2093 = {
+	clergymen = {
+		culture = anglo_canadian
+		religion = placeholder
+		size = 25
+	}
+
+	artisans = {
+		culture = anglo_canadian
+		religion = placeholder
+		size = 25
+	}
+
+	soldiers = {
+		culture = anglo_canadian
+		religion = placeholder
+		size = 25
+	}
+
+	farmers = {
+		culture = anglo_canadian
+		religion = placeholder
+		size = 123
+	}
+
+	clergymen = {
+		culture = zulu
+		religion = placeholder
+		size = 25
+	}
+
+	artisans = {
+		culture = zulu
+		religion = placeholder
+		size = 25
+	}
+
+	soldiers = {
+		culture = zulu
+		religion = placeholder
+		size = 25
+	}
+
+	farmers = {
+		culture = zulu
+		religion = placeholder
+		size = 716
+	}
+
+	aristocrats = {
+		culture = zulu
+		religion = placeholder
+		size = 25
+	}
+}
+
+2558 = {
+	aristocrats = {
+		culture = zulu
+		religion = placeholder
+		size = 25
+	}
+
+	clergymen = {
+		culture = zulu
+		religion = placeholder
+		size = 25
+	}
+
+	artisans = {
+		culture = zulu
+		religion = placeholder
+		size = 25
+	}
+
+	soldiers = {
+		culture = zulu
+		religion = placeholder
+		size = 25
+	}
+
+	farmers = {
+		culture = zulu
+		religion = placeholder
+		size = 855
+	}
+
+	clergymen = {
+		culture = anglo_canadian
+		religion = placeholder
+		size = 25
+	}
+
+	artisans = {
+		culture = anglo_canadian
+		religion = placeholder
+		size = 37
+	}
+
+	soldiers = {
+		culture = anglo_canadian
+		religion = placeholder
+		size = 25
+	}
+
+	farmers = {
+		culture = anglo_canadian
+		religion = placeholder
+		size = 352
+	}
+}
+
+2094 = {
+	aristocrats = {
+		culture = zulu
+		religion = placeholder
+		size = 400
+	}
+
+	clergymen = {
+		culture = zulu
+		religion = placeholder
+		size = 400
+	}
+
+	artisans = {
+		culture = zulu
+		religion = placeholder
+		size = 1600
+	}
+
+	soldiers = {
+		culture = zulu
+		religion = placeholder
+		size = 400
+	}
+
+	farmers = {
+		culture = zulu
+		religion = placeholder
+		size = 36200
+	}
+}
+
+2095 = {
+	aristocrats = {
+		culture = zulu
+		religion = placeholder
+		size = 50
+	}
+
+	clergymen = {
+		culture = zulu
+		religion = placeholder
+		size = 50
+	}
+
+	artisans = {
+		culture = zulu
+		religion = placeholder
+		size = 200
+	}
+
+	soldiers = {
+		culture = zulu
+		religion = placeholder
+		size = 50
+	}
+
+	farmers = {
+		culture = zulu
+		religion = placeholder
+		size = 4650
+	}
+}
+
+2096 = {
+	clergymen = {
+		culture = british
+		religion = placeholder
+		size = 25
+	}
+
+	artisans = {
+		culture = british
+		religion = placeholder
+		size = 45
+	}
+
+	soldiers = {
+		culture = british
+		religion = placeholder
+		size = 25
+	}
+
+	farmers = {
+		culture = british
+		religion = placeholder
+		size = 397
+	}
+
+	aristocrats = {
+		culture = zulu
+		religion = placeholder
+		size = 25
+	}
+
+	clergymen = {
+		culture = zulu
+		religion = placeholder
+		size = 25
+	}
+
+	artisans = {
+		culture = zulu
+		religion = placeholder
+		size = 25
+	}
+
+	soldiers = {
+		culture = zulu
+		religion = placeholder
+		size = 25
+	}
+
+	farmers = {
+		culture = zulu
+		religion = placeholder
+		size = 1164
+	}
+}
+
+2097 = {
+	clergymen = {
+		culture = british
+		religion = placeholder
+		size = 25
+	}
+
+	artisans = {
+		culture = british
+		religion = placeholder
+		size = 25
+	}
+
+	soldiers = {
+		culture = british
+		religion = placeholder
+		size = 25
+	}
+
+	farmers = {
+		culture = british
+		religion = placeholder
+		size = 1323
+	}
+
+	aristocrats = {
+		culture = zulu
+		religion = placeholder
+		size = 25
+	}
+
+	clergymen = {
+		culture = zulu
+		religion = placeholder
+		size = 25
+	}
+
+	artisans = {
+		culture = zulu
+		religion = placeholder
+		size = 45
+	}
+
+	soldiers = {
+		culture = zulu
+		religion = placeholder
+		size = 25
+	}
+
+	farmers = {
+		culture = zulu
+		religion = placeholder
+		size = 1275
+	}
+}
+
+2098 = {
+	aristocrats = {
+		culture = zulu
+		religion = placeholder
+		size = 25
+	}
+
+	clergymen = {
+		culture = zulu
+		religion = placeholder
+		size = 25
+	}
+
+	artisans = {
+		culture = zulu
+		religion = placeholder
+		size = 75
+	}
+
+	soldiers = {
+		culture = zulu
+		religion = placeholder
+		size = 25
+	}
+
+	farmers = {
+		culture = zulu
+		religion = placeholder
+		size = 1380
+	}
+}
+
+2099 = {
+	aristocrats = {
+		culture = zulu
+		religion = placeholder
+		size = 25
+	}
+
+	clergymen = {
+		culture = zulu
+		religion = placeholder
+		size = 25
+	}
+
+	artisans = {
+		culture = zulu
+		religion = placeholder
+		size = 75
+	}
+
+	soldiers = {
+		culture = zulu
+		religion = placeholder
+		size = 25
+	}
+
+	farmers = {
+		culture = zulu
+		religion = placeholder
+		size = 1380
+	}
+}
+
+2100 = {
+	aristocrats = {
+		culture = zulu
+		religion = placeholder
+		size = 30
+	}
+
+	clergymen = {
+		culture = zulu
+		religion = placeholder
+		size = 30
+	}
+
+	artisans = {
+		culture = zulu
+		religion = placeholder
+		size = 135
+	}
+
+	soldiers = {
+		culture = zulu
+		religion = placeholder
+		size = 30
+	}
+
+	farmers = {
+		culture = zulu
+		religion = placeholder
+		size = 2475
+	}
+}
+
+2101 = {
+	bureaucrats = {
+		culture = anglo_canadian
+		religion = placeholder
+		size = 2
+	}
+
+	officers = {
+		culture = anglo_canadian
+		religion = placeholder
+		size = 3
+	}
+
+	clergymen = {
+		culture = anglo_canadian
+		religion = placeholder
+		size = 5
+	}
+
+	artisans = {
+		culture = anglo_canadian
+		religion = placeholder
+		size = 50
+	}
+
+	soldiers = {
+		culture = anglo_canadian
+		religion = placeholder
+		size = 90
+	}
+
+	farmers = {
+		culture = anglo_canadian
+		religion = placeholder
+		size = 600
+	}
+
+	aristocrats = {
+		culture = zulu
+		religion = placeholder
+		size = 925
+	}
+
+	clergymen = {
+		culture = zulu
+		religion = placeholder
+		size = 475
+	}
+
+	artisans = {
+		culture = zulu
+		religion = placeholder
+		size = 2375
+	}
+
+	soldiers = {
+		culture = zulu
+		religion = placeholder
+		size = 475
+	}
+
+	farmers = {
+		culture = zulu
+		religion = placeholder
+		size = 43500
+	}
+}
+
+2102 = {
+	clergymen = {
+		culture = anglo_canadian
+		religion = placeholder
+		size = 5
+	}
+
+	artisans = {
+		culture = anglo_canadian
+		religion = placeholder
+		size = 25
+	}
+
+	soldiers = {
+		culture = anglo_canadian
+		religion = placeholder
+		size = 1100
+	}
+
+	farmers = {
+		culture = anglo_canadian
+		religion = placeholder
+		size = 420
+	}
+
+	aristocrats = {
+		culture = zulu
+		religion = placeholder
+		size = 425
+	}
+
+	clergymen = {
+		culture = zulu
+		religion = placeholder
+		size = 275
+	}
+
+	artisans = {
+		culture = zulu
+		religion = placeholder
+		size = 1350
+	}
+
+	soldiers = {
+		culture = zulu
+		religion = placeholder
+		size = 250
+	}
+
+	farmers = {
+		culture = zulu
+		religion = placeholder
+		size = 22800
+	}
+}
+
+2103 = {
+	clergymen = {
+		culture = anglo_canadian
+		religion = placeholder
+		size = 10
+	}
+
+	artisans = {
+		culture = anglo_canadian
+		religion = placeholder
+		size = 50
+	}
+
+	soldiers = {
+		culture = anglo_canadian
+		religion = placeholder
+		size = 90
+	}
+
+	farmers = {
+		culture = anglo_canadian
+		religion = placeholder
+		size = 600
+	}
+
+	aristocrats = {
+		culture = zulu
+		religion = placeholder
+		size = 400
+	}
+
+	clergymen = {
+		culture = zulu
+		religion = placeholder
+		size = 200
+	}
+
+	artisans = {
+		culture = zulu
+		religion = placeholder
+		size = 1025
+	}
+
+	soldiers = {
+		culture = zulu
+		religion = placeholder
+		size = 200
+	}
+
+	farmers = {
+		culture = zulu
+		religion = placeholder
+		size = 18675
+	}
+}
+
+2104 = {
+	aristocrats = {
+		culture = zulu
+		religion = placeholder
+		size = 93
+	}
+
+	clergymen = {
+		culture = zulu
+		religion = placeholder
+		size = 48
+	}
+
+	artisans = {
+		culture = zulu
+		religion = placeholder
+		size = 240
+	}
+
+	soldiers = {
+		culture = zulu
+		religion = placeholder
+		size = 48
+	}
+
+	farmers = {
+		culture = zulu
+		religion = placeholder
+		size = 4346
+	}
+}
+
+2105 = {
+	bureaucrats = {
+		culture = anglo_canadian
+		religion = placeholder
+		size = 2
+	}
+
+	officers = {
+		culture = anglo_canadian
+		religion = placeholder
+		size = 3
+	}
+
+	clergymen = {
+		culture = anglo_canadian
+		religion = placeholder
+		size = 5
+	}
+
+	artisans = {
+		culture = anglo_canadian
+		religion = placeholder
+		size = 20
+	}
+
+	soldiers = {
+		culture = anglo_canadian
+		religion = placeholder
+		size = 1100
+	}
+
+	farmers = {
+		culture = anglo_canadian
+		religion = placeholder
+		size = 320
+	}
+
+	aristocrats = {
+		culture = zulu
+		religion = placeholder
+		size = 650
+	}
+
+	clergymen = {
+		culture = zulu
+		religion = placeholder
+		size = 350
+	}
+
+	artisans = {
+		culture = zulu
+		religion = placeholder
+		size = 1350
+	}
+
+	soldiers = {
+		culture = zulu
+		religion = placeholder
+		size = 350
+	}
+
+	farmers = {
+		culture = zulu
+		religion = placeholder
+		size = 31300
+	}
+}
+
+2106 = {
+	clergymen = {
+		culture = anglo_canadian
+		religion = placeholder
+		size = 10
+	}
+
+	artisans = {
+		culture = anglo_canadian
+		religion = placeholder
+		size = 25
+	}
+
+	soldiers = {
+		culture = anglo_canadian
+		religion = placeholder
+		size = 65
+	}
+
+	farmers = {
+		culture = anglo_canadian
+		religion = placeholder
+		size = 500
+	}
+
+	aristocrats = {
+		culture = zulu
+		religion = placeholder
+		size = 425
+	}
+
+	clergymen = {
+		culture = zulu
+		religion = placeholder
+		size = 250
+	}
+
+	artisans = {
+		culture = zulu
+		religion = placeholder
+		size = 1250
+	}
+
+	soldiers = {
+		culture = zulu
+		religion = placeholder
+		size = 250
+	}
+
+	farmers = {
+		culture = zulu
+		religion = placeholder
+		size = 22775
+	}
+}
+
+2107 = {
+	clergymen = {
+		culture = anglo_canadian
+		religion = placeholder
+		size = 5
+	}
+
+	artisans = {
+		culture = anglo_canadian
+		religion = placeholder
+		size = 15
+	}
+
+	soldiers = {
+		culture = anglo_canadian
+		religion = placeholder
+		size = 25
+	}
+
+	farmers = {
+		culture = anglo_canadian
+		religion = placeholder
+		size = 205
+	}
+
+	aristocrats = {
+		culture = zulu
+		religion = placeholder
+		size = 500
+	}
+
+	clergymen = {
+		culture = zulu
+		religion = placeholder
+		size = 275
+	}
+
+	artisans = {
+		culture = zulu
+		religion = placeholder
+		size = 1200
+	}
+
+	soldiers = {
+		culture = zulu
+		religion = placeholder
+		size = 275
+	}
+
+	farmers = {
+		culture = zulu
+		religion = placeholder
+		size = 24750
+	}
+}
+
+2108 = {
+	clergymen = {
+		culture = anglo_canadian
+		religion = placeholder
+		size = 1
+	}
+
+	artisans = {
+		culture = anglo_canadian
+		religion = placeholder
+		size = 3
+	}
+
+	soldiers = {
+		culture = anglo_canadian
+		religion = placeholder
+		size = 6
+	}
+
+	farmers = {
+		culture = anglo_canadian
+		religion = placeholder
+		size = 40
+	}
+
+	aristocrats = {
+		culture = zulu
+		religion = placeholder
+		size = 200
+	}
+
+	clergymen = {
+		culture = zulu
+		religion = placeholder
+		size = 125
+	}
+
+	artisans = {
+		culture = zulu
+		religion = placeholder
+		size = 550
+	}
+
+	soldiers = {
+		culture = zulu
+		religion = placeholder
+		size = 125
+	}
+
+	farmers = {
+		culture = zulu
+		religion = placeholder
+		size = 11000
+	}
+}
+
+2109 = {
+	clergymen = {
+		culture = anglo_canadian
+		religion = placeholder
+		size = 3
+	}
+
+	artisans = {
+		culture = anglo_canadian
+		religion = placeholder
+		size = 12
+	}
+
+	soldiers = {
+		culture = anglo_canadian
+		religion = placeholder
+		size = 15
+	}
+
+	farmers = {
+		culture = anglo_canadian
+		religion = placeholder
+		size = 120
+	}
+
+	aristocrats = {
+		culture = zulu
+		religion = placeholder
+		size = 225
+	}
+
+	clergymen = {
+		culture = zulu
+		religion = placeholder
+		size = 125
+	}
+
+	artisans = {
+		culture = zulu
+		religion = placeholder
+		size = 650
+	}
+
+	soldiers = {
+		culture = zulu
+		religion = placeholder
+		size = 150
+	}
+
+	farmers = {
+		culture = zulu
+		religion = placeholder
+		size = 11850
+	}
+}
+
+2110 = {
+	clergymen = {
+		culture = anglo_canadian
+		religion = placeholder
+		size = 1
+	}
+
+	artisans = {
+		culture = anglo_canadian
+		religion = placeholder
+		size = 3
+	}
+
+	soldiers = {
+		culture = anglo_canadian
+		religion = placeholder
+		size = 6
+	}
+
+	farmers = {
+		culture = anglo_canadian
+		religion = placeholder
+		size = 40
+	}
+
+	aristocrats = {
+		culture = african_minor
+		religion = placeholder
+		size = 50
+	}
+
+	clergymen = {
+		culture = african_minor
+		religion = placeholder
+		size = 75
+	}
+
+	artisans = {
+		culture = african_minor
+		religion = placeholder
+		size = 150
+	}
+
+	soldiers = {
+		culture = african_minor
+		religion = placeholder
+		size = 25
+	}
+
+	farmers = {
+		culture = african_minor
+		religion = placeholder
+		size = 4700
+	}
+
+	aristocrats = {
+		culture = zulu
+		religion = placeholder
+		size = 75
+	}
+
+	clergymen = {
+		culture = zulu
+		religion = placeholder
+		size = 50
+	}
+
+	artisans = {
+		culture = zulu
+		religion = placeholder
+		size = 175
+	}
+
+	soldiers = {
+		culture = zulu
+		religion = placeholder
+		size = 50
+	}
+
+	farmers = {
+		culture = zulu
+		religion = placeholder
+		size = 1750
+	}
+}
+
+2111 = {
+	clergymen = {
+		culture = anglo_canadian
+		religion = placeholder
+		size = 5
+	}
+
+	artisans = {
+		culture = anglo_canadian
+		religion = placeholder
+		size = 25
+	}
+
+	soldiers = {
+		culture = anglo_canadian
+		religion = placeholder
+		size = 50
+	}
+
+	farmers = {
+		culture = anglo_canadian
+		religion = placeholder
+		size = 420
+	}
+
+	aristocrats = {
+		culture = zulu
+		religion = placeholder
+		size = 575
+	}
+
+	clergymen = {
+		culture = zulu
+		religion = placeholder
+		size = 300
+	}
+
+	artisans = {
+		culture = zulu
+		religion = placeholder
+		size = 1450
+	}
+
+	soldiers = {
+		culture = zulu
+		religion = placeholder
+		size = 325
+	}
+
+	farmers = {
+		culture = zulu
+		religion = placeholder
+		size = 28325
+	}
+}
+
+2112 = {
+	aristocrats = {
+		culture = zulu
+		religion = placeholder
+		size = 750
+	}
+
+	clergymen = {
+		culture = zulu
+		religion = placeholder
+		size = 400
+	}
+
+	artisans = {
+		culture = zulu
+		religion = placeholder
+		size = 1950
+	}
+
+	soldiers = {
+		culture = zulu
+		religion = placeholder
+		size = 7000
+	}
+
+	farmers = {
+		culture = zulu
+		religion = placeholder
+		size = 28900
+	}
+}
+
+2113 = {
+	aristocrats = {
+		culture = zulu
+		religion = placeholder
+		size = 1550
+	}
+
+	bureaucrats = {
+		culture = zulu
+		religion = placeholder
+		size = 25
+	}
+
+	officers = {
+		culture = zulu
+		religion = placeholder
+		size = 150
+	}
+
+	clergymen = {
+		culture = zulu
+		religion = placeholder
+		size = 825
+	}
+
+	artisans = {
+		culture = zulu
+		religion = placeholder
+		size = 4000
+	}
+
+	soldiers = {
+		culture = zulu
+		religion = placeholder
+		size = 16000
+	}
+
+	farmers = {
+		culture = zulu
+		religion = placeholder
+		size = 57450
+	}
+}
+
+2114 = {
+	aristocrats = {
+		culture = zulu
+		religion = placeholder
+		size = 375
+	}
+
+	clergymen = {
+		culture = zulu
+		religion = placeholder
+		size = 200
+	}
+
+	artisans = {
+		culture = zulu
+		religion = placeholder
+		size = 1000
+	}
+
+	soldiers = {
+		culture = zulu
+		religion = placeholder
+		size = 200
+	}
+
+	farmers = {
+		culture = zulu
+		religion = placeholder
+		size = 18225
+	}
+}

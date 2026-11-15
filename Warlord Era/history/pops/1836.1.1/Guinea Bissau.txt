@@ -1,0 +1,93 @@
+1877 = {
+	aristocrats = {
+		culture = spanish
+		religion = placeholder
+		size = 25
+	}
+
+	clergymen = {
+		culture = spanish
+		religion = placeholder
+		size = 25
+	}
+
+	artisans = {
+		culture = spanish
+		religion = placeholder
+		size = 25
+	}
+
+	soldiers = {
+		culture = spanish
+		religion = placeholder
+		size = 25
+	}
+
+	clergymen = {
+		culture = african_minor
+		religion = placeholder
+		size = 25
+	}
+
+	artisans = {
+		culture = african_minor
+		religion = placeholder
+		size = 56
+	}
+
+	soldiers = {
+		culture = african_minor
+		religion = placeholder
+		size = 25
+	}
+
+	farmers = {
+		culture = african_minor
+		religion = placeholder
+		size = 825
+	}
+
+	slaves = {
+		culture = african_minor
+		religion = placeholder
+		size = 300
+	}
+}
+
+1878 = {
+	aristocrats = {
+		culture = hausa
+		religion = placeholder
+		size = 200
+	}
+
+	clergymen = {
+		culture = hausa
+		religion = placeholder
+		size = 200
+	}
+
+	artisans = {
+		culture = hausa
+		religion = placeholder
+		size = 1100
+	}
+
+	soldiers = {
+		culture = hausa
+		religion = placeholder
+		size = 200
+	}
+
+	farmers = {
+		culture = hausa
+		religion = placeholder
+		size = 14400
+	}
+
+	slaves = {
+		culture = african_minor
+		religion = placeholder
+		size = 3000
+	}
+}

@@ -1,0 +1,17 @@
+owner = HBE
+controller = HBE
+add_core = HBE
+add_core = CHI
+trade_goods = silk
+life_rating = 32
+terrain = woods
+state_building = {
+	level = 1
+	building = lumber_mill
+	upgrade = yes
+}
+state_building = {
+	level = 1
+	building = liquor_distillery
+	upgrade = yes
+}

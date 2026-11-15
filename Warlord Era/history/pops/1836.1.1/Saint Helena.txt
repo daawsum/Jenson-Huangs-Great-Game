@@ -1,0 +1,47 @@
+2129 = {
+	clergymen = {
+		culture = british
+		religion = placeholder
+		size = 25
+	}
+
+	soldiers = {
+		culture = british
+		religion = placeholder
+		size = 25
+	}
+
+	artisans = {
+		culture = british
+		religion = placeholder
+		size = 25
+	}
+
+	farmers = {
+		culture = british
+		religion = placeholder
+		size = 135
+	}
+}
+
+2130 = {
+	soldiers = {
+		culture = british
+		religion = placeholder
+		size = 25
+	}
+
+	farmers = {
+		culture = british
+		religion = placeholder
+		size = 25
+	}
+}
+
+2132 = {
+	farmers = {
+		culture = british
+		religion = placeholder
+		size = 25
+	}
+}

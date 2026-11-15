@@ -1,0 +1,177 @@
+1977 = {
+	aristocrats = {
+		culture = african_minor
+		religion = placeholder
+		size = 175
+	}
+
+	clergymen = {
+		culture = african_minor
+		religion = placeholder
+		size = 100
+	}
+
+	artisans = {
+		culture = african_minor
+		religion = placeholder
+		size = 400
+	}
+
+	soldiers = {
+		culture = african_minor
+		religion = placeholder
+		size = 100
+	}
+
+	farmers = {
+		culture = african_minor
+		religion = placeholder
+		size = 7225
+	}
+
+	slaves = {
+		culture = african_minor
+		religion = placeholder
+		size = 2000
+	}
+}
+
+1978 = {
+	aristocrats = {
+		culture = african_minor
+		religion = placeholder
+		size = 75
+	}
+
+	clergymen = {
+		culture = african_minor
+		religion = placeholder
+		size = 50
+	}
+
+	artisans = {
+		culture = african_minor
+		religion = placeholder
+		size = 175
+	}
+
+	soldiers = {
+		culture = african_minor
+		religion = placeholder
+		size = 50
+	}
+
+	farmers = {
+		culture = african_minor
+		religion = placeholder
+		size = 2650
+	}
+
+	slaves = {
+		culture = african_minor
+		religion = placeholder
+		size = 1100
+	}
+}
+
+2624 = {
+	aristocrats = {
+		culture = african_minor
+		religion = placeholder
+		size = 150
+	}
+
+	clergymen = {
+		culture = african_minor
+		religion = placeholder
+		size = 75
+	}
+
+	artisans = {
+		culture = african_minor
+		religion = placeholder
+		size = 325
+	}
+
+	soldiers = {
+		culture = african_minor
+		religion = placeholder
+		size = 100
+	}
+
+	farmers = {
+		culture = african_minor
+		religion = placeholder
+		size = 5350
+	}
+
+	slaves = {
+		culture = african_minor
+		religion = placeholder
+		size = 2000
+	}
+}
+
+1980 = {
+	aristocrats = {
+		culture = african_minor
+		religion = placeholder
+		size = 125
+	}
+
+	clergymen = {
+		culture = african_minor
+		religion = placeholder
+		size = 75
+	}
+
+	artisans = {
+		culture = african_minor
+		religion = placeholder
+		size = 350
+	}
+
+	soldiers = {
+		culture = african_minor
+		religion = placeholder
+		size = 75
+	}
+
+	farmers = {
+		culture = african_minor
+		religion = placeholder
+		size = 6375
+	}
+}
+
+1981 = {
+	aristocrats = {
+		culture = african_minor
+		religion = placeholder
+		size = 150
+	}
+
+	clergymen = {
+		culture = african_minor
+		religion = placeholder
+		size = 75
+	}
+
+	artisans = {
+		culture = african_minor
+		religion = placeholder
+		size = 400
+	}
+
+	soldiers = {
+		culture = african_minor
+		religion = placeholder
+		size = 75
+	}
+
+	farmers = {
+		culture = african_minor
+		religion = placeholder
+		size = 7300
+	}
+}

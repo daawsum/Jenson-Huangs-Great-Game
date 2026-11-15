@@ -1,0 +1,1889 @@
+720 = {
+	aristocrats = {
+		culture = north_italian
+		religion = placeholder
+		size = 4000
+	}
+
+	bureaucrats = {
+		culture = north_italian
+		religion = placeholder
+		size = 850
+	}
+
+	officers = {
+		culture = north_italian
+		religion = placeholder
+		size = 425
+	}
+
+	clergymen = {
+		culture = north_italian
+		religion = placeholder
+		size = 2335
+	}
+
+	artisans = {
+		culture = north_italian
+		religion = placeholder
+		size = 23490
+	}
+
+	soldiers = {
+		culture = north_italian
+		religion = placeholder
+		size = 5000
+	}
+
+	farmers = {
+		culture = north_italian
+		religion = placeholder
+		size = 192900
+	}
+}
+
+721 = {
+	aristocrats = {
+		culture = north_italian
+		religion = placeholder
+		size = 175
+	}
+
+	clergymen = {
+		culture = north_italian
+		religion = placeholder
+		size = 150
+	}
+
+	artisans = {
+		culture = north_italian
+		religion = placeholder
+		size = 775
+	}
+
+	soldiers = {
+		culture = north_italian
+		religion = placeholder
+		size = 150
+	}
+
+	farmers = {
+		culture = north_italian
+		religion = placeholder
+		size = 14250
+	}
+
+	aristocrats = {
+		culture = french
+		religion = placeholder
+		size = 275
+	}
+
+	clergymen = {
+		culture = french
+		religion = placeholder
+		size = 225
+	}
+
+	artisans = {
+		culture = french
+		religion = placeholder
+		size = 1175
+	}
+
+	soldiers = {
+		culture = french
+		religion = placeholder
+		size = 225
+	}
+
+	farmers = {
+		culture = french
+		religion = placeholder
+		size = 21600
+	}
+}
+
+722 = {
+	aristocrats = {
+		culture = north_italian
+		religion = placeholder
+		size = 950
+	}
+
+	clergymen = {
+		culture = north_italian
+		religion = placeholder
+		size = 525
+	}
+
+	artisans = {
+		culture = north_italian
+		religion = placeholder
+		size = 3000
+	}
+
+	soldiers = {
+		culture = north_italian
+		religion = placeholder
+		size = 2000
+	}
+
+	farmers = {
+		culture = north_italian
+		religion = placeholder
+		size = 46525
+	}
+}
+
+723 = {
+	aristocrats = {
+		culture = north_italian
+		religion = placeholder
+		size = 1500
+	}
+
+	clergymen = {
+		culture = north_italian
+		religion = placeholder
+		size = 800
+	}
+
+	artisans = {
+		culture = north_italian
+		religion = placeholder
+		size = 9500
+	}
+
+	soldiers = {
+		culture = north_italian
+		religion = placeholder
+		size = 2000
+	}
+
+	farmers = {
+		culture = north_italian
+		religion = placeholder
+		size = 65200
+	}
+}
+
+724 = {
+	aristocrats = {
+		culture = north_italian
+		religion = placeholder
+		size = 2550
+	}
+
+	bureaucrats = {
+		culture = north_italian
+		religion = placeholder
+		size = 400
+	}
+
+	officers = {
+		culture = north_italian
+		religion = placeholder
+		size = 250
+	}
+
+	clergymen = {
+		culture = north_italian
+		religion = placeholder
+		size = 1605
+	}
+
+	artisans = {
+		culture = north_italian
+		religion = placeholder
+		size = 19195
+	}
+
+	soldiers = {
+		culture = north_italian
+		religion = placeholder
+		size = 3000
+	}
+
+	farmers = {
+		culture = north_italian
+		religion = placeholder
+		size = 140000
+	}
+}
+
+725 = {
+	aristocrats = {
+		culture = north_italian
+		religion = placeholder
+		size = 1500
+	}
+
+	clergymen = {
+		culture = north_italian
+		religion = placeholder
+		size = 800
+	}
+
+	artisans = {
+		culture = north_italian
+		religion = placeholder
+		size = 4000
+	}
+
+	soldiers = {
+		culture = north_italian
+		religion = placeholder
+		size = 2000
+	}
+
+	farmers = {
+		culture = north_italian
+		religion = placeholder
+		size = 70700
+	}
+}
+
+726 = {
+	aristocrats = {
+		culture = north_italian
+		religion = placeholder
+		size = 7350
+	}
+
+	bureaucrats = {
+		culture = north_italian
+		religion = placeholder
+		size = 1325
+	}
+
+	officers = {
+		culture = north_italian
+		religion = placeholder
+		size = 600
+	}
+
+	clergymen = {
+		culture = north_italian
+		religion = placeholder
+		size = 3355
+	}
+
+	artisans = {
+		culture = north_italian
+		religion = placeholder
+		size = 39095
+	}
+
+	soldiers = {
+		culture = north_italian
+		religion = placeholder
+		size = 3350
+	}
+
+	farmers = {
+		culture = north_italian
+		religion = placeholder
+		size = 275925
+	}
+}
+
+727 = {
+	aristocrats = {
+		culture = north_italian
+		religion = placeholder
+		size = 2500
+	}
+
+	clergymen = {
+		culture = north_italian
+		religion = placeholder
+		size = 1175
+	}
+
+	artisans = {
+		culture = north_italian
+		religion = placeholder
+		size = 5900
+	}
+
+	soldiers = {
+		culture = north_italian
+		religion = placeholder
+		size = 1150
+	}
+
+	farmers = {
+		culture = north_italian
+		religion = placeholder
+		size = 107275
+	}
+}
+
+728 = {
+	aristocrats = {
+		culture = north_italian
+		religion = placeholder
+		size = 3900
+	}
+
+	clergymen = {
+		culture = north_italian
+		religion = placeholder
+		size = 1775
+	}
+
+	artisans = {
+		culture = north_italian
+		religion = placeholder
+		size = 8850
+	}
+
+	soldiers = {
+		culture = north_italian
+		religion = placeholder
+		size = 1750
+	}
+
+	farmers = {
+		culture = north_italian
+		religion = placeholder
+		size = 159075
+	}
+}
+
+729 = {
+	aristocrats = {
+		culture = north_italian
+		religion = placeholder
+		size = 2300
+	}
+
+	bureaucrats = {
+		culture = north_italian
+		religion = placeholder
+		size = 1600
+	}
+
+	officers = {
+		culture = north_italian
+		religion = placeholder
+		size = 400
+	}
+
+	clergymen = {
+		culture = north_italian
+		religion = placeholder
+		size = 1135
+	}
+
+	artisans = {
+		culture = north_italian
+		religion = placeholder
+		size = 44490
+	}
+
+	soldiers = {
+		culture = north_italian
+		religion = placeholder
+		size = 1150
+	}
+
+	farmers = {
+		culture = north_italian
+		religion = placeholder
+		size = 60925
+	}
+}
+
+730 = {
+	aristocrats = {
+		culture = north_italian
+		religion = placeholder
+		size = 2650
+	}
+
+	clergymen = {
+		culture = north_italian
+		religion = placeholder
+		size = 1300
+	}
+
+	artisans = {
+		culture = north_italian
+		religion = placeholder
+		size = 12000
+	}
+
+	soldiers = {
+		culture = north_italian
+		religion = placeholder
+		size = 1300
+	}
+
+	farmers = {
+		culture = north_italian
+		religion = placeholder
+		size = 111050
+	}
+}
+
+731 = {
+	aristocrats = {
+		culture = north_italian
+		religion = placeholder
+		size = 2900
+	}
+
+	clergymen = {
+		culture = north_italian
+		religion = placeholder
+		size = 1425
+	}
+
+	artisans = {
+		culture = north_italian
+		religion = placeholder
+		size = 7500
+	}
+
+	soldiers = {
+		culture = north_italian
+		religion = placeholder
+		size = 1400
+	}
+
+	farmers = {
+		culture = north_italian
+		religion = placeholder
+		size = 127775
+	}
+}
+
+732 = {
+	aristocrats = {
+		culture = north_italian
+		religion = placeholder
+		size = 1175
+	}
+
+	clergymen = {
+		culture = north_italian
+		religion = placeholder
+		size = 575
+	}
+
+	artisans = {
+		culture = north_italian
+		religion = placeholder
+		size = 2900
+	}
+
+	soldiers = {
+		culture = north_italian
+		religion = placeholder
+		size = 550
+	}
+
+	farmers = {
+		culture = north_italian
+		religion = placeholder
+		size = 52800
+	}
+}
+
+733 = {
+	aristocrats = {
+		culture = north_italian
+		religion = placeholder
+		size = 1550
+	}
+
+	clergymen = {
+		culture = north_italian
+		religion = placeholder
+		size = 750
+	}
+
+	artisans = {
+		culture = north_italian
+		religion = placeholder
+		size = 3750
+	}
+
+	soldiers = {
+		culture = north_italian
+		religion = placeholder
+		size = 750
+	}
+
+	farmers = {
+		culture = north_italian
+		religion = placeholder
+		size = 68200
+	}
+}
+
+734 = {
+	aristocrats = {
+		culture = north_german
+		religion = placeholder
+		size = 60
+	}
+
+	clergymen = {
+		culture = north_german
+		religion = placeholder
+		size = 80
+	}
+
+	bureaucrats = {
+		culture = north_german
+		religion = placeholder
+		size = 800
+	}
+
+	artisans = {
+		culture = north_german
+		religion = placeholder
+		size = 200
+	}
+
+	soldiers = {
+		culture = north_german
+		religion = placeholder
+		size = 50
+	}
+
+	farmers = {
+		culture = north_german
+		religion = placeholder
+		size = 4610
+	}
+
+	clergymen = {
+		culture = north_italian
+		religion = placeholder
+		size = 575
+	}
+
+	artisans = {
+		culture = north_italian
+		religion = placeholder
+		size = 2800
+	}
+
+	soldiers = {
+		culture = north_italian
+		religion = placeholder
+		size = 550
+	}
+
+	farmers = {
+		culture = north_italian
+		religion = placeholder
+		size = 60075
+	}
+}
+
+735 = {
+	aristocrats = {
+		culture = north_german
+		religion = placeholder
+		size = 250
+	}
+
+	clergymen = {
+		culture = north_german
+		religion = placeholder
+		size = 150
+	}
+
+	artisans = {
+		culture = north_german
+		religion = placeholder
+		size = 1500
+	}
+
+	soldiers = {
+		culture = north_german
+		religion = placeholder
+		size = 150
+	}
+
+	farmers = {
+		culture = north_german
+		religion = placeholder
+		size = 14950
+	}
+
+	clergymen = {
+		culture = north_italian
+		religion = placeholder
+		size = 50
+	}
+
+	artisans = {
+		culture = north_italian
+		religion = placeholder
+		size = 500
+	}
+
+	soldiers = {
+		culture = north_italian
+		religion = placeholder
+		size = 50
+	}
+
+	farmers = {
+		culture = north_italian
+		religion = placeholder
+		size = 5400
+	}
+}
+
+736 = {
+	aristocrats = {
+		culture = north_italian
+		religion = placeholder
+		size = 425
+	}
+
+	bureaucrats = {
+		culture = north_italian
+		religion = placeholder
+		size = 200
+	}
+
+	bureaucrats = {
+		culture = north_german
+		religion = placeholder
+		size = 450
+	}
+
+	officers = {
+		culture = north_italian
+		religion = placeholder
+		size = 100
+	}
+
+	clergymen = {
+		culture = north_italian
+		religion = placeholder
+		size = 175
+	}
+
+	artisans = {
+		culture = north_italian
+		religion = placeholder
+		size = 13500
+	}
+
+	soldiers = {
+		culture = north_italian
+		religion = placeholder
+		size = 175
+	}
+
+	farmers = {
+		culture = north_italian
+		religion = placeholder
+		size = 2375
+	}
+
+	clergymen = {
+		culture = serb
+		religion = placeholder
+		size = 100
+	}
+
+	artisans = {
+		culture = serb
+		religion = placeholder
+		size = 4500
+	}
+
+	soldiers = {
+		culture = serb
+		religion = placeholder
+		size = 100
+	}
+
+	farmers = {
+		culture = serb
+		religion = placeholder
+		size = 6300
+	}
+}
+
+737 = {
+	aristocrats = {
+		culture = north_italian
+		religion = placeholder
+		size = 700
+	}
+
+	clergymen = {
+		culture = north_italian
+		religion = placeholder
+		size = 125
+	}
+
+	artisans = {
+		culture = north_italian
+		religion = placeholder
+		size = 1250
+	}
+
+	soldiers = {
+		culture = north_italian
+		religion = placeholder
+		size = 125
+	}
+
+	farmers = {
+		culture = north_italian
+		religion = placeholder
+		size = 10800
+	}
+
+	clergymen = {
+		culture = serb
+		religion = placeholder
+		size = 300
+	}
+
+	artisans = {
+		culture = serb
+		religion = placeholder
+		size = 1100
+	}
+
+	soldiers = {
+		culture = serb
+		religion = placeholder
+		size = 325
+	}
+
+	farmers = {
+		culture = serb
+		religion = placeholder
+		size = 30375
+	}
+}
+
+738 = {
+	aristocrats = {
+		culture = north_italian
+		religion = placeholder
+		size = 2500
+	}
+
+	bureaucrats = {
+		culture = north_italian
+		religion = placeholder
+		size = 175
+	}
+
+	officers = {
+		culture = north_italian
+		religion = placeholder
+		size = 125
+	}
+
+	clergymen = {
+		culture = north_italian
+		religion = placeholder
+		size = 1200
+	}
+
+	artisans = {
+		culture = north_italian
+		religion = placeholder
+		size = 7500
+	}
+
+	soldiers = {
+		culture = north_italian
+		religion = placeholder
+		size = 2000
+	}
+
+	farmers = {
+		culture = north_italian
+		religion = placeholder
+		size = 104500
+	}
+}
+
+739 = {
+	aristocrats = {
+		culture = north_italian
+		religion = placeholder
+		size = 2650
+	}
+
+	bureaucrats = {
+		culture = north_italian
+		religion = placeholder
+		size = 225
+	}
+
+	officers = {
+		culture = north_italian
+		religion = placeholder
+		size = 150
+	}
+
+	clergymen = {
+		culture = north_italian
+		religion = placeholder
+		size = 1225
+	}
+
+	artisans = {
+		culture = north_italian
+		religion = placeholder
+		size = 6000
+	}
+
+	soldiers = {
+		culture = north_italian
+		religion = placeholder
+		size = 2000
+	}
+
+	farmers = {
+		culture = north_italian
+		religion = placeholder
+		size = 108750
+	}
+}
+
+740 = {
+	aristocrats = {
+		culture = north_italian
+		religion = placeholder
+		size = 900
+	}
+
+	clergymen = {
+		culture = north_italian
+		religion = placeholder
+		size = 400
+	}
+
+	artisans = {
+		culture = north_italian
+		religion = placeholder
+		size = 2000
+	}
+
+	soldiers = {
+		culture = north_italian
+		religion = placeholder
+		size = 1100
+	}
+
+	farmers = {
+		culture = north_italian
+		religion = placeholder
+		size = 36700
+	}
+}
+
+741 = {
+	aristocrats = {
+		culture = north_italian
+		religion = placeholder
+		size = 2175
+	}
+
+	bureaucrats = {
+		culture = north_italian
+		religion = placeholder
+		size = 425
+	}
+
+	officers = {
+		culture = north_italian
+		religion = placeholder
+		size = 200
+	}
+
+	clergymen = {
+		culture = north_italian
+		religion = placeholder
+		size = 1050
+	}
+
+	artisans = {
+		culture = north_italian
+		religion = placeholder
+		size = 17500
+	}
+
+	soldiers = {
+		culture = north_italian
+		religion = placeholder
+		size = 2000
+	}
+
+	farmers = {
+		culture = north_italian
+		religion = placeholder
+		size = 80650
+	}
+}
+
+742 = {
+	aristocrats = {
+		culture = north_italian
+		religion = placeholder
+		size = 950
+	}
+
+	clergymen = {
+		culture = north_italian
+		religion = placeholder
+		size = 425
+	}
+
+	artisans = {
+		culture = north_italian
+		religion = placeholder
+		size = 6500
+	}
+
+	soldiers = {
+		culture = north_italian
+		religion = placeholder
+		size = 450
+	}
+
+	farmers = {
+		culture = north_italian
+		religion = placeholder
+		size = 36575
+	}
+}
+
+743 = {
+	aristocrats = {
+		culture = north_italian
+		religion = placeholder
+		size = 1300
+	}
+
+	clergymen = {
+		culture = north_italian
+		religion = placeholder
+		size = 625
+	}
+
+	artisans = {
+		culture = north_italian
+		religion = placeholder
+		size = 5000
+	}
+
+	soldiers = {
+		culture = north_italian
+		religion = placeholder
+		size = 650
+	}
+
+	farmers = {
+		culture = north_italian
+		religion = placeholder
+		size = 54425
+	}
+}
+
+744 = {
+	aristocrats = {
+		culture = north_italian
+		religion = placeholder
+		size = 3950
+	}
+
+	bureaucrats = {
+		culture = north_italian
+		religion = placeholder
+		size = 925
+	}
+
+	officers = {
+		culture = north_italian
+		religion = placeholder
+		size = 425
+	}
+
+	clergymen = {
+		culture = north_italian
+		religion = placeholder
+		size = 1810
+	}
+
+	artisans = {
+		culture = north_italian
+		religion = placeholder
+		size = 19990
+	}
+
+	soldiers = {
+		culture = north_italian
+		religion = placeholder
+		size = 2000
+	}
+
+	farmers = {
+		culture = north_italian
+		religion = placeholder
+		size = 149900
+	}
+}
+
+745 = {
+	aristocrats = {
+		culture = north_italian
+		religion = placeholder
+		size = 2100
+	}
+
+	clergymen = {
+		culture = north_italian
+		religion = placeholder
+		size = 875
+	}
+
+	artisans = {
+		culture = north_italian
+		religion = placeholder
+		size = 19225
+	}
+
+	soldiers = {
+		culture = north_italian
+		religion = placeholder
+		size = 1100
+	}
+
+	farmers = {
+		culture = north_italian
+		religion = placeholder
+		size = 84600
+	}
+}
+
+747 = {
+	aristocrats = {
+		culture = north_italian
+		religion = placeholder
+		size = 2100
+	}
+
+	clergymen = {
+		culture = north_italian
+		religion = placeholder
+		size = 975
+	}
+
+	artisans = {
+		culture = north_italian
+		religion = placeholder
+		size = 5000
+	}
+
+	soldiers = {
+		culture = north_italian
+		religion = placeholder
+		size = 1100
+	}
+
+	farmers = {
+		culture = north_italian
+		religion = placeholder
+		size = 85925
+	}
+}
+
+748 = {
+	aristocrats = {
+		culture = north_italian
+		religion = placeholder
+		size = 1100
+	}
+
+	clergymen = {
+		culture = north_italian
+		religion = placeholder
+		size = 425
+	}
+
+	artisans = {
+		culture = north_italian
+		religion = placeholder
+		size = 2250
+	}
+
+	soldiers = {
+		culture = north_italian
+		religion = placeholder
+		size = 1100
+	}
+
+	farmers = {
+		culture = north_italian
+		religion = placeholder
+		size = 41225
+	}
+}
+
+746 = {
+	aristocrats = {
+		culture = north_italian
+		religion = placeholder
+		size = 750
+	}
+
+	bureaucrats = {
+		culture = north_italian
+		religion = placeholder
+		size = 70
+	}
+
+	officers = {
+		culture = north_italian
+		religion = placeholder
+		size = 30
+	}
+
+	clergymen = {
+		culture = north_italian
+		religion = placeholder
+		size = 375
+	}
+
+	artisans = {
+		culture = north_italian
+		religion = placeholder
+		size = 15500
+	}
+
+	soldiers = {
+		culture = north_italian
+		religion = placeholder
+		size = 1100
+	}
+
+	farmers = {
+		culture = north_italian
+		religion = placeholder
+		size = 19275
+	}
+}
+
+749 = {
+	aristocrats = {
+		culture = north_italian
+		religion = placeholder
+		size = 6750
+	}
+
+	bureaucrats = {
+		culture = north_italian
+		religion = placeholder
+		size = 725
+	}
+
+	officers = {
+		culture = north_italian
+		religion = placeholder
+		size = 350
+	}
+
+	clergymen = {
+		culture = north_italian
+		religion = placeholder
+		size = 3450
+	}
+
+	artisans = {
+		culture = north_italian
+		religion = placeholder
+		size = 37975
+	}
+
+	soldiers = {
+		culture = north_italian
+		religion = placeholder
+		size = 3000
+	}
+
+	farmers = {
+		culture = north_italian
+		religion = placeholder
+		size = 230750
+	}
+}
+
+750 = {
+	aristocrats = {
+		culture = north_italian
+		religion = placeholder
+		size = 1100
+	}
+
+	clergymen = {
+		culture = north_italian
+		religion = placeholder
+		size = 500
+	}
+
+	artisans = {
+		culture = north_italian
+		religion = placeholder
+		size = 2250
+	}
+
+	soldiers = {
+		culture = north_italian
+		religion = placeholder
+		size = 1100
+	}
+
+	farmers = {
+		culture = north_italian
+		religion = placeholder
+		size = 40150
+	}
+}
+
+751 = {
+	aristocrats = {
+		culture = north_italian
+		religion = placeholder
+		size = 2150
+	}
+
+	bureaucrats = {
+		culture = north_italian
+		religion = placeholder
+		size = 225
+	}
+
+	officers = {
+		culture = north_italian
+		religion = placeholder
+		size = 150
+	}
+
+	clergymen = {
+		culture = north_italian
+		religion = placeholder
+		size = 950
+	}
+
+	artisans = {
+		culture = north_italian
+		religion = placeholder
+		size = 4500
+	}
+
+	soldiers = {
+		culture = north_italian
+		religion = placeholder
+		size = 1100
+	}
+
+	farmers = {
+		culture = north_italian
+		religion = placeholder
+		size = 94750
+	}
+}
+
+752 = {
+	aristocrats = {
+		culture = north_italian
+		religion = placeholder
+		size = 1075
+	}
+
+	clergymen = {
+		culture = north_italian
+		religion = placeholder
+		size = 450
+	}
+
+	artisans = {
+		culture = north_italian
+		religion = placeholder
+		size = 8000
+	}
+
+	soldiers = {
+		culture = north_italian
+		religion = placeholder
+		size = 450
+	}
+
+	farmers = {
+		culture = north_italian
+		religion = placeholder
+		size = 35025
+	}
+}
+
+753 = {
+	aristocrats = {
+		culture = north_italian
+		religion = placeholder
+		size = 3350
+	}
+
+	bureaucrats = {
+		culture = north_italian
+		religion = placeholder
+		size = 175
+	}
+
+	officers = {
+		culture = north_italian
+		religion = placeholder
+		size = 150
+	}
+
+	clergymen = {
+		culture = north_italian
+		religion = placeholder
+		size = 1200
+	}
+
+	artisans = {
+		culture = north_italian
+		religion = placeholder
+		size = 6250
+	}
+
+	soldiers = {
+		culture = north_italian
+		religion = placeholder
+		size = 2000
+	}
+
+	farmers = {
+		culture = north_italian
+		religion = placeholder
+		size = 111875
+	}
+}
+
+754 = {
+	aristocrats = {
+		culture = north_italian
+		religion = placeholder
+		size = 8250
+	}
+
+	bureaucrats = {
+		culture = north_italian
+		religion = placeholder
+		size = 825
+	}
+
+	officers = {
+		culture = north_italian
+		religion = placeholder
+		size = 625
+	}
+
+	clergymen = {
+		culture = north_italian
+		religion = placeholder
+		size = 3375
+	}
+
+	artisans = {
+		culture = north_italian
+		religion = placeholder
+		size = 105000
+	}
+
+	soldiers = {
+		culture = north_italian
+		religion = placeholder
+		size = 5000
+	}
+
+	farmers = {
+		culture = north_italian
+		religion = placeholder
+		size = 202925
+	}
+}
+
+755 = {
+	aristocrats = {
+		culture = north_italian
+		religion = placeholder
+		size = 3600
+	}
+
+	clergymen = {
+		culture = north_italian
+		religion = placeholder
+		size = 1475
+	}
+
+	artisans = {
+		culture = north_italian
+		religion = placeholder
+		size = 7000
+	}
+
+	soldiers = {
+		culture = north_italian
+		religion = placeholder
+		size = 2000
+	}
+
+	farmers = {
+		culture = north_italian
+		religion = placeholder
+		size = 136175
+	}
+}
+
+2567 = {
+	aristocrats = {
+		culture = north_italian
+		religion = placeholder
+		size = 2750
+	}
+
+	clergymen = {
+		culture = north_italian
+		religion = placeholder
+		size = 1100
+	}
+
+	artisans = {
+		culture = north_italian
+		religion = placeholder
+		size = 5250
+	}
+
+	soldiers = {
+		culture = north_italian
+		religion = placeholder
+		size = 1500
+	}
+
+	farmers = {
+		culture = north_italian
+		religion = placeholder
+		size = 98350
+	}
+}
+
+756 = {
+	aristocrats = {
+		culture = north_italian
+		religion = placeholder
+		size = 3500
+	}
+
+	bureaucrats = {
+		culture = north_italian
+		religion = placeholder
+		size = 475
+	}
+
+	officers = {
+		culture = north_italian
+		religion = placeholder
+		size = 375
+	}
+
+	clergymen = {
+		culture = north_italian
+		religion = placeholder
+		size = 1350
+	}
+
+	artisans = {
+		culture = north_italian
+		religion = placeholder
+		size = 7500
+	}
+
+	soldiers = {
+		culture = north_italian
+		religion = placeholder
+		size = 2000
+	}
+
+	farmers = {
+		culture = north_italian
+		religion = placeholder
+		size = 127800
+	}
+}
+
+757 = {
+	aristocrats = {
+		culture = north_italian
+		religion = placeholder
+		size = 3750
+	}
+
+	clergymen = {
+		culture = north_italian
+		religion = placeholder
+		size = 1450
+	}
+
+	artisans = {
+		culture = north_italian
+		religion = placeholder
+		size = 7000
+	}
+
+	soldiers = {
+		culture = north_italian
+		religion = placeholder
+		size = 2000
+	}
+
+	farmers = {
+		culture = north_italian
+		religion = placeholder
+		size = 128800
+	}
+}
+
+758 = {
+	aristocrats = {
+		culture = north_italian
+		religion = placeholder
+		size = 1800
+	}
+
+	clergymen = {
+		culture = north_italian
+		religion = placeholder
+		size = 700
+	}
+
+	artisans = {
+		culture = north_italian
+		religion = placeholder
+		size = 3500
+	}
+
+	soldiers = {
+		culture = north_italian
+		religion = placeholder
+		size = 1100
+	}
+
+	farmers = {
+		culture = north_italian
+		religion = placeholder
+		size = 63000
+	}
+}
+
+759 = {
+	aristocrats = {
+		culture = north_italian
+		religion = placeholder
+		size = 3500
+	}
+
+	bureaucrats = {
+		culture = north_italian
+		religion = placeholder
+		size = 475
+	}
+
+	officers = {
+		culture = north_italian
+		religion = placeholder
+		size = 375
+	}
+
+	clergymen = {
+		culture = north_italian
+		religion = placeholder
+		size = 1450
+	}
+
+	artisans = {
+		culture = north_italian
+		religion = placeholder
+		size = 7500
+	}
+
+	soldiers = {
+		culture = north_italian
+		religion = placeholder
+		size = 2000
+	}
+
+	farmers = {
+		culture = north_italian
+		religion = placeholder
+		size = 127700
+	}
+}
+
+760 = {
+	aristocrats = {
+		culture = north_italian
+		religion = placeholder
+		size = 2200
+	}
+
+	clergymen = {
+		culture = north_italian
+		religion = placeholder
+		size = 875
+	}
+
+	artisans = {
+		culture = north_italian
+		religion = placeholder
+		size = 4250
+	}
+
+	soldiers = {
+		culture = north_italian
+		religion = placeholder
+		size = 1100
+	}
+
+	farmers = {
+		culture = north_italian
+		religion = placeholder
+		size = 79675
+	}
+}
+
+761 = {
+	aristocrats = {
+		culture = north_italian
+		religion = placeholder
+		size = 3750
+	}
+
+	clergymen = {
+		culture = north_italian
+		religion = placeholder
+		size = 1475
+	}
+
+	artisans = {
+		culture = north_italian
+		religion = placeholder
+		size = 6500
+	}
+
+	soldiers = {
+		culture = north_italian
+		religion = placeholder
+		size = 2000
+	}
+
+	farmers = {
+		culture = north_italian
+		religion = placeholder
+		size = 129325
+	}
+}
+
+762 = {
+	aristocrats = {
+		culture = north_italian
+		religion = placeholder
+		size = 5200
+	}
+
+	bureaucrats = {
+		culture = north_italian
+		religion = placeholder
+		size = 825
+	}
+
+	officers = {
+		culture = north_italian
+		religion = placeholder
+		size = 500
+	}
+
+	clergymen = {
+		culture = north_italian
+		religion = placeholder
+		size = 1900
+	}
+
+	artisans = {
+		culture = north_italian
+		religion = placeholder
+		size = 28000
+	}
+
+	soldiers = {
+		culture = north_italian
+		religion = placeholder
+		size = 2000
+	}
+
+	farmers = {
+		culture = north_italian
+		religion = placeholder
+		size = 147575
+	}
+}
+
+763 = {
+	aristocrats = {
+		culture = north_italian
+		religion = placeholder
+		size = 2450
+	}
+
+	clergymen = {
+		culture = north_italian
+		religion = placeholder
+		size = 900
+	}
+
+	artisans = {
+		culture = north_italian
+		religion = placeholder
+		size = 8500
+	}
+
+	soldiers = {
+		culture = north_italian
+		religion = placeholder
+		size = 1100
+	}
+
+	farmers = {
+		culture = north_italian
+		religion = placeholder
+		size = 75150
+	}
+}
+
+764 = {
+	aristocrats = {
+		culture = north_italian
+		religion = placeholder
+		size = 5000
+	}
+
+	clergymen = {
+		culture = north_italian
+		religion = placeholder
+		size = 700
+	}
+
+	artisans = {
+		culture = north_italian
+		religion = placeholder
+		size = 21100
+	}
+
+	soldiers = {
+		culture = north_italian
+		religion = placeholder
+		size = 2000
+	}
+
+	farmers = {
+		culture = north_italian
+		religion = placeholder
+		size = 149000
+	}
+}
+
+765 = {
+	aristocrats = {
+		culture = north_italian
+		religion = placeholder
+		size = 1750
+	}
+
+	bureaucrats = {
+		culture = north_italian
+		religion = placeholder
+		size = 175
+	}
+
+	officers = {
+		culture = north_italian
+		religion = placeholder
+		size = 150
+	}
+
+	clergymen = {
+		culture = north_italian
+		religion = placeholder
+		size = 850
+	}
+
+	artisans = {
+		culture = north_italian
+		religion = placeholder
+		size = 8000
+	}
+
+	soldiers = {
+		culture = north_italian
+		religion = placeholder
+		size = 2000
+	}
+
+	farmers = {
+		culture = north_italian
+		religion = placeholder
+		size = 70895
+	}
+}
+
+766 = {
+	aristocrats = {
+		culture = north_italian
+		religion = placeholder
+		size = 1100
+	}
+
+	clergymen = {
+		culture = north_italian
+		religion = placeholder
+		size = 475
+	}
+
+	artisans = {
+		culture = north_italian
+		religion = placeholder
+		size = 6500
+	}
+
+	soldiers = {
+		culture = north_italian
+		religion = placeholder
+		size = 1100
+	}
+
+	farmers = {
+		culture = north_italian
+		religion = placeholder
+		size = 38025
+	}
+}

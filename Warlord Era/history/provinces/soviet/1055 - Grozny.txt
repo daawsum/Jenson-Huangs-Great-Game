@@ -1,0 +1,6 @@
+owner = XAK
+controller = XAK
+add_core = XAK
+add_core = RUS
+trade_goods = wool
+life_rating = 35

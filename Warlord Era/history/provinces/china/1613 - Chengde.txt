@@ -1,0 +1,12 @@
+owner = RHE
+controller = RHE
+add_core = RHE
+add_core = CHI
+trade_goods = iron
+life_rating = 32
+terrain = plains
+state_building = {
+	level = 1
+	building = fabric_factory
+	upgrade = yes
+}

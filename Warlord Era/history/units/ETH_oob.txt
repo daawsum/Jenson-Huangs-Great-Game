@@ -1,0 +1,38 @@
+leader = {
+   name = "Tewoderos Kasa"
+   type = land
+   date = 1836.1.1
+   background = school_of_offense
+   personality = bold 
+}
+
+army = {
+	name = "Host of Gonder"
+	location = 1852
+	regiment = {
+		name = "1. Host of Gonder"
+		type = irregular
+		home = 1859
+	}
+	regiment = {
+		name = "2. Host of Gonder"
+		type = irregular
+		home = 1855
+	}
+	regiment = {
+		name = "3. Host of Gonder"
+		type = irregular
+		home = 1853
+	}
+	regiment = {
+		name = "4. Host of Gonder"
+		type = irregular
+		home = 1854
+	}
+	regiment = {
+		name = "5. Host of Gonder"
+		type = cavalry
+		home = 1860
+	}
+}
+

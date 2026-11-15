@@ -1,0 +1,10 @@
+army = {
+	name = "Warband of Asuncion"
+	location = 2339
+	regiment = {
+		name = "1. Warband of Asuncion"
+		type = irregular
+		home = 2339
+	}
+}
+

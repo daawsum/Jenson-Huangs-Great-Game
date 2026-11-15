@@ -1,0 +1,105 @@
+2066 = {
+	aristocrats = {
+		culture = zulu
+		religion = placeholder
+		size = 950
+	}
+
+	clergymen = {
+		culture = zulu
+		religion = placeholder
+		size = 525
+	}
+
+	artisans = {
+		culture = zulu
+		religion = placeholder
+		size = 2600
+	}
+
+	soldiers = {
+		culture = zulu
+		religion = placeholder
+		size = 550
+	}
+
+	farmers = {
+		culture = zulu
+		religion = placeholder
+		size = 44350
+	}
+
+	slaves = {
+		culture = zulu
+		religion = placeholder
+		size = 3000
+	}
+}
+
+2067 = {
+	aristocrats = {
+		culture = zulu
+		religion = placeholder
+		size = 350
+	}
+
+	clergymen = {
+		culture = zulu
+		religion = placeholder
+		size = 200
+	}
+
+	artisans = {
+		culture = zulu
+		religion = placeholder
+		size = 950
+	}
+
+	soldiers = {
+		culture = zulu
+		religion = placeholder
+		size = 200
+	}
+
+	farmers = {
+		culture = zulu
+		religion = placeholder
+		size = 17300
+	}
+
+	slaves = {
+		culture = zulu
+		religion = placeholder
+		size = 4000
+	}
+
+	aristocrats = {
+		culture = african_minor
+		religion = placeholder
+		size = 400
+	}
+
+	clergymen = {
+		culture = african_minor
+		religion = placeholder
+		size = 200
+	}
+
+	artisans = {
+		culture = african_minor
+		religion = placeholder
+		size = 850
+	}
+
+	soldiers = {
+		culture = african_minor
+		religion = placeholder
+		size = 225
+	}
+
+	farmers = {
+		culture = african_minor
+		religion = placeholder
+		size = 15125
+	}
+}

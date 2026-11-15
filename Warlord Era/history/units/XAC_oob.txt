@@ -1,0 +1,30 @@
+army = {
+	name = "Army of Asyut"
+	location = 1762
+	regiment = {
+		name = "1. Army of Asyut"
+		type = infantry
+		home = 1762
+	}
+	regiment = {
+		name = "2. Army of Asyut"
+		type = infantry
+		home = 2559
+	}
+	regiment = {
+		name = "3. Army of Asyut"
+		type = infantry
+		home = 1835
+	}
+	regiment = {
+		name = "4. Army of Asyut"
+		type = infantry
+		home = 1768
+	}
+	regiment = {
+		name = "5. Army of Asyut"
+		type = cavalry
+		home = 1767
+	}
+}
+

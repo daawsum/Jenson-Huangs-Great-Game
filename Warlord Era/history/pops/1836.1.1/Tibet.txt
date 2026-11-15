@@ -1,0 +1,421 @@
+1587 = {
+	aristocrats = {
+		culture = tibetan
+		religion = placeholder
+		size = 4150
+	}
+
+	bureaucrats = {
+		culture = tibetan
+		religion = placeholder
+		size = 750
+	}
+
+	officers = {
+		culture = tibetan
+		religion = placeholder
+		size = 950
+	}
+
+	clergymen = {
+		culture = tibetan
+		religion = placeholder
+		size = 2150
+	}
+
+	artisans = {
+		culture = tibetan
+		religion = placeholder
+		size = 10400
+	}
+
+	soldiers = {
+		culture = tibetan
+		religion = placeholder
+		size = 4000
+	}
+
+	farmers = {
+		culture = tibetan
+		religion = placeholder
+		size = 17332
+	}
+
+	clergymen = {
+		culture = bashu
+		religion = placeholder
+		size = 150
+	}
+
+	artisans = {
+		culture = bashu
+		religion = placeholder
+		size = 750
+	}
+
+	soldiers = {
+		culture = bashu
+		religion = placeholder
+		size = 150
+	}
+
+	farmers = {
+		culture = bashu
+		religion = placeholder
+		size = 13950
+	}
+
+	craftsmen = {
+		culture = tibetan
+		religion = placeholder
+		size = 916
+	}
+
+	clerks = {
+		culture = tibetan
+		religion = placeholder
+		size = 162
+	}
+
+	capitalists = {
+		culture = tibetan
+		religion = placeholder
+		size = 150
+	}
+}
+
+1588 = {
+	aristocrats = {
+		culture = tibetan
+		religion = placeholder
+		size = 2750
+	}
+
+	clergymen = {
+		culture = tibetan
+		religion = placeholder
+		size = 1450
+	}
+
+	artisans = {
+		culture = tibetan
+		religion = placeholder
+		size = 7000
+	}
+
+	soldiers = {
+		culture = tibetan
+		religion = placeholder
+		size = 1400
+	}
+
+	farmers = {
+		culture = tibetan
+		religion = placeholder
+		size = 127400
+	}
+
+	clergymen = {
+		culture = bashu
+		religion = placeholder
+		size = 150
+	}
+
+	artisans = {
+		culture = bashu
+		religion = placeholder
+		size = 800
+	}
+
+	soldiers = {
+		culture = bashu
+		religion = placeholder
+		size = 150
+	}
+
+	farmers = {
+		culture = bashu
+		religion = placeholder
+		size = 14900
+	}
+}
+
+1589 = {
+	aristocrats = {
+		culture = tibetan
+		religion = placeholder
+		size = 1600
+	}
+
+	clergymen = {
+		culture = tibetan
+		religion = placeholder
+		size = 875
+	}
+
+	artisans = {
+		culture = tibetan
+		religion = placeholder
+		size = 4000
+	}
+
+	soldiers = {
+		culture = tibetan
+		religion = placeholder
+		size = 800
+	}
+
+	farmers = {
+		culture = tibetan
+		religion = placeholder
+		size = 71145
+	}
+
+	clergymen = {
+		culture = bashu
+		religion = placeholder
+		size = 50
+	}
+
+	artisans = {
+		culture = bashu
+		religion = placeholder
+		size = 150
+	}
+
+	soldiers = {
+		culture = bashu
+		religion = placeholder
+		size = 25
+	}
+
+	farmers = {
+		culture = bashu
+		religion = placeholder
+		size = 1775
+	}
+
+	craftsmen = {
+		culture = tibetan
+		religion = placeholder
+		size = 1343
+	}
+
+	clerks = {
+		culture = tibetan
+		religion = placeholder
+		size = 237
+	}
+}
+
+1590 = {
+	aristocrats = {
+		culture = tibetan
+		religion = placeholder
+		size = 3375
+	}
+
+	clergymen = {
+		culture = tibetan
+		religion = placeholder
+		size = 1750
+	}
+
+	artisans = {
+		culture = tibetan
+		religion = placeholder
+		size = 8600
+	}
+
+	soldiers = {
+		culture = tibetan
+		religion = placeholder
+		size = 1725
+	}
+
+	farmers = {
+		culture = tibetan
+		religion = placeholder
+		size = 153236
+	}
+
+	craftsmen = {
+		culture = tibetan
+		religion = placeholder
+		size = 2816
+	}
+
+	clerks = {
+		culture = tibetan
+		religion = placeholder
+		size = 498
+	}
+}
+
+1591 = {
+	aristocrats = {
+		culture = tibetan
+		religion = placeholder
+		size = 375
+	}
+
+	clergymen = {
+		culture = tibetan
+		religion = placeholder
+		size = 200
+	}
+
+	artisans = {
+		culture = tibetan
+		religion = placeholder
+		size = 950
+	}
+
+	soldiers = {
+		culture = tibetan
+		religion = placeholder
+		size = 175
+	}
+
+	farmers = {
+		culture = tibetan
+		religion = placeholder
+		size = 17300
+	}
+}
+
+1592 = {
+	aristocrats = {
+		culture = tibetan
+		religion = placeholder
+		size = 1500
+	}
+
+	clergymen = {
+		culture = tibetan
+		religion = placeholder
+		size = 775
+	}
+
+	artisans = {
+		culture = tibetan
+		religion = placeholder
+		size = 3800
+	}
+
+	soldiers = {
+		culture = tibetan
+		religion = placeholder
+		size = 750
+	}
+
+	farmers = {
+		culture = tibetan
+		religion = placeholder
+		size = 69175
+	}
+}
+
+1593 = {
+	aristocrats = {
+		culture = tibetan
+		religion = placeholder
+		size = 2625
+	}
+
+	clergymen = {
+		culture = tibetan
+		religion = placeholder
+		size = 1350
+	}
+
+	artisans = {
+		culture = tibetan
+		religion = placeholder
+		size = 6600
+	}
+
+	soldiers = {
+		culture = tibetan
+		religion = placeholder
+		size = 1325
+	}
+
+	farmers = {
+		culture = tibetan
+		religion = placeholder
+		size = 116073
+	}
+
+	aristocrats = {
+		culture = kachin
+		religion = placeholder
+		size = 750
+	}
+
+	clergymen = {
+		culture = kachin
+		religion = placeholder
+		size = 400
+	}
+
+	artisans = {
+		culture = kachin
+		religion = placeholder
+		size = 1950
+	}
+
+	soldiers = {
+		culture = kachin
+		religion = placeholder
+		size = 350
+	}
+
+	farmers = {
+		culture = kachin
+		religion = placeholder
+		size = 35550
+	}
+
+	aristocrats = {
+		culture = bashu
+		religion = placeholder
+		size = 750
+	}
+
+	clergymen = {
+		culture = bashu
+		religion = placeholder
+		size = 375
+	}
+
+	artisans = {
+		culture = bashu
+		religion = placeholder
+		size = 1900
+	}
+
+	soldiers = {
+		culture = bashu
+		religion = placeholder
+		size = 375
+	}
+
+	farmers = {
+		culture = bashu
+		religion = placeholder
+		size = 34600
+	}
+
+	craftsmen = {
+		culture = tibetan
+		religion = placeholder
+		size = 3422
+	}
+
+	clerks = {
+		culture = tibetan
+		religion = placeholder
+		size = 605
+	}
+}

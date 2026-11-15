@@ -1,0 +1,75 @@
+2217 = {
+	aristocrats = {
+		culture = british
+		religion = placeholder
+		size = 25
+	}
+
+	clergymen = {
+		culture = british
+		religion = placeholder
+		size = 25
+	}
+
+	artisans = {
+		culture = british
+		religion = placeholder
+		size = 375
+	}
+
+	soldiers = {
+		culture = british
+		religion = placeholder
+		size = 25
+	}
+
+	farmers = {
+		culture = british
+		religion = placeholder
+		size = 328
+	}
+
+	clergymen = {
+		culture = afro_american
+		religion = placeholder
+		size = 93
+	}
+
+	artisans = {
+		culture = afro_american
+		religion = placeholder
+		size = 300
+	}
+
+	soldiers = {
+		culture = afro_american
+		religion = placeholder
+		size = 165
+	}
+
+	farmers = {
+		culture = afro_american
+		religion = placeholder
+		size = 12656
+	}
+}
+
+2218 = {
+	clergymen = {
+		culture = afro_american
+		religion = placeholder
+		size = 25
+	}
+
+	artisans = {
+		culture = afro_american
+		religion = placeholder
+		size = 25
+	}
+
+	farmers = {
+		culture = afro_american
+		religion = placeholder
+		size = 42
+	}
+}

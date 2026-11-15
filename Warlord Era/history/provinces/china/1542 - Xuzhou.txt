@@ -1,0 +1,13 @@
+owner = XZC
+controller = XZC
+add_core = XZC
+add_core = CHI
+trade_goods = silk
+life_rating = 32
+terrain = woods
+state_building = {
+	level = 1
+	building = fabric_factory
+	upgrade = yes
+}
+naval_base = 1

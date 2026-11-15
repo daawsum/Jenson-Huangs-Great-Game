@@ -1,0 +1,17 @@
+owner = FUJ
+controller = FUJ
+add_core = FUJ
+add_core = CHI
+trade_goods = tea
+life_rating = 32
+terrain = hills
+state_building = {
+	level = 1
+	building = liquor_distillery
+	upgrade = yes
+}
+state_building = {
+	level = 1
+	building = canned_food_factory
+	upgrade = yes
+}

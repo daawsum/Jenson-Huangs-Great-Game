@@ -1,0 +1,10 @@
+army = {
+	name = "Host of Trivandrum"
+	location = 1319
+	regiment = {
+		name = "1. Host of Trivandrum"
+		type = irregular
+		home = 1319
+	}
+}
+

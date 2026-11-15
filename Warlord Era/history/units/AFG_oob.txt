@@ -1,0 +1,36 @@
+leader = {
+	name = "Dost Mohammed"
+	type = land
+	date = 1836.1.1
+	personality = stalwart
+	background = debutante
+}
+
+leader = {
+	name = "Yar Mohammed"
+	type = land
+	date = 1836.1.1
+	personality = intuitive 
+	background = aristocrat
+}
+
+army = {
+	name = "Host of Kabul"
+	location = 1209
+	regiment = {
+		name = "1. Host of Kabul"
+		type = irregular
+		home = 1209
+	}
+	regiment = {
+		name = "2. Host of Kabul"
+		type = irregular
+		home = 1219
+	}
+	regiment = {
+		name = "3. Host of Kabul"
+		type = irregular
+		home = 1220
+	}
+}
+

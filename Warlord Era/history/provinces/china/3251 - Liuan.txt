@@ -1,0 +1,7 @@
+owner = AHC
+controller = AHC
+add_core = AHC
+add_core = CHI
+trade_goods = tea
+life_rating = 32
+terrain = plains

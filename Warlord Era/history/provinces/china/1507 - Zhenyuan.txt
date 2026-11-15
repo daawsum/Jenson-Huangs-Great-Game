@@ -1,0 +1,17 @@
+owner = GZH
+controller = GZH
+add_core = GZH
+add_core = CHI
+trade_goods = tea
+life_rating = 32
+terrain = hills
+state_building = {
+	level = 1
+	building = fabric_factory
+	upgrade = yes
+}
+state_building = {
+	level = 1
+	building = steel_factory
+	upgrade = yes
+}

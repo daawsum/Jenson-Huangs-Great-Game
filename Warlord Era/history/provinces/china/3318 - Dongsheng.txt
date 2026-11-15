@@ -1,0 +1,7 @@
+owner = SYN
+controller = SYN
+add_core = SYN
+add_core = CHI
+trade_goods = timber
+life_rating = 32
+terrain = plains

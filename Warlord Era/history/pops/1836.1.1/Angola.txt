@@ -1,0 +1,589 @@
+1999 = {
+	aristocrats = {
+		culture = spanish
+		religion = placeholder
+		size = 25
+	}
+
+	clergymen = {
+		culture = spanish
+		religion = placeholder
+		size = 25
+	}
+
+	artisans = {
+		culture = spanish
+		religion = placeholder
+		size = 75
+	}
+
+	soldiers = {
+		culture = spanish
+		religion = placeholder
+		size = 25
+	}
+
+	aristocrats = {
+		culture = african_minor
+		religion = placeholder
+		size = 37
+	}
+
+	clergymen = {
+		culture = african_minor
+		religion = placeholder
+		size = 52
+	}
+
+	artisans = {
+		culture = african_minor
+		religion = placeholder
+		size = 540
+	}
+
+	soldiers = {
+		culture = african_minor
+		religion = placeholder
+		size = 67
+	}
+
+	farmers = {
+		culture = african_minor
+		religion = placeholder
+		size = 3652
+	}
+
+	slaves = {
+		culture = african_minor
+		religion = placeholder
+		size = 1500
+	}
+}
+
+2001 = {
+	aristocrats = {
+		culture = african_minor
+		religion = placeholder
+		size = 75
+	}
+
+	clergymen = {
+		culture = african_minor
+		religion = placeholder
+		size = 52
+	}
+
+	artisans = {
+		culture = african_minor
+		religion = placeholder
+		size = 330
+	}
+
+	soldiers = {
+		culture = african_minor
+		religion = placeholder
+		size = 75
+	}
+
+	farmers = {
+		culture = african_minor
+		religion = placeholder
+		size = 5107
+	}
+
+	slaves = {
+		culture = african_minor
+		religion = placeholder
+		size = 1125
+	}
+}
+
+2002 = {
+	aristocrats = {
+		culture = african_minor
+		religion = placeholder
+		size = 300
+	}
+
+	clergymen = {
+		culture = african_minor
+		religion = placeholder
+		size = 250
+	}
+
+	artisans = {
+		culture = african_minor
+		religion = placeholder
+		size = 1200
+	}
+
+	soldiers = {
+		culture = african_minor
+		religion = placeholder
+		size = 300
+	}
+
+	farmers = {
+		culture = african_minor
+		religion = placeholder
+		size = 21950
+	}
+
+	slaves = {
+		culture = african_minor
+		religion = placeholder
+		size = 6000
+	}
+}
+
+2000 = {
+	aristocrats = {
+		culture = african_minor
+		religion = placeholder
+		size = 550
+	}
+
+	clergymen = {
+		culture = african_minor
+		religion = placeholder
+		size = 300
+	}
+
+	artisans = {
+		culture = african_minor
+		religion = placeholder
+		size = 1250
+	}
+
+	soldiers = {
+		culture = african_minor
+		religion = placeholder
+		size = 300
+	}
+
+	farmers = {
+		culture = african_minor
+		religion = placeholder
+		size = 21600
+	}
+
+	slaves = {
+		culture = african_minor
+		religion = placeholder
+		size = 5000
+	}
+}
+
+2003 = {
+	aristocrats = {
+		culture = zulu
+		religion = placeholder
+		size = 45
+	}
+
+	clergymen = {
+		culture = zulu
+		religion = placeholder
+		size = 45
+	}
+
+	artisans = {
+		culture = zulu
+		religion = placeholder
+		size = 225
+	}
+
+	soldiers = {
+		culture = zulu
+		religion = placeholder
+		size = 45
+	}
+
+	farmers = {
+		culture = zulu
+		religion = placeholder
+		size = 3120
+	}
+
+	slaves = {
+		culture = zulu
+		religion = placeholder
+		size = 870
+	}
+}
+
+2004 = {
+	aristocrats = {
+		culture = african_minor
+		religion = placeholder
+		size = 45
+	}
+
+	clergymen = {
+		culture = african_minor
+		religion = placeholder
+		size = 90
+	}
+
+	artisans = {
+		culture = african_minor
+		religion = placeholder
+		size = 112
+	}
+
+	soldiers = {
+		culture = african_minor
+		religion = placeholder
+		size = 45
+	}
+
+	farmers = {
+		culture = african_minor
+		religion = placeholder
+		size = 3187
+	}
+
+	slaves = {
+		culture = african_minor
+		religion = placeholder
+		size = 870
+	}
+}
+
+2005 = {
+	aristocrats = {
+		culture = zulu
+		religion = placeholder
+		size = 600
+	}
+
+	clergymen = {
+		culture = zulu
+		religion = placeholder
+		size = 550
+	}
+
+	artisans = {
+		culture = zulu
+		religion = placeholder
+		size = 2600
+	}
+
+	soldiers = {
+		culture = zulu
+		religion = placeholder
+		size = 600
+	}
+
+	farmers = {
+		culture = zulu
+		religion = placeholder
+		size = 36650
+	}
+
+	slaves = {
+		culture = zulu
+		religion = placeholder
+		size = 11000
+	}
+}
+
+2006 = {
+	aristocrats = {
+		culture = zulu
+		religion = placeholder
+		size = 350
+	}
+
+	clergymen = {
+		culture = zulu
+		religion = placeholder
+		size = 350
+	}
+
+	artisans = {
+		culture = zulu
+		religion = placeholder
+		size = 1800
+	}
+
+	soldiers = {
+		culture = zulu
+		religion = placeholder
+		size = 400
+	}
+
+	farmers = {
+		culture = zulu
+		religion = placeholder
+		size = 26700
+	}
+
+	slaves = {
+		culture = zulu
+		religion = placeholder
+		size = 7500
+	}
+}
+
+2007 = {
+	aristocrats = {
+		culture = african_minor
+		religion = placeholder
+		size = 225
+	}
+
+	clergymen = {
+		culture = african_minor
+		religion = placeholder
+		size = 250
+	}
+
+	artisans = {
+		culture = african_minor
+		religion = placeholder
+		size = 875
+	}
+
+	soldiers = {
+		culture = african_minor
+		religion = placeholder
+		size = 250
+	}
+
+	farmers = {
+		culture = african_minor
+		religion = placeholder
+		size = 13850
+	}
+
+	slaves = {
+		culture = african_minor
+		religion = placeholder
+		size = 4550
+	}
+}
+
+2008 = {
+	aristocrats = {
+		culture = zulu
+		religion = placeholder
+		size = 30
+	}
+
+	clergymen = {
+		culture = zulu
+		religion = placeholder
+		size = 60
+	}
+
+	artisans = {
+		culture = zulu
+		religion = placeholder
+		size = 75
+	}
+
+	soldiers = {
+		culture = zulu
+		religion = placeholder
+		size = 30
+	}
+
+	farmers = {
+		culture = zulu
+		religion = placeholder
+		size = 2205
+	}
+
+	slaves = {
+		culture = zulu
+		religion = placeholder
+		size = 600
+	}
+
+	aristocrats = {
+		culture = african_minor
+		religion = placeholder
+		size = 50
+	}
+
+	clergymen = {
+		culture = african_minor
+		religion = placeholder
+		size = 75
+	}
+
+	artisans = {
+		culture = african_minor
+		religion = placeholder
+		size = 300
+	}
+
+	soldiers = {
+		culture = african_minor
+		religion = placeholder
+		size = 75
+	}
+
+	farmers = {
+		culture = african_minor
+		religion = placeholder
+		size = 4275
+	}
+
+	slaves = {
+		culture = african_minor
+		religion = placeholder
+		size = 1250
+	}
+}
+
+2009 = {
+	aristocrats = {
+		culture = african_minor
+		religion = placeholder
+		size = 100
+	}
+
+	clergymen = {
+		culture = african_minor
+		religion = placeholder
+		size = 100
+	}
+
+	artisans = {
+		culture = african_minor
+		religion = placeholder
+		size = 350
+	}
+
+	soldiers = {
+		culture = african_minor
+		religion = placeholder
+		size = 100
+	}
+
+	farmers = {
+		culture = african_minor
+		religion = placeholder
+		size = 5750
+	}
+
+	slaves = {
+		culture = african_minor
+		religion = placeholder
+		size = 1600
+	}
+
+	aristocrats = {
+		culture = zulu
+		religion = placeholder
+		size = 30
+	}
+
+	clergymen = {
+		culture = zulu
+		religion = placeholder
+		size = 60
+	}
+
+	artisans = {
+		culture = zulu
+		religion = placeholder
+		size = 75
+	}
+
+	soldiers = {
+		culture = zulu
+		religion = placeholder
+		size = 60
+	}
+
+	farmers = {
+		culture = zulu
+		religion = placeholder
+		size = 2175
+	}
+
+	slaves = {
+		culture = zulu
+		religion = placeholder
+		size = 600
+	}
+}
+
+2010 = {
+	aristocrats = {
+		culture = african_minor
+		religion = placeholder
+		size = 300
+	}
+
+	clergymen = {
+		culture = african_minor
+		religion = placeholder
+		size = 300
+	}
+
+	artisans = {
+		culture = african_minor
+		religion = placeholder
+		size = 1450
+	}
+
+	soldiers = {
+		culture = african_minor
+		religion = placeholder
+		size = 300
+	}
+
+	farmers = {
+		culture = african_minor
+		religion = placeholder
+		size = 16850
+	}
+
+	slaves = {
+		culture = african_minor
+		religion = placeholder
+		size = 8800
+	}
+}
+
+2011 = {
+	aristocrats = {
+		culture = african_minor
+		religion = placeholder
+		size = 200
+	}
+
+	clergymen = {
+		culture = african_minor
+		religion = placeholder
+		size = 175
+	}
+
+	artisans = {
+		culture = african_minor
+		religion = placeholder
+		size = 1000
+	}
+
+	soldiers = {
+		culture = african_minor
+		religion = placeholder
+		size = 200
+	}
+
+	farmers = {
+		culture = african_minor
+		religion = placeholder
+		size = 11725
+	}
+
+	slaves = {
+		culture = african_minor
+		religion = placeholder
+		size = 5800
+	}
+}

@@ -1,0 +1,16 @@
+owner = XIN
+controller = XIN
+add_core = XIN
+add_core = CHI
+trade_goods = cotton
+life_rating = 32
+state_building = {
+	level = 1
+	building = winery
+	upgrade = yes
+}
+state_building = {
+	level = 1
+	building = furniture_factory
+	upgrade = yes
+}

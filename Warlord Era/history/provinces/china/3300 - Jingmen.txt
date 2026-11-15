@@ -1,0 +1,7 @@
+owner = HBE
+controller = HBE
+add_core = HBE
+add_core = CHI
+trade_goods = tea
+life_rating = 32
+terrain = farmlands
